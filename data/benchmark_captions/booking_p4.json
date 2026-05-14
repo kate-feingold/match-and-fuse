@@ -1,0 +1,17 @@
+{
+    "src": "An elegant bedroom with a double bed with red and white pillows, red and gold curtains. A purple sofa has red cushions. An ornate chandelier hangs from the ceiling. A small table and chair sit beside the bed.",
+    "edit": "An elegant loft bedroom with a luxurious double bed, pillows in gray and white, minimalist gray curtains, large factory windows, leather sofa with monochrome cushions, exposed bulb pendant light, rustic brick walls, soft rug, and metal table and chair beside the bed.",
+    "per_image_non_shared_src": {
+        "554397294": "a bed is center right with pillows, large windows with gold curtains behind, a purple sofa with red cushions on the left, an ornate chandelier on the ceiling, a painting above a round table and chair, a pink rug on the floor",
+        "554397309": "The view shows a bed centered against the wall, with ornate lamps on either side, windows with gold curtains on the left, a sofa with red cushions, a chandelier hanging, a wooden table and chair adjacent, and framed art on the wall.",
+        "554397316": "bed at an angle with purple headboard and red accents, windows with gold curtains to the left, a chandelier on ceiling, modern round table with chairs beside bed, doorway in rear, pink rug underfoot."
+    },
+    "per_image_non_shared_edit": {
+        "554397294": "A bed against a brick wall with industrial lamps on either side, large windows on the left with linen curtains, a sofa with neutral cushions, an iron chandelier overhead, a sleek wooden table and chair, and contemporary art prints on the brick wall.",
+        "554397309": "A bed against a brick wall with industrial lamps on either side. Large windows with linen curtains and a sofa with neutral cushions on the left. An iron chandelier above, a wooden table and chair next to it, and art prints on the red brick wall.",
+        "554397316": "The bed is against the brick wall with industrial lamps on either side, large windows with linen curtains on the left, a sofa with cushions, minimalist iron chandelier overhead, wooden table and chair adjacent, and art prints on the brick wall."
+    },
+    "prompt_shared": "Loft room",
+    "prompt_theme": "loft",
+    "object_token": "apartment"
+}

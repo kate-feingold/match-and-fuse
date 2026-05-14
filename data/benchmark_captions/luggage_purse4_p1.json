@@ -1,0 +1,23 @@
+{
+    "src": "A dual-toned leather bag with dark brown and tan sections, featuring multiple zippered compartments and a long strap. The texture is smooth, with metallic zippers and a small metal brand plate on the front.",
+    "edit": "A dog-themed bag with playful graphics and patterns in contrasting tones. Features include floppy ear accents on the zippers, a painted dog face design, and a long strap. Texture resembles fabric.",
+    "per_image_non_shared_src": {
+        "0": "The object lies at an angle on a soft gray fabric, showing the front and top zippered compartments. The strap is loosely coiled, blending with the textured, plush background.",
+        "1": "The object hangs against a plain white textured wall, showing the front zippered compartments and the strap extending upward. The neutral background highlights the bag's color and shape.",
+        "2": "The object rests on a textured black surface, displaying the front zippered compartments. The strap drapes around it, creating a contrast with the sleek, dark background.",
+        "3": "The object hangs near a rain-streaked window, partially obscuring a view of brick buildings and parked cars outside. The rainy context highlights the object against the translucent backdrop.",
+        "4": "The object hangs from a chair, with light brown carpeted floor and wooden furniture in the background. The setting suggests an indoor environment with simple furnishings.",
+        "5": "The object rests on a wooden desk, surrounded by stationery items like a pen, cord, and other personal objects. The organized layout emphasizes a workspace setting with contrasting textures."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object lies at an angle on a soft gray fabric, presenting the dog-themed design with ear accents. The plush background echoes an autumn palette with warm tones and texture.",
+        "1": "The object hangs against a white textured wall, showing the dog-themed graphics and playful dog face on the compartments. The wall hints at autumn through soft, warm color tinting.",
+        "2": "The object rests on a textured black surface, displaying the dog-themed patterns and playful designs. The surface is enriched with autumn-inspired matte and dark textures.",
+        "3": "The object hangs near a rain-streaked window, showcasing dog-themed features against a view of brick buildings amid autumn foliage with muted colors and rain speckles enhancing the seasonal theme.",
+        "4": "The object hangs from a chair, featuring playful dog-themed accents and patterns. The background of wooden furniture and carpet subtly reflects autumn with warm shades.",
+        "5": "The object rests on a wooden desk showcasing dog accents amid stationery items. The setting displays an autumn look with warm wood tones and seasonal items blending with the workspace."
+    },
+    "prompt_shared": "two-colored dog-themed bag",
+    "prompt_theme": "autumn",
+    "object_token": "object"
+}

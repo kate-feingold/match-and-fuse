@@ -1,0 +1,9 @@
+{
+    "src": "A man preparing a cocktail in a home kitchen in hyper-realistic style, with various bottles and an autumn view.",
+    "edit": "A man preparing a cocktail in a kitchen with bottles glowing in inter-galactic hues, a view of nebulae and galaxies, bathed in soft cosmic rays with starlit reflections on surfaces.",
+    "per_image_non_shared_src": null,
+    "per_image_non_shared_edit": null,
+    "prompt_shared": "inter-galactic kitchen scene",
+    "prompt_theme": "inter-galactic",
+    "object_token": "kitchen"
+}

@@ -1,0 +1,27 @@
+{
+    "src": "Small succulent plant with fleshy, elongated pink and green leaves in a black, faceted pot containing natural pebbles. Leaves are smooth with a glossy texture and slightly curled edges.",
+    "edit": "Large, blooming flower with layered petals in vibrant pink and green hues, housed in a black faceted pot. The flower is striking with a central vivid bloom amidst lush foliage.",
+    "per_image_non_shared_src": {
+        "0": "The object is upright in a black pot on a gray concrete floor. Dried pine needles surround the pot, creating a natural ambiance. The scene is outdoors with diffused light.",
+        "1": "The object is centered in a black pot, placed on a green metal lotus-shaped ornament. Background features a smooth, off-white wall enhancing the decorative setting.",
+        "2": "The object sits in a black pot on a blue-gray ledge with an outdoor view of green trees, blurred parking lines, and distant foliage under a clear sky.",
+        "3": "The object is positioned in a black pot on a blue-gray ledge. The background displays an outdoor scene with greenery, a parking area, and trees softly out of focus.",
+        "4": "The object stands in a black pot on a windowsill, basking in natural light. The background outside the window is a blend of green foliage and distant buildings.",
+        "5": "The object rests in a black pot on a table beside a mesh window. Daylight filters through with vertical balcony railings partly visible in the scene.",
+        "6": "The object is in a black pot placed on a dark marble surface with contrasting light and dark patches. The setting is indoors with a smooth, polished texture evident.",
+        "7": "The object is standing in a black pot on a dark wooden table with subtle light, creating a cozy indoor atmosphere without distinct background elements."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is upright in a black pot on a gray concrete floor. Pine needles are lush and green, evoking a spring atmosphere with budding plants around it.",
+        "1": "The object is centered in a black pot, placed on a green metal lotus-shaped ornament. The background features spring decor elements with pastel and vibrant hues.",
+        "2": "The object sits in a black pot on a blue-gray ledge. The outdoor view is filled with blossoming trees and vibrant flowers typical of a spring setting.",
+        "3": "The object is positioned in a black pot on a blue-gray ledge. The view shows trees with budding leaves and colorful blossoms, transforming the scene into springtime.",
+        "4": "The object stands in a black pot on a windowsill. Outside, the scenery is alive with blooming flowers and vibrant spring greenery.",
+        "5": "The object rests in a black pot on a table beside a mesh window. The background shows budding trees and fresh greenery, embodying the essence of spring.",
+        "6": "The object is in a black pot placed on a dark marble surface. Spring transformation is apparent with floral motifs and bright, fresh elements in the scene.",
+        "7": "The object is standing in a black pot on a dark wooden table. The background features the soft, cheerful lighting and blossom hues indicative of spring."
+    },
+    "prompt_shared": "a big blooming flower in a pot",
+    "prompt_theme": "spring",
+    "object_token": "plant"
+}

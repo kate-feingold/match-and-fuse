@@ -1,0 +1,9 @@
+{
+    "src": "A man preparing a cocktail in a home kitchen in hyper-realistic style, with various bottles and an autumn view.",
+    "edit": "A man crafting a cocktail in a home kitchen with cyberpunk aesthetics. Neon-lit bottles and a holographic cityscape view. The man wears techno-style attire with metallic accents and gadgets. A digital interface displays cocktail recipes in augmented reality.",
+    "per_image_non_shared_src": null,
+    "per_image_non_shared_edit": null,
+    "prompt_shared": "cyberpunk kitchen scene",
+    "prompt_theme": "cyberpunk",
+    "object_token": "kitchen"
+}

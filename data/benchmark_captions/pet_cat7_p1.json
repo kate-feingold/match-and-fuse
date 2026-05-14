@@ -1,0 +1,31 @@
+{
+    "src": "A domestic short-haired cat with ginger and white fur, vibrant orange tabby markings on the back and tail, and white patches on face, chest, and legs. It has green eyes, upright ears, and a pink nose.",
+    "edit": "A blocky Minecraft figure resembling a cat, in ginger and white. It has square green eyes, a rectangular nose, square ears, and a cube-segmented tail. The body consists of rectangular prisms with pixelated texture.",
+    "per_image_non_shared_src": {
+        "0": "The animal is crouched on a textured gray blanket on a light sofa, with plants and a dark pot behind.",
+        "1": "The animal sits on a soft beige carpet in a well-lit room, body turned to the side, showing a striped tail and a reflective collar.",
+        "2": "The animal is sprawled relaxed on a textured brown couch, with one paw extended. A room divider and door frame are in the background.",
+        "3": "Animal stepping on a gray blanket with head angled downwards on a cushioned sofa, with leafy plants in the background.",
+        "4": "The animal sits centrally on a beige carpet, staring directly at the viewer with a tilted head, casting a shadow behind.",
+        "5": "The animal is lying fully outstretched on a fluffy white rug next to a cardboard box in a softly lit living space.",
+        "6": "The animal walks along a wet wooden deck outside, surrounded by a dark wooden railing and dried leaves, suggesting a garden or backyard.",
+        "7": "The animal lies on a shaggy white blanket, head turned towards the camera, in a softly lit interior, with a cardboard box partly visible at the edge.",
+        "8": "A large animal is in a cushioned pet bed on a light hardwood floor, next to a large stuffed dog toy.",
+        "9": "The animal is sprawled on a brown textured couch in a casual pose, facing sideways with its head lowered, in a living room with visible corner angles."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The animal is crouched and alert on a textured gray blanket over a light-colored sofa. Behind, plants resemble bare branches with frost, and a dark pot appears as a sheet of ice, creating a winter living room setting.",
+        "1": "The animal sits in a snow-dusted room with winter lighting. Beneath it is a plush, frost-like carpet. The body is turned to the side, highlighting a striped tail. Around its neck is a reflective collar like ice.",
+        "2": "The animal is sprawled on a textured, snow-white couch, with one paw extended. A room divider resembles ice-frosted glass, and the door frame has an icy blue tint in a winter-themed ambiance.",
+        "3": "The animal steps on a snow-like white blanket with its head down, on a frosted sofa. Leafy plants with snowflakes in the background add a winter touch, with icicles catching the light.",
+        "4": "The animal is seated centrally on a snow-white carpet, gazing at the viewer with head slightly inclined. Winter afternoon light casts a shadow behind. Frosty wallpaper patterns and a window with snow-covered landscapes enhance the winter atmosphere.",
+        "5": "The animal lies fully outstretched on a plush white rug against a winter backdrop. Next to it is a cardboard box with a hint of frost. The softly lit scene includes icicles reflecting light, resembling a winter wonderland.",
+        "6": "The animal trudges carefully along a frost-covered wooden deck, bordered by a dark wooden railing with ice, dried leaves scattered around with frost, indicating a winter garden or backyard setting.",
+        "7": "The animal is against a white blanket, head turning towards the camera, in a softly lit interior. A cardboard box peeks from the edge, with a cool hue enhancing the winter style.",
+        "8": "An animal is in a plush pet bed with a snowflake fleece blanket on a light hardwood floor. Beside is a large stuffed dog toy with a winter scarf, dusted with faux snow.",
+        "9": "The animal rests sprawled on a snow-dusted white couch, facing sideways with its head lowered. Snowflakes drift past the corner angles, creating a winter wonderland inside a living room."
+    },
+    "prompt_shared": "blocky minecraft figure",
+    "prompt_theme": "winter",
+    "object_token": "animal"
+}

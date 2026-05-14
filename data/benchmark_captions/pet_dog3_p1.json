@@ -1,0 +1,21 @@
+{
+    "src": "A fluffy black dog with curly fur and a red sweater featuring a white design. The dog's coat is dense and its ears are long and wavy, adding to its soft appearance.",
+    "edit": "A spotted dalmatian dog with a sleek, glossy coat covered in distinct black spots. Its ears are floppy, and the fur is short and smooth, typical of a dalmatian.",
+    "per_image_non_shared_src": {
+        "0": "The object is lying on a blue couch, resting its head on a gray fuzzy pillow. A person's leg is visible to the left, and a wall occupies the background.",
+        "1": "The object is standing on a dirt path with scattered small leaves and sticks. A collar is visible as it holds a stick in its mouth, facing left.",
+        "2": "The object is sitting on a light wooden floor near a white door, partially visible on a pink rug. Its back is turned, and the room appears to be dimly lit.",
+        "3": "The object is lying on a multicolored carpet, positioned next to a blue couch and patterned chair. Wooden furniture surrounds the area with a window in the far corner.",
+        "4": "The object is lying on a sunlit, multicolored brick patio. A shadow falls across its body, and part of a vehicle tire is visible on the left."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is lying on a blue couch, resting its head on a gray fuzzy pillow. Snowflakes decorate the couch, a person's leg is visible to the left, and a snow-covered wall occupies the winter background.",
+        "1": "The object is standing on a snow-dusted path with scattered snowflakes and sticks. A collar is visible as it holds a stick in its mouth, facing left. The scene reflects a wintry landscape.",
+        "2": "The object is sitting on a light wooden floor near a white door, partially visible on a pink rug. Its back is turned, the room appears cold and dimly lit, evocative of a winter setting.",
+        "3": "The object is lying on a carpet with a frosty texture, positioned next to a blue couch and a snow-patterned chair. Wooden furniture and a frosty window in the far corner complete the winter look.",
+        "4": "The object is lying on a snow-dappled, icy brick patio, with cool sunlight casting shadows. Part of a vehicle tire is visible on the left, all contributing to a wintry scene."
+    },
+    "prompt_shared": "a dalmatian  dog",
+    "prompt_theme": "winter",
+    "object_token": "animal"
+}

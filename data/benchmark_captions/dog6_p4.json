@@ -1,0 +1,21 @@
+{
+    "src": "A corgi puppy with large, pointed ears and a soft, fluffy coat. It has tan fur with white chest and paws, bright eyes, a small black nose, and slightly open mouth.",
+    "edit": "A two-colored marble statue of a small animal, crafted with marble veining in white and tan, pointed ears, and polished surface. Eyes are delicately carved, creating a striking contrast and lifelike appearance.",
+    "per_image_non_shared_src": {
+        "00": "A puppy on the left side with its tongue out, against a bright orange background, and a green plant leaf partially visible on the right edge.",
+        "01": "The puppy sits centered in front of an orange backdrop, looking straight ahead, with its ears perked and body symmetrical.",
+        "02": "The puppy is seated, slightly turned to the side, in front of a solid orange background, with its head tilted and looking to the left, ears standing.",
+        "03": "A puppy sits to the left, sticking out its tongue, against a bright orange backdrop.",
+        "04": "The puppy is against a vivid yellow background, seated upright with ears alert, looking directly forward."
+    },
+    "per_image_non_shared_edit": {
+        "00": "A puppy is on the left side, with its tongue out, against a dim background of midnight blue and charcoal. A large plant leaf is on the right edge, with green hues subdued by moonlight.",
+        "01": "A puppy is centered against a deep indigo backdrop, with eyes and ears catching a subtle moonlit glow. Its silhouette casts a soft shadow against the backdrop, creating a serene night contrast.",
+        "02": "The puppy sits slightly turned to the side against a navy blue background, its head tilted, looking to the left. The moonlight highlights its silhouette, with shadows on its fur and perked ears catching the starlight.",
+        "03": "A puppy on the left, tongue out, illuminated by moonlight against a deep night sky. The orange backdrop transforms into a shadowy canvas, highlighting the serene ambiance, as the puppy stands out in the darkness.",
+        "04": "The puppy is seated upright against a deep indigo background with alert ears, casting a soft shadow. Its fur shimmers under dim moonlight, looking directly forward, complementing the tranquil night setting."
+    },
+    "prompt_shared": "two-colored marble statue",
+    "prompt_theme": "night",
+    "object_token": "animal"
+}

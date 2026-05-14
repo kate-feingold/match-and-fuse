@@ -1,0 +1,29 @@
+{
+    "src": "A plush cow with black patches, small horns, and a big white snout, wearing a blue UC Davis shirt. The fur is soft, and its ears stick out prominently. It has a cheerful, simplistic facial expression.",
+    "edit": "A lego figure with alternating blue and white blocks, small protruding horns made of white lego bricks, and a large, smooth snout-like structure. The figure wears an integrated blue lego vest emblazoned with a white logo.",
+    "per_image_non_shared_src": {
+        "0": "The object is upright in a wooden drawer, surrounded by folded clothes and accessories. A fuzzy white towel is partially visible along with a bright orange item.",
+        "1": "The object is standing against a kitchen appliance, surrounded by metal spoons and resting on a capped container. A turquoise towel covers the nearby surface.",
+        "2": "The object is positioned upright against a patterned red and white rug, clearly standing out against the contrasting textile design.",
+        "3": "The object is emerging from a teal backpack, situated on the floor beside wooden furniture. The carpet underneath has a red and white pattern.",
+        "4": "The object is lying on a textured, pebbled floor beside a pink container. A peach-colored strap from a nearby bag drapes across the surface.",
+        "5": "The object is positioned sideways on a folded teal towel, with a black kitchen appliance behind and a soft light illuminating the area.",
+        "6": "The object is peeking out from an oak drawer, surrounded by neatly folded white shirts and contrasting wood textures.",
+        "7": "The object is placed against a metallic fridge door, illuminated by vivid, rainbow-colored light reflections on its surface.",
+        "8": "The object is nestled in fluffy blankets with pink, cream, and grey tones, conveying a cozy and soft ambiance."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is upright in a lego drawer, surrounded by folded lego blocks and accessories. A fuzzy lego towel is partially visible along with a bright orange lego item, showing a lego world transformation.",
+        "1": "The object is standing against a lego appliance, surrounded by metallic lego spoons and resting on a capped lego container. A turquoise lego towel covers the nearby surface, depicting a lego world.",
+        "2": "The object is positioned upright against a lego-patterned red and white rug, clearly standing out against the contrasting textile design in a lego world.",
+        "3": "The object is emerging from a teal lego backpack, situated on a lego floor beside lego furniture. The carpet underneath has a red and white lego pattern, showcasing a lego world style.",
+        "4": "The object is lying on a textured lego floor beside a pink lego container. A peach-colored strap from a nearby lego bag drapes across the surface, representing a lego world.",
+        "5": "The object is positioned sideways on a folded teal lego towel, with a black lego appliance behind and a soft lego light illuminating the area, fitting the lego world theme.",
+        "6": "The object is peeking out from an oak lego drawer, surrounded by neatly folded white lego shirts and contrasting lego wood textures, presenting a lego world.",
+        "7": "The object is placed against a metallic lego fridge door, illuminated by vivid, rainbow-colored lego light reflections on its surface, embodying a lego world.",
+        "8": "The object is nestled in fluffy lego blankets with pink, cream, and grey tones, conveying a cozy and soft ambiance in a lego world."
+    },
+    "prompt_shared": "a two-colored lego figure",
+    "prompt_theme": "lego world",
+    "object_token": "plushie"
+}

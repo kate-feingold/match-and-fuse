@@ -1,0 +1,31 @@
+{
+    "src": "Octagonal glasses with thin rose-gold frames and lightly tinted pink lenses. The temples are gold, and the nose pads are clear for comfort. Delicate design with a modern, sleek look.",
+    "edit": "Oversized, two-toned glasses with chunky red and blue frames. The lenses are clear and large, held by bold geometric rims. Thick temples taper towards clear nose pads, creating a striking fashion statement.",
+    "per_image_non_shared_src": {
+        "0": "The object rests atop a black case on a wooden surface. The background features a blurred glimpse of some patterned and solid surfaces, adding depth to the setting.",
+        "1": "The object is positioned on a large yellow envelope on a wooden table. In the background are a blue notebook, an iPad box, and a white lamp cable.",
+        "2": "The object sits slightly angled on a wooden table, with the wooden grain providing a rustic texture. There's a section of a brown couch and wall details behind it.",
+        "3": "The object is placed on a teak shelf with a wooden drawer detail beneath. The backdrop includes a lighter wooden paneling, accentuating the setting's cozy feel.",
+        "4": "The object reclines on a black laptop keyboard. The screen edges and a green pencil in the background create a tech-focused environment.",
+        "5": "The object lies on its side on a laptop keyboard with an illuminated screen. Letters on the keys and desk items around suggest a working environment.",
+        "6": "The object is poised on a closed laptop with a visible Apple logo. Nearby desk items, like a pen and papers, create a tidy workspace impression.",
+        "7": "The object rests on a white box placed on a wooden table. A silver can, some stationery, and tech gadgets set a busy desk scene.",
+        "8": "The object is set on a black tablet cover on the table. No other objects in immediate sight, providing a minimalist and modern look.",
+        "9": "The object sits neatly on a cream cloth atop a cluttered desk. Surrounding items include box tapes, a pencil set, and pink baskets, hinting at a creative workspace."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object rests atop a black case on a wooden table. The library background features shelves lined with books and a wooden check-out counter, creating a scholarly vibe.",
+        "1": "The object is positioned on a large yellow envelope on a library desk. In the background are rows of colorful books, a reading lamp, and study desks.",
+        "2": "The object sits slightly angled on a wooden library table. In the background are book stacks and a quiet reading corner with a plush chair.",
+        "3": "The object is placed on a shelf within a library aisle. The surrounding rows of books and softly lit corners emphasize a quiet study environment.",
+        "4": "The object reclines on a black laptop in a library study area. Books stacked on nearby tables, and a green reading lamp on a shelf in the background.",
+        "5": "The object lies on its side in a library's tech corner. Books, library signage, and computers create a focused and academic atmosphere.",
+        "6": "The object is poised on a library desk with an Apple logo visible. Shelves filled with books, scattered open volumes, and readers create an academic ambiance.",
+        "7": "The object rests on a white box on a library study desk. Surrounding are library maps, piled books, and public notice boards.",
+        "8": "The object is set on a black tablet cover on a library's modern study area. Bookshelves and sleek wooden tables add to the scholarly environment.",
+        "9": "The object sits neatly on a cream cloth on a library desk. Surrounding are book carts, library cards, and study lamps, hinting at academic busy-ness."
+    },
+    "prompt_shared": "huge two-colored nerdy glasses",
+    "prompt_theme": "library",
+    "object_token": "object"
+}

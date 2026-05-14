@@ -1,0 +1,23 @@
+{
+    "src": "Knee-high boot in cream leather with fringed side detailing, pointed toe, and stacked wooden block heel.",
+    "edit": "A plush light tan sock with a fleece texture. It has decorative tassels on one side, rounded toe, cushioned sole, and intricate knitted patterns.",
+    "per_image_non_shared_src": {
+        "00": "The boot is standing upright against a red brick wall on rough concrete pavement with visible mortar lines, occasional debris, and stains.",
+        "01": "the boot is on a stone walkway by a river, with a city skyline showing skyscrapers and buildings in the backdrop, the water reflects the overcast sky.",
+        "02": "The boot is on a sloping asphalt road with visible cracks and pebbles, a brick building in the background and construction cones at a distance.",
+        "03": "The boot is standing on vibrant, lush green grass in an open space.",
+        "04": "The boot is on a grassy area next to a tree with mottled bark, visible knots and roots, surrounded by brown earth patches among green grass.",
+        "05": "The boot is resting on a painted green wooden bench with scratches and fading paint, above a lawn with neatly trimmed grass."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The frosted boot stands upright against a red brick wall with icicles. The concrete pavement has a light blanket of snow and frosted twigs scattered around, creating a winter scene.",
+        "01": "The boot is on a snow-dusted stone walkway by a partially frozen river. The icy surface reflects the overcast sky. In the background, a city skyline with frost-coated skyscrapers appears. Clusters of ice drift gently in the calm water.",
+        "02": "The boot is on a sloping, frosted asphalt road with cracks and pebbles, snowflakes scattered. In the background, a brick building dusted with snow, and construction cones at a distance, contrast brightly against the snowy surroundings.",
+        "03": "A boot stands on pristine snow, stretching across a vast landscape, only the boot disrupts the white. Light sparkles on snowflakes, enveloping the boot in a winter scene.",
+        "04": "The boot is on a snow-covered area next to a tree with frosty bark and roots dusted with snow. Surrounding are patches of icy ground and sparse snow, reflecting the winter atmosphere.",
+        "05": "The boot rests on a green wooden bench with a light snow dusting, the paint weathered with scratches. Beneath it, a snowy lawn reveals grass peeking through, creating a winter scene."
+    },
+    "prompt_shared": "warm fleece boot",
+    "prompt_theme": "winter",
+    "object_token": "shoes"
+}

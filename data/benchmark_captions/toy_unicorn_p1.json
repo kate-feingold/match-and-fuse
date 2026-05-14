@@ -1,0 +1,27 @@
+{
+    "src": "A small white unicorn figurine with a smooth surface. It has two tiny black eyes and a short, rounded horn at the top. Its body is plump with stumpy limbs, giving it a cute, simplistic appearance.",
+    "edit": "A hamster figurine dressed in a festive winter costume. It has a soft fur texture with a bright red scarf and a tiny hat. Its face features two small black eyes, giving it a cheerful appearance.",
+    "per_image_non_shared_src": {
+        "0": "The object sits centrally on a fluffy white surface, surrounded by a sea of plush, soft texture that envelops it, giving the impression of a cozy environment.",
+        "1": "The object is placed against a wooden surface with a black hair clip behind it, creating a contrasting background of rigid and smooth textures.",
+        "2": "The object is positioned sideways on a textured, woven surface, highlighting the intricate pattern beneath it, while it slightly leans with its horn pointing upward.",
+        "3": "The object rests horizontally on a multi-colored, striped fuzzy blanket, surrounded by pastel colors creating a soft and warm backdrop.",
+        "4": "The object is centered on a dimly lit keyboard, surrounded by black keys with faintly visible letters illuminated by a soft glow from a distant screen.",
+        "5": "The object is seated in an outstretched hand, clearly displaying a wooden floor and furniture in the background, giving a warm indoor setting.",
+        "6": "The object is placed on a soft, folded towel in front of a microwave, surrounded by a kitchen setting with various appliances nearby.",
+        "7": "The object is engulfed by glowing string lights on a wooden surface, against a backdrop of kitchen utensils and a microwave, highlighting its playful setting."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object sits centrally on a fluffy white surface with a snowy winter texture, surrounded by a frosty, crystal-like plush environment, conveying a chilly winter setting.",
+        "1": "The object is placed against a snowy wooden surface with frosty decor, a winter-themed setting that enhances its festive costume.",
+        "2": "The object is positioned sideways on a snow-dusted woven surface, mimicking the intricate patterns of snowflakes, with its costume adding to the cheerful winter vibe.",
+        "3": "The object rests horizontally on a multi-colored, striped fuzzy blanket, now appearing as pastel winter colors, surrounded by a soft, wintry backdrop.",
+        "4": "The object is centered on a dimly lit keyboard, now appearing as a ski lodge setup, giving a cozy winter setting with the soft glow imitating a hearth.",
+        "5": "The object is seated in an outstretched hand, against a background resembling a wooden cabin with snow, giving a wintery indoor setting.",
+        "6": "The object is placed on a soft, snow-dappled towel in front of a frost-covered microwave, surrounded by a festive winter kitchen setting.",
+        "7": "The object is engulfed by glowing string lights on a frosty, wooden surface, against a backdrop transformed into a twinkling winter wonderland, enhancing its holiday costume."
+    },
+    "prompt_shared": "a hamster in a cute costume",
+    "prompt_theme": "winter",
+    "object_token": "toy"
+}

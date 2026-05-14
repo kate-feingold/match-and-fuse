@@ -1,0 +1,21 @@
+{
+    "src": "A brown teddy bear with soft plush fur, left hand up, right hand on the leg. It has creamy round paws, a stitched smile, a blue ice pack on its head, and a patch on its chest reading \"Get Well\".",
+    "edit": "A colorful gummy bear with glossy, translucent hues of red, green, and yellow, shimmering in sunlight. It has small round ears, a rounded body, and 'Cheer Up' molded on the front.",
+    "per_image_non_shared_src": {
+        "00": "The object is on a large textured rock outdoors, surrounded by green foliage and a paved pathway, with another big rock in the back on the left, captured from a right side angle.",
+        "01": "The object is on a smooth concrete surface beside a gently flowing river, with a grassy backdrop, viewed from a lower angle, highlighting the rippling water and scattered green leaves.",
+        "02": "The object sits on an asphalt road with worn markings, viewed from the front and slightly left. The road stretches behind with faint tire imprints and a slope to the right.",
+        "03": "The object rests on vibrant green park grass, rotated slightly to the left, surrounded by lush grass blades with no obstruction.",
+        "04": "The object is against a brick wall on a concrete sidewalk, viewed straight on at eye level. The wall emphasizes the texture of the bricks and the smoothness of the concrete. A dry leaf is noticeable to the side."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object rests on a glossy, jelly-like surface in a vibrant setting. It is surrounded by translucent green flora with a jelly-textured pathway and a larger jelly formation in the background on the left, viewed from a rightward angle.",
+        "01": "The object rests on a glossy surface resembling translucent jelly. Nearby is a river with jelly-like reflections and wobbly waves, with hints of jelly-textured grassy backdrops. Green leaves are like tiny jelly pieces scattered around, viewed from a lower angle.",
+        "02": "the object is perched on a glossy, translucent road like vibrant jelly, viewed from the front and slightly angled to the left, with floating bubble markings and swirling tire patterns.",
+        "03": "The object is on a gelatinous green surface in a jelly world, surrounded by rubbery, jelly-like grass blades, slightly rotated to the left. The scene is rich in green hues with grass bending and wobbling, creating a surreal and colorful landscape.",
+        "04": "The object is set against translucent jelly bricks on a bouncy jelly sidewalk, viewed eye level from the front. The wall shimmers with a glossy texture, contrasting the firmer jelly ground. A small jelly leaf is noticeable to the side."
+    },
+    "prompt_shared": "gummy bear with 'Cheer Up' text",
+    "prompt_theme": "jelly",
+    "object_token": "plushie"
+}

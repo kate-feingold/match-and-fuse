@@ -1,0 +1,23 @@
+{
+    "src": "A small, fluffy white dog with tightly curled fur, large dark eyes, black nose, and a collar with a patterned tag. It has droopy ears.",
+    "edit": "A colorful animal-shaped balloon mimicking a small dog, with shiny, metallic colors, almond cartoon eyes, a string tail, floppy fabric ears, and a decorative pattern tag.",
+    "per_image_non_shared_src": {
+        "00": "The animal is viewed from above, standing on earthy ground with fallen leaves and twigs, body angled left under sunlight filtering through dense foliage.",
+        "01": "The animal sits upright sideways on a rocky slope, surrounded by green bushes and a clear blue sky, with scattered rocks and uneven ground.",
+        "02": "an animal viewed from above, stands alert on a rocky shoreline with smooth round pebbles, beside a flowing river. Human legs with shoes and shorts are partially visible in the background.",
+        "03": "The animal is viewed from the side, mid-motion on a rugged rocky surface by eroded stone cliffs, with rough, earthy textures. A bright day illuminates the setting.",
+        "04": "an animal runs towards the camera on a flat rocky shore with puddles of water; a blurry figure stands in shallow sea waves.",
+        "05": "The animal rests on a blue and white patterned blanket, showing its upper body in soft folds; background is neutral."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The animal is viewed from above, standing on snow-covered ground with patches of ice and twigs, angled left. Pale light filters through barren branches, contrasting with its silhouette and visible breath in a serene winter scene.",
+        "01": "An animal sits upright sideways on a snowy slope with bare, snow-dusted bushes, under a pale winter sky. Scattered frost-coated stones are on the uneven, snow-covered ground transforming the rocky terrain into a winter landscape.",
+        "02": "The animal is viewed from above, standing on a snow-dusted shoreline with icy pebbles below. Beside it, a river flows quietly with a partially frozen surface. In the background, human legs in boots and shorts are visible.",
+        "03": "The animal is viewed from the side, mid-motion on a snow-covered rocky surface by stone cliffs. Ice glistens on the rocks, and visible breath creates small clouds on a bright winter day.",
+        "04": "A lone animal dashes across a snowy, rocky shore, leaving tracks. Puddles have thin ice, reflecting pale light. In the distance, a blurry figure stands in the sea with cold swells. Snowflakes drift, creating a monochrome winter scene.",
+        "05": "The animal rests on a snowflake-patterned blanket of icy blue and frosty white, surrounded by folds resembling snow. The background is chilly whites and grays, resembling a serene winter landscape with a subtle frosty ambiance."
+    },
+    "prompt_shared": "animal-shaped balloon",
+    "prompt_theme": "winter",
+    "object_token": "animal"
+}

@@ -1,0 +1,21 @@
+{
+    "src": "A riverside with colorful buildings. The structures are tall and closely packed, showcasing vibrant hues of orange, yellow, and red. Each building features numerous windows and balconies, reflecting beautifully on the calm water surface.",
+    "edit": "A seashore with colorful buildings. The structures maintain their vibrant colors of orange, yellow, and red. Each building is adorned with windows and balconies, now facing the sandy shore with mild waves and sea breeze.",
+    "per_image_non_shared_src": {
+        "0": "The object is a series of buildings along the right, tapering towards the bridge. The background shows a clear blue sky, distant cathedral towers, and reflections in the river.",
+        "1": "The object is a row of colorful buildings centered by a cathedral tower in the background. Bare tree branches frame the sky, and the river reflects the scene, with a stone bridge on the left.",
+        "2": "The object features buildings on the opposite riverbank. A cathedral tower and trees behind the buildings are framed by overhanging branches against a clear sky, with reflections in the river.",
+        "3": "The object stretches along the left side, facing a narrowing river. In the background, a cathedral tower on the left and other city buildings, all reflected in the river, under a bright blue sky.",
+        "4": "The object is a set of colorful buildings on the far riverbank. A cathedral tower rises behind, surrounded by barren winter trees and framed by overhanging branches, mirrored in the river."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is a series of buildings along the sandy seashore with gentle waves. The bright sky frames the scene, with distant cathedral towers and lively beach reflections.",
+        "1": "The object is a row of vibrant seashore buildings centered by a cathedral tower. Bare tree branches frame the bright sky, with lively shoreline reflections and a sandy bridge view on the left.",
+        "2": "The object features seashore buildings opposite the sandy shore. A cathedral tower and surrounding winter trees are framed by bright branches, with beach reflections in the mild waves.",
+        "3": "The object stretches along the seashore on the left, facing gentle waves. In the seaside background, a cathedral tower on the left and other buildings reflect lively waves under a bright sky.",
+        "4": "The object is a set of seashore buildings on the far shore. A cathedral tower rises behind, surrounded by barren trees and framed by bright branches, mirrored in the gentle waves."
+    },
+    "prompt_shared": "a seashore with colorful buildings",
+    "prompt_theme": "",
+    "object_token": "can"
+}

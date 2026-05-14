@@ -1,0 +1,17 @@
+{
+    "src": "A gray and white cat with short fur, bright golden eyes, long white whiskers, black nose, and a white chest patch. Its ears are pointed.",
+    "edit": "A medium-sized marble statue with a polished sheen, in gray and white pattern. It has lifelike expression with amber-like eyes, alert upright ears, and a gracefully curved tail.",
+    "per_image_non_shared_src": {
+        "erik-jan-leusink-T0kalkwgc0w-unsplash": "The object is sitting upright on a wooden floor, head tilted slightly upwards, with visible wood grains and shadows beneath it, in an indistinct, neutral surrounding.",
+        "erik-jan-leusink-uamiRCpAmrU-unsplash": "the object is lying on a bed with patterned green and white sheets, front paws visible. The surface is soft and slightly crumpled, with blurred natural elements in the background.",
+        "erik-jan-leusink-x01ntt6tNDc-unsplash": "the object is nestled against a gray textured cushion with a tight weave, its head resting comfortably, in softly lit natural light casting gentle shadows."
+    },
+    "per_image_non_shared_edit": {
+        "erik-jan-leusink-T0kalkwgc0w-unsplash": "The object is sitting upright on a wooden floor, head tilted slightly upwards. The floor resembles frost-kissed wood grains with shadows beneath. Nearby is a neutral surrounding with a serene winter ambiance.",
+        "erik-jan-leusink-uamiRCpAmrU-unsplash": "The object is lying on a bed with snowy-patterned sheets, its front paws visible, resting. The bedding has a frosty green and white design. In the background, blurred icy elements suggest a winter wonderland atmosphere.",
+        "erik-jan-leusink-x01ntt6tNDc-unsplash": "The object is against a frosty gray cushion with a tight weave, head resting on it. The softly lit environment resembles the glow of a winter afternoon, casting gentle shadows like those on freshly fallen snow."
+    },
+    "prompt_shared": "two-colored marble statue",
+    "prompt_theme": "winter",
+    "object_token": "animal"
+}

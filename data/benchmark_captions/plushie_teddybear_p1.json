@@ -1,0 +1,25 @@
+{
+    "src": "A classic teddy bear with light brown fur, creamy snout and paws, rounded ears, dark brown nose, and black bead eyes. The limbs are short and floppy.",
+    "edit": "An anime-style teddy bear with light brown fur, creamy snout and paws, rounded ears, a triangular nose, and oversized, sparkling black eyes. It has short, slightly floppy limbs.",
+    "per_image_non_shared_src": {
+        "marina-shatskih-6MDi8o6VYHg-unsplash": "the object sits on a dirt path stretching into the distance, surrounded by blurred greenery and an overcast sky.",
+        "marina-shatskih-B3Jnug3rKrs-unsplash": "An object rests on a stone ledge near a small step, surrounded by dense foliage and slightly mossy ground.",
+        "marina-shatskih-BYZdCQDSNTY-unsplash": "The object is against a wooden fence, intertwined with branches and some green leaves partially covering the background.",
+        "marina-shatskih-F_imBoYwuTk-unsplash": "The object peeks through a rustic wooden fence under a clear blue sky and bright sunlight, casting crisp shadows.",
+        "marina-shatskih-kBo2MFJz2QU-unsplash": "the object sits on a rough stone surface near a wooden fence casting faint shadows.",
+        "marina-shatskih-nKoIXtEfkZ8-unsplash": "The object rests on wooden steps among leaves; the background has earthy tones. A small piece of white paper is nearby.",
+        "marina-shatskih-sIzj2poobss-unsplash": "The object is on a rocky surface of a dirt path, with an earthy landscape stretching behind."
+    },
+    "per_image_non_shared_edit": {
+        "marina-shatskih-6MDi8o6VYHg-unsplash": "The object sits on a dirt path surrounded by lush, glossy greenery, with an overcast sky and swirling clouds, depicted with sharp contrasts in anime style.",
+        "marina-shatskih-B3Jnug3rKrs-unsplash": "The object sits on a smooth stone ledge beside a small step, with lush foliage in the background, in vivid anime style. The stone has a subtle glimmer, and the greenery is bright and saturated, with detailed moss on the ground.",
+        "marina-shatskih-BYZdCQDSNTY-unsplash": "The object is set against a wooden fence in anime style, with curving branches and lush green leaves in rich tones. Sharp outlines and light reflections partially cover the background, with a hint of breeze through the leaves.",
+        "marina-shatskih-F_imBoYwuTk-unsplash": "An object peeks through a rustic wooden fence, sharply outlined in anime style below a blue sky with fluffy clouds. The sunlight casts shadows, with vivid colors; the wood is vibrant brown, and the sky has a cel-shaded appearance.",
+        "marina-shatskih-kBo2MFJz2QU-unsplash": "The object rests on a textured, exaggerated stone surface with vivid highlights and shadows. Nearby, an anime-style wooden fence with grain lines casts crisp shadows across the stone, with vivid colors and clean lines typical of anime.",
+        "marina-shatskih-nKoIXtEfkZ8-unsplash": "The object is on wooden steps with an anime aesthetic, surrounded by vibrant, bold-outlined leaves. A small piece of white paper with exaggerated folds and shadows is nearby, against a background of earthy tones.",
+        "marina-shatskih-sIzj2poobss-unsplash": "The object is on a rocky dirt path depicted with bold lines and vibrant anime colors. The blurred, earthy landscape features saturated hues stretching into the horizon with exaggerated perspective and dynamic contrasts. Soft pastel tones illuminate the anime-inspired backdrop."
+    },
+    "prompt_shared": "anime teddy bear",
+    "prompt_theme": "anime",
+    "object_token": "plushie"
+}

@@ -1,0 +1,23 @@
+{
+    "src": "A small figurine with round glasses, brown tousled hair, and a tiny scar on the forehead. It wears a black robe with a crest, holding a wand and a parchment in its hands.",
+    "edit": "A small, colorful character with oversized, expressive eyes, sleek, whimsical hair, and a tiny decorative motif on the forehead. Clad in a vibrant outfit with a badge, holding a playful wand and scroll.",
+    "per_image_non_shared_src": {
+        "0": "The object is leaning slightly against a silver laptop on a wooden desk with rich textures and curves, creating an office-like environment.",
+        "1": "The object stands on a dark table next to a bright blue cup, with a plain white wall in the background, creating a simple and modern setting.",
+        "2": "The object is centrally positioned on a dark table against a plain white wall, creating a minimalist and focus-centric background.",
+        "3": "The object is angled slightly left on a dark surface, with a blue cup on the left side, against a plain white wall, in a neutral setting.",
+        "4": "The object stands on a richly patterned wooden surface with a keyboard and papers in the background, giving an office-like atmosphere.",
+        "5": "The object lies on its back on a richly textured wooden surface with visible grooves and patterns, creating a natural and organic backdrop."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is leaning slightly against a silver laptop on a wooden desk, now styled in a whimsical and colorful Pixar aesthetic with vibrant curved patterns.",
+        "1": "The object stands on a dark table next to a bright blue cup, with the background transformed into a simple, bold Pixar-influenced setting.",
+        "2": "The object is centrally positioned on a dark table, with the plain white wall styled in a minimalist, colorful Pixar theme.",
+        "3": "The object is angled slightly left on a dark surface, featuring a Pixar-styled background with vibrant colors and smooth curves.",
+        "4": "The object stands on a richly patterned wooden surface, transformed into a whimsical Pixar aesthetic with vivid colors and playful details.",
+        "5": "The object lies on its back on a wooden surface, now styled with Pixar-inspired patterns and colors, creating an animated setting."
+    },
+    "prompt_shared": "big-eyed Pixar character",
+    "prompt_theme": "Pixar",
+    "object_token": "figure"
+}

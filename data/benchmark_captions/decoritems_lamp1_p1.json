@@ -1,0 +1,17 @@
+{
+    "src": "A lamp with a shade decorated with pine tree silhouettes. The base is crafted from faux deer antlers intertwined with natural wood-like elements, sitting on a carved stone-like base.",
+    "edit": "An eclectic-style lamp featuring a vibrant stained glass shade with abstract patterns. The base is a unique combination of ornate metallic swirls and gemstone accents, creating an intricate and artistic look.",
+    "per_image_non_shared_src": {
+        "clay-banks-uaKbXAjtJAE-unsplash": "The lamp sits on a dark wooden nightstand against a backdrop of wooden panel walls. A portion of a bed with a forest-themed comforter is visible to the left, creating a rustic setting.",
+        "clay-banks-w9wV2Hwz9sI-unsplash": "The lamp is on a small, light wooden nightstand beside a bed adorned with patterned bedding. The background features a plain wall with a light switch and part of a large landscape painting.",
+        "clay-banks-z8VRnFiO-BU-unsplash": "The lamp is positioned on a dark wooden cabinet near a large window with arched panes. The walls are made of wooden panels, and a plush chair is partially visible on the right."
+    },
+    "per_image_non_shared_edit": {
+        "clay-banks-uaKbXAjtJAE-unsplash": "The lamp sits on a dark wooden nightstand against a backdrop of eclectic apartment walls, with vibrant colors and abstract patterns. A portion of a bed with an eclectic-themed comforter is visible to the left.",
+        "clay-banks-w9wV2Hwz9sI-unsplash": "The lamp is on a small, light wooden nightstand beside a bed with eclectic-patterned bedding. The background features a wall with colorful abstract artwork and a modern light switch.",
+        "clay-banks-z8VRnFiO-BU-unsplash": "The lamp is positioned on a dark wooden cabinet near a large window with arched panes. The eclectic apartment walls are adorned with textured panels, and a modern chair is visible on the right."
+    },
+    "prompt_shared": "eclectic-style lamp",
+    "prompt_theme": "eclectic apartment",
+    "object_token": "object"
+}

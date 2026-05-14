@@ -1,0 +1,23 @@
+{
+    "src": "Anime figure of a flame-haired swordsman on a plain black metal base with a slender katana, in a dynamic pose with white flame cape and red katana, battle-ready stance.",
+    "edit": "A cotton candy-inspired swordsman with pink and blue hair, on a fluffy base like a sugar cloud. Holds a katana with a sugary glaze and red tint, posed dynamically. Wears a cape like pastel sugar strands.",
+    "per_image_non_shared_src": {
+        "0": "The figure is viewed from a slight overhead angle, slightly right. Left foot forward, right foot back, both hands holding a raised katana, on a wood-grain tabletop, with a blurred dark vertical support on the rear left and a pale wall behind.",
+        "1": "The figure is viewed from a slight overhead angle, left foot forward, right foot back, hands gripping a katana raised overhead, on a wood-grain tabletop, with a dark support rear left and a pale wall behind.",
+        "2": "The figure is viewed from a slight overhead angle, closeup, with her face, body, and katana centered on a black background.",
+        "3": "A figure is viewed from an eye-level frontal angle on a dark wooden table with a keyboard and a turned-off computer screen behind.",
+        "4": "The figure is viewed from a slight overhead angle from the left, placed on a dark plastic table with a black leather chair on the left and a dark wood office drawer in the top right corner.",
+        "5": "The figure is viewed from above front, on a dark wooden table, with a keyboard and a turned-off computer screen behind her."
+    },
+    "per_image_non_shared_edit": {
+        "0": "Figure seen from a slight overhead angle, skewed right, left foot forward, right foot back, gripping a katana overhead. Stands on a fluffy pink cotton candy cloud. Background shows a blurred dark pillar of swirling pastel colors on the rear left and a dreamy pale sky.",
+        "1": "The figure is viewed from a slight overhead angle, left foot forward, right foot back, holding a pastel katana overhead, standing on a swirling cotton candy table with blurred candy-striped support rear left and a pale sugar-coated wall behind.",
+        "2": "The figure appears from an overhead angle, with face and katana vibrant against a sugary pastel landscape. Her features and attire are in pink and blue, blending with cloud-like surroundings. The katana has a rainbow-like sheen.",
+        "3": "The figure is viewed from an eye-level frontal angle, sitting on a vibrant pink and blue swirled table. Behind her is a fluffy wall colored like pastel marshmallows, creating a cotton candy world.",
+        "4": "The figure is viewed from a slight overhead angle from the left, on a pastel pink table. A fluffy chair sits back left. In the top right, a candy-striped drawer reflects the cotton candy theme.",
+        "5": "The figure, seen from an elevated angle, in a pastel cotton candy world. She sits on a fluffy table like spun sugar. Behind her, a candy-colored box and a computer-shaped candy in pink jelly complete the scene."
+    },
+    "prompt_shared": "candy-inspired swordsman",
+    "prompt_theme": "cotton candy",
+    "object_token": "figure"
+}

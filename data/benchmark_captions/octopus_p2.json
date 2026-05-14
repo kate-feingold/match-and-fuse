@@ -1,0 +1,23 @@
+{
+    "src": "A cartoonish octopus with a rounded head and large eyes. Its thick tentacles curl in various directions. Sketched in pencil-drawn style with soft textures, on a minimal backdrop.",
+    "edit": "A pink octopus with large yellow spots near its eyes, a rounded head, and large eyes. Its eight tentacles flow gently against an underwater scene with coral and sea plants.",
+    "per_image_non_shared_src": {
+        "1": "Octopus holding a book labeled 'AI Philosophy' with both arms, wide eyes over the top, surrounded by seaweed and bubbles in the background.",
+        "2": "An octopus rides a bicycle underwater, with tentacles on handlebars and pedals. Seaweed and underwater ruins are on the left in the blurred background.",
+        "3": "The octopus sits cross-legged, holding a book labeled 'AI Philosophy', looking at the pages, surrounded by underwater vegetation and small bubbles.",
+        "4": "The octopus stands with its tentacles spread out wide, surrounded by aquatic plants and bubbles in an illuminated underwater world.",
+        "5": "An octopus nestles inside a large spiral seashell, peeking out, surrounded by aquatic plants and tiny bubbles.",
+        "6": "An octopus reaching out to a star-shaped yellow coral in the top right corner, in midwater with tentacles floating, surrounded by coral reef elements and bubbles in an underwater scene."
+    },
+    "per_image_non_shared_edit": {
+        "1": "The octopus holds a 'AI Philosophy' book with both arms, wide eyes peering over it, surrounded by drawn seaweed and bubbles in the background.",
+        "2": "an octopus rides a bicycle underwater, with tentacles on handlebars and pedals, seaweed and underwater ruins appear on the left in the blurred background",
+        "3": "An octopus sits cross-legged, holding a book titled 'AI Philosophy,' looking at the pages, surrounded by underwater vegetation and bubbles.",
+        "4": "The octopus stands with tentacles spread, surrounded by aquatic plants and bubbles in an illuminated underwater scene.",
+        "5": "An octopus nestles inside a large spiral seashell, peeking out surrounded by aquatic plants and rising bubbles.",
+        "6": "The octopus reaches towards a star-shaped yellow coral in the top right corner, in midwater with elongated tentacles, surrounded by coral reef elements and tiny bubbles in an underwater scene."
+    },
+    "prompt_shared": "pink octopus with yellow spots",
+    "prompt_theme": null,
+    "object_token": "storyboard sketch"
+}

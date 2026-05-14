@@ -1,0 +1,23 @@
+{
+    "src": "A hardcover book with an intricate cover design featuring a serene landscape with purple and pink flowers, trees against a blue sky, and two towers. The title 'DEEP LEARNING' is in bold at the top, spine slightly worn.",
+    "edit": "A hardcover book with a cosmic cover design, featuring a space scene with glowing nebulae in purple and pink, star clusters, and two planets. The title 'TIMETRAVEL MANUAL' is at the top in metallic font. The spine has a luminescent edge.",
+    "per_image_non_shared_src": {
+        "0": "A book is slightly open on a black leather chair with pages visible, against a chair-only background.",
+        "1": "The book is upright on a textured gray sofa, angled towards the backrest. The background is the sofa fabric.",
+        "2": "The book stands upright against a plain off-white wall on a wooden table. The background is minimalistic with a smooth wall and textured wood.",
+        "3": "A book lies flat on a wooden surface with natural grain, angled towards the camera, and a light wood grain background.",
+        "4": "The book is placed upright on a gray carpet, positioned squarely towards the camera, with the textured carpet in the background.",
+        "5": "The book is upright on a dark desk against an off-white wall, slightly angled to face a light, with the wall and desk in the background."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The slightly open book rests on a futuristic metal chair with circuitry patterns. Its pages glow with data streams. The background features a dark void with stars and galaxies, creating an inter-galactic ambiance.",
+        "1": "A book stands upright on a metallic gray sofa, slightly angled towards a shimmering backrest. The sofa fabric resembles futuristic inter-galactic design. Surrounding luminescent lights create a glow reflected on the starlit-patterned sofa surface in an inter-galactic setting.",
+        "2": "A cosmic tome stands upright, its cover shimmering with stardust patterns, against a galaxy backdrop with nebula swirls. The table, resembling a meteor's surface, has crystalline details and a metallic sheen, creating an inter-galactic ambiance.",
+        "3": "A book lies flat on a metallic surface similar to a starship deck, slightly angled towards the camera. The background has distant star fields, with celestial maps and cosmic symbols, under soft ambient light, creating an inter-galactic atmosphere.",
+        "4": "The book levitates slightly above a shimmering gray carpet positioned squarely towards the camera. The carpet fibers resemble cosmic waves with deep blues and purples like outer space, creating an ethereal atmosphere.",
+        "5": "A cosmic book stands upright on a smooth, dark desk in a futuristic inter-galactic setting, angled to catch light from distant stars. The background has a wall with nebula patterns, with celestial motifs integrating technology with cosmos elegance."
+    },
+    "prompt_shared": "a book titled 'Timetravel Manual'",
+    "prompt_theme": "inter-galactic",
+    "object_token": "book"
+}

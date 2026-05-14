@@ -1,0 +1,25 @@
+{
+    "src": "A metallic corkscrew with a black handle, featuring a bottle opener on one end and a foldable twisting spiral. The tool is compact and sleek with a small skull design near the hinge.",
+    "edit": "A fancy corkscrew with a two-colored metallic and marble-design handle, having a decorative end with intricate patterns. The spiral showcases gold accents, featuring a luxurious design.",
+    "per_image_non_shared_src": {
+        "0": "The object lies flat on a grey tiled floor, near a corner with a signboard. The corner has light-colored walls, suggesting an indoor office environment.",
+        "1": "The object rests on a soft, grey fabric-covered surface near a window. The room has light streaming in from the window, creating a calm indoor setting.",
+        "2": "The object is placed near the edge of a plant pot with soil and a succulent. Surrounding the pot are boxes and papers, indicating an inside garden or office space.",
+        "3": "The object stands propped against a kitchen countertop edge, with a shiny metallic sink adjoining a speckled black and grey counter surface.",
+        "4": "The object is on a brown, worn-out tabletop. The surface has visible scratches and marks, indicating a frequently used indoor area.",
+        "5": "The object is balanced atop a white appliance with a digital display. Nearby are documents and other small items, hinting at an office or kitchen setup.",
+        "6": "The object rests on a grey, soft fabric with gentle folds. The simplicity of the background suggests it's placed on bedding or a similar textile surface."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object lies flat on icy, textured ground, resembling a corner with snowy signs. The area has light-colored icy walls, suggesting an outdoor winter scene.",
+        "1": "The object rests on a soft, snowy surface near a frosted window. The room is bathed in winter light streaming in from the icy window, creating a serene icy ambiance.",
+        "2": "The object is placed near the edge of a snowy plant pot, with snow-dusted soil and a frosty succulent. Surrounding the pot are icy boxes and frost-covered papers.",
+        "3": "The object stands propped against a winter-themed countertop edge, with a frosty metallic sink adjoining a speckled ice and snow-covered counter surface.",
+        "4": "The object is on an icy, frosty tabletop. The surface displays visible icy patterns, suggesting a frozen indoor area during winter.",
+        "5": "The object is balanced atop a snow-dusted white appliance with a digital display covered in frost. Nearby are snow-sprinkled documents, hinting at a winter-themed office or kitchen setup.",
+        "6": "The object rests on a soft, snow-like fabric with gentle icy folds. Simplicity of the snowy background suggests it's placed on wintry bedding or similar textile."
+    },
+    "prompt_shared": "fancy two-colored corkscrew",
+    "prompt_theme": "winter",
+    "object_token": "object"
+}

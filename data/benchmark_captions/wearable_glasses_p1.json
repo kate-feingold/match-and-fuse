@@ -1,0 +1,21 @@
+{
+    "src": "Colorful tortoiseshell glasses with a bold and vivid pattern, featuring large rectangular lenses, sturdy frame, and blue arms. Pattern includes swirls of purple, brown, and hints of amber, creating a vibrant optical effect.",
+    "edit": "Luxury two-toned glasses with a sleek gold and silver frame, adorned with small embedded jewels on the sides. The lenses maintain a sophisticated rectangular shape, emphasizing elegance and exclusivity.",
+    "per_image_non_shared_src": {
+        "0": "The object is lying diagonally on a light wooden table surface, with the lenses facing up. The background is an uncluttered tabletop, with subtle wood grain, no additional items visible.",
+        "1": "The object is placed flat on a white windowsill, framed in the background by a window with sunlight filtering through. The exterior view reveals a blurred hint of greenery.",
+        "2": "The object is upright on a windowsill, resting on its arms with lenses facing outward. The background shows a blurred green lawn through the window, creating an outdoor view.",
+        "3": "The object is positioned horizontally on a wooden table with a pencil to the right and a yellow cup in the background. The surface has light wood grain texture.",
+        "4": "The object lies diagonally on a grey table surface, with its left lens closer. The background features a muted indoor setting with out-of-focus details and a soft lighting."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is lying diagonally on a polished marble tabletop in a luxurious setting, with the lenses facing up. The background showcases a minimalistic yet elegant design typical of a high-end luxury space.",
+        "1": "The object is placed flat on a sleek marble windowsill, framed by an exquisitely crafted luxury window. The exterior view shows a manicured garden reminiscent of luxury surroundings.",
+        "2": "The object is upright on a marble windowsill, resting on its arms with lenses facing outward. The background reveals a beautifully landscaped garden through a luxury window, typical of opulent settings.",
+        "3": "The object is positioned horizontally on a polished marble table with a designer pen to the right and a crystal vase in the background. The surface features a sophisticated marble texture in a luxury space.",
+        "4": "The object lies diagonally on a polished stone table surface, with its left lens closer. The background presents a refined interior typical of a luxurious environment with subdued elegance."
+    },
+    "prompt_shared": "two-colored expensive decorated glasses",
+    "prompt_theme": "luxury",
+    "object_token": "object"
+}

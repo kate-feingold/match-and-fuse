@@ -1,0 +1,21 @@
+{
+    "src": "A whimsical toy shaped like a swirled pile of brown with a smooth texture, featuring cartoonish eyes and a smile. The evenly stacked swirl has a curl on top, resembling a classic poop emoji.",
+    "edit": "A pastel-colored, ghost-like figure with a chunky appearance, large eyes, and a mischievous grin. It has a soft, velvety texture, swirling curves indicating movement, and a small rounded tuft, complementing the surroundings.",
+    "per_image_non_shared_src": {
+        "00": "The object is sitting upright on gray asphalt, surrounded by twigs and small pebbles. The asphalt texture and color dominate the background.",
+        "01": "The object is upright in thick, lush green grass, with blades slightly bending around its base.",
+        "02": "the object is upright on green grass, with a large tree trunk behind, distant modern office buildings among trees",
+        "03": "The object sits on a painted green wooden bench, with aged slats, and a grassy area faintly visible beyond the bench's edge.",
+        "04": "The object stands upright on a textured concrete surface with a red brick wall behind, featuring uneven bricks and visible mortar lines, enhancing the urban feel."
+    },
+    "per_image_non_shared_edit": {
+        "00": "An object rests upright on a glossy gray surface with an anime art style. It is surrounded by delicate twigs and pebbles with shadows, on a precisely drawn asphalt background.",
+        "01": "The object stands amidst vibrant emerald green grass with blades arching around its base, in anime style, with vibrant colors and no additional background elements.",
+        "02": "An upright object on a vibrant green grass patch in anime style, with a large tree trunk behind. In the distance, anime-style modern office buildings and trees with oversized leaves and striking colors are present.",
+        "03": "The object rests on a green wooden bench in anime style. The bench's slats show exaggerated wear with details, against a lush grassy field with vibrant green shades, capturing anime aesthetics.",
+        "04": "An upright object on a vividly textured concrete surface, against a red brick wall, in an anime style, with exaggerated bricks and visible mortar lines, embodying an urban anime cityscape."
+    },
+    "prompt_shared": "anime ghost-like figure",
+    "prompt_theme": "anime",
+    "object_token": "emoji"
+}

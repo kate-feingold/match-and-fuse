@@ -1,0 +1,9 @@
+{
+    "src": "A gray bear statue is on a flat rock with a pedestal, within a forested area, mid-step. Tall trees with textured bark and ground foliage are behind, sunlight and shadows enhance the sculpture's details.",
+    "edit": "A metallic bear statue with an inter-galactic sheen rests on a large flat rock with a futuristic rectangular pedestal within an alien forest. The bear appears to be taking a powerful stride. Towering alien plants with iridescent bark and shimmering, otherworldly foliage create an exotic, ethereal backdrop, harmonizing with the sleek, metallic form of the sculpture. Cosmic light beams softly through the canopy, casting radiant shadows that highlight the statue's intricate, futuristic details.",
+    "per_image_non_shared_src": null,
+    "per_image_non_shared_edit": null,
+    "prompt_shared": "graffiti-styled bear statue",
+    "prompt_theme": "graffiti",
+    "object_token": "bear"
+}

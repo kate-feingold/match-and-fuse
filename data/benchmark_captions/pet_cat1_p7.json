@@ -1,0 +1,21 @@
+{
+    "src": "A fluffy Persian kitten with a brown and cream coat and black stripes. It has blue eyes, a bushy tail, and whiskers around its round face. Standing confidently on delicate paws.",
+    "edit": "A plush, knitted creature made from brown and cream yarn, resembling tabby fur. It has round eyes with black outlining, a pink button nose, a white yarn chin, tufted ears, soft paws, and wiry whiskers.",
+    "per_image_non_shared_src": {
+        "jeanie-de-klerk-QfOnteIcGZU-unsplash": "The object stands sideways, head on the left, on a grey tiled staircase with a fluffy, upturned tail. There's a parallel metal railing and soft light from the top right, with a blurred background.",
+        "jeanie-de-klerk-SGFLjexLlaI-unsplash": "The object is in a close-up view on the grey staircase, facing forward, bushy tail slightly lowered, daylight from the right side.",
+        "jeanie-de-klerk-av2WGfogjqg-unsplash": "The object sits on the stair with paws close together, body slightly tilted, next to a vertical metal railing on its right, under soft, even light.",
+        "jeanie-de-klerk-bhonzdJMVjY-unsplash": "The object is on a grey step, front legs apart, head turned to face the camera, with shiny metal railing in the background under bright diffused lighting.",
+        "jeanie-de-klerk-t_Z5ND4Ce3k-unsplash": "The object sits at the edge of a stair, looking slightly to the side, with a fluffy tail and metal railing. Ambient light creates soft shadows."
+    },
+    "per_image_non_shared_edit": {
+        "jeanie-de-klerk-QfOnteIcGZU-unsplash": "The object is sideways, head left, on a grey tiled staircase with a fluffy, upturned tail. A metal railing runs parallel. Warm amber light illuminates from the top right. The unfocused background hints at fallen leaves, creating an autumn atmosphere.",
+        "jeanie-de-klerk-SGFLjexLlaI-unsplash": "The object stands on a leaf-covered staircase, facing forward in autumn light. Its bushy tail lowered, catches leaves, with golden afternoon light illuminating the scene.",
+        "jeanie-de-klerk-av2WGfogjqg-unsplash": "An object rests on the staircase, paws together, casting a shadow. Its body leans slightly, framed by a railing on the right with crimson and gold leaves. The lighting is warm and golden, typical of autumn.",
+        "jeanie-de-klerk-bhonzdJMVjY-unsplash": "The object is seated on an amber-hued step, front legs apart, head slightly turned towards the camera, surrounded by fallen autumn leaves. The background has shiny metal railing like tree branches with warm, diffused golden lighting.",
+        "jeanie-de-klerk-t_Z5ND4Ce3k-unsplash": "The object rests at the edge of a stair with its tail amidst fallen leaves. A metal railing, highlighted by autumn light, adds depth, surrounded by shadows and ambient light through the crisp autumn air."
+    },
+    "prompt_shared": "an animal knitted from a two-colored yarn",
+    "prompt_theme": "autumn",
+    "object_token": "animal"
+}

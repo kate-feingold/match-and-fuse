@@ -1,0 +1,19 @@
+{
+    "src": "A quirky red cartoon character with small pointed horns, rounded arms and legs. It has circular eyes, a straight-lined mouth, and a smooth, solid-colored surface.",
+    "edit": "A green Android robot with a round body, small rounded limbs, and antenna-like projections on its head. It has beady eyes and a small smile. The design is minimalist with smooth surfaces and bold outlines.",
+    "per_image_non_shared_src": {
+        "00": "The character is viewed from a slight angle facing left, arms hanging down by its side, against a clean white background.",
+        "01": "A character is facing forward with both arms slightly outwards, against a white backdrop.",
+        "02": "The character lies flat on its back with arms raised upward against a white background.",
+        "03": "The character stands upright with arms stretched upward against a white background."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The character is viewed from a slight angle facing left with arms hanging by its side, against a clean white background.",
+        "01": "The character is facing forward with arms slightly outwards against a white backdrop.",
+        "02": "The character is lying flat on its back with both arms raised upward against a white background.",
+        "03": "The character stands upright with arms stretched upward against a white background."
+    },
+    "prompt_shared": "Android robot",
+    "prompt_theme": null,
+    "object_token": "car"
+}

@@ -1,0 +1,17 @@
+{
+    "src": "A children's bicycle with a magenta frame, thick black tires with deep treads, and silver rims with black spokes. It has rubber grip handlebars, a black ergonomic seat, front suspension fork, and a basic rear derailleur system.",
+    "edit": "A cartoon-inspired child's bicycle in pink and purple, with exaggerated curves, star-shaped spokes, sparkly streamers on handlebars, and a plush cloud-shaped seat. The frame has glittery swirls and star designs.",
+    "per_image_non_shared_src": {
+        "0": "The bicycle is parallel to a rocky background with ferns and pink flowers, on uneven gravel ground, lit brightly highlighting its vibrant color.",
+        "1": "The bicycle is angled left, side view of handlebars and front tire. The rocky background is prominent, with green foliage and purple blossoms, on a paved ground.",
+        "2": "The bicycle is shown at an angle, displaying the rear and drivetrain with rocks, greenery, large ferns, and flowering plants in the background. The path is paved with gravel."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The bicycle is nestled against a snowy background with white snowflakes. Frost-covered ferns and icy pink flowers add texture. The ground is frozen gravel, reflecting soft cold light, casting a wintry glow, muting the bike's colors.",
+        "1": "The bicycle is angled slightly to the left, showing a side view of handlebars and front tire with frost. The rocky background is lightly snow-capped, icy branches replace foliage, and blossoms become snowflakes. The ground glistens with an icy sheen.",
+        "2": "The bicycle is positioned to highlight the rear and side against a winter backdrop, showing the drivetrain and rear tire with frosty details. The background has snow-dusted rocks, sparse greenery, snow-covered ferns and frost-tinged plants. The path is lightly snow-covered."
+    },
+    "prompt_shared": "disney-styled bike",
+    "prompt_theme": "winter",
+    "object_token": "bike"
+}

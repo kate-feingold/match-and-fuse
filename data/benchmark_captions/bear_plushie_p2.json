@@ -1,0 +1,21 @@
+{
+    "src": "A brown teddy bear with soft plush fur, left hand up, right hand on the leg. It has creamy round paws, a stitched smile, a blue ice pack on its head, and a patch on its chest reading \"Get Well\".",
+    "edit": "A vibrant teddy bear with a bold color scheme. Left hand is bright, right hand rests on leg. It has geometric paws, an expressive stitched smile, a graphic-patterned ice pack on head, and a Pop-Art \"Get Well\" patch on chest.",
+    "per_image_non_shared_src": {
+        "00": "The object is on a large textured rock outdoors, surrounded by green foliage and a paved pathway, with another big rock in the back on the left, captured from a right side angle.",
+        "01": "The object is on a smooth concrete surface beside a gently flowing river, with a grassy backdrop, viewed from a lower angle, highlighting the rippling water and scattered green leaves.",
+        "02": "The object sits on an asphalt road with worn markings, viewed from the front and slightly left. The road stretches behind with faint tire imprints and a slope to the right.",
+        "03": "The object rests on vibrant green park grass, rotated slightly to the left, surrounded by lush grass blades with no obstruction.",
+        "04": "The object is against a brick wall on a concrete sidewalk, viewed straight on at eye level. The wall emphasizes the texture of the bricks and the smoothness of the concrete. A dry leaf is noticeable to the side."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object sits on a large comic-style rock outdoors, with bold colors and outlines, against bright foliage and a color-blocked path. Another large rock is in the background on the left, viewed from a dynamic right angle, with Pop-Art flair.",
+        "01": "A colorful object sits on a vibrant plane with a Pop-Art palette. Behind, a river flows with waves outlined in black, shimmering in blues and whites. Grass is neon green, leaves are in bright colors, viewed from an engaging angle.",
+        "02": "The object is on a vibrant asphalt road with bold Pop-Art colors. Viewed from the front, angled slightly left, it features vivid road markings, lively tire imprints, and a subtle right-edge slope in high-contrast colors.",
+        "03": "A colorful object rests on pop-art grass in a park-like area, surrounded by vivid grass blades. The object is slightly tilted left, capturing intense pop-art green shades, with a clear view and exaggerated tones typical of pop-art.",
+        "04": "A bold object against a brick wall with neon greens and electric blues, viewed straight on at eye level. The wall has a graphic texture; the glossy concrete sidewalk and an orange cartoonish leaf enhance the Pop-Art style."
+    },
+    "prompt_shared": "Pop Art teddy bear plushie",
+    "prompt_theme": "Pop Art",
+    "object_token": "plushie"
+}

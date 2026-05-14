@@ -1,0 +1,19 @@
+{
+    "src": "A large, sitting bear sculpture with a textured, rough brown surface, wide eyes, a big black nose, and round ears. It has a blue ribbon pinned to its chest. The body is bulky with rounded limbs.",
+    "edit": "A large, sitting panda statue wearing traditional Chinese attire, featuring colorful embroidered patterns. It has wide eyes, a black nose, and round ears. A decorative accessory adorns its chest, maintaining a similar posture.",
+    "per_image_non_shared_src": {
+        "0": "The object is sitting with paws positioned in front, surrounded by vibrant orange and yellow flowers. To the side are tall, red foliage and a wooden fence under a glass greenhouse ceiling.",
+        "1": "The object is sitting with its paws clasped, amidst a colorful display of yellow and orange flowers. Tall greenery and red leaves are against the brick-lined wall beneath the clear greenhouse roof.",
+        "2": "The object is positioned with small black eyes facing forward, encircled by orange and yellow blossoms. Tall plants with red and pink flowers are aside, set against wooden panels and a glass ceiling.",
+        "3": "The object is settled with paws together near its chest, bordered by bright yellow and orange chrysanthemums. Red and pink flowers extend to the sides, with a wooden backdrop and greenhouse structure overhead."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is sitting with paws positioned in front, amid vibrant autumn colors of orange and yellow. Nearby are fall-inspired red foliage and a rustic wooden fence under a glass greenhouse ceiling.",
+        "1": "The object is sitting with its paws clasped, amidst a colorful autumn display of yellow and orange. Tall autumnal greenery and red leaves contrast against the brick-lined wall beneath the clear greenhouse roof.",
+        "2": "The object is positioned with small black eyes facing forward, surrounded by autumn orange and yellow blossoms. Tall plants with darkened red and faded pink flowers are aside, set against wooden panels and a glass ceiling.",
+        "3": "The object is settled with paws together near its chest, bordered by bright autumn yellow and orange. Fall-colored red and pink flowers extend to the sides, with a wooden backdrop and greenhouse structure overhead."
+    },
+    "prompt_shared": "a status of panda in clothes",
+    "prompt_theme": "autumn",
+    "object_token": "toy"
+}

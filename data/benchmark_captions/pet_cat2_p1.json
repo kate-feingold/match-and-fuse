@@ -1,0 +1,19 @@
+{
+    "src": "A cat with a brindle coat, featuring blends of black, brown, and hints of orange, with a sleek fur texture. It has attentive upright ears and expressive eyes, resting or moving gracefully.",
+    "edit": "A marble statue of a cat with smooth, polished textures, capturing intricate details of a feline form. Stonelike blends of soft grays and whites create a realistic representation, with a refined, polished finish.",
+    "per_image_non_shared_src": {
+        "0": "The object is lying on its side against a wooden surface. The carpet is beige with subtle patterns and a visible wooden furniture leg nearby, casting gentle shadows.",
+        "1": "The object is sitting upright with attentive posture on a textured beige carpet. A blue ottoman and metallic table leg create a cozy indoor scene in the background.",
+        "2": "The object is sitting and facing away, overlooking a window. The background shows a maroon carpet and soft daylight filtering through the window, illuminating the scene.",
+        "3": "The object is stretched out mid-motion on a patterned beige carpet. A blue ottoman leg is visible, emphasizing the dynamic pose within an indoor setting."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is lying on its side against an autumn-themed wooden surface. The carpet transforms into tones of gold and earthy hues, resembling fallen leaves, with an autumn atmosphere.",
+        "1": "The object is sitting upright with attentive posture on a beige carpet rendered in autumn tones. The blue ottoman and table leg are bathed in warm autumn colors, complementing the seasonal theme.",
+        "2": "The object is sitting and facing away, overlooking a window with autumnal hues. The maroon carpet transitions to rich orange and ember shades, reminiscent of seasonal leaves and light.",
+        "3": "The object is stretched out mid-motion on a carpet transformed into a tapestry of autumnal patterns. The ottoman leg reflects warm colors, suggesting an indoor autumn ambiance."
+    },
+    "prompt_shared": "a marble statue",
+    "prompt_theme": "autumn",
+    "object_token": "animal"
+}

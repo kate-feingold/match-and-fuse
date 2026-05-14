@@ -1,0 +1,21 @@
+{
+    "src": "A vibrant red and yellow toy race car with a smiling figure in a silver helmet and blue shirt with '1'. The car has black wheels and a tall orange antenna with a blue tip, rounded and cartoonish design.",
+    "edit": "A rugged toy race car in faded crimson and sandy hues, with oversized black wheels and a rusty antenna with a singed blue tip at the rear. Inside, a driver with a tarnished helmet and tattered indigo shirt marked '1'. Mad Max desert aesthetic.",
+    "per_image_non_shared_src": {
+        "00": "The toy is on a rough stone ledge with blue accents, overlooking a deserted concrete area with overgrown grass and distant structures, bathed in sunlight with long shadows.",
+        "01": "The toy sits on a gray-patterned carpet in a room with bookshelves in the background, seen from a side angle showing its number, under soft indoor lighting.",
+        "02": "The toy is on an orange picnic table, angled slightly towards the viewer. A road is in the background with a parked black car on the left, a truck far in the back, and a grassy area with trees under clear blue sky.",
+        "03": "the toy is centered on a fluffy gray towel against a plain cream wall, viewed from the front, in a clean indoor setting with neutral lighting, highlighting the toy's details.",
+        "04": "the toy is on an asphalt path facing forward, with grass and autumn leaves behind it, the background slightly blurred, in natural outdoor lighting."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The toy rests on a rugged stone ledge with blue markings, overlooking cracked concrete and dry grasses. A line of dilapidated structures appears under a desert sun. The scene embodies the Mad Max desert style.",
+        "01": "A toy on a sandy carpet inside a room with makeshift bookshelves of metal and wood in the background. Viewed from the side, showing its rusted number. Sepia-toned lighting filters through windows in a Mad-Max-desert style.",
+        "02": "The toy is on a rugged orange picnic table, angled slightly towards the viewer, under a desert sun. A dusty road with a rusted black car is on the left, and an old truck is in the distance, surrounded by sparse trees and cracked earth, under a hazy sky.",
+        "03": "The toy is centered on a rugged, sand-dusted towel against a rough cream wall, reminiscent of a Mad-Max-desert. The harsh lighting casts dramatic shadows, highlighting the toy's rugged details.",
+        "04": "The toy is on a cracked, dusty desert path, facing forward with parched sand and dry twigs behind. The background is a hazy mirage, in harsh lighting typical of a Mad-Max desert style, intensifying shadows and contrast."
+    },
+    "prompt_shared": "rugged Mad-Max-styled rc car with a driver",
+    "prompt_theme": "Mad Max desert",
+    "object_token": "car"
+}

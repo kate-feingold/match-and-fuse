@@ -1,0 +1,21 @@
+{
+    "src": "A soft plush sloth toy with a warm brown fur, white face, dark brown eye markings, and long floppy arms and legs with off-white felt claws.",
+    "edit": "A cyberpunk sloth toy with silver surface and neon blue facial accents, purple eye markings. It has long, articulated limbs, glowing metallic claws, and intricate stitching, viewed straight on.",
+    "per_image_non_shared_src": {
+        "00": "The toy is on green grass next to a large tree with a textured trunk, surrounded by dirt and vibrant grass.",
+        "01": "the toy sits on a gray stone surface beside a river; across the water, a cityscape with tall buildings and green foliage is visible; the sky is cloudy.",
+        "02": "The toy is on lush green grass with scattered trees in the background, an expansive field with varying green shades, and park patches visible in the distance.",
+        "03": "The toy rests on a green wooden bench, with visible raindrops and aged textures, next to dirt and sparse vegetation. Nearby bushes detail the backdrop.",
+        "04": "The toy sits on a gray asphalt path with small pebbles, long lines, and faint cracks."
+    },
+    "per_image_non_shared_edit": {
+        "00": "A futuristic toy rests on neon grass beside a metallic tree with a holographic trunk. Exposed circuits nearby. The grass glows with vibrant electronic hues, lit by a digital skyline. Cyberpunk style merges organic with synthetic.",
+        "01": "A futuristic toy with neon accents sits on a metallic surface beside a digital river. Across the water, a cityscape with skyscrapers and green holographic foliage shimmers, under a cloudy sky with synthetic purples and blues, in cyberpunk style.",
+        "02": "The toy sits on neon-green grass with a soft glow. Background trees have bioluminescent circuitry patterns. The field shimmers with emerald and lime. Distant park patches resemble pixelated landscapes, partially obscured by holographic fog, creating a cyberpunk atmosphere.",
+        "03": "A futuristic toy on a neon green metallic bench with glowing circuit patterns in an urban landscape. Sparse neon-lit vegetation nearby, with virtual raindrop simulations and holographic wood texture on the bench, alongside holographic bushes, creating a cyberpunk scene.",
+        "04": "A futuristic toy sits on a neon-lit asphalt path, with glowing ground and flickering holographic pebbles. Vivid blues and purples illuminate the scene with long luminescent cracks in a cyberpunk atmosphere, with digital grids and energetic pulses. High-tech urban setting."
+    },
+    "prompt_shared": "cyberpunk sloth plushie",
+    "prompt_theme": "cyberpunk",
+    "object_token": "plushie"
+}

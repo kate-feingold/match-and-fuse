@@ -1,0 +1,23 @@
+{
+    "src": "Anime figure of a flame-haired swordsman on a plain black metal base with a slender katana, in a dynamic pose with white flame cape and red katana, battle-ready stance.",
+    "edit": "A female action figure reminiscent of the Matrix with long dark hair, wearing black sunglasses and a form-fitting leather suit with futuristic patterns. She holds a metallic staff and a sleek black firearm in an action-ready pose.",
+    "per_image_non_shared_src": {
+        "0": "The figure is viewed from a slight overhead angle, slightly right. Left foot forward, right foot back, both hands holding a raised katana, on a wood-grain tabletop, with a blurred dark vertical support on the rear left and a pale wall behind.",
+        "1": "The figure is viewed from a slight overhead angle, left foot forward, right foot back, hands gripping a katana raised overhead, on a wood-grain tabletop, with a dark support rear left and a pale wall behind.",
+        "2": "The figure is viewed from a slight overhead angle, closeup, with her face, body, and katana centered on a black background.",
+        "3": "A figure is viewed from an eye-level frontal angle on a dark wooden table with a keyboard and a turned-off computer screen behind.",
+        "4": "The figure is viewed from a slight overhead angle from the left, placed on a dark plastic table with a black leather chair on the left and a dark wood office drawer in the top right corner.",
+        "5": "The figure is viewed from above front, on a dark wooden table, with a keyboard and a turned-off computer screen behind her."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The figure stands ready from an overhead angle, slightly to the right. Left foot forward, right foot back, holding a katana overhead. Tabletop beneath is cool, textured metal, vertical support casts shadows rear left, pale wall behind with green code rain.",
+        "1": "The figure is seen from a slight overhead angle, left foot forward, right foot back, holding a high-tech katana overhead. It stands on a metallic table, with a blurred structure rear left, and a pale wall with green code rain.",
+        "2": "The figure, viewed from a slight overhead angle closeup, holds a katana in the center, surrounded by dark digital rain with green code symbols. The black background has floating numerical sequences, creating a cybernetic, futuristic ambiance.",
+        "3": "The figure is seen from an eye-level frontal view on a sleek black table with metallic sheen. Behind is a high-tech keyboard with monochrome circuitry; beyond it is a null screen. Soft green code rain cascades against a dark backdrop inspired by the Matrix.",
+        "4": "The figure appears from a slight overhead angle on a reflective black surface. A sharp-edged black chair is on the left. Behind, a dark, textured office drawer is in the top right corner, in a Matrix-inspired style.",
+        "5": "The figure is viewed from an above front angle, on a glossy black surface. Behind, an enigmatic keyboard with green symbols and an off computer screen reflect a Matrix-like aesthetic. The table appears integrated into a futuristic cyber-dimension."
+    },
+    "prompt_shared": "figure of the Matrix character",
+    "prompt_theme": "Matrix movie",
+    "object_token": "figure"
+}

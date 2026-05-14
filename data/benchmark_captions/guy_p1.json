@@ -1,0 +1,23 @@
+{
+    "src": "A young man with short, styled hair and a clean-shaven face, wearing a casual shirt. He has a relaxed posture, well-defined features, bright eyes, and a slight smile, depicted in a pencil sketch.",
+    "edit": "A young man with short hair and clean-shaven face, dressed in a casual shirt, having a relaxed posture. He has bright eyes and a slight smile.",
+    "per_image_non_shared_src": {
+        "1": "A person leaning forward on a motorcycle rides with a landscape background of fluffy clouds and fields, dust trails behind.",
+        "2": "the person holds a diploma, wearing a graduation cap and gown, surrounded by other graduates, with fluffy clouds in the sky.",
+        "3": "The person is seated at a table, focused on reading a book, surrounded by filled bookshelves, in a library.",
+        "4": "The person faces forward with a neutral expression against a textured backdrop in a formal portrait style.",
+        "5": "A person types on a laptop at a desk with a notepad and mug beside, in an office with framed pictures and a window view of buildings.",
+        "6": "A person stands with hands in pockets in a park setting with tall trees and clouds overhead."
+    },
+    "per_image_non_shared_edit": {
+        "1": "Person leaning forward on a motorcycle, riding, with background of landscape, fluffy clouds, fields, and dust trailing behind.",
+        "2": "A person holds up a diploma, wearing a graduation cap and gown, surrounded by graduates, with fluffy clouds in the sky.",
+        "3": "The person is seated at a table, reading a book, surrounded by bookshelves filled with books in a library.",
+        "4": "A person facing forward with a neutral expression against a textured backdrop in a simple formal portrait.",
+        "5": "A person types on a laptop at a desk, with a notepad and mug beside, in an office with framed pictures and a window view of buildings.",
+        "6": "a person stands with hands in pockets among tall trees and fluffy clouds in a park."
+    },
+    "prompt_shared": "a young man",
+    "prompt_theme": null,
+    "object_token": "storyboard sketch"
+}

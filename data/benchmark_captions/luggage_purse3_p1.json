@@ -1,0 +1,17 @@
+{
+    "src": "A black triangular leather bag with a textured surface and smooth handle. It has a small, gold emblem near the base on one side.",
+    "edit": "A two-colored extraterrestrial bag with vibrant green and purple hues, metallic finish, and swirling patterns. It has futuristic, glowing emblems along the edges.",
+    "per_image_non_shared_src": {
+        "ivan-kazlouskij-YCEw-2J6G6E-unsplash": "The object leans against a circular mirror on a wooden shelf, accompanied by two white bottles with black tops in a minimalist room.",
+        "ivan-kazlouskij-b7R2wAlbYDU-unsplash": "The object stands on a wooden cabinet next to a circular mirror and a white lamp in a room with beige walls.",
+        "ivan-kazlouskij-rbbUG5fR9pM-unsplash": "The object is upright on a wooden shelf next to a framed sketch and a white lamp against white wooden panels."
+    },
+    "per_image_non_shared_edit": {
+        "ivan-kazlouskij-YCEw-2J6G6E-unsplash": "The object leans against a circular mirror on a sleek, metallic shelf, accompanied by two silver bottles with glowing tops in a spaceship setting.",
+        "ivan-kazlouskij-b7R2wAlbYDU-unsplash": "The object stands on a metallic surface next to a circular viewing port and a neon-lit panel in a futuristic spaceship interior.",
+        "ivan-kazlouskij-rbbUG5fR9pM-unsplash": "The object is upright on a shiny, metallic shelf next to a digital screen and a futuristic lamp against metallic ship walls."
+    },
+    "prompt_shared": "two-colored extraterrestrial bag",
+    "prompt_theme": "spaceship",
+    "object_token": "object"
+}

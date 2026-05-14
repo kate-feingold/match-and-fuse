@@ -1,0 +1,23 @@
+{
+    "src": "A white and black sports bike with a streamlined design. It features a bold red and blue stripe along the side, intricate exhaust system, and detailed front fork. The bike has a clear windshield and aerodynamic mirrors.",
+    "edit": "A gold and blue sports bike with a striking color pattern. It features sleek golden stripes on the side, enhanced with a metallic finish exhaust, and vibrant gold front fork. The bike has a glossy windshield and stylish mirrors.",
+    "per_image_non_shared_src": {
+        "0": "The object is positioned side-on on a dark wooden floor, showing its right side prominently. The background is a clean, smooth surface with minimal visible details.",
+        "1": "The object is angled slightly towards the viewer on a wooden surface, revealing its right front prominently. The background has a smooth wooden texture with no additional objects.",
+        "2": "The object is placed side-on on a dark grey surface outside. The background includes blurred green trees and a bark-covered tree trunk set against an overcast sky.",
+        "3": "The object is angled front-left on an outdoor dark grey surface. Behind is a lush, blurred greenery background with leaves and outdoor elements.",
+        "4": "The object is angled right with a slight tilt on a rough stone surface. The background includes blurred outdoor greenery, providing a natural setting.",
+        "5": "The object faces directly towards the viewer on a dark wooden surface indoors. The background is composed of the shiny wooden floor with a slight reflection."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is positioned side-on amidst a desert landscape, showing its right side prominently. The background features sandy dunes under a clear, bright sky.",
+        "1": "The object is angled slightly towards the viewer in a desert setting, revealing its right front prominently. The background has sandy terrain with distant dunes.",
+        "2": "The object is placed side-on on a sandy surface in a desert. The background comprises blurred desert vegetation and a clear sky with scattered clouds.",
+        "3": "The object is angled front-left on an outdoor sandy expanse. Behind is a blurred desert landscape with sparse shrubs and an open sky.",
+        "4": "The object is angled right with a slight tilt on a sandy desert surface. The background features arid desert landscape with sparse bushy plants.",
+        "5": "The object faces directly towards the viewer on a sandy desert floor. The background is composed of expansive sand and a bright, clear desert sky."
+    },
+    "prompt_shared": "gold and blue yamaha biker bike",
+    "prompt_theme": "desert",
+    "object_token": "bike"
+}

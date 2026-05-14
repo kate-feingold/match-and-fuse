@@ -1,0 +1,25 @@
+{
+    "src": "A plush lobster toy with soft orange fabric, two black eyes, large pincers, and segmented body with pale stripes. It has a small white tuft representing its mouth and a soft tail, embodying a simple but cute design.",
+    "edit": "A charming lobster toy featuring pastel blue fabric with subtle white stripes. It has glittery black eyes, shimmering blue pincers, and a plush tail. The mouth comprises tiny, pale-blue fabric tufts, creating a whimsical feel.",
+    "per_image_non_shared_src": {
+        "0": "The object lies sideways on blue metal slats of a bench with a brick wall, metal railings, and trees in the background, casting long shadows from the sun above.",
+        "1": "The object is wedged upright between tree branches surrounded by rough bark and patches of grass in a backyard with a brick building visible.",
+        "2": "The object is nestled within the metallic structure of a bike rack, lying on a concrete floor against a white wall, partially shaded.",
+        "3": "The object reclines on a sunlit wooden bench, surrounded by lush green grass and a building with a pale brick facade in the distant background.",
+        "4": "The object stands vertically against a desk cluttered with items like a colorful cup, keyboard, small box, under soft indoor lighting by a white brick wall.",
+        "5": "The object is sprawled atop a metal surface next to vibrant green foliage and bushy vegetation, with sunlight creating dappled patterns.",
+        "6": "The object rests on vibrant green grass under bright sunlight, surrounded by well-maintained lawn and shadows elongating across the field."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object lies sideways on frosty blue metal slats of a bench with a snow-covered brick wall, icy railings, and snow-dusted trees nearby, under a pale winter sky.",
+        "1": "The object is wedged upright between snow-frosted tree branches surrounded by icy bark and snowy patches of grass in a wintry backyard near a brick building.",
+        "2": "The object is nestled within the icy structure of a bike rack, lying on a snow-dusted concrete floor against a white wall, with shades of winter.",
+        "3": "The object reclines on a snow-dusted wooden bench, surrounded by frosty grass and a building with a pale, ice-coated brick facade in the distant background.",
+        "4": "The object stands vertically against a desk scattered with wintry-themed items like a snowflake-patterned cup, keyboard, small snow-covered box, under soft indoor lighting by a white brick wall.",
+        "5": "The object is sprawled atop an icy metal surface next to bare, frost-covered foliage and bushes, with winter sunlight creating crisp patterns.",
+        "6": "The object rests on snow-blanketed grass under bright winter sunlight, surrounded by well-maintained snow-draped lawn and shadows softening the snowy field."
+    },
+    "prompt_shared": "a cute two-colored lobster toy",
+    "prompt_theme": "winter",
+    "object_token": "plushie"
+}

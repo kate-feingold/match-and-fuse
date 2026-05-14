@@ -1,0 +1,41 @@
+{
+    "src": "The person has short, curly brown hair and is wearing various types of glasses in different images. They have fair skin and often appear in casual clothing like jackets and sweaters.",
+    "edit": "The claymation character has short, curly clay hair in a warm brown color, with cartoonish clay glasses. The character's features are simplified and rounded, wearing clay-textured jackets and sweaters in vibrant hues.",
+    "per_image_non_shared_src": {
+        "0": "The object is centered, wearing glasses, with a street scene featuring cars and buildings in the background.",
+        "1": "The object is centered, wearing glasses, with a waterfront view and a background of docks and houses.",
+        "10": "The object is off-center, wearing sunglasses, with a stone wall background featuring rustic textures.",
+        "11": "The object is centered, wearing a beanie and sunglasses, with a park setting of trees and a grassy path in the background.",
+        "12": "The object is centered, without glasses, in a dimly lit tunnel with textured walls.",
+        "13": "The object is centered, wearing a gray jacket, with a train station background featuring platforms and trains.",
+        "14": "The object is close-up, wearing sunglasses, with a fountain and people in the background.",
+        "2": "The object is close-up, wearing a baseball cap and sunglasses, with a seaside promenade and sandy beach in the background.",
+        "3": "The object is in profile, without glasses, with a waterfront view featuring docks and distant houses.",
+        "4": "The object is centered, wearing sunglasses and a blue backpack, with a city alleyway and modern buildings in the background.",
+        "5": "The person is near a dock, with large ships and calm water behind. The distant skyline features industrial buildings and mountains.",
+        "6": "The person is in a lit plaza, facing shops and glass buildings. Evening lights and pedestrians create a vibrant urban atmosphere.",
+        "7": "The person is on a rocky path, with a poodle and a snow patch visible. The mountainous backdrop includes hikers further down the trail.",
+        "8": "The person is at the beach during sunset, with reflections on the water. The sun sets behind distant mountains, coloring the sky in warm hues.",
+        "9": "The person is overlooking a canal in a city with classic architecture. Water reflects the buildings, creating a picturesque and historic view."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is centered, looking into the claymation street scene with stylized clay cars and buildings.",
+        "1": "The object is centered, with a claymation waterfront view of clay-textured docks and houses.",
+        "10": "The object is off-center with claymation sunglasses and a textured stone clay wall background.",
+        "11": "The object is centered, in claymation style wearing a clay beanie, with a clay forest setting and a clay path.",
+        "12": "The object is centered in claymation without glasses, in a clay-textured tunnel and stylized walls.",
+        "13": "The object is centered, with a clay jacket, against a claymation train station with platforms and clay trains.",
+        "14": "The object is close-up with clay sunglasses, against a clay fountain and clay people.",
+        "2": "The object is close-up with a clay hat, against a clay seaside promenade and clay beach setting.",
+        "3": "The object is in profile in claymation, against a clay-textured waterfront view with docks and houses.",
+        "4": "The object is centered with clay sunglasses and a clay backpack, in a claymation city alleyway scene.",
+        "5": "The object is near a clay dock, with grand clay ships and water crafted meticulously. Industrial clay buildings and clay mountains are in view.",
+        "6": "The object is in a clay plaza, facing minimalist clay shops and glass buildings. Evening clay lights and figures create a vivid clay urban scene.",
+        "7": "The object is on a rocky clay path, with a clay poodle and snow visible. Clay mountains and further hikers add to the clay outdoor adventure.",
+        "8": "The object is at a claymation beach during a molded sunset, with clay water reflections. The clay sun sets behind sculpted mountains in vivid colors.",
+        "9": "The object is overlooking a clay canal, with clay architecture. Clay water reflects the buildings, rendering a historic claymation view."
+    },
+    "prompt_shared": "claymation character",
+    "prompt_theme": "claymation",
+    "object_token": "person"
+}

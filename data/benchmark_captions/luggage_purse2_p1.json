@@ -1,0 +1,19 @@
+{
+    "src": "A sleek, dark leather handbag with sturdy handles, gold hardware, and a smooth finish. The bag features a logo at the center, dimensions maintained for ease of carrying, and a solid black leather strap.",
+    "edit": "A stylish beach bag with vibrant blue and white stripes, lightweight design, and woven texture. It includes colorful tassels, a wide opening, and a strong braided jute handle for easy carrying.",
+    "per_image_non_shared_src": {
+        "ivan-kazlouskij-4NSRtWCbZFk-unsplash": "The object is held by a person in a side view against a detailed patterned carpet background. The person's long hair and sequined dress are partially visible, creating an elegant atmosphere.",
+        "ivan-kazlouskij-AB7WaWI4_RY-unsplash": "The object is suspended from a hook with a close-up view showing the handles and top against a smooth, warm-toned wall background. The lighting highlights the material's texture and luxurious appearance.",
+        "ivan-kazlouskij-KBS4Ktx1m3k-unsplash": "The object is casually held by a hand, perfectly centered within a cozy living room setting. Furniture with warm tones is visible, including wooden cabinets and soft beige upholstery, enhancing the homely vibe.",
+        "ivan-kazlouskij-eU-xXGfY6Fk-unsplash": "The object rests at an angle on a light-colored armchair with its strap elegantly draped over the side. The scene includes woven textures and muted colors, emphasizing comfort and relaxation."
+    },
+    "per_image_non_shared_edit": {
+        "ivan-kazlouskij-4NSRtWCbZFk-unsplash": "The object is held by a person in a side view against a Hawaiian-themed background with lush green foliage and tropical flowers visible. The person's long hair and sequined dress are partially visible.",
+        "ivan-kazlouskij-AB7WaWI4_RY-unsplash": "The object is suspended from a hook with a close-up view showing the handles and top against a sunset-colored Hawaiian beach vista background. The lighting highlights the material's texture and tropical ambiance.",
+        "ivan-kazlouskij-KBS4Ktx1m3k-unsplash": "The object is casually held by a hand, perfectly centered within a Hawaiian-themed room setting. Furniture with tropical hues is visible, including bamboo accents and ocean-themed decor enhancing the island vibe.",
+        "ivan-kazlouskij-eU-xXGfY6Fk-unsplash": "The object rests at an angle on a light-colored armchair repurposed with Hawaiian-themed patterns. The scene includes bright, colorful textures and vibrant greens, emphasizing a tropical, relaxed atmosphere."
+    },
+    "prompt_shared": "beach bag",
+    "prompt_theme": "Hawaii",
+    "object_token": "object"
+}

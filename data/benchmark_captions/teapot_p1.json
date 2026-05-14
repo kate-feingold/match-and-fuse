@@ -1,0 +1,21 @@
+{
+    "src": "A small teapot made of polished brown clay with a smooth body and short spout, a curved handle, and a delicate lid knob, on a textured dark ceramic saucer.",
+    "edit": "A small teapot in bold colors with textured lines, rounded body, and short spout, sits on a dark ceramic saucer with cross-hatching, in a comic-book style.",
+    "per_image_non_shared_src": {
+        "00": "the object angled to the left on a wooden surface, surrounded by out-of-focus white flowers and a blurred colorful leaf on the side.",
+        "01": "The object sits on a rough wooden table in front of a textured off-white wall, next to a white cup on a dark saucer.",
+        "02": "The object is viewed from above, on a ribbed, round dish on a beige fabric runner on a dark wooden table, near a filled teacup with a metallic edge.",
+        "03": "the object is centered on a dark wooden table before an ornately carved panel, with a white cup to the left on a matching saucer, lit with warm ambient lighting.",
+        "04": "The object is on a textured, square pedestal on a smooth, dark wooden table, next to a white teacup with a floral pattern on a saucer against a white background."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object is tilted left on a cartoon-like wooden surface with bold lines, vibrant colors in comic-book style. Surrounded by white flowers in sharp lines in the foreground. A blurred, colorful leaf with exaggerated shading lies on the side.",
+        "01": "A dynamic object sits centrally on a vibrant wooden table with bold outlines and halftone textures, in front of a comic-style off-white wall with dot shading. A white cup with highlights rests on a dark saucer, in comic-book style.",
+        "02": "The object is viewed from above, resting in a graphic-patterned dish that mimics comic book halftone dots, on a creamy runner with bold outlines atop a deep wooden surface. Nearby is an exaggerated teacup with a gleaming metallic edge.",
+        "03": "The object is centered under dramatic lighting, on a dark wooden table with bold lines and shadows. Background has an ornate wooden panel with vibrant details. A white cup on the left, on a saucer, with strong outlines and highlights, in comic-book style.",
+        "04": "A dynamic object on a square pedestal with bold outlines on a dark wooden tabletop. Nearby, a white teacup with vivid floral patterns on a saucer against a white background, in comic-book style."
+    },
+    "prompt_shared": "comic book teapot",
+    "prompt_theme": "comic book",
+    "object_token": "teapot"
+}

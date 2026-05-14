@@ -1,0 +1,21 @@
+{
+    "src": "A soft plush sloth toy with a warm brown fur, white face, dark brown eye markings, and long floppy arms and legs with off-white felt claws.",
+    "edit": "A plush sloth toy with rounded features, shimmering silver and blue fur, and face glowing with star patterns around the eyes. It has long arms and legs with metallic claws, and fabric woven with star-dust texture.",
+    "per_image_non_shared_src": {
+        "00": "The toy is on green grass next to a large tree with a textured trunk, surrounded by dirt and vibrant grass.",
+        "01": "the toy sits on a gray stone surface beside a river; across the water, a cityscape with tall buildings and green foliage is visible; the sky is cloudy.",
+        "02": "The toy is on lush green grass with scattered trees in the background, an expansive field with varying green shades, and park patches visible in the distance.",
+        "03": "The toy rests on a green wooden bench, with visible raindrops and aged textures, next to dirt and sparse vegetation. Nearby bushes detail the backdrop.",
+        "04": "The toy sits on a gray asphalt path with small pebbles, long lines, and faint cracks."
+    },
+    "per_image_non_shared_edit": {
+        "00": "A futuristic toy gleams on metallic-hued faux grass, in neon shades, next to a massive tree with a trunk of crystallized circuits. Shimmering holographic soil and digital vines blend into the tech-infused grass, creating an inter-galactic scene.",
+        "01": "A futuristic toy rests on a metallic platform beside a shimmering river of light, across from a cityscape with skyscrapers and energy foliage. The sky is a kaleidoscope of nebulae, casting hues over the futuristic landscape.",
+        "02": "A futuristic toy rests on synthetic, luminous grass with glowing trees in the background. The field has shades of cosmic green, with small patches of a futuristic park in the distance and celestial elements in the landscape.",
+        "03": "A futuristic toy with neon lights rests on a metallic bench under distant stars. The bench has intricate cosmic patterns. Nearby, asteroid rocks, sparse alien vegetation, and luminescent bushes with swirling patterns create an other-dimensional ambiance.",
+        "04": "The toy is on a shimmering cosmic path with swirling star dust, resembling a distant asteroid with glowing minerals. Light streaks and energy pulses run through it, creating an inter-galactic setting."
+    },
+    "prompt_shared": "inter-galactic sloth plushie",
+    "prompt_theme": "inter-galactic",
+    "object_token": "plushie"
+}

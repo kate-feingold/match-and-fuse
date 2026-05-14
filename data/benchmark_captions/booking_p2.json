@@ -1,0 +1,17 @@
+{
+    "src": "An elegant bedroom with a double bed with red and white pillows, red and gold curtains. A purple sofa has red cushions. An ornate chandelier hangs from the ceiling. A small table and chair sit beside the bed.",
+    "edit": "A bedroom with a double bed and colorful mismatched pillows. Eclectic curtains frame tall windows. A textured sofa has multicolored cushions. A handcrafted chandelier hangs from the ceiling. The walls have a tapestry, and a jute rug is underfoot. A wooden table and a woven chair are beside the bed.",
+    "per_image_non_shared_src": {
+        "554397294": "a bed is center right with pillows, large windows with gold curtains behind, a purple sofa with red cushions on the left, an ornate chandelier on the ceiling, a painting above a round table and chair, a pink rug on the floor",
+        "554397309": "The view shows a bed centered against the wall, with ornate lamps on either side, windows with gold curtains on the left, a sofa with red cushions, a chandelier hanging, a wooden table and chair adjacent, and framed art on the wall.",
+        "554397316": "bed at an angle with purple headboard and red accents, windows with gold curtains to the left, a chandelier on ceiling, modern round table with chairs beside bed, doorway in rear, pink rug underfoot."
+    },
+    "per_image_non_shared_edit": {
+        "554397294": "A bed with a teal headboard and vibrant textiles against the wall, flanked by eclectic lamps. Colorful, sheer curtains with tassels cover windows. A plush sofa with colorful cushions is on the left, beneath a chandelier. A wooden table and chair with carvings are nearby, with bohemian art on the wall.",
+        "554397309": "A teal headboard bed with vibrant textiles, flanked by eclectic lamps. Left windows have colorful sheer curtains with tassels. A plush sofa with mismatched cushions sits left. A chandelier with beads and feathers hangs above. A wooden table with carvings nearby and bohemian art on the wall.",
+        "554397316": "A bed with a teal headboard and patterned textiles is against a wall, flanked by eclectic lamps. Windows on the left have sheer tassel curtains. A plush sofa with colorful cushions is on the left. A chandelier with beads and feathers hangs above. A wooden table and chair with carvings are adjacent, with bohemian art on the wall."
+    },
+    "prompt_shared": "Bohemian room",
+    "prompt_theme": "bohemian",
+    "object_token": "apartment"
+}

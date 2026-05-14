@@ -1,0 +1,21 @@
+{
+    "src": "A corgi puppy with large, pointed ears and a soft, fluffy coat. It has tan fur with white chest and paws, bright eyes, a small black nose, and slightly open mouth.",
+    "edit": "A multi-colored animal-shaped balloon resembling a pup, with a gradient of bright blues and greens. The ears widen, filled with shiny silver. Black and white sparkling eyes, short helium-filled tube legs keep it upright.",
+    "per_image_non_shared_src": {
+        "00": "A puppy on the left side with its tongue out, against a bright orange background, and a green plant leaf partially visible on the right edge.",
+        "01": "The puppy sits centered in front of an orange backdrop, looking straight ahead, with its ears perked and body symmetrical.",
+        "02": "The puppy is seated, slightly turned to the side, in front of a solid orange background, with its head tilted and looking to the left, ears standing.",
+        "03": "A puppy sits to the left, sticking out its tongue, against a bright orange backdrop.",
+        "04": "The puppy is against a vivid yellow background, seated upright with ears alert, looking directly forward."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The puppy is positioned on the left with its tongue out, against a backdrop of orange and gold autumn hues. The background has fallen leaves and a large green plant leaf on the right, enhancing the autumn scene.",
+        "01": "The puppy sits centered in front of an autumn backdrop with burnt orange, russet, and golden leaves. It looks straight ahead with perked ears dusted with leaf texture. Soft autumn sunlight illuminates the scene.",
+        "02": "A puppy is slightly turned to the side, seated in front of an orange background, with its head tilted and looking to the left, amidst falling leaves. Its fur has golden and auburn shades.",
+        "03": "The puppy sits on the left, tongue out, against a golden autumn backdrop with scattered leaves in crimson, amber, and rust.",
+        "04": "The puppy is seated upright against a backdrop of autumn colors, with vibrant oranges and burnt siennas. Its fur reflects golden and russet tones, and it looks forward with alert ears and eyes catching the auburn glow."
+    },
+    "prompt_shared": "multi-colored animal-shaped balloon",
+    "prompt_theme": "autumn",
+    "object_token": "animal"
+}

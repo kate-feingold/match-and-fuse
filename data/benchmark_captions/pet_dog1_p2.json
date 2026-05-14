@@ -1,0 +1,27 @@
+{
+    "src": "A young silver-coated dog with smooth fur, floppy ears, and bright eyes. Its lean, muscular body gives an athletic appearance. The dog wears a simple collar, and its short, polished coat is finely detailed.",
+    "edit": "An extraterrestrial pet with an iridescent shell changing colors from green to purple. It has slender appendages with luminescent tips, a flexible body, large multifaceted eyes, antennae, and a tail with glowing bioluminescent patterns.",
+    "per_image_non_shared_src": {
+        "0": "The object is upright, head up, next to a letter board with weight and age. It's in front of a large window showing a snowy landscape with bare trees, contrasting the pale wooden floor inside.",
+        "1": "The object stands on a rock ledge, sideways to the camera, with a black and teal harness and leash, overlooking green hills and a cloudy sky, suggesting an elevated, mountainous area.",
+        "2": "the object in an energetic stance closeup, ears flapping outward, viewed from a low angle, with a green grassy field in the background and pebbled areas.",
+        "3": "the object stands on green grass with its tongue out, surrounded by patchy brown-spotted grass in a spacious, open area with blurred distant vegetation.",
+        "4": "the object is sitting sideways to the camera with hind legs on a couch, surrounded by geometric-patterned cushions, in a living room with neutral walls and visible hardwood flooring.",
+        "5": "The object sits on a large tree stump in a foggy grassy area. Distant trees and paths are barely visible, suggesting a natural setting.",
+        "6": "The object is lying sideways to the camera beside a letter board with age and weight, near a large window showing snowy trees. The white floor panels enhance the bright, minimalist interior.",
+        "7": "The object sits on a couch with a colorful patterned cushion, sideways to the camera. Shutters on the windows cast striped shadows, with a plush throw draped over the furniture."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object sits upright, head lifted, next to a letter board listing weight and age, in front of a large window showcasing stars and a moon. Bare tree silhouettes appear against the blue sky, with shadows on a pale wooden floor.",
+        "1": "The object is on a large rock ledge against a full moon, with a black and blue harness and leash glimmering in the moonlight. Dark rolling hills and a star-speckled sky with faintly glowing clouds surround it.",
+        "2": "The object is in a closeup energetic stance, ears flapping, viewed from a low angle under a moonlit sky. A dark, grassy field extends in the background with subtle shadows and twinkling stars, creating a tranquil nighttime ambiance.",
+        "3": "The object stands on moonlit grass with its tongue out under the night sky. The grass has mystical brown patches, gently highlighted by the moon's glow. Distant shadowy vegetation is subtly blurred.",
+        "4": "The object is sideways, hind legs over a couch, surrounded by geometric-patterned cushions. The living room is dim with shadowed walls in a night-themed style. Hardwood flooring faintly glimmers, and soft light from an unseen source casts silhouettes.",
+        "5": "The object sits on a large tree stump, illuminated by moonlight, in a shadowy grassy area. Distant trees and paths are visible through the mist, under a night sky with stars peeping through clouds.",
+        "6": "The object lies sideways to the camera beside a letter board showing age and weight. A large window reveals a moonlit winter night with silhouetted snowy trees. White floor panels shimmer softly under the moonlight in the dimly lit interior.",
+        "7": "The object sits sideways on a couch, indoors at night. A colorful patterned cushion is dimly lit. Shutters create striped shadows mixed with moonlight. A plush throw is draped over the furniture."
+    },
+    "prompt_shared": "extraterrestrial alien pet",
+    "prompt_theme": "night",
+    "object_token": "animal"
+}

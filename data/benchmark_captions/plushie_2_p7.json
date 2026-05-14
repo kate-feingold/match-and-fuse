@@ -1,0 +1,19 @@
+{
+    "src": "A Meowth pokemon toy sitting and waving hands, in hyper-realistic anime-inspired style. It has oversized embroidered eyes and sharply defined lines around its face and limbs.",
+    "edit": "A Meowth pokemon toy sitting and waving hands in a low-poly style, with blocky form and angular geometric shapes. Its face and limbs have flat planes and sharp edges, in a muted color palette.",
+    "per_image_non_shared_src": {
+        "0": "The Pokemon is on a dark wooden table in the room corner, viewed slightly from above, with plain white walls.",
+        "1": "The Pok\u00e9mon is viewed slightly from above, placed on a white metal lattice in a room corner with plain white walls.",
+        "2": "A Pokemon is lying on a black background.",
+        "3": "The Pok\u00e9mon is viewed slightly from below, sitting on a metal stick, with one leg hanging down and one partially hidden, against a plain white background."
+    },
+    "per_image_non_shared_edit": {
+        "0": "A low-poly Pok\u00e9mon is viewed slightly from above, appearing geometric and faceted with angular surfaces, on a dark wooden table. It is near the room corner with walls in a triangular, angular style, following low-poly art.",
+        "1": "A low-poly Pokemon viewed from above has a faceted, geometric design. It sits on a white metal lattice with simple intersecting lines. The room has plain white walls, flat surfaces, and sharp edges, reflecting early computer graphics and low-poly art styles.",
+        "2": "A pokemon with geometric facets in vibrant colors, arranged in a tessellated design. The black plain background contrasts, highlighting its low-poly aesthetic. Emphasizing angular lines and shape, the creature resembles a vibrant sculpture-like figure.",
+        "3": "The Pok\u00e9mon is viewed slightly from below, in a low-poly design with geometric shapes. It sits on a faceted metal stick, one leg hangs down, while the other blends into the surface, on a plain white background."
+    },
+    "prompt_shared": "low poly pokemon plushie",
+    "prompt_theme": "low poly",
+    "object_token": "plushie"
+}

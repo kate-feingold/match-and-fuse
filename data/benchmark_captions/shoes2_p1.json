@@ -1,0 +1,23 @@
+{
+    "src": "A pencil drawing of casual sneakers with a low-top silhouette, rounded toes, and lace-up closure. They are in a neutral tone, have thin laces, a subtle outline of the sole, and appear well-worn.",
+    "edit": "Vibrant sneakers with multicolored upper and bright contrasting laces. Low profile with dynamic patterned sole.",
+    "per_image_non_shared_src": {
+        "1": "The shoes are mid-stride on a smooth floor with diagonal lines in the background. The leading foot is slightly lifted, suggesting motion.",
+        "2": "Shoes on the floor with legs outstretched on a sofa; distinct lines form the armrest.",
+        "3": "Shoes push against bicycle pedals, with one foot engaged and the other rests. The bicycle frame and spokes are visible, suggesting dynamic activity.",
+        "4": "Shoes on rocky terrain with small stones around, background hints at an outdoor environment.",
+        "5": "shoes caught mid-step in a puddle, creating ripples, with reflections in the water on a rainy street.",
+        "6": "The shoes ascend a staircase, each step distinctly outlined, viewed from a perspective emphasizing upward action, with a backdrop of precisely drawn steps."
+    },
+    "per_image_non_shared_edit": {
+        "1": "Shoes mid-stride on a smooth floor with diagonal lines in the background, leading foot slightly lifted.",
+        "2": "Shoes on the floor, legs outstretched on a sofa with distinct lines forming the armrest.",
+        "3": "One shoe pushes a bicycle pedal while the other rests, with visible bicycle frame and spokes.",
+        "4": "Shoes placed on rocky terrain with small stones, hinting at an outdoor environment.",
+        "5": "The shoes are mid-step, creating ripples and reflections in a puddle, suggesting walking on a rainy street.",
+        "6": "Shoes ascending a staircase, each step outlined, the perspective emphasizes upward action with a backdrop of drawn steps."
+    },
+    "prompt_shared": "colorful shoes",
+    "prompt_theme": null,
+    "object_token": "storyboard sketch"
+}

@@ -1,0 +1,21 @@
+{
+    "src": "A plush red creature with fluffy fur, googly eyes on stalks, and a wide smiling mouth. It has a yellow patch on its belly, fuzzy limbs with white-tipped hands and feet, and distinct textures.",
+    "edit": "A shadowy red creature with tattered fur, eerie eyes on stalks, and a sinister grin with sharp teeth. It has a blood-stained patch on its chest, ghostly limbs, and skeletal claws, shown in gothic-horror style.",
+    "per_image_non_shared_src": {
+        "00": "the object is sitting against the window edge in a high-rise building, seen from the side, with green trees and multiple buildings in the background visible through the glass, the window ledge is cluttered with books",
+        "01": "The object is atop a black computer monitor, facing forward, in an open office with white and green dividers, computer screens, and overhead fluorescent lights.",
+        "02": "The object is leaning back in a window sill, slightly rotated left, legs and hands crossed, with sunlight casting a shadow on its yellow belly. Outside, a garden is faintly visible, contrasting the object's vibrant hues.",
+        "03": "the object on a car's hood under shade, facing the camera, with the windshield partially visible, surrounded by reflections of green trees on the vehicle's surface, suggesting a sunny day",
+        "04": "the object is on a textured rock amidst sparse grass, trees, and small twigs, with scattered yellow leaves, suggesting an outdoor park or garden."
+    },
+    "per_image_non_shared_edit": {
+        "00": "An ancient object rests against the window edge of a high-rise at night. Dark trees and crumbling buildings are in the background. The window ledge has ancient, dusty tomes piled haphazardly, with yellowed pages.",
+        "01": "A menacing raven sits on an obsidian monitor in a desolate office. It's surrounded by rusted iron dividers and cracked screens. Dim gas lamps overhead cast shadows on barren walls, with distant thunder echoing a gothic horror ambiance.",
+        "02": "A shadowy figure reclines in a dimly lit window sill, slightly tilted left, with elongated limbs crossed. Moonlight casts a shadow on its pale skin. Outside, a twisted overgrown garden is barely visible, contrasting with the figure's spectral presence.",
+        "03": "The object is on a vintage car's hood under gnarled branches, facing the camera. The windshield has cobwebs, with tree reflections on the vehicle. Shadows are on the metal, under a dark sky.",
+        "04": "The object is on a jagged rock surrounded by dry grass and gnarled trees with twisting branches. Twigs cast shadows around, with some scattered yellow, withered leaves, in a haunted garden setting of gothic horror."
+    },
+    "prompt_shared": "gothic horror monster toy",
+    "prompt_theme": "gothic horror",
+    "object_token": "toy"
+}

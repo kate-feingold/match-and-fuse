@@ -1,0 +1,19 @@
+{
+    "src": "A woven rattan hanging chair with an egg-like shape, circular weave pattern, and plush cream cushion, suspended by a sturdy rope.",
+    "edit": "A hanging chair in a maximalist design, made of woven rattan with an egg-like shape and circular weave pattern. It dangles from a sturdy rope and has a cream cushion with lavish textures.",
+    "per_image_non_shared_src": {
+        "rosemary-fields-Ah52Hgrae-Y-unsplash": "a chair is upright, slightly left of a vibrant indoor plant in a tall metallic pot, with a white brick wall behind, and daylight filtering through a large window.",
+        "rosemary-fields-ZIGZDDsoYCw-unsplash": "The chair is centered, hanging next to a green plant in a wicker basket, against a tall window with a black frame and a white brick wall for texture.",
+        "rosemary-fields-cHo2KJxqPuU-unsplash": "A chair is angled slightly forward, next to a leafy indoor plant in a woven holder on a stand. A worn white brick wall is the backdrop, with shadows from daylight through a large window.",
+        "rosemary-fields-lxDmpH2QLmM-unsplash": "A chair is viewed from the side, highlighting the weave pattern, next to a green plant in a basket, against a textured white brick wall, lit by natural light from a nearby window."
+    },
+    "per_image_non_shared_edit": {
+        "rosemary-fields-Ah52Hgrae-Y-unsplash": "A chair with luxurious fabrics is upright, slightly left of an oversized indoor plant in a gold-gilded pot. Behind, a white brick wall has eclectic artwork, with daylight through stained-glass windows casting light on rich tapestry curtains.",
+        "rosemary-fields-ZIGZDDsoYCw-unsplash": "A chair with vibrant upholstery and intricate patterns hangs next to a green plant in an ornate wicker basket. Behind, a tall black-framed window and a white brick wall with eclectic artworks and layered textures enhance the maximalist style.",
+        "rosemary-fields-cHo2KJxqPuU-unsplash": "The chair has vibrant patterns and is angled slightly forward. Adjacent is a leafy plant in a colorful pot on an ornate stand. The backdrop is a white brick wall with artwork and textiles, enhanced by daylight through a multi-paned window.",
+        "rosemary-fields-lxDmpH2QLmM-unsplash": "The chair viewed from the side, has an ornate weave pattern with bold colors. Next to it is a lush green plant in a basket. The backdrop is a white brick wall with eclectic art, all lit by natural light."
+    },
+    "prompt_shared": "maximalist-styled chair",
+    "prompt_theme": "maximalist",
+    "object_token": "chair"
+}

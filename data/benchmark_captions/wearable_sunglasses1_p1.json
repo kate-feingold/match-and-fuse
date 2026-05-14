@@ -1,0 +1,31 @@
+{
+    "src": "Sunglasses with square blue lenses and thin gold frame, featuring adjustable nose pads. The arms are slender and metallic, complementing the minimalist design.",
+    "edit": "Futuristic glasses with two-toned lenses, blending silver and translucent blue hues. The frame is sleek and metallic with intricate patterns, featuring adjustable nose pads and digital display on lenses.",
+    "per_image_non_shared_src": {
+        "0": "The object rests on a wooden table beside a bright orange case, with an office setting in the background, including a black shelf and various office supplies.",
+        "1": "The object is on a beige pillow, showcasing the lenses' reflective surface, set against a soft, textured bedding.",
+        "2": "The object stands on a windowsill against a backdrop of a bright green tree, visible through the window screen, along with parked cars outside.",
+        "3": "The object is positioned on a white pouch, spread on a wooden table, with nearby trinkets and a cozy indoor setting around.",
+        "4": "The object is on a multicolored, plush surface, showcasing the lenses clearly, surrounded by a soft, patterned textile.",
+        "5": "The object lies on a black surface, on a wooden desk, surrounded by office gadgets and a blue notebook in the background.",
+        "6": "The object is on a white windowsill, against a backdrop of green trees outside, with the window's pane and lock in view.",
+        "7": "The object sits on a plush dark blue surface, with a slotted black chair above, within a small cozy room.",
+        "8": "The object rests on a pink, polka-dotted blanket, placed in a domestic setting with cozy fabrics around.",
+        "9": "The object is on a smooth black surface, set on a wooden desk, with office accessories scattered around."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object rests on a wooden table beside a bright orange case, with a neat home setting in the background, including a well-organized shelf and various home supplies.",
+        "1": "The object is on a neatly arranged beige pillow, showcasing the lenses' futuristic surface, set against a minimalistic, tidy bedding in a home setting.",
+        "2": "The object stands on a windowsill against a backdrop of a neatly landscaped garden, visible through the window screen, along with neatly parked cars outside.",
+        "3": "The object is positioned on a pristine white pouch, spread on a polished wooden table, with nearby decorations and a stylish indoor setting around.",
+        "4": "The object is on a multicolored, plush surface, showcasing the lenses' futuristic tones, surrounded by neatly arranged textiles.",
+        "5": "The object lies on a sleek black surface, on a wooden desk, surrounded by well-organized gadgets and a polished notebook in the background.",
+        "6": "The object is on a pristine white windowsill, against a backdrop of neatly trimmed trees outside, with the window's pane and lock clearly visible.",
+        "7": "The object sits on a plush dark blue surface, with a stylish slatted black chair above, within a neat and cozy room.",
+        "8": "The object rests on a neatly patterned pink blanket, placed in a tidy domestic setting with organized cozy fabrics.",
+        "9": "The object is on a smooth black surface, set on a polished wooden desk, with neatly arranged office accessories around."
+    },
+    "prompt_shared": "two-colored sci-fi glasses",
+    "prompt_theme": "neat home",
+    "object_token": "object"
+}

@@ -1,0 +1,21 @@
+{
+    "src": "An orange tabby cat with ginger stripes, glossy coat, and sharp green eyes. It has a pink nose, prominent whiskers, and a balanced body.",
+    "edit": "A marble statue of a cat, with cream and grey veins, showcasing polished textures. The eyes have detailed inlays, and the ears and facial features are crafted to mimic a real cat.",
+    "per_image_non_shared_src": {
+        "melanie-andersen-4imykgmUTSs-unsplash": "the animal is sitting, head tilted upward, eyes closed, basking in sunlight on a balcony with dense greenery in the background.",
+        "melanie-andersen-Agbtans6EUM-unsplash": "The animal is nestled in a grey cocoon-style bed with its head and one paw outside, eyes open. Gray surroundings create a cozy indoor space.",
+        "melanie-andersen-GqQ_hkOiUTE-unsplash": "The animal is sprawled on colorful fabric with large eyes looking up, amidst swirling purple and red patterns contrasting with its orange fur.",
+        "melanie-andersen-da0u7-jIVrc-unsplash": "A sunbathing animal inside a white round container, eyes closed, one paw over the edge. Clay pots with purple flowers and a blue sky with bare branches are visible through a window in the background.",
+        "melanie-andersen-oncyUnQ4T6M-unsplash": "The animal is in a close-up shot with its head resting against an edge, eyes striking, focus on the face, with a blurred outdoor background."
+    },
+    "per_image_non_shared_edit": {
+        "melanie-andersen-4imykgmUTSs-unsplash": "The animal sits close up, head tilted upward, eyes closed, under moonlight. It's on a balcony with faded patterns, dense greenery in dark hues in the background, creating a mysterious, tranquil night setting.",
+        "melanie-andersen-Agbtans6EUM-unsplash": "The animal is partially nestled inside a dark cocoon-style bed with its head and one paw outside, illuminated by moonlight through a window. The indigo background and faint stars are visible, creating a serene night scene.",
+        "melanie-andersen-GqQ_hkOiUTE-unsplash": "The animal is sprawled on a fabric with dark purple and midnight blue patterns, under a starry night sky. Its large eyes reflect the moonlight, complementing its subdued orange fur, in a dreamy nocturnal atmosphere.",
+        "melanie-andersen-da0u7-jIVrc-unsplash": "The animal rests under moonlight in a shadowy round container, eyes closed, a paw over the edge. Clay pots with indigo flowers create silhouettes. Through the window, a starry sky is visible with silhouetted branches.",
+        "melanie-andersen-oncyUnQ4T6M-unsplash": "The animal, in close-up, rests its head against an edge, eyes glistening in moonlight. A distant streetlamp softly illuminates its face, set against a blurred nightscape with stars in the sky."
+    },
+    "prompt_shared": "two-colored marble statue",
+    "prompt_theme": "night",
+    "object_token": "animal"
+}

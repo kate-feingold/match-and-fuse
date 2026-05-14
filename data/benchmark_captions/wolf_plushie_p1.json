@@ -1,0 +1,21 @@
+{
+    "src": "A plush gray and white husky toy with a red collar, blue eyes, and a black nose. It has a soft, fuzzy texture and a curved tail. The ears point slightly forward.",
+    "edit": "A lively Aussie puppy with glossy blue eyes, a fluffy merle coat blending gray, black, and white patterns, and a shiny red collar. Its black nose is small and round, with perked ears.",
+    "per_image_non_shared_src": {
+        "00": "The object lies on a large rock in the center of a landscaped urban park. Background includes lush greenery, buildings, a bicycle, and a stop sign on the street.",
+        "01": "The object is on bright green grass, positioned head down as if sniffing. The scene is in an open field of mowed grass, with no distinct features around.",
+        "02": "The object is near a tree with green grass around, facing downward with a playful stance. The background has a large tree trunk and a grassy field.",
+        "03": "The object is laying on a green park bench, oriented sideways. The bench is surrounded by a grassy area. The wooden planks have a slightly weathered appearance.",
+        "04": "The object rests on concrete in front of a red brick wall. The scene is urban with rough-textured bricks and some sidewalk dirt."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object lies on a snow-covered rock in a winter urban park. Background includes snow-dusted greenery, frost-covered buildings, a bicycle, and snow-topped street signs.",
+        "01": "The object is on a field of snow, positioned head down. The open space is a snowy landscape, with a blanket of pure white snow all around.",
+        "02": "The object is near a tree with snow on the ground around, facing downward. The background has a tree trunk draped in snow and a snowy field.",
+        "03": "The object is sitting on a frosty park bench, sideways. The bench is surrounded by snow-covered ground. The wooden planks appear icy and chill.",
+        "04": "The object rests on icy concrete in front of a snow-dusted red brick wall. The urban scene is wintery with rough bricks and patches of ice."
+    },
+    "prompt_shared": "a real aussie puppy",
+    "prompt_theme": "winter",
+    "object_token": "plushie"
+}

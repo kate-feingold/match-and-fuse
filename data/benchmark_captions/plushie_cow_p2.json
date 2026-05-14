@@ -1,0 +1,29 @@
+{
+    "src": "Plush toy cow with bright white fur, black spots, and expressive big eyes. The cow is wearing a navy-blue UC Davis shirt, has small beige horns, and a short fluffy tuft of hair on its head.",
+    "edit": "Translucent two-colored glass figure, body in a shimmering aqua blue with hints of green, detailed with elegant swirling patterns. The head features intricate etching forming expressive eyes, and subtle white spirals set into the surface.",
+    "per_image_non_shared_src": {
+        "0": "The object is seated upright in a partially open drawer. The background includes a folded green towel, an orange case, a burgundy and white carpet visible beneath the drawer.",
+        "1": "The object is positioned against a black appliance, with a teal towel draped over it. Shiny spoons lie nearby, with the object placed on a white lid.",
+        "2": "The object stands against a burgundy and white carpeted surface, leaning slightly towards the left.",
+        "3": "The object is partially submerged in a teal bag, which rests on a red and white rug. Part of a wooden cupboard is visible to the left.",
+        "4": "The object lies face-down on a grey speckled surface, next to a pink item and a light brown object.",
+        "5": "The object is on a light blue towel, slightly tilted to its right, with no other items visible around it.",
+        "6": "The object peeks out from a wooden drawer, surrounded by neatly folded white clothing, giving a peek into the interior.",
+        "7": "The object stands against a metallic surface illuminated with colorful rainbow-like reflections, casting shadows on the metal.",
+        "8": "The object is snuggled within a fluffy multi-colored blanket, featuring pink, grey, and white patches with a soft texture."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is seated upright in a drawer, surrounded by winter-themed items. The folded towel now appears icy with frost, the orange case is now textured like snow, with a snowflake pattern carpet.",
+        "1": "The object is positioned against an appliance with a winter theme, with the teal towel appearing like soft snow. Nearby spoons have a frosted look, and the entire setting has a wintery charm.",
+        "2": "The object stands against a background resembling snow-dusted carpet with patches of snow forming a wintry burgundy and white scene.",
+        "3": "The object is partially submerged in a teal bag on a snow-patterned rug. The wooden cupboard now resembles a frosty cabin interior, with a chilly atmosphere.",
+        "4": "The object lies face-down on a surface resembling icy gravel, next to a pale pink snowy item and a light brown frosty object.",
+        "5": "The object is on a towel resembling frozen ice, capturing the essence of a chilly winter setting under a pale blue hue.",
+        "6": "The object peeks out from a wooden drawer where folded clothing appears as soft, fluffy snow, resembling a cozy winter cabin.",
+        "7": "The object stands against a metallic surface with reflections of wintery auroras, casting colorful, icy shadows on the metal.",
+        "8": "The object is snuggled within a blanket that now appears as fluffy snow with pastel hues, evoking a soft and warm winter feeling."
+    },
+    "prompt_shared": "two-colored glass toy",
+    "prompt_theme": "winter",
+    "object_token": "plushie"
+}

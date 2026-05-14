@@ -1,0 +1,21 @@
+{
+    "src": "A children's backpack with a dog face design, featuring floppy ears, an embroidered smile, and a pink tongue. It has a grey main compartment with a brown nose, a blue zipper, and blue straps.",
+    "edit": "A children's backpack with a dog face in winter style, features floppy ears with white faux fur, embroidered smile with icy blue threads, and pink tongue. Frosty grey main compartment with brown nose and silver zipper, icy blue straps.",
+    "per_image_non_shared_src": {
+        "00": "Backpack viewed slightly from above, propped against a window ledge overlooking a cityscape with tall buildings, trees below, in bright daylight.",
+        "01": "the backpack is positioned on a window sill facing a city view of skyscrapers and a river, with a panoramic urban skyline, under an overcast sky with subdued lighting.",
+        "02": "A backpack sits upright on a light wooden table surrounded by cushioned seating areas, indoors, with window light casting shadows, colorful patterned carpet.",
+        "03": "The backpack hangs on a chain link fence in a lush garden with green grass, leafy trees, tall foliage, and cleared sections, creating a park-like setting.",
+        "04": "The backpack is on green grass near a paved street, surrounded by sidewalks and parked cars in a suburban area with maintained lawn and greenery."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The backpack is viewed from above, resting against a frosted window ledge overlooking a snow-covered cityscape with modern buildings, leafless trees, and white streets, bathed in winter daylight.",
+        "01": "A backpack rests on a frosty window sill facing a snow-covered cityscape with skyscrapers and a partially frozen river. The sky is gray, and the backpack is dusted with snowflakes in a serene winter view.",
+        "02": "The backpack sits upright on an icy white wooden table indoors. It is surrounded by snow-covered seating areas and frost-covered windows casting long shadows. The room has cozy furniture with thick blankets and a carpet in deep blues and soft grays.",
+        "03": "A backpack is draped over a snow-covered chain link fence in a garden with snow-covered grass and trees. The background has icy branches and clearings with reflecting sunlight.",
+        "04": "A backpack rests on snow near an icy street with shovelled sidewalks and parked cars dusted with frost. Evergreen shrubs peek through the snow, with snowflakes cascading from an overcast sky and the area clad in white."
+    },
+    "prompt_shared": "winter-themed children's backpack",
+    "prompt_theme": "winter",
+    "object_token": "backpack"
+}

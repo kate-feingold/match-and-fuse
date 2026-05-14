@@ -1,0 +1,21 @@
+{
+    "src": "A sleek domestic short-haired ginger cat with tabby stripes, large alert ears, and wide golden eyes. Its fur is smooth and glossy in sunlight, with a lean athletic body.",
+    "edit": "A sleek robotic pet with a metallic copper and silver exterior, glowing amber lights for eyes, white panels on chest and joints. It has antenna-like sensors for ears and thin metallic whiskers.",
+    "per_image_non_shared_src": {
+        "00": "The object lays on its right side (left side of the frame), covered with dry leaves and sunlight patches amidst dense foliage, surrounded by leafy plants. Lighting creates a dappled effect over the scene.",
+        "01": "the object is sitting upright on an uneven surface of dry leaves and green grass in a woodland setting.",
+        "02": "the object sits centrally on dry leaves with scattered greenery, enclosed by thick bushes in a forest.",
+        "03": "The object sits off-center with an alert posture among brown leaves and tufts of grass, enveloped in shadow, surrounded by interwoven branches and undergrowth.",
+        "04": "the object is a close-up with the face in focus against a blurry backdrop of dark woods and greenery, contrasting the light on the face with the dark environment."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object is on the ground, leaning on its right side, illuminated by moonlight through cloud cover. It's surrounded by leafy plant silhouettes, with starlight speckling the area, creating a tranquil night scene.",
+        "01": "The object sits upright on dry leaves and grass, softly illuminated by moonlight. Nearby trees cast long shadows under the night sky with stars twinkling above, creating a tranquil woodland scene.",
+        "02": "The object is centrally placed on dark leaves under moonlight, surrounded by silver-tinged greenery and thick bushes. The forest is deep in shadows from the night glow.",
+        "03": "An object sits off-center under a night sky, nestled among brown leaves and grass. Surrounded by branches and undergrowth, softly illuminated by moonlight, with stars above.",
+        "04": "The object is shown in a close-up under the night sky, with the face lit by moonlight against shadowy woods and faint starlight, capturing the glow on the face and surrounding darkness."
+    },
+    "prompt_shared": "robot pet",
+    "prompt_theme": "night",
+    "object_token": "animal"
+}

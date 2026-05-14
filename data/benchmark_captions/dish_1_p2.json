@@ -1,0 +1,19 @@
+{
+    "src": "A dish of Beef Wellington with a rich, flaky golden brown pastry crust encasing a tender, juicy pink center. Served with roasted carrots and potatoes, garnished with fresh herbs.",
+    "edit": "An exquisite fine-dining dessert with a delicate, golden crust and a succulent, velvety center, garnished elegantly with fresh fruits and edible gold leaf, presenting a culinary masterpiece.",
+    "per_image_non_shared_src": {
+        "0": "The object is centrally positioned on a white plate, with caramelized sauce spread around it. The background features a wooden table setting with cutlery on both sides and a glass in the distance.",
+        "1": "The object is set in the center of a white plate, surrounded by a rich sauce. The background consists of a wooden table, cutlery placed neatly, with soft, ambient lighting illuminating the scene.",
+        "2": "The object is positioned prominently on a white plate, draped in a glossy sauce. A wooden table is set with cutlery and a faint glass outline, under warm, dim restaurant lighting.",
+        "3": "The object sits centered on a round white plate in a pool of sauce. Cutlery is placed beside the plate on a wooden table, with subtle background lighting enhancing the dinner setting."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is centrally positioned on a white plate, with caramelized sauce spread around it. The luxury restaurant background features an elegant wooden table with cutlery on both sides and softly lit decor.",
+        "1": "The object is set in the center of a white plate, surrounded by a rich sauce. The luxury restaurant background consists of a sophisticated wooden table, refined cutlery, and a warm ambient glow.",
+        "2": "The object is positioned prominently on a white plate, draped in a glossy sauce. A luxury restaurant scene features a polished wooden table set with cutlery and subtle, intimate lighting.",
+        "3": "The object sits centered on a round white plate in a pool of sauce. Luxury restaurant setting with cutlery beside the plate on an elegant wooden table, upscale lighting enhancing the ambiance."
+    },
+    "prompt_shared": "fine-dining desert",
+    "prompt_theme": "luxury restaurant",
+    "object_token": "object"
+}

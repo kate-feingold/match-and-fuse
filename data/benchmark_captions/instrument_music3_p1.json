@@ -1,0 +1,25 @@
+{
+    "src": "A small, sunburst electric guitar with a glossy finish, featuring a distinct hollow body and white pickguard. It has chrome hardware, a dark fretboard with dot inlays, and a black headstock with silver tuning pegs.",
+    "edit": "A vibrant, colorful mini cello, adorned with playful patterns and a glossy finish. It features a mix of pastel hues, a richly decorated scroll, whimsical motifs, and bright strings, designed to look charming and youthful.",
+    "per_image_non_shared_src": {
+        "0": "The object stands upright on a black surface next to a window. The outdoor background shows a patio with plank fencing and green plants visible through the gaps.",
+        "1": "The object stands upright against a white, louvered window blind, casting shadows and allowing glimpses of a sunlit outdoor scene through the window.",
+        "2": "The object lies diagonally on a gray balcony railing. The background features a concrete walkway and scattered bits of debris, with the sky visible above.",
+        "3": "The object rests horizontally on a textured, light fabric surface. The setting appears minimalistic, focusing on the fabric's texture and neutral tones.",
+        "4": "The object lies on a marble surface with a mottled pattern, featuring hues of brown and cream. The surface's sleek texture contrasts with the object's glossy finish.",
+        "5": "The object lies diagonally on a dark, marble-patterned surface. The background is composed of darker sections mixed with lighter, natural stone shades.",
+        "6": "The object rests on a wooden surface with visible grain and texture. The light wood contrasts with the darker colors of the object, providing a simple, rustic setting."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object stands upright on a black surface in a kid's room. A background of bright, playful colors with cartoon-themed wallpaper creates a cheerful atmosphere.",
+        "1": "The object stands upright against a colorful, louvered window blind in a kid's room, with fun stickers and cheerful decorations visible through the gaps.",
+        "2": "The object lies diagonally on a gray balcony railing in a kid's room. The colorful patterns on walls with playful motifs enhance the child-friendly setting.",
+        "3": "The object rests horizontally on a textured, light fabric surface in a kid's room. The fabric has bright patterns fitting for a playful, youthful room.",
+        "4": "The object lies on a marble surface with a vivid pattern in a kid's room. The surface now features cartoon characters and bright splashes of color.",
+        "5": "The object lies diagonally on a marble-patterned surface in a kid's room. The surface's light and vibrant patterns suit the playful setting.",
+        "6": "The object rests on a wooden surface in a kid's room, with bright colors and patterns adding a playful touch to the wooden texture."
+    },
+    "prompt_shared": "a cute colorful cello",
+    "prompt_theme": "kida room",
+    "object_token": "object"
+}

@@ -1,0 +1,21 @@
+{
+    "src": "A plush red creature with fluffy fur, googly eyes on stalks, and a wide smiling mouth. It has a yellow patch on its belly, fuzzy limbs with white-tipped hands and feet, and distinct textures.",
+    "edit": "A robotic red creature with metallic plating, luminescent eyes on stalks, and a wide LED-lit mouth. It has a glowing yellow force field on its midsection. It features articulated limbs with white-tipped hands and feet, combining sleek and contrasting textures.",
+    "per_image_non_shared_src": {
+        "00": "the object is sitting against the window edge in a high-rise building, seen from the side, with green trees and multiple buildings in the background visible through the glass, the window ledge is cluttered with books",
+        "01": "The object is atop a black computer monitor, facing forward, in an open office with white and green dividers, computer screens, and overhead fluorescent lights.",
+        "02": "The object is leaning back in a window sill, slightly rotated left, legs and hands crossed, with sunlight casting a shadow on its yellow belly. Outside, a garden is faintly visible, contrasting the object's vibrant hues.",
+        "03": "the object on a car's hood under shade, facing the camera, with the windshield partially visible, surrounded by reflections of green trees on the vehicle's surface, suggesting a sunny day",
+        "04": "the object is on a textured rock amidst sparse grass, trees, and small twigs, with scattered yellow leaves, suggesting an outdoor park or garden."
+    },
+    "per_image_non_shared_edit": {
+        "00": "A sleek metallic object with blue and green lights sits at the window edge of a futuristic high-rise. Outside, megastructures and flying vehicles fill the sky. The window ledge has data pads with holographic texts and images.",
+        "01": "A sleek metallic object is on top of a glossy black computer monitor in a high-tech office space, illuminated by neon blue displays. Modern dividers shimmer holographic green, with futuristic LED panels overhead emitting soft white light.",
+        "02": "The object is in a transparent synth-glass window sill, slightly rotated left within a metallic frame. Its limbs are crossed. Neon lights cast a shadow on its yellow torso. A holographic garden is faintly visible.",
+        "03": "A futuristic object is on a sleek car with a metallic surface, under the shadow of a spacecraft. Illuminated by digital billboards, it faces forward with holographic elements reflecting. Windshield displays digital data, with AR projections of an urban landscape, under a bright sun with green light shards.",
+        "04": "The object hovers above a metallic landscape with LED grass, bioluminescent trees, and artificial branches. Chrome-yellow leaves are scattered. The ground is a high-tech composite surface with holographic light patterns, creating a sci-fi atmosphere."
+    },
+    "prompt_shared": "sci-fi monster toy",
+    "prompt_theme": "sci-fi",
+    "object_token": "toy"
+}

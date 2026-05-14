@@ -1,0 +1,21 @@
+{
+    "src": "A soft plush sloth toy with a warm brown fur, white face, dark brown eye markings, and long floppy arms and legs with off-white felt claws.",
+    "edit": "A vibrant plush sloth toy in pop-art style with electric blue fur, neon yellow face, hot pink markings around the eyes. It has long arms, legs, vivid orange felt claws, and bold colorful stitching.",
+    "per_image_non_shared_src": {
+        "00": "The toy is on green grass next to a large tree with a textured trunk, surrounded by dirt and vibrant grass.",
+        "01": "the toy sits on a gray stone surface beside a river; across the water, a cityscape with tall buildings and green foliage is visible; the sky is cloudy.",
+        "02": "The toy is on lush green grass with scattered trees in the background, an expansive field with varying green shades, and park patches visible in the distance.",
+        "03": "The toy rests on a green wooden bench, with visible raindrops and aged textures, next to dirt and sparse vegetation. Nearby bushes detail the backdrop.",
+        "04": "The toy sits on a gray asphalt path with small pebbles, long lines, and faint cracks."
+    },
+    "per_image_non_shared_edit": {
+        "00": "A toy rests on a vivid green background, beside a towering tree with textured trunk. The ground has bold earth hues, electric grass, and rich colors. Stark outlines define the scene, capturing Pop-Art style with light and shadow play.",
+        "01": "A vivid toy rests on a color-blocked surface next to a blue river. Across the water, a cityscape with tall, primary-colored buildings and exaggerated green foliage emerge. The sky is a graphic swirl of bright colors, in pop-art style.",
+        "02": "A toy is on neon green grass with stylized trees in the background, outlined in thick black lines of Pop-Art. The field has exaggerated greens, with distant park patches in primary colors and abstract shapes enhancing the Pop-Art style.",
+        "03": "A vibrant, colorful toy sits on a bright green, cartoonish bench with exaggerated raindrops in a comic book style. The bold lines and vivid colors resemble pop-art. Nearby bushes have energetic patterns and vibrant hues.",
+        "04": "A vibrant toy sits on a colorful asphalt path with vivid pebbles and exaggerated lines in a Pop-Art style, contrasting the plain background with bold color areas and graphic elements."
+    },
+    "prompt_shared": "Pop Art sloth plushie",
+    "prompt_theme": "Pop Art",
+    "object_token": "plushie"
+}

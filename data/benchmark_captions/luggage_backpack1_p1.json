@@ -1,0 +1,21 @@
+{
+    "src": "A sleek maroon leather backpack with a rectangular shape. It features a top flap secured by a metallic clasp, a front pocket with buckled straps, and adjustable shoulder straps.",
+    "edit": "A two-toned vintage-style bag in rich burgundy and tan. It boasts a classic rectangular shape, an ornate clasp, intricate stitching, dual leather straps, and vintage brass buckles.",
+    "per_image_non_shared_src": {
+        "jasmin-chew-FPIsojqpgDw-unsplash": "The object is worn by a person standing sideways. Background features blurred tree branches and soft daylight.",
+        "jasmin-chew-KwG7_Q5Ni3A-unsplash": "The object is centered, with the person facing forward against a building's wall with stone detailing.",
+        "jasmin-chew-ZVJcHDJDl6Q-unsplash": "The object is held by the handle next to a dark green door, capturing just the lower part of a skirt.",
+        "jasmin-chew-rFxE7kfizrw-unsplash": "The object is grasped by the handle near a rocky shoreline under a bright sky.",
+        "jasmin-chew-uYi66ZIRpOE-unsplash": "The object is worn on the back, angled slightly sideways in front of a green door and stone building."
+    },
+    "per_image_non_shared_edit": {
+        "jasmin-chew-FPIsojqpgDw-unsplash": "The object is worn by a person standing sideways. Background features branches in a retro sepia tone with muted daylight.",
+        "jasmin-chew-KwG7_Q5Ni3A-unsplash": "The object is centered, with the person facing forward against a building with aged stonework in a retro style.",
+        "jasmin-chew-ZVJcHDJDl6Q-unsplash": "The object is held by the handle next to a vintage green door, showing the lower part of a retro-style skirt.",
+        "jasmin-chew-rFxE7kfizrw-unsplash": "The object is grasped by the handle near a shoreline with a nostalgic, sepia-toned sky.",
+        "jasmin-chew-uYi66ZIRpOE-unsplash": "The object is worn on the back, angled slightly sideways in front of a retro-style green door and vintage stone building."
+    },
+    "prompt_shared": "two-colored vintage bag",
+    "prompt_theme": "retro",
+    "object_token": "backpack"
+}

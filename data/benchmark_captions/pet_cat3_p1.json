@@ -1,0 +1,21 @@
+{
+    "src": "A sleek black and white cat with green eyes, predominantly white with black patches on the head and tail. The ears are erect with pink insides, and the whiskers jut out prominently.",
+    "edit": "A stuffed animal made from white and black yarn, with button eyes, a pink stitched nose, and ears with sewn details.",
+    "per_image_non_shared_src": {
+        "manja-vitolic-0oQofg-E5WM-unsplash": "the object is lying on a light-colored fabric cushion, head slightly tilted right; a dark object, possibly a pillow, is in the background, with soft lighting",
+        "manja-vitolic-2cwOQO5JUR8-unsplash": "Object is on a floral-patterned cushion, stretched out with its head propped up against a light-colored wall backdrop.",
+        "manja-vitolic-AwjXbWlZh7k-unsplash": "The object rests sideways on a white surface, gazing ahead. Beside it is a container with geometric black-and-white patterns. The setting is minimalistic with bright, soft lighting.",
+        "manja-vitolic-JiNomzzWw8s-unsplash": "The object is seated straight on a white shelf surrounded by framed art, a sign, a crescent moon figure, a leafy artwork, and a colorful vase. The wall is lightly textured.",
+        "manja-vitolic-xw9SLGy_c6Y-unsplash": "the object stands upright on a white surface, looking forward, a plant with thin green leaves is blurred in the background, with a white backdrop and soft illumination."
+    },
+    "per_image_non_shared_edit": {
+        "manja-vitolic-0oQofg-E5WM-unsplash": "The object is on a dark, moonlit fabric with a shadowy cushion casting long shadows. The head is tilted right. A silhouette in the background hints at a pillow, with night-like lighting and gentle highlights.",
+        "manja-vitolic-2cwOQO5JUR8-unsplash": "The object is lounging on a dark floral cushion, its head resting, against a shadowy wall backdrop. Subtle illumination creates contrast, enhancing the cushion's beauty. The night style emphasizes gentle shadows and soft light, creating a dreamlike environment.",
+        "manja-vitolic-AwjXbWlZh7k-unsplash": "The object rests sideways on a dark surface under moonlight. A container with geometric patterns shimmers beside it. Subdued contrasts and silhouettes reveal intricate details in a tranquil night setting.",
+        "manja-vitolic-JiNomzzWw8s-unsplash": "The object is on a shadowy shelf, posture straight, surrounded by framed star-like art, a crescent moon figure, and a vase with elements like distant constellations, against a dark, velvety wall.",
+        "manja-vitolic-xw9SLGy_c6Y-unsplash": "The object is upright on a dark surface, with deep hues highlighting its silhouette under a night sky. A plant with thin leaves is obscured in the dim background, with moonlight casting subtle shadows."
+    },
+    "prompt_shared": "an animal knitted from a two-colored yarn",
+    "prompt_theme": "night",
+    "object_token": "animal"
+}

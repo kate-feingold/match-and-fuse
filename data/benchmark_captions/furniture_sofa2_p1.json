@@ -1,0 +1,19 @@
+{
+    "src": "A sleek L-shaped sofa in smooth gray leather with plush cushions, featuring a minimalist design and metallic legs. Comes with dark gray and beige cushions, wide seating areas, low backrests, and understated stitching.",
+    "edit": "An art-deco L-shaped gray leather sectional sofa with geometric low backrests, bold stitching, metallic legs with brass finish, and dark gray and beige cushions, offering spacious seating.",
+    "per_image_non_shared_src": {
+        "0": "A sofa is diagonally positioned in the living room corner with hardwood floors and a blue patterned rug partially underneath. To the left is a lamp and a door, with cushions on the sofa.",
+        "1": "A sofa viewed from a lower angle, showing its full length against wooden floors and a corner wall. A rug with patterns is on the right, a lamp is in the background, and pillows are on the sofa.",
+        "2": "The sofa is viewed from above, showing its layout against hardwood floors, with a doorway and dining area in the background, a blue rug partially visible, a small speaker in the corner, and neatly placed cushions.",
+        "3": "The sofa is central against a plain wall with wooden floors, cushions are perfectly arranged. In front, a small rustic table on a blue patterned rug."
+    },
+    "per_image_non_shared_edit": {
+        "0": "A velvet sofa is diagonally in a living room corner on hardwood floors. A blue and gold geometric rug is partially beneath it. To the left, a chrome-plated lamp and an arched wooden door are present. Silk cushions are on the sofa.",
+        "1": "The sofa is seen from a lower angle, showing its geometric form with velvet upholstery and brass accents against wooden floors and a marquetry wall. A rug with Art Deco patterns is on the right, and a chrome lamp is in the background. Pillows have zigzag patterns.",
+        "2": "A sofa viewed from above shows geometric patterns on hardwood floors. A doorway and dining area with angular designs are in the background. A blue rug with gold accents, a chrome speaker, and plush cushions with art-deco motifs are included.",
+        "3": "A sofa with luxurious velvet upholstery and geometric shapes typical of art-deco sits center stage, with bold-patterned cushions. Behind is a mirrored wall reflecting light over a marble floor, and in front is a lacquered table on a black and gold chevron rug."
+    },
+    "prompt_shared": "Art Deco sofa",
+    "prompt_theme": "art deco",
+    "object_token": "sofa"
+}

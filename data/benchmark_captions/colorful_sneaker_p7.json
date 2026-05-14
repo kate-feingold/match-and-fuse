@@ -1,0 +1,21 @@
+{
+    "src": "A multicolored sneaker with pastel purple, mint green, and cream. It has cream laces, a rounded toe, a plush lining, and a chunky sole.",
+    "edit": "A high-top fabric sneaker with asymmetric bold yellow and deep purple colors, silver laces, textured woven textile, and thick transparent rubber sole. It has geometric patterns, an angular silhouette, and a pointed toe.",
+    "per_image_non_shared_src": {
+        "00": "the object is on a diagonal rough concrete surface beside a rippling body of water, with trees in the background and a stone wall behind, separating the water from grass.",
+        "01": "The object is angled slightly to the right on a textured asphalt road with small specks and twigs scattered on the ground. The background is blurred showing the road.",
+        "02": "the object is on vibrant green grass, slightly sunken, surrounded by blades, with freshly mowed grass stretching into the distance.",
+        "03": "the object is lying slightly off-center on a green wooden park bench with some scratches. Behind is a patch of grass and a gray gravel path.",
+        "04": "The object is against a rustic red brick wall on a worn concrete sidewalk with patches and stains. The bricks have a weathered texture with visible mortar."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object is diagonally on a frost-dusted concrete surface beside partially frozen water, surrounded by snow-laden trees. A stone wall with icicles stands behind, separating the icy water from a snow-covered grassy area in a winter style.",
+        "01": "The object is angled slightly right on a textured asphalt road with a light snow dusting. Tiny ice crystals gleam in the air. The background shows the road continuing, lined with snow-laden trees, enveloped in winter light.",
+        "02": "The object is on a blanket of white snow, slightly embedded, with icy edges. Snow stretches into the distance, with falling snowflakes and icicles hanging from nearby branches under an overcast sky.",
+        "03": "The object lies on a green wooden park bench with powdery snow. It's slightly off-center. Grass peeks through the snow behind the bench, and a light gray gravel path is visible under snowfall.",
+        "04": "The object is positioned against a frost-covered red brick wall, resting on a snow-dusted concrete sidewalk with patches and ice, with frozen bricks and frosted mortar, dominated by cool tones."
+    },
+    "prompt_shared": "high-top ultra-modern yellow and purple sneaker",
+    "prompt_theme": "winter",
+    "object_token": "shoes"
+}

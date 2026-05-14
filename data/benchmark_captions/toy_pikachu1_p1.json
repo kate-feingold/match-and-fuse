@@ -1,0 +1,25 @@
+{
+    "src": "A serpentine creature with a long, segmented body, blue scales, and cream underbelly. It has jagged fins, fierce red eyes, and a wide open mouth with sharp teeth, standing on clear blue splash waves.",
+    "edit": "An anime-styled dragon with elongated, sleek scales in vivid tones, shimmering accents, and intricate designs. It has glowing eyes, elegant horns, and a dynamic posture, surrounded by stylized swirling water.",
+    "per_image_non_shared_src": {
+        "0": "The object is facing forward with its mouth open, surrounded by translucent blue waves. It is placed on a dark surface against a gray wall in a minimalistic indoor setting.",
+        "1": "The object is seen from the side, emphasizing its arched neck and flowing tail inside splashing waves. It's on a dark shelf with a gray background in a shadowy room.",
+        "2": "The object is viewed head-on, showing an aggressively open mouth and curling whiskers, engulfed in rising blue waves. It's situated on a black surface with a gray backdrop.",
+        "3": "The object is captured from above, lying tilted over gray textured carpet, showcasing its coiled form and water effect base.",
+        "4": "The object is shot from a high angle, detailing its segmented back and fin crest, submerged in dynamic wave splashes, on a gray carpeting.",
+        "5": "The object shows a side view, fiercely facing the left, surging through translucent water on a dark, smooth surface with a light gray backdrop.",
+        "6": "The object is in a frontal posture, its imposing mouth and detailed spinal fins apparent, stationed on a polished dark table against a plain gray background."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is facing forward with its mouth open, surrounded by translucent blue waves. The anime-style background features dynamic action lines, bright highlights, and gradient colors, creating an energetic, anime-inspired indoor scene.",
+        "1": "The object is seen from the side, emphasizing its arched neck and flowing tail inside splashing waves. Set against vibrant anime backgrounds with distinct shading and exaggerated features, evoking a dynamic animated environment.",
+        "2": "The object is viewed head-on, showing an aggressively open mouth and curling whiskers, engulfed in rising blue waves. The anime backdrop has vibrant hues and bold stroke patterns typical of animated series.",
+        "3": "The object is captured from above, lying tilted over gray textured carpet, showcasing its coiled form and water effect base. Background is stylized with anime line work, rich tones, and artistic textures.",
+        "4": "The object is shot from a high angle, detailing its segmented back and fin crest, submerged in dynamic wave splashes, on a gray carpeting. The anime-inspired setting displays intricate highlights and stylized graphic elements.",
+        "5": "The object shows a side view, fiercely facing the left, surging through translucent water on a vibrant anime background, featuring kinetic action lines and bright color contrasts.",
+        "6": "The object is in a frontal posture, its imposing mouth and detailed spinal fins apparent, stationed on a polished dark table against a meticulously designed anime-themed background."
+    },
+    "prompt_shared": "anime-styled dragon",
+    "prompt_theme": "anime",
+    "object_token": "toy"
+}

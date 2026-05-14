@@ -1,0 +1,19 @@
+{
+    "src": "A light blue rectangular table with rounded edges and smooth texture. It has four thick cylindrical legs and a minimalist design. The table is paired with two bright green chairs, each with a simple, sturdy frame.",
+    "edit": "A vibrant plastic table with bold, multicolored geometric patterns. It features a sleek surface with alternating red, yellow, and blue hues. The four cylindrical legs are striped with bright colors, matching the two multicolored chairs.",
+    "per_image_non_shared_src": {
+        "0": "The table is centered between two green chairs on a gravel floor. Behind, a concrete surface and some gardening supplies are visible, along with a green hose. The area is partially enclosed, creating a sheltered setting.",
+        "1": "The table faces forward between two green chairs, all placed on a gravel surface. In the background, lush pink flowers and a wooden fence provide a bright and natural backdrop for the scene.",
+        "2": "The table is placed outdoors on a concrete surface with the green chairs closely flanking it. The background features a rocky terrain with dense greenery, including ferns and small flowering plants.",
+        "3": "Viewed from above, the table is angled, showing its light blue top between green chairs on a concrete surface. In the background, a plain gray wall provides a neutral color contrast."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is centered between two colorful chairs on a wintery gravel floor. Behind, a snow-dusted concrete surface and frosty gardening supplies are visible, along with an icy hose in an enclosed, chilly setting.",
+        "1": "The object faces forward between vibrant chairs, all on a snowy gravel surface. In the background, frosted pink flowers and a wooden fence covered in ice provide a bright and wintry backdrop.",
+        "2": "The object is situated on a snow-dusted concrete surface with the colorful chairs closely flanking it. The background features a rocky landscape with frosted greenery, including snow-covered ferns and plants.",
+        "3": "Viewed from above, the object is angled, showing its multicolored top between vibrant chairs on a snow-covered concrete surface. In the background, a gray wall is subtly frosted, contrasting with the winter theme."
+    },
+    "prompt_shared": "a colorful plastic table",
+    "prompt_theme": "winter",
+    "object_token": "toy"
+}

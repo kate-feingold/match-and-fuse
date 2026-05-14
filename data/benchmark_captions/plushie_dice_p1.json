@@ -1,0 +1,27 @@
+{
+    "src": "Soft, plush pink dice with black dots representing numbers, tied together with a white string. Each die is a perfect cube with smooth, fuzzy texture, and clear dot markings.",
+    "edit": "Carved wooden dice with indented black dots, displaying number values. Each die is a polished cube, slightly rough in texture, showcasing wood grain patterns and natural color variations.",
+    "per_image_non_shared_src": {
+        "0": "The object rests on a bicycle seat with shiny handlebars. The background features a silver bike rack against a light gray concrete wall, casting distinct shadows on the ground.",
+        "1": "The object is placed on a white ledge against a plain, light-colored wall indoors. The setting is minimal with no additional elements, focusing solely on the ledge and wall.",
+        "2": "The object is positioned on a blue metal bench under sunlight. The shadows create striped patterns across the bench slats, with a concrete walkway visible in the background.",
+        "3": "The object sits on a brick ledge beneath a greenish window frame. The setting includes gray-brown bricks and a glimpse of window reflections, adding urban architectural elements.",
+        "4": "The object lies on a rough, light gray stone surface, accompanied by dark soil and green shrubbery. The natural outdoor setting highlights a contrast between textured stone and foliage.",
+        "5": "The object is set on a red rectangular surface with grassy areas and modern buildings in the surround. The scene includes sidewalks and lush trees under a clear sky.",
+        "6": "The object is located on a smooth gray desk beside a computer keyboard and monitor cables. Sunlight creates soft highlights and shadows, revealing slight reflections on the surface.",
+        "7": "The object is placed on a circular metal table with a brushed surface in an indoor setting. The neutral background consists of a plain wall with soft lighting."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object rests on a bicycle seat with shiny handlebars. Intricately frosted patterns on the silver bike rack evoke a winter setting, against the backdrop of a light gray concrete wall.",
+        "1": "The object is placed on a white ledge against a plain, light-colored wall indoors, embellished with subtle icy textures hinting at a winter atmosphere.",
+        "2": "The object is positioned on a snow-dusted blue metal bench, casting striped shadow patterns. The concrete walkway is lightly frosted, reflecting a chilly winter scene.",
+        "3": "The object sits on a brick ledge beneath a greenish window frame. The bricks are dusted with frost, while the window has a thin layer of ice, enhancing the winter look.",
+        "4": "The object lies on a frosty, light gray stone surface, surrounded by snowy soil and wilted shrubbery, capturing a wintry outdoor setting.",
+        "5": "The object is set on a red rectangular surface with a lightly snow-covered grassy area and modern buildings in wintry guise, including bare trees and icy sidewalks.",
+        "6": "The object is located on a smooth gray desk inside, now showing light frost residue alongside the computer keyboard and monitor cables for a winter effect.",
+        "7": "The object is placed on a circular metal table, now coated with a thin layer of frost in an indoor setting, adding a hint of winter to the metallic surface."
+    },
+    "prompt_shared": "wooden dice",
+    "prompt_theme": "winter",
+    "object_token": "plushie"
+}

@@ -1,0 +1,23 @@
+{
+    "src": "A sneaker with a thick sole and iridescent upper reflecting pink, blue, and yellow. It has white laces, a robust design, and a white sole with rugged texture.",
+    "edit": "A stylish sneaker with a chunky sole and earthy-textured upper in burnt orange, golden yellow, and deep maroon. It has chocolate brown laces and a warm brown sole with a rugged texture.",
+    "per_image_non_shared_src": {
+        "00": "The object is on a large rough stone outdoors, surrounded by greenery with small shrubs. A tall rock is in the background, and a city street with bicycles is visible on the left.",
+        "01": "The object is positioned on the edge of a concrete embankment next to water with gentle waves in the background.",
+        "02": "The object is on a paved surface with a rough texture, small pebbles and asphalt pieces scattered. The background is neutral without noticeable objects.",
+        "03": "The object is on lush green grass in an open space with evenly cut grass blades. No visible objects in the background.",
+        "04": "the object is on an old, green wooden bench with visible cracks, surrounded by grass and a gravel path, suggesting a park or garden setting.",
+        "05": "the object is on speckled concrete against a red brick wall with worn, textured bricks and visible mortar lines, in an urban scene with no other buildings or objects."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object is on a large, rough stone outdoors in autumn tones. It's surrounded by crimson, orange, and golden greenery, small shrubs with red berries, and a tall rock with amber leaves. On the left, bicycles and a city street lined with fall foliage trees.",
+        "01": "The object is on the edge of a colorful embankment with red, orange, and golden leaves, beside a tranquil blue water reflecting fall trees with gentle waves.",
+        "02": "An object is displayed on a textured paved surface with fallen amber, crimson, and gold leaves and acorns. The background has a subtle, warm light, characteristic of autumn.",
+        "03": "The object is on a blanket of fallen autumn leaves with red, orange, and yellow foliage around. Rich earthy tones dominate the environment. No visible objects in the immediate background, keeping the focus on the autumn setting.",
+        "04": "The object is on an old wooden bench in amber and rust shades, with visible cracks. It's surrounded by fallen leaves in orange, red, and gold hues. A gravel path with leaves leads through an autumn park setting.",
+        "05": "The object rests on ground with orange and gold leaves, against an aged brick wall with warm autumn tones and faint ivy. Mortar lines are emphasized by the low golden sun, casting elongated shadows."
+    },
+    "prompt_shared": "warm three-colored sneaker",
+    "prompt_theme": "autumn",
+    "object_token": "shoes"
+}

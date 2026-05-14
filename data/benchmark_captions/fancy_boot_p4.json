@@ -1,0 +1,23 @@
+{
+    "src": "Knee-high boot in cream leather with fringed side detailing, pointed toe, and stacked wooden block heel.",
+    "edit": "A knee-high boot of distressed cream leather, with gear and cog detailing on the side, pointed toe, and a riveted bronze-finished block heel, featuring a vintage steampunk style.",
+    "per_image_non_shared_src": {
+        "00": "The boot is standing upright against a red brick wall on rough concrete pavement with visible mortar lines, occasional debris, and stains.",
+        "01": "the boot is on a stone walkway by a river, with a city skyline showing skyscrapers and buildings in the backdrop, the water reflects the overcast sky.",
+        "02": "The boot is on a sloping asphalt road with visible cracks and pebbles, a brick building in the background and construction cones at a distance.",
+        "03": "The boot is standing on vibrant, lush green grass in an open space.",
+        "04": "The boot is on a grassy area next to a tree with mottled bark, visible knots and roots, surrounded by brown earth patches among green grass.",
+        "05": "The boot is resting on a painted green wooden bench with scratches and fading paint, above a lawn with neatly trimmed grass."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The boot is standing upright against a red brick wall with autumn ivy, orange and yellow leaves cascading down. The concrete pavement has a warm, golden hue with fallen leaves and occasional debris visible.",
+        "01": "A boot on a stone walkway with golden leaves, beside a calm river with amber leaves. The city skyline has skyscrapers in autumn haze, buildings glowing from the low sun, and water reflecting overcast skies.",
+        "02": "The boot rests on an asphalt road with fallen autumn leaves. Road cracks are filled with foliage and pebbles. In the background, a brick building is visible through tree branches with golden and crimson leaves. Construction cones are scattered in the distance.",
+        "03": "The boot stands on golden-brown grass with amber and ochre shades. Crisp leaves are scattered in an open setting, creating an autumn ambiance. The grass appears uneven, as if curled by the cool breeze typical of autumn.",
+        "04": "A boot on a carpet of orange, red, and yellow autumn leaves. A tree with mottled bark and golden foliage has a rough trunk with visible knots, surrounded by brown and vibrant leaves.",
+        "05": "A boot covered in leaves rests on a bench of dark brown wooden planks. The rustic bench has a weathered surface with peeling paint. Beneath, a lawn of golden grass and scattered leaves capture autumn's transition."
+    },
+    "prompt_shared": "steampunk-styled boot",
+    "prompt_theme": "autumn",
+    "object_token": "shoes"
+}

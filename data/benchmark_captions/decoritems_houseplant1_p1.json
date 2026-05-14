@@ -1,0 +1,23 @@
+{
+    "src": "A lush green plant with glossy leaves, growing from a textured white pot. The leaves are broad and oval-shaped, clustering along slender stems that vary in height.",
+    "edit": "A plant-shaped statue made from polished stones with a two-toned pattern. The stones have a smooth surface, arranged to mimic the plant's form, alternating between light and dark shades.",
+    "per_image_non_shared_src": {
+        "0": "The object is placed on a wooden desk corner, with its pot centered. Surrounding it is an office environment with a gray carpet, a partially visible black chair, and indistinct office equipment in the background.",
+        "1": "The object sits on a black surface, the pot centrally positioned. The background is a plain, light-colored wall with no additional items in view, creating a simple scene.",
+        "2": "The object is positioned near a corner where a white wall meets a wooden door. The area is carpeted with a dark pattern, and the door is partially open on the right.",
+        "3": "The object sits centered on a dark tabletop against a plain white wall. A wooden door with a silver handle is partially visible on the right, providing contrast in the scene.",
+        "4": "The object is located on a wooden surface near a large window, the view through shows a leafy outdoor scene with a road and distant buildings.",
+        "5": "The object is close up on a dark tabletop with an off-white wall and a partially visible brown wooden door in the background."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is placed on a wooden desk corner, with its pot centered. It is in a house setting featuring a gray carpet, a barely visible stone-like chair, and indistinct home decor in the background, embracing an indoor theme.",
+        "1": "The object sits on a black surface, the pot centrally positioned. The background is a plain, light-colored wall typical of a house interior, offering a minimalist look.",
+        "2": "The object is positioned near a corner where a white wall meets a wooden-textured door. The area is carpeted with a dark pattern, representing a typical household room setup.",
+        "3": "The object sits centered on a dark tabletop against a plain white wall. A wooden-textured door with a metallic handle is partially visible, depicting a home's interior.",
+        "4": "The object is located on a wooden surface near a large window, showcasing a leafy outdoor scene typical through suburban house windows, with a road and distant buildings visible.",
+        "5": "The object is close up on a dark tabletop with an off-white wall and a partially visible wooden-textured door in the background, fitting a house's interior style."
+    },
+    "prompt_shared": "plant-shaped statue made of two-colored stones",
+    "prompt_theme": "house",
+    "object_token": "plant"
+}

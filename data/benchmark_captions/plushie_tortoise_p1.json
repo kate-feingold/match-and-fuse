@@ -1,0 +1,31 @@
+{
+    "src": "A plush turtle with a bright green fabric head and flippers. Its shell is made of soft, fluffy faux fur in lighter green tones, with large, shiny black eyes, and a small embroidered mouth.",
+    "edit": "A two-colored wooden turtle, featuring a smooth, glossy green head and beige flippers. The shell is crafted from layered green and light brown wood, with dark polished eyes, and a carved expression.",
+    "per_image_non_shared_src": {
+        "0": "The object leans against a dark green pillow on a beige carpet. Its head faces the camera, while the shell is slightly turned upward, with the pillow occupying the right side of the image.",
+        "1": "The object is positioned on a black textured surface. Its head faces right, with the shell resting on top. There are no additional objects or textures in the background.",
+        "10": "The object lies on a beige carpet with its head slightly turned to the left. The plush's shell and legs are fully visible, and no other objects are present in the scene.",
+        "11": "The object is on a beige carpet surface, facing directly forward, with its head centered in the frame. The soft surface surrounds the turtle, providing a uniform background.",
+        "2": "The object sits atop a black and white keyboard. Its head is aligned with the keys, facing forward. The background consists of the keyboard's surface and a plain white wall.",
+        "3": "The object is resting on a black desk surface. Its head is directed forward, with adjacent items including a computer keyboard and part of a laptop in the top right corner.",
+        "4": "The object is placed at the edge of a black surface, head down, facing the lower part of the frame. The background is a light-colored carpet with a smooth, flat surface.",
+        "5": "The object is placed on a beige carpet, oriented to the left, showing a side profile with face detail visible. There's nothing else in the background, just carpeted texture.",
+        "6": "The object leans with its head facing downwards onto the carpeted floor. Positioned at an angle, the carpet's texture forms the entire background of the image.",
+        "8": "The object lies on a beige carpet, oriented slightly to the left. Its head and flippers are angled towards the camera. The surface texture is visible on all surrounding sides."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object leans against a transparent glass surface, offering a plain backdrop. Its head faces the camera, while the shell is slightly turned upward, with the glass occupying the right side of the image.",
+        "1": "The object is positioned on a translucent glass surface. Its head faces right, with the shell resting on top. The background is completely clear, offering no other objects or textures.",
+        "10": "The object lies on a plain glass surface with its head slightly turned to the left. The wooden turtle's shell and flippers are fully visible, with no other objects present.",
+        "11": "The object is on a plain glass surface, facing directly forward, with its head centered in the frame. The glass surrounds the turtle, creating an unobtrusive background.",
+        "2": "The object sits atop a plain glass surface. Its head is aligned with the surface edge, facing forward. The background consists of the transparent glass and minimal visual disruption.",
+        "3": "The object is resting on a plain glass desk surface. Its head is directed forward, with adjacent items having a clear glass transformation, maintaining their positions.",
+        "4": "The object is placed at the edge of a glass surface, head down, facing the lower part of the frame. The background is a clear glass with a smooth, unobstructed appearance.",
+        "5": "The object is placed on a clear glass surface, oriented to the left, showing a side profile with face detail visible. There's nothing else in the background, just transparent texture.",
+        "6": "The object leans with its head facing downwards onto the clear glass floor. Positioned at an angle, the glass texture forms the entire background of the image.",
+        "8": "The object lies on a plain glass surface, oriented slightly to the left. Its head and flippers are angled towards the camera. The transparent backdrop is visible on all surrounding sides."
+    },
+    "prompt_shared": "a two-colored wooden turtle",
+    "prompt_theme": "plain glass background",
+    "object_token": "plushie"
+}

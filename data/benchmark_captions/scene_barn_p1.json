@@ -1,0 +1,25 @@
+{
+    "src": "A rustic wooden barn against a backdrop of mountains, with weathered brown wooden planks, a slanted metal roof with rust, and small square windows. Its simple architecture reflects its utilitarian purpose.",
+    "edit": "A whimsical gingerbread house against majestic mountains. Cookie walls are caramel brown with white icing patterns. Chocolate shingle roof, candy-cane trim on windows, and jelly bean details on walls create a fantasy abode.",
+    "per_image_non_shared_src": {
+        "0": "The object is centered in the foreground, surrounded by a grassy field with small rocks, beneath a clear blue sky with distant mountains in the background.",
+        "1": "the object is slightly off-center against a gradient sky transitioning to darker blue near mountain peaks, with sparse trees in the mid-ground.",
+        "2": "the object against a sunset sky with pink and orange hues, grassy patches break the barren foreground, mountains in the distance",
+        "3": "the object is slightly turned against a blue sky with clouds, with autumn trees in the mid-ground and snow-dusted mountains on the horizon.",
+        "4": "The object is illuminated by the setting sun, casting long shadows on a field, with majestic snow-capped mountains and few clouds in the sky.",
+        "5": "The object faces outward, amid sparse grassy patches with shadow patterns and scattered dirt in the foreground, distant mountains on the horizon under a clear sky.",
+        "6": "The object is central, on a sunlit grassy field with minimal vegetation. Towering mountains and clusters of clouds form the background."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object, made of gingerbread with intricate icing, is in the foreground, surrounded by a grassy field of cookie crumbs with gumdrop rocks. Distant gingerbread mountains, dusted with powdered sugar, rise under a clear blue sky of royal icing.",
+        "1": "The object is off-center against a gingerbread-style backdrop with icing-like blue skies, darker near cookie mountains, and sugary trees in the mid-ground, resembling a festive gingerbread landscape.",
+        "2": "The object stands against a sunset sky with soft pink and orange hues. Grassy patches resemble frosting, mountains in the distance look like gingerbread with snowy peaks. The scene fuses nature and sweets harmoniously.",
+        "3": "The object is slightly turned, made of spiced gingerbread, set against a blue sky with sugar icing clouds. Golden caramelized ginger trees with sugar sprinkles dot the mid-ground, and snow-dusted mountains made of frosted gingerbread form the horizon.",
+        "4": "The object is gingerbread-textured with cinnamon hues, on a cookie-like ground with long shadows. Gingerbread mountains with sugar icing crests are in the backdrop, and whipped cream clouds float in the sky, creating a confectionery landscape.",
+        "5": "A gingerbread figure with sugary icing and candy decorations sits in a gingerbread garden with sweet crumbles and frosting lines. Powdered sugar and candy bits in the foreground; gingerbread mountains and a candy-blue sky on the horizon.",
+        "6": "The object is central on a gingerbread-like field with candy-like vegetation. The scene has a caramel glow, with gingerbread mountains and whipped cream-like clouds in the background, resembling a fairy-tale confectionery setting."
+    },
+    "prompt_shared": "gingerbread house",
+    "prompt_theme": "gingerbread",
+    "object_token": "scene"
+}

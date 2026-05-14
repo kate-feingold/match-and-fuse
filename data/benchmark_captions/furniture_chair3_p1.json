@@ -1,0 +1,21 @@
+{
+    "src": "A soft, plush cube with a light gray fabric texture. Its surface is divided into padded squares, creating a quilted appearance. The sides are slightly rounded, and it has a smooth, velvety finish.",
+    "edit": "A large, chunky knitted cube resembling a Rubik's Cube. Each face features vibrant, multicolored knitted squares in a patchwork pattern, giving a textured, cozy look akin to handmade yarn crafts.",
+    "per_image_non_shared_src": {
+        "0": "The object is placed on the floor near a window, showing a side and the top in the foreground. The background includes a wooden floor and a partial view of the outdoor greenery.",
+        "1": "The object is viewed from above, showing the top surface prominently. Surrounding the object is a wooden floor with a faint grain pattern, next to a window with blurred outdoor greenery visible.",
+        "2": "The object sits close to a corner with two sides shown. The background features a wooden floor, white walls, and some cylindrical decorations to the left and behind the object.",
+        "3": "The object is slightly rotated, resting on the floor near a modern black cabinet. The background includes light-colored flooring, a white wall, and visible indoor planters and baskets.",
+        "4": "The object is near a large window, displaying a side view. The background comprises a wooden floor, a transparent window pane, and lush greenery visible outside."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is placed on the floor near a window, showing a side and the top in the foreground. The background depicts a modern room with sleek surfaces, minimalist decor, and expansive glass windows.",
+        "1": "The object is viewed from above, showing the top surface prominently. Surrounding the object is a modern room with clean lines, polished wooden flooring, and large windows displaying blurred urban scenery.",
+        "2": "The object sits close to a corner with two sides shown. The background features a modern room with minimalist furniture, stylish decorative vases, and a neutral color palette against white walls.",
+        "3": "The object is slightly rotated, resting on the floor near a sleek black cabinet. The background includes modern furnishings, brushed metal accents, and contemporary plant arrangements.",
+        "4": "The object is near a large window, displaying a side view. The background comprises a modern room with a panoramic window overlooking an urban skyline, sleek flooring, and stylish indoor plants."
+    },
+    "prompt_shared": "a huge knitted rubik cube",
+    "prompt_theme": "modern room",
+    "object_token": "chair"
+}

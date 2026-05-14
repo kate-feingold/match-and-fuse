@@ -1,0 +1,21 @@
+{
+    "src": "Two women standing close together. The woman on the left has curly hair and a brown shirt, with hands near her face. The woman on the right has brown hair and a striped shirt, smiling.",
+    "edit": "Two Pixar-style characters joyfully interacting, their expressions are animated and cartoonishly exaggerated. One character has voluminous hair and dusky pink button-down with bold patterns, the other with smooth shoulder-length hair with a shimmering effect and striped shirt in vivid colors, against a neutral backdrop.",
+    "per_image_non_shared_src": {
+        "01": "The woman on the left is blowing a kiss towards the camera. The woman on the right has her hands against her mouth. Backdrop is a plain white wall.",
+        "10": "Two women face the camera; one has her hands on her cheeks, the other is blowing a kiss. The backdrop is plain.",
+        "33": "Two women facing forward with arms extended, as if dancing, against a white wall.",
+        "46": "The woman on the left is turning slightly, her hair mid-motion. The woman on the right looks towards her. Background is a plain white wall.",
+        "80": "The woman on the left looks down with moving hair, while the woman on the right smiles while running a hand through her hair, in front of a plain white wall."
+    },
+    "per_image_non_shared_edit": {
+        "01": "A woman on the left blows a kiss towards the camera, while the woman on the right holds her hands against her mouth. The backdrop is a plain white wall.",
+        "10": "Two women facing the camera; left one has hands on cheeks, right one is blowing a kiss, plain backdrop.",
+        "33": "Two women facing forward with extended arms, appearing to dance or sway together, against a simple white wall background.",
+        "46": "The woman on the left is turning slightly, her hair mid-motion. The woman on the right looks towards her against a plain white wall background.",
+        "80": "A woman on the left looks down with slightly moving hair, while the woman on the right runs a hand through her hair with a bright smile. Background: plain white wall."
+    },
+    "prompt_shared": "Pixar characters",
+    "prompt_theme": null,
+    "object_token": "people"
+}

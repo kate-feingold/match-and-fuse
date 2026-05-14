@@ -1,0 +1,21 @@
+{
+    "src": "A tall white lighthouse with a cylindrical tower, domed top of metal and glass, black-rimmed light chamber, and narrow balcony sits on a rocky hill. Its base has small windows and decorative stonework, contrasting with the natural surroundings.",
+    "edit": "A tall gingerbread lighthouse with a cylindrical tower and domed sugary icing top on a rocky hill. It features a chocolate-rimmed light chamber, a cookie balcony, candy-cane windows, and gingerbread stonework in vibrant brown and white.",
+    "per_image_non_shared_src": {
+        "jade-stephens-HzfFMa14VoU-unsplash": "The object stands on a rocky ledge in a landscape with bushes, under a partly cloudy pink sky. Viewed slightly upward, people walk along a metal railing at the base.",
+        "shubham-sharma-G1_qVTwwqGM-unsplash": "The object is on the right side of the rocky hill, bathed in a golden hue from the sun, under a clear blue sky.",
+        "szabolcs-toth--bGeOBD7fSQ-unsplash": "The object is centered atop a rocky hill, surrounded by people along paths leading to it, with a vibrant, partly cloudy sky in the background.",
+        "trent-bradley-45r5OVrwNMI-unsplash": "The object is near the center, with people gathered on a walkway leading to it; the sky is golden at sunset, and the hill below is in soft light.",
+        "trent-bradley-5VLqpHOiQ60-unsplash": "The object is silhouetted against a softly lit sky as evening approaches, with people on the railing and walkway around it. The foreground includes more railing, directing the eye."
+    },
+    "per_image_non_shared_edit": {
+        "jade-stephens-HzfFMa14VoU-unsplash": "The object stands on a rocky ledge resembling a gingerbread creation with decorative icing. Below are bushes of gumdrops and candy foliage. A metal railing looks like peppermint candy. Viewed slightly upward, capturing the gingerbread-style object fully.",
+        "shubham-sharma-G1_qVTwwqGM-unsplash": "A gingerbread object on the right side of a gingerbread-textured rocky hill with a golden sugar glaze. The sky is aquamarine, creating a harmonious gingerbread landscape.",
+        "szabolcs-toth--bGeOBD7fSQ-unsplash": "The object is on a rocky hill like a gingerbread creation with icing and candy. People in sugary attire are on paths like frosting trails. The background has a cloudy sky with cotton candy-like clouds, in a gingerbread style.",
+        "trent-bradley-45r5OVrwNMI-unsplash": "A gingerbread structure with intricate icing near the center. Gingerbread people with colorful icing and candy gather on a sugar-coated walkway. The sky is frosted golden as the sun sets, and the hill is sprinkled with powdered sugar.",
+        "trent-bradley-5VLqpHOiQ60-unsplash": "The object resembles an intricate gingerbread creation against a cinnamon-hued sky. People look like gingerbread figures on the railing and walkway. The foreground includes ornate railing with icing-like patterns, leading to the main gingerbread-themed subject."
+    },
+    "prompt_shared": "gingerbread lighthouse",
+    "prompt_theme": "gingerbread",
+    "object_token": "scene"
+}

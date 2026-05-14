@@ -1,0 +1,17 @@
+{
+    "src": "A children's bicycle with a magenta frame, thick black tires with deep treads, and silver rims with black spokes. It has rubber grip handlebars, a black ergonomic seat, front suspension fork, and a basic rear derailleur system.",
+    "edit": "A Disney-themed ride with a pastel frame, sparkling patterns, star-shaped wheels, silver rims, handlebars with lights and soft fabric, and a seat shaped like mouse ears.",
+    "per_image_non_shared_src": {
+        "0": "The bicycle is parallel to a rocky background with ferns and pink flowers, on uneven gravel ground, lit brightly highlighting its vibrant color.",
+        "1": "The bicycle is angled left, side view of handlebars and front tire. The rocky background is prominent, with green foliage and purple blossoms, on a paved ground.",
+        "2": "The bicycle is shown at an angle, displaying the rear and drivetrain with rocks, greenery, large ferns, and flowering plants in the background. The path is paved with gravel."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The bicycle is parallel to a rocky background at sunset, surrounded by ferns casting shadows. Small pink flowers are illuminated by golden light. The uneven gravel ground reflects the sunset, highlighting the bike's vibrant color.",
+        "1": "The bicycle is angled slightly to the left in sunset hues. The rocky background and green foliage glow with soft, warm light. The handlebars and front tire reflect golden tones, and the paved ground harmonizes with the setting.",
+        "2": "The bicycle is angled to display the rear and side, showing the drivetrain and rear tire. The background has rocks, greenery, large ferns, and flowering plants enhanced by a sunset, with a gravel path and long shadows."
+    },
+    "prompt_shared": "disney-styled bike",
+    "prompt_theme": "sunset",
+    "object_token": "bike"
+}

@@ -1,0 +1,21 @@
+{
+    "src": "A sleek domestic short-haired ginger cat with tabby stripes, large alert ears, and wide golden eyes. Its fur is smooth and glossy in sunlight, with a lean athletic body.",
+    "edit": "A cat-shaped balloon with smooth latex, vibrant orange and white stripes, and pointed ears. It has a glossy surface, painted expressive eyes, string whiskers, and a sleek, slightly elongated body.",
+    "per_image_non_shared_src": {
+        "00": "The object lays on its right side (left side of the frame), covered with dry leaves and sunlight patches amidst dense foliage, surrounded by leafy plants. Lighting creates a dappled effect over the scene.",
+        "01": "the object is sitting upright on an uneven surface of dry leaves and green grass in a woodland setting.",
+        "02": "the object sits centrally on dry leaves with scattered greenery, enclosed by thick bushes in a forest.",
+        "03": "The object sits off-center with an alert posture among brown leaves and tufts of grass, enveloped in shadow, surrounded by interwoven branches and undergrowth.",
+        "04": "the object is a close-up with the face in focus against a blurry backdrop of dark woods and greenery, contrasting the light on the face with the dark environment."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object lays on snow, leaning on its right side (left side of the frame), surrounded by skeletal branches with icicles. Pale sunlight filters through, casting crisp light over the winter scene.",
+        "01": "The object sits upright on an uneven surface of icy leaves and snow-dusted grass, surrounded by barren tree branches and occasional drifting snowflakes, in a serene winter woodland scene.",
+        "02": "The object is centrally positioned on frost-kissed dry leaves and browned evergreen needles, surrounded by snow-covered bushes in a shadowed winter forest. Pale light creates shadows on the snow-dappled ground, and ice crystals enhance the winter landscape.",
+        "03": "The object is off-center, among frosted brown leaves and snow-dusted grass, in a shadowy spot with bare branches and dormant undergrowth. Snowflakes embellish the earthy textures, enhancing its presence in the winter landscape.",
+        "04": "Close-up of object face in sharp focus against blurry snow-dusted dark woods and occasional greenery. Cool tones of white and icy blue reflect light, creating a serene winter scene."
+    },
+    "prompt_shared": "animal-shaped balloon",
+    "prompt_theme": "winter",
+    "object_token": "animal"
+}

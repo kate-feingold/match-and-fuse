@@ -1,0 +1,17 @@
+{
+    "src": "An elegant bedroom with a double bed with red and white pillows, red and gold curtains. A purple sofa has red cushions. An ornate chandelier hangs from the ceiling. A small table and chair sit beside the bed.",
+    "edit": "A maximalist bedroom with an opulent double bed, vibrant red and white pillows, red and gold curtains, an overstuffed purple sofa with red cushions, a large chandelier, richly patterned walls, a plush pink rug, a small round table, and a modern chair beside the bed.",
+    "per_image_non_shared_src": {
+        "554397294": "a bed is center right with pillows, large windows with gold curtains behind, a purple sofa with red cushions on the left, an ornate chandelier on the ceiling, a painting above a round table and chair, a pink rug on the floor",
+        "554397309": "The view shows a bed centered against the wall, with ornate lamps on either side, windows with gold curtains on the left, a sofa with red cushions, a chandelier hanging, a wooden table and chair adjacent, and framed art on the wall.",
+        "554397316": "bed at an angle with purple headboard and red accents, windows with gold curtains to the left, a chandelier on ceiling, modern round table with chairs beside bed, doorway in rear, pink rug underfoot."
+    },
+    "per_image_non_shared_edit": {
+        "554397294": "A grand bed is centered against a lavish wall, flanked by intricate lamps. To the left, windows have golden curtains. A luxurious sofa with deep red cushions and a chandelier with crystals are present. A wooden table and chair set and framed art adorn the wall.",
+        "554397309": "A grand bed against a decorated wall, flanked by intricate lamps. To the left, windows with golden curtains. A sofa with red cushions and a chandelier above. Nearby, a wooden table and chair, with wall art in maximalist style.",
+        "554397316": "A grand bed against a lavish wall, flanked by intricate lamps. To the left, opulent windows with golden curtains. A sofa with red cushions. Above, a chandelier with crystals. Nearby, a wooden table and chair, with art on the wall."
+    },
+    "prompt_shared": "maximalist-styled room",
+    "prompt_theme": "maximalist",
+    "object_token": "apartment"
+}

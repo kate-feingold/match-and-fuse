@@ -1,0 +1,23 @@
+{
+    "src": "A sneaker with a thick sole and iridescent upper reflecting pink, blue, and yellow. It has white laces, a robust design, and a white sole with rugged texture.",
+    "edit": "A sneaker with a thick, chunky sole in a low-poly style. The upper has a faceted crystal look reflecting pink, blue, yellow. The laces are white angular lines, and the blocky design has an angular, jagged texture on the white sole.",
+    "per_image_non_shared_src": {
+        "00": "The object is on a large rough stone outdoors, surrounded by greenery with small shrubs. A tall rock is in the background, and a city street with bicycles is visible on the left.",
+        "01": "The object is positioned on the edge of a concrete embankment next to water with gentle waves in the background.",
+        "02": "The object is on a paved surface with a rough texture, small pebbles and asphalt pieces scattered. The background is neutral without noticeable objects.",
+        "03": "The object is on lush green grass in an open space with evenly cut grass blades. No visible objects in the background.",
+        "04": "the object is on an old, green wooden bench with visible cracks, surrounded by grass and a gravel path, suggesting a park or garden setting.",
+        "05": "the object is on speckled concrete against a red brick wall with worn, textured bricks and visible mortar lines, in an urban scene with no other buildings or objects."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object rests on a large, faceted stone amidst geometric greenery and angular shrubs, with a polygonal rock in the background. On the left, a city street features sharp-edged bicycles, all in low-poly style with flat colors and distinct shapes.",
+        "01": "The object is a low-poly geometric form, with angular surfaces reflecting light, on a faceted edge of an embankment. A body of water with low-poly waves is in the background. The scene uses sharp-edged polygons and basic shapes.",
+        "02": "The object is on a paved surface with angular, faceted shapes in a low-poly design, surrounded by polygonal pebbles and jagged asphalt pieces, against a simple, abstract muted color background, emphasizing the geometric, minimalist low-poly style.",
+        "03": "the object is on low-poly grass with angular green blades in a stylized open space with sharp geometric shapes, set in a simplistic, polygonal aesthetic with no objects in the background, reflecting a video-game inspired atmosphere.",
+        "04": "A low-poly style bench with faceted green surfaces sits surrounded by polygonal green grass. A path of gray polygonal gravel leads to the bench, featuring clean lines and faceted shapes typical of low-poly modeling.",
+        "05": "The object is on a low-poly styled, faceted concrete floor. Behind is a wall of blocky red bricks with flat planes and sharp edges, featuring simplified texture lines. The scene is minimalist and abstract."
+    },
+    "prompt_shared": "low poly sneaker",
+    "prompt_theme": "low poly",
+    "object_token": "shoes"
+}

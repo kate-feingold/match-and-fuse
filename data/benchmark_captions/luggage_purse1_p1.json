@@ -1,0 +1,21 @@
+{
+    "src": "A red leather purse with a quilted pattern and a gold logo emblem. It features a flap closure and a gold chain strap attached to the sides.",
+    "edit": "A vintage purse with a two-toned textured leather surface and an intricate bronze emblem. The flap has a classic brass closure and a dual-tone chain strap.",
+    "per_image_non_shared_src": {
+        "laura-chouette-9gzSVDpyxPg-unsplash": "The object is hanging on a person's shoulder, partially visible against a busy street background with cars and buildings slightly blurred.",
+        "laura-chouette-FTaKIJ_uEo0-unsplash": "The object is set on a white surface surrounded by luxury items like a perfume and a designer ribbon, showcased as a centerpiece.",
+        "laura-chouette-R2DDxvSNxkM-unsplash": "The object is lying flat on a white fabric, with its strap artfully curled, highlighting its texture against the soft background.",
+        "laura-chouette-RycLeDdrWJ0-unsplash": "The object is positioned on white fabric, with its chain prominently displayed, casting shadows on the textured backdrop.",
+        "laura-chouette-b7kMR1VYAJc-unsplash": "The object is displayed upright with various luxury items nearby, including a perfume bottle and designer accessories, creating an opulent setup."
+    },
+    "per_image_non_shared_edit": {
+        "laura-chouette-9gzSVDpyxPg-unsplash": "The object is hanging on a person's shoulder, partially visible against a retro street background with vintage cars and antique buildings slightly blurred.",
+        "laura-chouette-FTaKIJ_uEo0-unsplash": "The object is set on a patterned surface surrounded by retro-style items like a vintage bottle and an old ribbon, showcased as a centerpiece.",
+        "laura-chouette-R2DDxvSNxkM-unsplash": "The object is lying flat on a vintage cloth, with its strap artfully curled, highlighting its texture against the nostalgic fabric.",
+        "laura-chouette-RycLeDdrWJ0-unsplash": "The object is positioned on vintage-style fabric, with its chain prominently displayed, casting shadows on the aged backdrop.",
+        "laura-chouette-b7kMR1VYAJc-unsplash": "The object is displayed upright with various retro items nearby, including an antique bottle and vintage accessories, creating a nostalgic setup."
+    },
+    "prompt_shared": "two-colored vintage purse",
+    "prompt_theme": "retro",
+    "object_token": "object"
+}

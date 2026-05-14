@@ -1,0 +1,25 @@
+{
+    "src": "Sleek, silver over-ear headphones with cushioned ear pads and adjustable headband. Smooth metallic finish with engraved logos on each side. Visible buttons and ports on the ear cups.",
+    "edit": "Brightly colored kids headphones with playful patterns on the ear cups. Thick, plush ear pads in vivid hues. Decorative stickers and cartoon decals add a whimsical touch to the design.",
+    "per_image_non_shared_src": {
+        "0": "The object rests on a dark blue fuzzy blanket, slightly tilted. Background includes fuzzy textures, with a hint of a shiny surface on the side, and soft fabric folds visible.",
+        "1": "The object hangs on a wall over colorful bath towels, showing the side with multiple buttons. Towels include green and pale pink, with a bathroom shelf in the background.",
+        "2": "The object stands upright on a windowsill beside a yellow and white tissue box. Behind, a window reveals a view of green trees and parked cars on a street.",
+        "3": "The object hangs from a silver door lever against a wooden door. Door and handle details include a long, metallic lever and light wood grain texture in the room.",
+        "4": "The object rests on a wooden shelf with various decorative items. Background includes a white wall, plants with purple flowers, and a small figure, giving a cozy indoor scene.",
+        "5": "The object lies flat on a textured, black surface, with its ear cups facing up. Background features a neat, wood-textured surface beneath the shiny, sleek headphones.",
+        "6": "The object lays flat on a soft, quilted white bedding with visible stitching patterns. The background provides a clean, minimal setting with pillows and the edge of a bed."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object rests on a dreamy, fluffy pastel cloud blanket, slightly tilted. Background includes cloud-like textures, with a glimpse of ethereal sparkles and soft fabric folds visible in a dream world.",
+        "1": "The object hangs on a wall over fantastical bath towels in dream world colors, showing the side with playful buttons. Towels include vibrant green and magical pink, with a dreamy bathroom shelf.",
+        "2": "The object stands upright on a windowsill beside a colorful checkered tissue box. Behind, a window reveals a view of enchanted trees and whimsical parked cars as part of a dream world.",
+        "3": "The object hangs from a glittery door lever against a rainbow-colored wooden door. Door and handle details include a sparkling lever and rainbow grain texture in the dream world room.",
+        "4": "The object rests on a whimsical wooden shelf with various dream world decorative items. Background includes a textured wall, fantasy plants with purple flowers, and a dreamy small figure.",
+        "5": "The object lies flat on a textured, pastel surface, with ear cups facing up. Background features a whimsical wood-textured surface beneath the colorful, playful headphones in the dream world.",
+        "6": "The object lays flat on a soft, quilted pastel bedding with dream world stitching patterns. The background provides a serene setting with fluffy pillows and the dreamy edge of a bed."
+    },
+    "prompt_shared": "kids headphones",
+    "prompt_theme": "dream world",
+    "object_token": "object"
+}

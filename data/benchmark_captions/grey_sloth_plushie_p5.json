@@ -1,0 +1,21 @@
+{
+    "src": "A soft plush sloth toy with a warm brown fur, white face, dark brown eye markings, and long floppy arms and legs with off-white felt claws.",
+    "edit": "A sinister plush sloth toy with sharp features, dark brown fur, a ghostly white face, and crimson markings around the eyes. It has long arms and legs with bone-like claws, coarse fabric, and intricate stitching for a Gothic horror appearance.",
+    "per_image_non_shared_src": {
+        "00": "The toy is on green grass next to a large tree with a textured trunk, surrounded by dirt and vibrant grass.",
+        "01": "the toy sits on a gray stone surface beside a river; across the water, a cityscape with tall buildings and green foliage is visible; the sky is cloudy.",
+        "02": "The toy is on lush green grass with scattered trees in the background, an expansive field with varying green shades, and park patches visible in the distance.",
+        "03": "The toy rests on a green wooden bench, with visible raindrops and aged textures, next to dirt and sparse vegetation. Nearby bushes detail the backdrop.",
+        "04": "The toy sits on a gray asphalt path with small pebbles, long lines, and faint cracks."
+    },
+    "per_image_non_shared_edit": {
+        "00": "A shadowy toy rests on dark grass by an ancient gnarled tree with a rough trunk. The ground near the tree is bare soil, surrounded by muted grass. Mist lingers in the air, creating a gothic-horror ambience.",
+        "01": "A toy rests on a cracked stone altar beside a shadowy river. Across the waters, a cityscape looms with towering buildings entwined with dark foliage, under an overcast sky, casting a gothic horror aesthetic.",
+        "02": "An eerie toy rests on dark grass, with twisted trees in the background. A vast, desolate field in shadowy green hues. In the distance, outlines of a decrepit park surface, surrounded by mist, capturing a gothic-horror essence.",
+        "03": "The gothic-horror toy sits on a shadowed, murky green bench, surrounded by darkness with claw-like vegetation. The bench has decaying wooden textures. Nearby bushes loom as silhouettes, creating a haunting backdrop in a gothic horror scene.",
+        "04": "A lone toy rests on a dark path surrounded by shadowy pebbles. The ground is worn with fractures and fissures."
+    },
+    "prompt_shared": "gothic horror sloth plushie",
+    "prompt_theme": "gothic horror",
+    "object_token": "plushie"
+}

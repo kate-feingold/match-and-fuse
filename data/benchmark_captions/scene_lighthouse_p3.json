@@ -1,0 +1,21 @@
+{
+    "src": "A tall white lighthouse with a cylindrical tower, domed top of metal and glass, black-rimmed light chamber, and narrow balcony sits on a rocky hill. Its base has small windows and decorative stonework, contrasting with the natural surroundings.",
+    "edit": "A towering steel-grey lighthouse with a cylindrical structure and a dark dome of tarnished metal and shattered glass, on a storm-battered hill. It features a weathered light chamber, narrow balcony, boarded windows, eroded stonework, merging with turbulent skies.",
+    "per_image_non_shared_src": {
+        "jade-stephens-HzfFMa14VoU-unsplash": "The object stands on a rocky ledge in a landscape with bushes, under a partly cloudy pink sky. Viewed slightly upward, people walk along a metal railing at the base.",
+        "shubham-sharma-G1_qVTwwqGM-unsplash": "The object is on the right side of the rocky hill, bathed in a golden hue from the sun, under a clear blue sky.",
+        "szabolcs-toth--bGeOBD7fSQ-unsplash": "The object is centered atop a rocky hill, surrounded by people along paths leading to it, with a vibrant, partly cloudy sky in the background.",
+        "trent-bradley-45r5OVrwNMI-unsplash": "The object is near the center, with people gathered on a walkway leading to it; the sky is golden at sunset, and the hill below is in soft light.",
+        "trent-bradley-5VLqpHOiQ60-unsplash": "The object is silhouetted against a softly lit sky as evening approaches, with people on the railing and walkway around it. The foreground includes more railing, directing the eye."
+    },
+    "per_image_non_shared_edit": {
+        "jade-stephens-HzfFMa14VoU-unsplash": "The object stands on a rocky ledge with wind-battered bushes. The sky is dark with storm clouds, casting shadows and lightning. People are at the base, walking along a rain-drenched metal railing, viewed from an upward perspective.",
+        "shubham-sharma-G1_qVTwwqGM-unsplash": "The object is on the right side of a rocky hill under dark clouds with grayish light. A gentle drizzle creates rippling patterns, distant thunder rumbles, and the sky is a mix of gray and black, indicating a storm.",
+        "szabolcs-toth--bGeOBD7fSQ-unsplash": "The object is on a stormy hill, surrounded by scattered individuals along winding paths. The background has a storm-filled sky with tumultuous clouds.",
+        "trent-bradley-45r5OVrwNMI-unsplash": "The object is near the center, with a group of people on a windswept walkway. Dark clouds gather above with flashes of lightning. The hill is shrouded in mist, with dull colors reflecting the storm's intensity.",
+        "trent-bradley-5VLqpHOiQ60-unsplash": "The object stands against a stormy sky with lightning, surrounded by silhouetted people on the railing and walkway. The railing in the foreground is battered by wind and rain, directing attention to the object."
+    },
+    "prompt_shared": "old gloomy lighthouse",
+    "prompt_theme": "storm",
+    "object_token": "scene"
+}

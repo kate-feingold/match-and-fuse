@@ -1,0 +1,17 @@
+{
+    "src": "A gray and white cat with short fur, bright golden eyes, long white whiskers, black nose, and a white chest patch. Its ears are pointed.",
+    "edit": "A medium-sized animal-shaped cake with swirly silver and white frosting, large round amber candy eyes, smooth frosting, pointed ears, and a long curved tail.",
+    "per_image_non_shared_src": {
+        "erik-jan-leusink-T0kalkwgc0w-unsplash": "The object is sitting upright on a wooden floor, head tilted slightly upwards, with visible wood grains and shadows beneath it, in an indistinct, neutral surrounding.",
+        "erik-jan-leusink-uamiRCpAmrU-unsplash": "the object is lying on a bed with patterned green and white sheets, front paws visible. The surface is soft and slightly crumpled, with blurred natural elements in the background.",
+        "erik-jan-leusink-x01ntt6tNDc-unsplash": "the object is nestled against a gray textured cushion with a tight weave, its head resting comfortably, in softly lit natural light casting gentle shadows."
+    },
+    "per_image_non_shared_edit": {
+        "erik-jan-leusink-T0kalkwgc0w-unsplash": "The object sits upright on an autumn-toned floor, head tilted upwards. The surface has burnt orange and crimson hues. Nearby is a slightly blurred background with warm earth tones and burnt umber.",
+        "erik-jan-leusink-uamiRCpAmrU-unsplash": "The object lies on a bed with autumn-patterned sheets in amber and russet. Its front paws rest on the soft, crumpled surface. In the background, blurred natural elements suggest an autumn theme.",
+        "erik-jan-leusink-x01ntt6tNDc-unsplash": "The object is nestled against a cushion with autumnal tones and golden leaf patterns. Its head rests comfortably on the cushion. The scene is warmly lit with golden sunlight creating shadows."
+    },
+    "prompt_shared": "an animal-shaped cake with swirly frosting",
+    "prompt_theme": "autumn",
+    "object_token": "animal"
+}

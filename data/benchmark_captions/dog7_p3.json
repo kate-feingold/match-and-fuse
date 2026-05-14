@@ -1,0 +1,21 @@
+{
+    "src": "A brown dog with a glossy coat, fluffy ears, and expressive eyes. Its tongue is lolling out playfully, with a pink nose, and slightly tousled fur.",
+    "edit": "A vibrant balloon dog with a glossy surface, made of twisty balloons in bright blues, yellows, and reds. Its ears are soft loops, face has painted-on eyes and a smile, and the tail is a spiraling balloon.",
+    "per_image_non_shared_src": {
+        "00": "The animal lies on its belly on a log in a wooded area, head turned slightly left, surrounded by blurry trees with bokeh effect, rust-colored leaves and ferns around, creating a forested setting.",
+        "01": "The animal lies with its front paws extended on sandy ground, surrounded by blurred greenery indicating a park or open area with sand and sparse vegetation.",
+        "02": "Animal stands on a pebbly shoreline, with ocean waves at its legs and a sunset sky in the background, creating a beach scene.",
+        "03": "An animal runs through shallow waves with water splashing around its legs, against a distant sea and sunset.",
+        "04": "The animal sits in a field of blooming heather with purple flowers, set against blurred greenery and flowering plants in a natural meadow."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The animal lies on its belly on a circus float, head turned left, surrounded by colorful tents. Bright streamers and confetti enhance the scene, with red and gold motifs on the float, an audience with exaggerated features, and carnival lights in the background.",
+        "01": "A colorfully dressed animal lounges on sandy ground with front paws extended, tongue out. Surrounded by colorful banners and crowds hinting at a circus environment, with sand and props, vivid decorations infuse motion into the vibrant space.",
+        "02": "A vibrant scene with an animal juggling on a shoreline with multicolored pebbles. Ocean waves are at its feet, a sunset casts a glow on the horizon. Above, seagulls hover, creating a carnival-like atmosphere.",
+        "03": "An animal prances through shallow waves with water splashing around its legs. The sea stretches into the distance under a sunset sky with colorful hues, resembling a vibrant circus atmosphere.",
+        "04": "A majestic animal stands in a field of vibrant purple flowers, surrounded by spangled tents of blurred greenery and flowering plants, resembling colorful circus performers."
+    },
+    "prompt_shared": "vibrant balloon dog",
+    "prompt_theme": "circus",
+    "object_token": "animal"
+}

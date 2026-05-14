@@ -1,0 +1,19 @@
+{
+    "src": "A sleek L-shaped sofa in smooth gray leather with plush cushions, featuring a minimalist design and metallic legs. Comes with dark gray and beige cushions, wide seating areas, low backrests, and understated stitching.",
+    "edit": "An L-shaped sectional sofa with earthy-toned fabric, textured cushions, soft curved backrests, intricate embroidery, and wooden carved legs. It features colorful patterns and tassels, with wide seating areas for lounging.",
+    "per_image_non_shared_src": {
+        "0": "A sofa is diagonally positioned in the living room corner with hardwood floors and a blue patterned rug partially underneath. To the left is a lamp and a door, with cushions on the sofa.",
+        "1": "A sofa viewed from a lower angle, showing its full length against wooden floors and a corner wall. A rug with patterns is on the right, a lamp is in the background, and pillows are on the sofa.",
+        "2": "The sofa is viewed from above, showing its layout against hardwood floors, with a doorway and dining area in the background, a blue rug partially visible, a small speaker in the corner, and neatly placed cushions.",
+        "3": "The sofa is central against a plain wall with wooden floors, cushions are perfectly arranged. In front, a small rustic table on a blue patterned rug."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The sofa is diagonal in a living room corner on hardwood floors. A blue geometric-patterned rug is partially beneath it. To the left is a rustic floor lamp and carved door. Colorful cushions with patterns are on the sofa.",
+        "1": "A bohemian sofa with textured textiles and earthy tones, viewed from a lower angle, against rustic wooden floors and a colorful wall. A vibrant rug with eclectic patterns lies on the right. Vibrant pillows are scattered across the sofa.",
+        "2": "A sofa with eclectic patterns in earthy tones on rustic hardwood floors with a bohemian backdrop including doorway and dining area. A blue rug, vintage speaker in corner, and vibrant pattern cushions highlight the bohemian style with layered textiles.",
+        "3": "The sofa is central with textured cushions, against a plain wall with eclectic tapestries, on distressed wooden floors. A small rustic table is in front, on a blue patterned rug in a bohemian style."
+    },
+    "prompt_shared": "Bohemian sofa",
+    "prompt_theme": "bohemian",
+    "object_token": "sofa"
+}

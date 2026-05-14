@@ -1,0 +1,21 @@
+{
+    "src": "A whimsical toy shaped like a swirled pile of brown with a smooth texture, featuring cartoonish eyes and a smile. The evenly stacked swirl has a curl on top, resembling a classic poop emoji.",
+    "edit": "A melting snowman sculpture with a sheen resembling melting ice. It has an asymmetrical, drooping form, sad eyes, a frowny mouth, a carrot-like nose, and wet patches mimicking melting snow.",
+    "per_image_non_shared_src": {
+        "00": "The object is sitting upright on gray asphalt, surrounded by twigs and small pebbles. The asphalt texture and color dominate the background.",
+        "01": "The object is upright in thick, lush green grass, with blades slightly bending around its base.",
+        "02": "the object is upright on green grass, with a large tree trunk behind, distant modern office buildings among trees",
+        "03": "The object sits on a painted green wooden bench, with aged slats, and a grassy area faintly visible beyond the bench's edge.",
+        "04": "The object stands upright on a textured concrete surface with a red brick wall behind, featuring uneven bricks and visible mortar lines, enhancing the urban feel."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object is sitting upright on a snow-dusted, frozen asphalt surface, surrounded by frosty twigs and ice-encrusted pebbles. The frosty asphalt is gray with a silvery sheen.",
+        "01": "The object is upright in a patch of white snow, with fluffy snowflakes around its base. Frost patterns are on the snow reflecting soft light, creating a quiet, secluded winter landscape.",
+        "02": "The object stands upright on a grassy area with a layer of snow. A bare tree trunk with branches is behind it. Distant modern office buildings are among leafless trees, under a soft winter snowfall.",
+        "03": "The object sits on a snow-dusted green wooden bench with frosted slats and ice. The grassy area is a field of soft snow, visible beyond the bench's edge, with frost patterns decorating the bench edges.",
+        "04": "The object stands upright on a frosty concrete surface. Behind it, a red brick wall is partially adorned with icicles on the uneven bricks and glistens under a thin layer of ice. Mortar lines appear more defined."
+    },
+    "prompt_shared": "melting snowman",
+    "prompt_theme": "winter",
+    "object_token": "emoji"
+}

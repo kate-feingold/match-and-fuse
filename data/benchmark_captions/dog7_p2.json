@@ -1,0 +1,21 @@
+{
+    "src": "A brown dog with a glossy coat, fluffy ears, and expressive eyes. Its tongue is lolling out playfully, with a pink nose, and slightly tousled fur.",
+    "edit": "A horror-style creature with a twisted frame and dark fur cloak. It has glowing eyes, tattered ears, a skeletal snout, jagged teeth, sinewy limbs with claws, and a spiky, snake-like tail.",
+    "per_image_non_shared_src": {
+        "00": "The animal lies on its belly on a log in a wooded area, head turned slightly left, surrounded by blurry trees with bokeh effect, rust-colored leaves and ferns around, creating a forested setting.",
+        "01": "The animal lies with its front paws extended on sandy ground, surrounded by blurred greenery indicating a park or open area with sand and sparse vegetation.",
+        "02": "Animal stands on a pebbly shoreline, with ocean waves at its legs and a sunset sky in the background, creating a beach scene.",
+        "03": "An animal runs through shallow waves with water splashing around its legs, against a distant sea and sunset.",
+        "04": "The animal sits in a field of blooming heather with purple flowers, set against blurred greenery and flowering plants in a natural meadow."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The animal lies on its belly on a log, head turned slightly left, in a wooded area. Surrounding trees have orange, red, and yellow leaves. Background features rust-colored leaves and ferns with a soft bokeh effect, reminiscent of an autumn forest.",
+        "01": "The animal rests with front paws stretched on fallen leaves with tongue out. It is surrounded by blurred foliage with sparse trees in red, orange, and yellow leaves, creating an autumn scene.",
+        "02": "An animal stands on a shoreline with golden-brown pebbles, touched by ocean waves. The background sky is deep orange and red from an autumn sunset, creating a serene beach scene.",
+        "03": "The animal runs through shallow waves, water splashing around its legs. The sea extends under an orange and golden sunset, with waves reflecting red and yellow autumn foliage.",
+        "04": "The animal sits in a field of heather with rust and amber flowers, amid foliage in golden yellow and deep orange. The background has blurred earthy greenery and scattered plants, depicting autumn's transition."
+    },
+    "prompt_shared": "horror-style animal",
+    "prompt_theme": "autumn",
+    "object_token": "animal"
+}

@@ -1,0 +1,21 @@
+{
+    "src": "A small frosted glass jar with a natural wooden lid, featuring a rustic rope handle on top. The jar is translucent, showing a pale creamy substance inside.",
+    "edit": "An enigmatic glass jar with swirling shades of silver and gold, topped with a wooden lid that has a crystal-like handle, giving it an otherworldly aura.",
+    "per_image_non_shared_src": {
+        "00": "The object is centered on a rough, weathered rock with surrounding greenery. In the background, a tall boulder and dense bushes add depth to the natural setting.",
+        "01": "The object is centrally placed on a green picnic table, its surface marked with subtle weathering. A backdrop of paths and lush foliage can be seen in the distance.",
+        "02": "The object sits in the middle of vibrant green clover-filled grass. The rich texture of the grass provides a lush natural background.",
+        "03": "The object is positioned at the base of a large tree, surrounded by thick grass. The tree's textured bark and distant trees create a layered background.",
+        "04": "The object is on gritty pavement, backed by a red brick wall with visible mortar lines. The rough texture of the wall adds to the urban setting."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object is centered on a mystical rock with glowing runes, surrounded by enchanted greenery. In the magical world background, mythical stones and shimmering bushes add depth.",
+        "01": "The object is centrally placed on a magical picnic table with iridescent colors, its surface marked with subtle enchanted patterns. Distant glowing paths and lush magical foliage.",
+        "02": "The object sits in the middle of vibrant magical clover-filled grass. The rich texture of the enchanted grass provides a lush mystical background.",
+        "03": "The object is positioned at the base of a large mythical tree, surrounded by thick enchanted grass. The tree's gnarled bark and distant ethereal trees create a layered magical world.",
+        "04": "The object is on mystical pavement, backed by a red brick wall with glowing mortar lines. The enchanted texture of the wall adds to the magical world setting."
+    },
+    "prompt_shared": "a mysterious two-colored jar",
+    "prompt_theme": "magic world",
+    "object_token": "candle"
+}

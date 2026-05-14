@@ -1,0 +1,23 @@
+{
+    "src": "A pink-red backpack with a sleek design, featuring a large main compartment with brass zipper, a small front pocket, two colorful patches, a brand logo on the lower right corner, padded shoulder straps, and slightly glossy fabric.",
+    "edit": "An Indiana Jones-style satchel with aged leather, rugged straps, and brass buckles. The front features embossed designs. The main compartment is weathered and spacious in earthy tones, blending with natural surroundings.",
+    "per_image_non_shared_src": {
+        "00": "The person is viewed from the back, wearing blue jeans and a black sleeveless top. They stand under a cloudy sky, with a backpack over one shoulder, left arm on the waist, and right arm bent at the elbow.",
+        "01": "The person stands in a three-quarter view, left hand on hip, right hand lifted, with a backpack on one shoulder. They wear blue jeans and a black sleeveless top against a cloudy sky.",
+        "02": "The backpack leans against a large, rough rock, overlooking a mountain valley with green trees, distant mountains, and a cloudy sky.",
+        "03": "A backpack is upright on a moss-covered rock amid green woodland with leafy ferns and shrubs, under forest light filtering through the canopy and fallen leaves, with faint sunlight streaming through the foliage.",
+        "04": "The backpack hangs on a moss-covered, fallen tree trunk in a dense forest, slightly rotated to the right, partially obscured by a blurred, vertical tree in the foreground, on a damp forest floor with decaying leaves and scattered branches.",
+        "05": "The backpack hangs from the center of a large, fallen tree trunk with aged moss and thick bark, surrounded by dry leaves on the forest floor, softly lit through dense forest trees."
+    },
+    "per_image_non_shared_edit": {
+        "00": "A person stands under a cloudy sky, viewed from behind, with a backpack over one shoulder. They wear brown cargo pants and a green top, amidst distant tropical trees. Left arm on waist has a vine bracelet, right arm bent while looking up at the jungle canopy.",
+        "01": "A person stands under a cloudy sky with a backpack over one shoulder and wears brown cargo pants and a sleeveless olive green top. Tropical trees are in the background. Left hand on hip, right hand lifted as they gaze upwards.",
+        "02": "A rugged backpack is perched against a moss-covered rock, overlooking a valley with dense foliage. Vines drape over the backpack, surrounded by exotic plants, towering tropical mountains, and trees, creating a sense of jungle exploration and adventure.",
+        "03": "A backpack is upright on a large tree root in the jungle, surrounded by vibrant green tropical plants and vines. Palm leaves and foliage create a lush backdrop, with natural light creating light and shadows.",
+        "04": "The backpack hangs from a large fallen tree trunk with vines and moss, slightly tilted right, in the heart of a vibrant jungle. Overlapping leaf patterns are on it. A palm tree frames the scene, amid leaves, ferns, and branches on the jungle floor.",
+        "05": "A backpack hangs from a large, fallen tree trunk with jungle vines and moss, in the jungle's center. A blurred palm tree frames the scene. The jungle floor has leaves, ferns, and branches."
+    },
+    "prompt_shared": "Indiana Jones-themed satchel",
+    "prompt_theme": "jungle",
+    "object_token": "backpack"
+}

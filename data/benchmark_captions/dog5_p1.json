@@ -1,0 +1,19 @@
+{
+    "src": "A small brown dachshund with a sleek coat and droopy ears. It rests its head on surfaces, its elongated body stretching across furniture, showcasing a relaxed posture.",
+    "edit": "A small creature with elongated ears and glowing eyes rests on a gnarled blanket on a dark couch. Its slender body has a sharp, predatory nose and a claw gripping the couch edge, under dim, flickering light.",
+    "per_image_non_shared_src": {
+        "00": "The object is on a green sofa's backrest, head leaning forward, with a gray plush blanket underneath, illuminated by natural light from left window blinds, with a soft cushion partially visible on the right.",
+        "01": "the object lies sideways on a green sofa with head on a gray plush blanket, left are window blinds casting shadows, in the background a wall with a modern lamp on a gray stand, and a framed photo beside it",
+        "02": "The object is perched atop a gray sofa backrest, upright with paws and snout forward, with a large window with blinds behind and patterned pillows adjacent.",
+        "04": "the object sits on a gray sofa with a fuzzy blanket, facing the observer, against a styled interior with two side lamps on a dark console and framed art on the wall."
+    },
+    "per_image_non_shared_edit": {
+        "00": "A shadowy object on a green sofa's backrest, head leaning forward, casts a long shadow. A charcoal blanket lies underneath. Moonlight filters through the window blinds on the left. A soft cushion on the right blends into the shadows.",
+        "01": "The object lies sideways on an emerald green sofa, head on a gray plush blanket. Blinds cast shadows to the left. A wall is illuminated by a modern lamp with a gray stand, beside a framed photo.",
+        "02": "The object sits atop a dark leather sofa backrest, silhouette highlighted by moonlight through open blinds. Its stance is upright, paws and snout forward. Velvet pillows in deep hues complement the nighttime theme, with a window framing the night sky.",
+        "04": "The object is centered on a dark sofa with a black blanket, facing the observer. Behind, two glowing side lamps illuminate a console. Shadowy framed art decorates the wall, creating a calm night theme."
+    },
+    "prompt_shared": "horror-style animal",
+    "prompt_theme": "night",
+    "object_token": "animal"
+}

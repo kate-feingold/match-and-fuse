@@ -1,0 +1,21 @@
+{
+    "src": "Sleek sports car with metallic blue body, aerodynamic enhancements, wide grille, LED headlights, large alloy wheels. Smooth curved doors, racing spoiler, quad exhausts. Streamlined design with precise engineering details.",
+    "edit": "A retro car with a cream upper body and burgundy lower section, featuring curved lines and chrome wire-spokes. It has a vintage grille, round headlights, slightly tinted windows, and a low profile.",
+    "per_image_non_shared_src": {
+        "martin-katler-BAp-S2Ksn18-unsplash": "The object is viewed from the rear on a smooth concrete surface, with a high wall on the left, a cloudy sky background, and industrial buildings in the distance.",
+        "martin-katler-MeaLI-A_Zjw-unsplash": "the object is positioned at an angle, showing front and side on a concrete path, framed by high grey walls, with foliage in the distance and an industrial complex.",
+        "martin-katler-PAD3RjjEb7M-unsplash": "The object is angled, showcasing its front, on a concrete stretch with grey walls, beneath a cloudy sky.",
+        "martin-katler-WEPVJzK9xn8-unsplash": "The object is viewed from above, showing its top and rear, on a rooftop parking area with metallic railings and urban structures in the background.",
+        "martin-katler-quVwaNGVebk-unsplash": "The object in a close-up from the front corner, highlighting detailed front design elements, centered against a concrete wall backdrop."
+    },
+    "per_image_non_shared_edit": {
+        "martin-katler-BAp-S2Ksn18-unsplash": "The object is viewed from the rear on a cracked concrete surface. A high wall is on the left, with a sky of fluffy clouds in the background. Distant industrial buildings have classic brick facades.",
+        "martin-katler-MeaLI-A_Zjw-unsplash": "The object is positioned at an angle, showing its front and side, on a vintage concrete path with high grey industrial walls. Distant foliage contrasts with an industrial-looking complex of mid-20th century architecture.",
+        "martin-katler-PAD3RjjEb7M-unsplash": "The object rests at a slight angle on a worn concrete path bordered by weathered grey walls of mid-20th century design, under a grey sky.",
+        "martin-katler-WEPVJzK9xn8-unsplash": "The object is viewed from above, showing its top and part of the rear, on a rooftop parking area with vintage railings. Urban structures with pastel facades and retro signs are in the background, capturing mid-20th-century architecture.",
+        "martin-katler-quVwaNGVebk-unsplash": "The object is viewed in a close-up from the front corner, featuring intricate retro design elements against a stark concrete wall. The color palette includes muted retro tones, with a focus on detailed front design elements enhancing the minimalist backdrop."
+    },
+    "prompt_shared": "two-colored retro car",
+    "prompt_theme": "retro",
+    "object_token": "car"
+}

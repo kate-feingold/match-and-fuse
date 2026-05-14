@@ -1,0 +1,21 @@
+{
+    "src": "A multicolored sneaker with pastel purple, mint green, and cream. It has cream laces, a rounded toe, a plush lining, and a chunky sole.",
+    "edit": "A low-poly multicolored sneaker with pastel purple, mint green, and cream geometric facets. It features polygonal cream-colored laces, an angular toe, a simplified inner lining, and a blocky, robust sole resembling modern architecture.",
+    "per_image_non_shared_src": {
+        "00": "the object is on a diagonal rough concrete surface beside a rippling body of water, with trees in the background and a stone wall behind, separating the water from grass.",
+        "01": "The object is angled slightly to the right on a textured asphalt road with small specks and twigs scattered on the ground. The background is blurred showing the road.",
+        "02": "the object is on vibrant green grass, slightly sunken, surrounded by blades, with freshly mowed grass stretching into the distance.",
+        "03": "the object is lying slightly off-center on a green wooden park bench with some scratches. Behind is a patch of grass and a gray gravel path.",
+        "04": "The object is against a rustic red brick wall on a worn concrete sidewalk with patches and stains. The bricks have a weathered texture with visible mortar."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object is on an angular, faceted concrete-like surface beside a low-poly rippling water body. Polygonal trees are in the background, with a low-poly stone wall separating the water from grassy polygonal area, all in low-poly style.",
+        "01": "The object is made of geometric shapes, angled to the right on a low-poly textured road with polygonal specks and angular twigs. The blurred background continues with sharp-edged, colorful road fragments, in a low-poly style.",
+        "02": "The object is on low-poly, geometric grass with vibrant green, angular shapes. It appears slightly sunken amidst sharp-edged blades. The grass extends with a mosaic of flat polygons, typical of low-poly style.",
+        "03": "The object rests on a green wooden park bench in low-poly style, off-center, with facets and geometric edges. Behind, a low-poly grass patch with triangular shapes adds depth, along with a light gray polygonal gravel path.",
+        "04": "the object with geometric lines, placed against a low-poly red brick wall with angular pattern. The sidewalk has flat polygonal shapes. Red bricks have smooth facets and simple color planes, creating a minimalistic low-poly style."
+    },
+    "prompt_shared": "low poly sneaker",
+    "prompt_theme": "low poly",
+    "object_token": "shoes"
+}

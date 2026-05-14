@@ -1,0 +1,31 @@
+{
+    "src": "A plush panda toy with soft, fluffy black and white fur, round ears, and an expressive face. The toy has stubby limbs and patches over its eyes, giving it a cute appearance.",
+    "edit": "A real panda wearing a vibrant two-colored shirt with contrasting hues. The panda's fur is soft and fluffy, with round ears and an expressive face. The shirt adds a playful touch to its appearance.",
+    "per_image_non_shared_src": {
+        "0": "The object is lying on a pink blanket in a room. Behind it, various items including a lamp, cheezit decoration, and a cluttered nightstand are visible, creating a cozy indoor setting.",
+        "1": "The object is leaning over the edge of a wooden surface, possibly a bed or desk. The background shows a blue-patterned fabric on the ceiling, books, and pinned notes on the wall.",
+        "2": "The object is positioned upright on a floral-patterned pillow, set against a beige wall. The floral design is multicolored, adding a contrast to the white bedding under the toy.",
+        "3": "The object is draped over a railing in a stairwell. The background includes stair steps and a muted green wall with a small bulletin board on it.",
+        "4": "The object is balanced on a metal handle of a door, inside a building hallway. Behind it, a bulletin board with a calendar and notes is partially visible, with some white markings on the wall.",
+        "5": "The object is placed on a navy blue blanket on a wooden bench with horizontal slats. The bench is indoors, and the environment includes muted tones, providing a calm backdrop.",
+        "6": "The object rests on a white comforter with a wrinkled texture on a bed. The light wall behind it is plain, and part of a wooden headboard peeks into view.",
+        "7": "The object is balanced on the keyboard of a laptop, which is open. The background shows various stationery items and a container, indicating a desk setup.",
+        "8": "The object leans onto a pillow with a pineapple design, placed against a plain wall. The lighting is low, casting subtle shadows in the room, enhancing a calm environment.",
+        "9": "The object stands near a window on a wooden sill. The background shows a green wall outside, visible through the glass, casting natural light onto the scene."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is lying on a pink blanket in a kindergarten. Behind it, colorful educational posters, a child\u2019s drawing of a sunflower, and toy blocks create an engaging learning environment.",
+        "1": "The object is leaning over the edge of a wooden surface, possibly a play area. The background shows a colorful ceiling with children's artwork, an alphabet chart, and various paper crafts on display.",
+        "2": "The object is positioned upright on a floral-patterned pillow in a kindergarten classroom. The floral design complements bright murals on the wall depicting cartoon animals and letters.",
+        "3": "The object is draped over a railing in a brightly colored kindergarten stairwell. The background includes playful cartoon characters and a colorful numbers chart on the walls.",
+        "4": "The object is balanced on a metal handle of a door in a kindergarten hallway. Behind it, a bright bulletin board displays cheerful children\u2019s artwork and character stickers.",
+        "5": "The object is placed on a navy blue blanket on a bench in a kindergarten classroom. Brightly colored educational toys and books are visible, adding a lively learning atmosphere.",
+        "6": "The object rests on a white comforter in a kindergarten nap area. Colorful walls painted with cartoon clouds and stars are behind it, adding a dreamy feel to the space.",
+        "7": "The object is balanced on the keyboard of a laptop in a kindergarten. The background shows colorful craft supplies, a jar of crayons, and children\u2019s paintings, indicating a creative desk setup.",
+        "8": "The object leans onto a pillow with a pineapple design in a kindergarten. The walls are decorated with murals of playful jungle scenes and animated characters, creating a whimsical environment.",
+        "9": "The object stands near a window on a wooden sill in a kindergarten. The background displays a playground with swings and slides, visible through the glass, adding a playful setting."
+    },
+    "prompt_shared": "a real panda in a two-colored shirt",
+    "prompt_theme": "kindergarten",
+    "object_token": "plushie"
+}

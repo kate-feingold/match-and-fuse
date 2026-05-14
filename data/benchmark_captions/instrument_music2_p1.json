@@ -1,0 +1,23 @@
+{
+    "src": "A mini acoustic guitar featuring a colorful illustration of The Beatles in a vibrant, psychedelic style on the body. It has a dark brown neck and headstock with metallic tuning pegs, and it appears well-crafted with fine details.",
+    "edit": "A punk rock-themed guitar with bold, edgy designs. The body showcases a mix of spikes and studs, with vivid graffiti-style artwork. The neck is adorned with distressed wood and metallic elements for an audacious look.",
+    "per_image_non_shared_src": {
+        "0": "The object is standing upright against a white wall and a fluffy grey carpet. It is well-lit, with shadows cast on the wall, giving it a grounded appearance indoors.",
+        "1": "The object leans against a wooden surface next to a red accent object on the right. The contrast between the wood grain and the red color add depth to the scene.",
+        "2": "The object lies flat on a dark wooden table, viewed from an angle that emphasizes the side and body. The dark surface complements the vibrant colors of the object.",
+        "3": "The object is upright against a black cushioned couch, which provides a dark and neutral background to highlight the colorful details on the object.",
+        "4": "The object is placed on a rich, red textured blanket, which enhances the contrast with the object's bright colors. The folds in the fabric add texture.",
+        "5": "The object leans against a concrete surface outdoors with metal bars at the side. Behind it is a view of outdoor greenery, contrasting with the industrial foreground."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is standing upright against a distressed concrete wall and a worn, leather-covered floor in a punk rock style apartment. It is well-lit, with dramatic shadows cast, creating a gritty atmosphere.",
+        "1": "The object leans against a scratched wood panel next to an industrial red metal element on the right. The worn surfaces and bold color add a rebellious vibe to the rockers' abode.",
+        "2": "The object lies flat on a dark, battered wooden table, viewed from an angle that emphasizes the side and body. The backdrop has an edgy, underground club feel.",
+        "3": "The object is upright against a black leather couch with tears, which provides a grunge vibe fitting a rockers' apartment. The bold details pop against the dark setting.",
+        "4": "The object is placed on a vibrant, torn red ragged blanket, which enhances the punk rock aesthetic with its vivid and worn look. The blanket\u2019s rough texture is prominent.",
+        "5": "The object leans against a gritty concrete surface outdoors with metal railings at the side, fitting the punk rock scene. The view of urban greenery, complements the rebellious theme."
+    },
+    "prompt_shared": "a punk rock guitar",
+    "prompt_theme": "rockers apartment",
+    "object_token": "object"
+}

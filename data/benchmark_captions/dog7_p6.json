@@ -1,0 +1,21 @@
+{
+    "src": "A brown dog with a glossy coat, fluffy ears, and expressive eyes. Its tongue is lolling out playfully, with a pink nose, and slightly tousled fur.",
+    "edit": "An extraterrestrial pet with a shimmering coat shifting colors between green and purple. It has luminescent eyes, elongated translucent ears with patterns, and a small silver nose. The skin is smooth and almost translucent.",
+    "per_image_non_shared_src": {
+        "00": "The animal lies on its belly on a log in a wooded area, head turned slightly left, surrounded by blurry trees with bokeh effect, rust-colored leaves and ferns around, creating a forested setting.",
+        "01": "The animal lies with its front paws extended on sandy ground, surrounded by blurred greenery indicating a park or open area with sand and sparse vegetation.",
+        "02": "Animal stands on a pebbly shoreline, with ocean waves at its legs and a sunset sky in the background, creating a beach scene.",
+        "03": "An animal runs through shallow waves with water splashing around its legs, against a distant sea and sunset.",
+        "04": "The animal sits in a field of blooming heather with purple flowers, set against blurred greenery and flowering plants in a natural meadow."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The animal lies on a snow-dusted log in winter woods, its head turned left, with blurred, frost-coated trees in the background and white snowflakes floating in the air. Icy leaves peek through the snow.",
+        "01": "The animal lies with front paws extended on snow-covered ground, tongue out, surrounded by blurred frost-kissed trees and sparse ice-tipped vegetation, with frost on its fur and snowflakes on its coat.",
+        "02": "An animal stands on a frozen shoreline, with a vast ice canvas behind and a winter sunset sky above, casting a glow across the snow-dusted landscape, creating a tranquil winter setting.",
+        "03": "The animal bounds through light snow, flakes around its legs. The sea stretches under a pale winter sky with soft colors. Frost clings to the sand on the shore, creating a serene wintry seascape.",
+        "04": "The animal resides amid snow-covered heather with purple petals, against a background of a white landscape with frost-kissed greenery and flowering plants, offering a serene winter meadow ambiance."
+    },
+    "prompt_shared": "extraterrestrial alien pet",
+    "prompt_theme": "winter",
+    "object_token": "animal"
+}

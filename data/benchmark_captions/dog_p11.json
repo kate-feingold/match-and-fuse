@@ -1,0 +1,21 @@
+{
+    "src": "A fluffy corgi with a thick, golden-brown fur and white accents. Its ears are erect, tongue out, and it has a short snout with a black nose.",
+    "edit": "A carved wooden statue with a polished oak texture, deep mahogany eyes and ears, lighter honeyed body, slightly open mouth, perked ears, and a flowery backdrop.",
+    "per_image_non_shared_src": {
+        "00": "The object is centered and facing forward, with a background of softly blurred cherry blossom trees in full bloom.",
+        "01": "The object stands on a concrete pedestal, set against a clear blue sky and cherry blossoms in soft focus, contrasting with its vibrant hues.",
+        "02": "The object sits on a reflective surface with an orange wall behind it and cherry blossoms hanging above.",
+        "03": "The object is shown in profile, looking right, on a white surface with an orange wall and cherry blossoms on the side.",
+        "04": "the object gazes to the left from a low vantage, surrounded by greenery and distant buildings, with sunlight creating dynamic contrasts against its textures."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object is centered, facing forward, in a winter landscape. It stands out against blurred trees with snow, highlighting its vibrant colors amid the season's pale hues.",
+        "01": "The object stands on a snow-covered pedestal in a white landscape. Icicles hang from the edges, with bare branches against a pale sky. Frost patches glisten on its surface, enhancing vibrant hues against wintry tones.",
+        "02": "The object sits on a shimmering, icy frost surface with a pale blue wall behind it. Above, snow-laden cherry blossom branches hang with icy crystal petals, creating a serene winter scene.",
+        "03": "The object is in profile, facing right, on a snowy surface under muted winter light. The frosty blue background wall and branches of bare trees frame the scene, casting intricate shadows typical of a winter landscape.",
+        "04": "The object gazes left from a low angle, surrounded by snow-covered greenery and frosted buildings, under a glowing pale sky. The scene, with white snow and the object's rich textures, creates a winter ambiance with cold hues and hints of frost."
+    },
+    "prompt_shared": "two-colored wooden statue",
+    "prompt_theme": "winter",
+    "object_token": "animal"
+}

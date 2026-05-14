@@ -1,0 +1,23 @@
+{
+    "src": "A blue aluminum soda can with a dynamic whale illustration beneath yellow ocean waves. The label reads 'TRANSATLANTIC IPA' in black letters, with Asian characters at the bottom.",
+    "edit": "A cylindrical aluminum can with a glossy label featuring summer flowers swirling around it. 'SUMMER POTION' is displayed in bold letters at the top, with additional drink details elegantly displayed.",
+    "per_image_non_shared_src": {
+        "00": "A can is centered on a rough concrete ledge with a blurred waterway and bare trees in the distance. Sunlight casts a shadow to the left, creating a contrast between the can and the surface.",
+        "01": "the can rests slightly off-center on a textured stone surface with a smooth river and greenery in the blurred background, highlighting the can's detailed label.",
+        "02": "The can stands tall on a frosty surface with blurred trees and buildings in the background and visible ice textures around the base.",
+        "03": "The can is near the center on a reflective icy surface, with residential buildings and barren trees in the background under a blue sky, and a sprawling ice layer with tiny cracks in the foreground.",
+        "04": "The can is on a smooth wooden table inside, next to a filled pint glass with an orange slice, set against a brick wall with soft light reflecting off the can's surface.",
+        "05": "A can on a stone ledge next to a half-full tulip glass of beer, with a murky river in the blurred background and a person in an orange life vest kayaking past."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The can is centered on a grassy ledge with a shimmering waterway and leafy trees in the background. Sunlight filters through the canopy, creating contrast between the can and the lush surface.",
+        "01": "A can is off-center on a sunlit stone surface, its texture glowing. In the blurred background, a serene river reflects greenery. The can's label is detailed and vividly illuminated with sun-kissed colors, viewed through a dreamy lens.",
+        "02": "A can stands on a sunlit surface. The background has blurred outlines of lush greenery and urban structures under a blue sky. Dew-laden grass is around the base of the can, shimmering in sunlight.",
+        "03": "A can sits near the center on a meadow of reflective grass. Sunlight bathes distant buildings, framed by leafy trees against a blue sky. The foreground has wildflowers and streams catching sunlight.",
+        "04": "A soda can on a sunlit, pastel wooden table next to a pint glass with an orange slice. The wall has a dreamlike glow, and light reflects off the can's metallic surface, enhancing the summer ambiance.",
+        "05": "The can is on a sunlit stone ledge beside a half-full tulip-shaped glass of beer, under diffused light. A hazy river with a kayaker in an orange vest is in the background."
+    },
+    "prompt_shared": "a can of drink called 'Summer Potion'",
+    "prompt_theme": "dreamy summer",
+    "object_token": "can"
+}

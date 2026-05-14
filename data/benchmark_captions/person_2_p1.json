@@ -1,0 +1,39 @@
+{
+    "src": "A man with short, tousled black hair and a gentle smile.",
+    "edit": "A man with short, tousled black hair in Pixar style, has round cheeks and large eyes. He's in a vividly colored t-shirt, with a gentle closed-mouth smile, under Pixar sunlight.",
+    "per_image_non_shared_src": {
+        "0": "A closeup of a person at shoulder level, with a metal bar behind and a sandy ancient city in the distant background.",
+        "1": "The person is viewed closeup at shoulder level. Behind is a horizontal red banner with white logos, a tilted steel-and-glass wall at the top-right, and light blue sky on the right.",
+        "10": "the person is viewed closeup, shoulders level, body slightly rotated. To the right is a quilted diamond-patterned wall with a metal sconce having three exposed bulbs; to the left is a dark wood panel.",
+        "11": "The person is viewed closeup, face centered, slightly rotated down left, wearing glasses, in an airport terminal with glass windows showing parked cars, rows of metal-framed seats, and a glossy white tiled floor.",
+        "12": "A person viewed up to the chest, wearing reflective aviator sunglasses and a blue CVPR logo shirt, seated on a cream vinyl boat cushion, with arms resting to the sides, and rippling turquoise water in the background.",
+        "13": "A person wears a grey cap and black-framed glasses, with the sun illuminating a stone wall behind them, in casual clothing among sunlit stone streets and walls.",
+        "2": "A person stands in a grassy park wearing a grey hoodie and a backpack, with a wooden fence, tree, and rustic building in the background.",
+        "3": "The person is near a seaside cliff wearing a black t-shirt, with windswept hair and ocean waves in the background, framed by rock formations.",
+        "4": "A person faces forward in a softly lit room, wearing a light sweater, with neutral colored walls behind them, indicating an indoor setting.",
+        "5": "The person is seated with a bib around the neck, against a cream-colored wall in a dining setting with yellow lighting.",
+        "6": "The person stands before a historical cityscape with familiar vistas, under a bright blue sky, highlighting the stone architecture.",
+        "7": "Person speaking with a microphone, side profile in a dark venue, wearing a grey top and lanyard, blue-lit background.",
+        "8": "The person is indoors, close-framed, wearing a light green shirt against neutral colored walls.",
+        "9": "Person in a grey hoodie against a rustic stone wall with varied texture."
+    },
+    "per_image_non_shared_edit": {
+        "0": "A closeup of a man with vibrant Pixar animation features. Behind him, a shiny metal bar balances on his shoulders. The background shows an ancient city in sandy hues, detailed architecture, and imaginative cloud patterns, blending realism and fantasy.",
+        "1": "A man stands in a vibrant, animated style with expressive eyes and exaggerated features. Behind him, a bright red banner with white geometric logos, and above, a cartoonish steel-and-glass wall. On the right, a sky-blue background contrasts the scene.",
+        "10": "An animated man closeup, face with exaggerated Pixar features, body slightly rotated, stands before a diamond-patterned wall with bright colors. To his right, a metal sconce with three bulbs. To the left, a dark wood panel with texture.",
+        "11": "A character stands close to the camera, face centered and tilted downwards left, wearing oversized glasses, in a Pixar-inspired airport terminal with glass windows. Outside, colorful cars are visible. Inside, metallic seats and glossy floor reflect the vivid surroundings.",
+        "12": "A man viewed up to chest wears oversized aviator sunglasses and a bright blue shirt with a CVPR logo, seated on a cream-colored vinyl boat cushion. His arms rest on the sides. Behind him, rippling turquoise water fills the frame with lush colors in Pixar style.",
+        "13": "A man wears a vibrant-colored cap with large eyes and black-framed spectacles, reminiscent of a Pixar character. His attire is casual in lively hues. Behind him, a stone wall gleams under animated sunlight, highlighting soft textures typical of Pixar worlds.",
+        "2": "A character stands in a cartoonish park with a grassy field, wearing a grey hoodie and colorful backpack. In the background, a wooden fence, whimsically shaped tree, and rustic building add depth, characterized by bright colors and Pixar's animation style.",
+        "3": "A character stands near a seaside cliff, in a black t-shirt, hair tousled by the breeze. Behind, colorful ocean waves and cartoonish rock formations form a vibrant Pixar-style scene.",
+        "4": "A character with large eyes stands facing forward in an inviting room with warm lighting, wearing a light sweater with a sheen. The walls have soft pastel tones, typical of a Pixar animation setting.",
+        "5": "A man with a cartoonish bib is seated against a cream-colored wall in a dining setting. Soft, bright colors, and vibrant yellow lighting create an animated feel, inspired by Pixar.",
+        "6": "A man amidst a vibrant cityscape like a Pixar movie. Buildings with exaggerated stone architecture tower under a bright blue sky. Playful curves and vivid hues create an atmosphere with bold outlines and a polished finish.",
+        "7": "A character speaks into a microphone in a side profile within a dim venue, wearing a grey top and colorful lanyard. The scene is lit in a blue light, similar to Pixar animation, with an energetic background.",
+        "8": "A man with exaggerated features and a friendly smile is framed closely indoors, wearing a vibrant light green shirt typical of Pixar. The walls are rendered in soft hues, creating an animated atmosphere.",
+        "9": "A man stands against a detailed stone wall, animated in Pixar style. He wears a grey hoodie contrasting with the animated stone textures. The wall has vibrant, exaggerated textures typical of Pixar, creating a dynamic visual scene."
+    },
+    "prompt_shared": "Pixar character",
+    "prompt_theme": "Pixar",
+    "object_token": "person"
+}

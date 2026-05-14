@@ -1,0 +1,19 @@
+{
+    "src": "A yellow rubber duck with a smooth, round body, orange beak, and small black eyes. It is glossy and has a streamlined shape with a flat bottom for floating.",
+    "edit": "A whimsical toy fish with a shiny exterior, composed of blue and green segments from head to tail. The eyes are oversized and the fins are elegantly curved, with a sleek and slightly reflective texture.",
+    "per_image_non_shared_src": {
+        "00": "the object is positioned on a textured surface of black and green pebbles, viewed from a low angle, with sunlight casting a shadow to the right and dried leaves in the background.",
+        "01": "the object is on a blue carpet, slightly angled to the left with indoor lighting; a shadow is visible, and a dark piece of furniture is in the upper background.",
+        "02": "The object is viewed from the left above on a patterned grey surface like fish scales, with part of a dark fabric at the top of the image.",
+        "03": "The object is on a rocky shoreline, facing away from the sea, viewed from the right side. Gentle waves and horizon are visible in the background, with various stones scattered."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object rests on a knitted surface of black and green pebbles, viewed from a low angle. Sunlight casts a shadow with knit patterns to the right, and dried leaves in the background appear as knitted pieces with unique stitch details.",
+        "01": "The object is on a textured knitted carpet with patterned blue hues, slightly angled to the left. The surrounding has a woven shadow, and a piece of furniture with dark woolen textures is partially visible in the upper background.",
+        "02": "An object viewed from the left, elevated viewpoint, on a surface resembling grey knitted fish scales. At the top, a textured knitted fabric edge intrudes, enhancing the knitted-world aesthetic.",
+        "03": "The object stands on a knitted shoreline, viewed from the right. Gentle waves are looping yarn patterns, the horizon is interwoven threads. Knitted stones are scattered, blending with the knitted world theme."
+    },
+    "prompt_shared": "whimsical toy fish",
+    "prompt_theme": "knitted world",
+    "object_token": "toy"
+}

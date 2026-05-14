@@ -1,0 +1,21 @@
+{
+    "src": "A sleek black and white cat with green eyes, predominantly white with black patches on the head and tail. The ears are erect with pink insides, and the whiskers jut out prominently.",
+    "edit": "An extraterrestrial alien pet with iridescent rainbow scales, multi-faceted luminous eyes, bioluminescent side stripes, a head with glowing feathery appendages, a vibrant spiral tail, and ethereal wings folded against its back.",
+    "per_image_non_shared_src": {
+        "manja-vitolic-0oQofg-E5WM-unsplash": "the object is lying on a light-colored fabric cushion, head slightly tilted right; a dark object, possibly a pillow, is in the background, with soft lighting",
+        "manja-vitolic-2cwOQO5JUR8-unsplash": "Object is on a floral-patterned cushion, stretched out with its head propped up against a light-colored wall backdrop.",
+        "manja-vitolic-AwjXbWlZh7k-unsplash": "The object rests sideways on a white surface, gazing ahead. Beside it is a container with geometric black-and-white patterns. The setting is minimalistic with bright, soft lighting.",
+        "manja-vitolic-JiNomzzWw8s-unsplash": "The object is seated straight on a white shelf surrounded by framed art, a sign, a crescent moon figure, a leafy artwork, and a colorful vase. The wall is lightly textured.",
+        "manja-vitolic-xw9SLGy_c6Y-unsplash": "the object stands upright on a white surface, looking forward, a plant with thin green leaves is blurred in the background, with a white backdrop and soft illumination."
+    },
+    "per_image_non_shared_edit": {
+        "manja-vitolic-0oQofg-E5WM-unsplash": "The object lies on light-colored fabric with frost-like patterns, resembling snow, supported by a snow-inspired cushion. The head is tilted right. In the background, a dark object, possibly a pillow, is dusted with snow. The lighting is soft.",
+        "manja-vitolic-2cwOQO5JUR8-unsplash": "The object is lying stretched out on a patterned cushion with snowflake designs, head propped up, against a pale wintry wall backdrop.",
+        "manja-vitolic-AwjXbWlZh7k-unsplash": "The object rests sideways on a white surface, with its exterior glistening frost-like. Beside it is a container with snowflake patterns. The setting is bright and soft, similar to sunlight on snow, with black-and-white patterns like icy branches.",
+        "manja-vitolic-JiNomzzWw8s-unsplash": "The object is on a snowy white shelf, straight posture, surrounded by framed winter art, a snowflake sign, a frosty crescent moon figure, icy leafy artwork, and a vase with blue and silver elements, against a lightly textured cool wall.",
+        "manja-vitolic-xw9SLGy_c6Y-unsplash": "The object is upright on a frosted surface, looking forward. A plant with frosty green leaves is blurred in the background against a white winter-themed backdrop. Soft, cool light fills the scene, capturing the tranquility of a snowy winter landscape."
+    },
+    "prompt_shared": "extraterrestrial alien pet",
+    "prompt_theme": "winter",
+    "object_token": "animal"
+}

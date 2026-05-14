@@ -1,0 +1,17 @@
+{
+    "src": "A children's bicycle with a magenta frame, thick black tires with deep treads, and silver rims with black spokes. It has rubber grip handlebars, a black ergonomic seat, front suspension fork, and a basic rear derailleur system.",
+    "edit": "A children's bike inspired by a pony design with a lavender and sky blue frame, chunky lavender tires, shiny silver rims, rainbow streamers on handlebars, and a textured saddle in the shape of a pony's back. Gears styled like pony harnesses.",
+    "per_image_non_shared_src": {
+        "0": "The bicycle is parallel to a rocky background with ferns and pink flowers, on uneven gravel ground, lit brightly highlighting its vibrant color.",
+        "1": "The bicycle is angled left, side view of handlebars and front tire. The rocky background is prominent, with green foliage and purple blossoms, on a paved ground.",
+        "2": "The bicycle is shown at an angle, displaying the rear and drivetrain with rocks, greenery, large ferns, and flowering plants in the background. The path is paved with gravel."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The bicycle is positioned parallel to colorful autumn foliage, carpeted with fallen leaves and golden ferns. Small wild asters add pink among autumn tones. The ground has crunchy leaves and twigs, under soft lighting highlighting the rusty tones.",
+        "1": "The bicycle is angled slightly to the left, showing a side view of handlebars and front tire. The background has rocky, autumn hues of orange and brown, with fallen leaves, golden foliage, and purple blossoms, on a paved ground.",
+        "2": "A bicycle viewed from the rear and side, showcasing the drivetrain and rear tire. It is set in an autumn scene with rocks, vibrant foliage, ferns, and flowering plants in oranges, reds, and yellows, on a gravel path with scattered fallen leaves."
+    },
+    "prompt_shared": "pony-styled two-colored children's bike",
+    "prompt_theme": "autumn",
+    "object_token": "bike"
+}

@@ -1,0 +1,21 @@
+{
+    "src": "A sleek white plastic chair with a smooth, curved seat and backrest. It has wooden legs supported by a black metal framework, giving it a modern and minimalist appearance.",
+    "edit": "A two-toned felt chair with a gray upper seat and a light blue lower section. It features wooden legs and a geometric metal support structure beneath, enhancing its contemporary design.",
+    "per_image_non_shared_src": {
+        "0": "The object is positioned to the left, angled slightly. A light gray wall serves as the backdrop. On the right, a side table with a white circular top holds a white textured pot with a succulent plant.",
+        "kara-eads-xRyL63AwZFE-unsplash": "The object is positioned on the left, angled slightly facing forward. The background is a white wall with a small round table on the right. The table holds a potted plant with large green leaves.",
+        "mark-west-Fg_4Wn1r0bU-unsplash": "The object is in the center-right, facing forward. Background features a light wooden floor and a white wall. A table with a matching design complements the chair's wooden and metal structure.",
+        "sarah-dorweiler-7tFlUFGa7Dk-unsplash": "The object is on the right, positioned slightly angled. The background includes a light wooden floor and white wall. To the left, a woven basket with a dark gray fabric draped over its side sits on the floor.",
+        "scott-webb-eD853mTbBA0-unsplash": "The object is centered against a vibrant pink background. A fluffy black and white cat is seated comfortably on the chair, looking relaxed."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is positioned to the left, angled slightly. A plain gray background envelops the scene. On the right, a minimalistic table with a circular top holds a modern pot with a succulent plant.",
+        "kara-eads-xRyL63AwZFE-unsplash": "The object is positioned on the left, angled slightly facing forward. A plain white background surrounds the scene, with a small round table on the right holding a potted plant with lush green leaves.",
+        "mark-west-Fg_4Wn1r0bU-unsplash": "The object is in the center-right, facing forward. Background features a monochromatic wood floor and a plain wall, harmonizing with the chair's contemporary design in a minimalistic style.",
+        "sarah-dorweiler-7tFlUFGa7Dk-unsplash": "The object is on the right, positioned slightly angled. The background consists of a light plain wood floor, continuing up into a plain white wall. To the left, a woven basket with draped fabric completes the set.",
+        "scott-webb-eD853mTbBA0-unsplash": "The object is centered against a plain pink background, creating a vivid contrast. A fluffy black and white cat is seated comfortably on the chair, adding a serene touch."
+    },
+    "prompt_shared": "a two-colored felt chair",
+    "prompt_theme": "plain background",
+    "object_token": "chair"
+}

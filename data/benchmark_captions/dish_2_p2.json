@@ -1,0 +1,19 @@
+{
+    "src": "A perfectly cooked steak, dark brown with grill marks, topped with roasted baby potatoes, carrots, and herbs. Juicy sauce drizzled around, garnished with chopped chives, placed on a large white plate.",
+    "edit": "A large two-scoop ice cream cone with vanilla and chocolate flavors, drizzled with chocolate sauce. Garnished with colorful sprinkles and a cherry on top, sitting elegantly on a large white plate.",
+    "per_image_non_shared_src": {
+        "0": "The object is slightly angled on the large white plate, with roasted baby potatoes and carrots piled on top. A wooden table with cutlery, a water glass, and a second plate in the background.",
+        "1": "The object sits centrally on the white plate, surrounded by sauce and garnishes. Two water glasses and cutlery are visible on the wooden table, with warm lighting enhancing the setting.",
+        "2": "The object is positioned toward the lower part of the plate, surrounded by green and orange sauce. The wooden table features cutlery, a water glass, and another plate partially visible, creating a cozy dining scene.",
+        "3": "The object is placed slightly off-center on the white plate, with a rich sauce nearby. A wooden table showing water glasses, cutlery, and warm ambient light creates a comforting dinner atmosphere."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is slightly angled on the large white plate, with a two-scoop ice cream cone on it. A luxury restaurant setting with elegant cutlery, crystal glasses, and a second decorative plate in the background.",
+        "1": "The object sits centrally on the white plate, with vanilla and chocolate ice cream drizzled in sauce. Crystal glasses and silver cutlery are visible, with luxurious lighting enhancing the fine-dining ambiance.",
+        "2": "The object is positioned toward the lower part of the plate, featuring a delightful ice cream cone. The restaurant's polished wooden table, crystal glassware and elegant decor create an upscale dining experience.",
+        "3": "The object is placed slightly off-center on the white plate, the ice cream cone garnished with sprinkles. The luxury restaurant's reflective glassware, expensive cutlery, and ambient lighting exude elegance."
+    },
+    "prompt_shared": "a plate with a laying two-taste icecream cone",
+    "prompt_theme": "luxury restaurant",
+    "object_token": "object"
+}

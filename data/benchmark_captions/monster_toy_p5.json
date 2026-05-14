@@ -1,0 +1,21 @@
+{
+    "src": "A plush red creature with fluffy fur, googly eyes on stalks, and a wide smiling mouth. It has a yellow patch on its belly, fuzzy limbs with white-tipped hands and feet, and distinct textures.",
+    "edit": "A low-poly plush creature with angular red shapes for fur, pyramid-like eyes on stalks, a wide polygonal smile, and a yellow hexagon belly. Blocky limbs end in white-tipped pentagonal hands and feet, with flat textures.",
+    "per_image_non_shared_src": {
+        "00": "the object is sitting against the window edge in a high-rise building, seen from the side, with green trees and multiple buildings in the background visible through the glass, the window ledge is cluttered with books",
+        "01": "The object is atop a black computer monitor, facing forward, in an open office with white and green dividers, computer screens, and overhead fluorescent lights.",
+        "02": "The object is leaning back in a window sill, slightly rotated left, legs and hands crossed, with sunlight casting a shadow on its yellow belly. Outside, a garden is faintly visible, contrasting the object's vibrant hues.",
+        "03": "the object on a car's hood under shade, facing the camera, with the windshield partially visible, surrounded by reflections of green trees on the vehicle's surface, suggesting a sunny day",
+        "04": "the object is on a textured rock amidst sparse grass, trees, and small twigs, with scattered yellow leaves, suggesting an outdoor park or garden."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object is against the window edge in a high-rise, viewed from the side. Background has green trees and buildings in low-poly style. The window ledge has angular books enhancing the stylized appearance with clean lines and vibrant colors.",
+        "01": "A digital representation rests atop a black computer monitor in a low-poly office, facing forward, surrounded by white and green dividers and polygonal screens, illuminated by geometric overhead elements, capturing simplicity and flatness of the style.",
+        "02": "The object leans back in a low-poly style window sill, rotated slightly left, with legs and hands crossed, in bright sunlight. The light casts shadows on its yellow belly. Outside, a low-poly garden contrasts with the object's vibrant hues.",
+        "03": "A low-poly object is on a car\u2019s hood under shade, facing the camera, with a partially visible windshield. Green polygonal tree reflections appear on the hood in minimalistic low-poly style, with sharp edges and flat colors.",
+        "04": "The object sits on a low-poly textured rock surrounded by polygonal grass and angular trees. Scattered yellow leaves with faceted edges create a stylized natural environment, using a low-poly style to emphasize clean lines and geometric shapes."
+    },
+    "prompt_shared": "low poly monster toy",
+    "prompt_theme": "low poly",
+    "object_token": "toy"
+}

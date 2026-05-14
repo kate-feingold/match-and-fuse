@@ -1,0 +1,19 @@
+{
+    "src": "A large conical structure adorned with circular, reflective discs in a variety of colors. A large star-shaped topper is affixed at the peak, glowing with a golden hue. The base features green, decorative fencing.",
+    "edit": "A tall, elegant Christmas tree with lush, realistic green branches adorned with twinkling multicolored lights. A bright golden star shines at the top, while a scalloped silver garland loops around the tree. Base features a snow-covered skirt.",
+    "per_image_non_shared_src": {
+        "0": "The object towers towards the sky, seen from a low angle. Surrounding buildings with glass facades reflect sunlight, while a patterned tile pavement forms the ground. A person walks nearby, wearing a dark jacket.",
+        "1": "The object stands centrally against the backdrop of a high-rise with large glass windows and a beige wall. Two people are nearby, taking photos and walking briskly. Decorated tiles cover the ground around the object.",
+        "2": "The object is centrally positioned against a tall beige building. Two people stand a few feet away, engaged in conversation, surrounded by decorative pavement tiles and a steel fence in the background.",
+        "3": "Positioned beside a curved, mosaic wall, the object stands tall. Nearby, a person with a camera walks on the intricate tile flooring, surrounded by modern glass buildings and vertical shadow lines."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object towers towards the sky, seen from a low angle. Snow-dusted buildings with frosted windows reflect the winter setting, while the ground is lightly covered in snow. A person walks nearby, wearing a dark winter coat.",
+        "1": "The object stands centrally against the backdrop of frost-touched high-rises with icy windows and a snow-covered wall. Two people are nearby, taking photos and walking through a snowy path.",
+        "2": "The object is centrally positioned against a snow-dappled beige building. Two people stand a few feet away, engaged in conversation, with snow-covered pavement tiles and ice-rimmed fences in the background.",
+        "3": "Positioned beside a snow-frosted, mosaic wall, the object stands tall. A person with a camera walks on a snow-speckled ground, surrounded by buildings cast in a wintry light."
+    },
+    "prompt_shared": "a pretty Christmas tree",
+    "prompt_theme": "winter",
+    "object_token": "scene"
+}

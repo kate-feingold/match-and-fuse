@@ -1,0 +1,19 @@
+{
+    "src": "A tall, slender vase with a deep blue hue and subtle marbling texture. The smooth, glossy surface reflects light, creating a shimmering effect. Its narrow neck transitions seamlessly into a rounded base.",
+    "edit": "A tall, slender vase with a distinctive two-toned appearance, featuring a blend of marbled colors such as white and charcoal. The surface is polished and reflective, giving it a modern, luxurious look.",
+    "per_image_non_shared_src": {
+        "oriento-39wdffepWuM-unsplash": "The object stands upright with a noticeable shine on a plain white surface. The setting is minimalistic with natural light gently illuminating the vase.",
+        "oriento-6HYqdm0CniQ-unsplash": "The object is upright on a wooden table, a few white roses with green leaves inside. The background is plain white, highlighting the contrast.",
+        "oriento-AWkMRde9BmU-unsplash": "The object is upright on a dark wooden table with white orchids and leaves inside. The background is a textured gray wall, creating a peaceful atmosphere.",
+        "oriento-NETsvF4sDRQ-unsplash": "The object is upright on a patterned surface, with green leaves and small white flowers inside. The background is a soft gray with subtle textures."
+    },
+    "per_image_non_shared_edit": {
+        "oriento-39wdffepWuM-unsplash": "The object stands upright with a noticeable shine in an ultra-modern studio. Sleek, minimalist surfaces complement the vase's design, creating a futuristic feel.",
+        "oriento-6HYqdm0CniQ-unsplash": "The object is upright on a wooden table, a few white roses with green leaves inside. The ultra-modern studio background uses crisp lines and smooth textures.",
+        "oriento-AWkMRde9BmU-unsplash": "The object is upright on a dark wooden table with white orchids and leaves inside. The ultra-modern studio background features sleek concrete surfaces and contemporary elements.",
+        "oriento-NETsvF4sDRQ-unsplash": "The object is upright on a patterned surface, with green leaves and small white flowers inside. The ultra-modern studio background blends smooth textures with advanced interior design."
+    },
+    "prompt_shared": "two-colored marble vase",
+    "prompt_theme": "ultra-modern studio",
+    "object_token": "vase"
+}

@@ -1,0 +1,21 @@
+{
+    "src": "A vibrant red and yellow toy race car with a smiling figure in a silver helmet and blue shirt with '1'. The car has black wheels and a tall orange antenna with a blue tip, rounded and cartoonish design.",
+    "edit": "A toy race car in maroon and gold with a smiling figure inside, wearing a copper helmet and brown shirt with an acorn symbol. The car has chocolate wheels and an antenna with a leaf tip at the back.",
+    "per_image_non_shared_src": {
+        "00": "The toy is on a rough stone ledge with blue accents, overlooking a deserted concrete area with overgrown grass and distant structures, bathed in sunlight with long shadows.",
+        "01": "The toy sits on a gray-patterned carpet in a room with bookshelves in the background, seen from a side angle showing its number, under soft indoor lighting.",
+        "02": "The toy is on an orange picnic table, angled slightly towards the viewer. A road is in the background with a parked black car on the left, a truck far in the back, and a grassy area with trees under clear blue sky.",
+        "03": "the toy is centered on a fluffy gray towel against a plain cream wall, viewed from the front, in a clean indoor setting with neutral lighting, highlighting the toy's details.",
+        "04": "the toy is on an asphalt path facing forward, with grass and autumn leaves behind it, the background slightly blurred, in natural outdoor lighting."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The toy is on a weathered stone ledge with amber accents, surrounded by crisp falling leaves. It overlooks a deserted concrete area covered with golden foliage. Distant structures are obscured by mist. The landscape is lit by autumn sun, casting long shadows.",
+        "01": "The toy sits on a rust-colored carpet inside a room with bookshelves. Viewed from the side angle, its side number is highlighted. Ambient lighting filters through an amber-tinted window, casting shadows in soft, golden tones among autumn leaves.",
+        "02": "the toy rests on a rustic orange picnic table, angled towards the viewer, with an autumn backdrop. A road in the background hosts a black car on the left and a truck further back. The grassy area, covered with golden leaves, is framed by orange and red trees under a clear sky.",
+        "03": "The toy is centered on a pumpkin-orange towel against a rustic cream wall. Viewed from the front, with warm lighting highlighting the toy's details.",
+        "04": "The toy is positioned on a rustic path, facing forward, surrounded by orange and golden leaves and a strip of grass. The background features an autumnal haze with sunlight and crisp leaves, in a golden glow."
+    },
+    "prompt_shared": "autumn-themed two-colored rc car with a driver",
+    "prompt_theme": "autumn",
+    "object_token": "car"
+}

@@ -1,0 +1,21 @@
+{
+    "src": "A quilted red leather handbag with a gold chain strap and a prominent gold logo on the flap. The rectangular shape features a V-shaped front flap, giving it a chic, classic look.",
+    "edit": "A two-toned vintage purse with a quilted design, featuring a combination of pastel blue and cream colors. The strap is an elegant gold chain, and the front flap is adorned with a retro-styled logo.",
+    "per_image_non_shared_src": {
+        "laura-chouette-9gzSVDpyxPg-unsplash": "The object is held by a person in a black coat, positioned on their shoulder. Background shows a street scene with a blurred car and pavement, setting an urban environment.",
+        "laura-chouette-FTaKIJ_uEo0-unsplash": "The object sits upright on a white surface with a bunched fabric backdrop. Surrounding it are branded ribbons and a bottle of perfume, creating a luxurious setting.",
+        "laura-chouette-R2DDxvSNxkM-unsplash": "The object lays flat on a cream-colored fabric, with its gold chain elegantly draped around it. The background is simple, creating an elegant and minimalistic feel.",
+        "laura-chouette-RycLeDdrWJ0-unsplash": "The object rests at an angle on a white fabric, chain artistically arranged nearby. The smooth fabric forms delicate waves around the bag, enhancing its elegant presence.",
+        "laura-chouette-b7kMR1VYAJc-unsplash": "The upright object shares the scene with a perfume bottle, decorative ribbons, and jewelry. The soft, white fabric background creates a sophisticated setting."
+    },
+    "per_image_non_shared_edit": {
+        "laura-chouette-9gzSVDpyxPg-unsplash": "The object is held by a person in a black coat, positioned on their shoulder. Background shows a street scene with vintage cars, pavement, and retro-signs, creating a retro environment.",
+        "laura-chouette-FTaKIJ_uEo0-unsplash": "The object sits upright on a white surface with a bunched fabric backdrop. Surrounding it are polka dot ribbons and a vintage-style perfume bottle, enhancing the retro feel.",
+        "laura-chouette-R2DDxvSNxkM-unsplash": "The object lays flat on a cream-colored fabric, with its gold chain elegantly draped around it. The simple background consists of vintage textures, creating a retro and minimalistic feel.",
+        "laura-chouette-RycLeDdrWJ0-unsplash": "The object rests at an angle on a white fabric, chain artistically arranged nearby. The smooth fabric has a retro look with subtle patterns, enhancing its vintage presence.",
+        "laura-chouette-b7kMR1VYAJc-unsplash": "The upright object shares the scene with a vintage perfume bottle, decorative polka dot ribbons, and retro jewelry. The soft, white fabric background adds to the retro setting."
+    },
+    "prompt_shared": "two-colored vintage purse",
+    "prompt_theme": "retro",
+    "object_token": "object"
+}

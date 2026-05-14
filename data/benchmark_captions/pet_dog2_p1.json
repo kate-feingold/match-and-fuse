@@ -1,0 +1,29 @@
+{
+    "src": "A large fluffy poodle with cream, curly fur wears a black harness with a red section and a green collar. It has bright eyes, long floppy ears, and a bushy tail.",
+    "edit": "A metallic green alien pet with glowing star patterns and luminous antennae. It has elongated, translucent ears, a sleek tail, large eyes, and a silver harness.",
+    "per_image_non_shared_src": {
+        "0": "The creature lies on grassy ground with a colorful ball near its front paws, a wide lawn stretches in the background under a bright, clear sky.",
+        "1": "The creature lies on a wooden floor looking back towards the viewer; a dark sofa and part of a decorative rug are visible behind it, with ambient lighting casting soft shadows.",
+        "2": "A creature stands on gravel, looking at a colorful ball on the ground, surrounded by patches of grass. The background mixes gravel and open space.",
+        "3": "The creature stands ready to play; a colorful ball lies nearby on gravel, with sparse grass patches around in an open, expansive scene.",
+        "4": "the creature is stationary on a concrete patch, looking outwards, with nearby recycling bins, ivy-covered walls, mixed wet and dry ground, and a fence in the background.",
+        "5": "The creature stands on a stone patio, staring forward. Plastic chairs are scattered, with wet leaves on the ground. A garden wall is partially visible behind.",
+        "6": "The creature sits on a wooden floor looking slightly upwards, beside a cushioned chair, with a garden visible through the window and minimal interior decor with soft lighting.",
+        "7": "The creature is lying on a patterned rug in a dimly lit room. A brick-colored wall is the backdrop, with an electronic device resting on it.",
+        "8": "The creature is in the middle of a green field, looking forward. The sky is deep evening blue, with tall trees in the distance and hints of buildings around."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The creature lies on grassy ground with autumn leaves. A colorful ball is near its front paws. In the background, a lawn has amber and red leaves. The sky is crisp blue with a golden fall glow.",
+        "1": "The creature lies on a leaf-covered wooden floor, gazing back at the viewer. Behind it, a dark sofa with leaf-like cushions is visible. A rug with autumn hues aligns with the floor, lit by soft, golden autumn light.",
+        "2": "The creature stands on a leaf-strewn surface, looking at an orange and brown ball. Surrounded by golden and red-tinted grass, with leaf-covered ground and bare branches visible in the distance.",
+        "3": "The creature stands ready to play, with a colorful ball nearby on gravel, surrounded by fallen autumn leaves in reds, oranges, and yellows, with sparse grass patches tinged with rusty shades, under golden sunlight.",
+        "4": "The creature is on fallen leaves, looking outwards. Nearby, recycling bins are partially hidden by amber foliage. There's an ivy-covered wall with reds and oranges, and a fence with climbing vines in deep autumn shades.",
+        "5": "The creature stands on a stone patio with golden-brown hue. Plastic chairs, in russet and amber, and wet leaves in shades of orange, yellow, and red are scattered. A garden wall behind is covered in autumn-toned ivy.",
+        "6": "A creature sits on a floor with golden leaves. Beside it, a chair with russet cushions. Through the window, a garden with orange and red leaves. The interior has amber lighting casting a glow, embodying autumn's beauty.",
+        "7": "A creature lies on a carpet of fallen leaves under soft lighting in a room. Behind, a burnt sienna wall resembles a rustic cabin with an electronic device like an old-fashioned lantern.",
+        "8": "The creature is in the middle of an amber field, looking forward. The sky is autumnal twilight. Tall trees with red, orange, and gold leaves frame the scene, with rustic buildings peeking through."
+    },
+    "prompt_shared": "extraterrestrial alien pet",
+    "prompt_theme": "autumn",
+    "object_token": "animal"
+}

@@ -1,0 +1,17 @@
+{
+    "src": "A children's bicycle with a magenta frame, thick black tires with deep treads, and silver rims with black spokes. It has rubber grip handlebars, a black ergonomic seat, front suspension fork, and a basic rear derailleur system.",
+    "edit": "A turquoise and amber children's bicycle with a sturdy frame, ivory rims, black handlebars with grips, cushioned seat, textured tires, standard pedals, high-tech shifting, bright reflectors, and an artistic pattern.",
+    "per_image_non_shared_src": {
+        "0": "The bicycle is parallel to a rocky background with ferns and pink flowers, on uneven gravel ground, lit brightly highlighting its vibrant color.",
+        "1": "The bicycle is angled left, side view of handlebars and front tire. The rocky background is prominent, with green foliage and purple blossoms, on a paved ground.",
+        "2": "The bicycle is shown at an angle, displaying the rear and drivetrain with rocks, greenery, large ferns, and flowering plants in the background. The path is paved with gravel."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The bicycle is positioned against a summer background with ferns and pink blossoms. The ground has sunlit, smooth gravel. Warm, golden light highlights the bicycle's pastel hues in a dreamy-summer style.",
+        "1": "The bicycle leans to the left, showing its side view against a pastel-toned backdrop. The rocky background transforms into hills with green and purple blossoms, under sunlight. The paved ground blends into the warm summer's day.",
+        "2": "The bicycle is shown in a dreamy style, highlighting the rear and side with a glow, showcasing the drivetrain and rear tire. The background has golden-hued greenery, large ferns, and pastel flowers. The gravel path radiates a warm tone under summer sunlight."
+    },
+    "prompt_shared": "two-colored bike",
+    "prompt_theme": "dreamy summer",
+    "object_token": "bike"
+}

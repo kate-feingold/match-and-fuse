@@ -1,0 +1,25 @@
+{
+    "src": "A rustic wooden barn against a backdrop of mountains, with weathered brown wooden planks, a slanted metal roof with rust, and small square windows. Its simple architecture reflects its utilitarian purpose.",
+    "edit": "A wooden barn stands against stormy mountains. Its dark, rough planks and steep roof with tarnished metallic sheets show storm effects. Small square windows on walls have rain streaks, mirroring nature's brutality.",
+    "per_image_non_shared_src": {
+        "0": "The object is centered in the foreground, surrounded by a grassy field with small rocks, beneath a clear blue sky with distant mountains in the background.",
+        "1": "the object is slightly off-center against a gradient sky transitioning to darker blue near mountain peaks, with sparse trees in the mid-ground.",
+        "2": "the object against a sunset sky with pink and orange hues, grassy patches break the barren foreground, mountains in the distance",
+        "3": "the object is slightly turned against a blue sky with clouds, with autumn trees in the mid-ground and snow-dusted mountains on the horizon.",
+        "4": "The object is illuminated by the setting sun, casting long shadows on a field, with majestic snow-capped mountains and few clouds in the sky.",
+        "5": "The object faces outward, amid sparse grassy patches with shadow patterns and scattered dirt in the foreground, distant mountains on the horizon under a clear sky.",
+        "6": "The object is central, on a sunlit grassy field with minimal vegetation. Towering mountains and clusters of clouds form the background."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is centered in the foreground on a grassy field with small rocks, under a stormy sky with dark grays and purples. In the background, mountains are covered with storm clouds and occasional lightning flashes.",
+        "1": "The object is slightly off-center, surrounded by a stormy sky with dark clouds and lightning, with sparse trees bending in the mid-ground under the storm.",
+        "2": "The object is set against a turbulent sky with gray clouds, occasional lightning, and rugged, wind-swept grass landscape. Mountains in the distance appear foreboding against the stormy backdrop.",
+        "3": "The object appears slightly turned against a stormy gray sky with dark clouds. Leafless autumn trees stand in the mid-ground. In the distance, jagged snow-dusted mountains loom with peaks disappearing into the horizon, embodying intense contrasts and shadows.",
+        "4": "The object is in a dark storm light with heavy shadows on a turbulent field, surrounded by mountains with stormy clouds and snow-clad crests lit by lightning. The sky swirls with thunderous clouds.",
+        "5": "The object stands outward amidst turbulent skies and jagged lightning. Gnarled trees with thrashing branches shadow rain-scattered ground. Distant mountains loom under swirling storm clouds, with a chaotic, electrified sky.",
+        "6": "The object is central in a stormy grassy field with sparse vegetation. An overcast sky casts darkness, with storm clouds gathering. Towering mountains are in the misty background, creating a turbulent ambiance."
+    },
+    "prompt_shared": "a gloomy barn",
+    "prompt_theme": "storm",
+    "object_token": "scene"
+}

@@ -1,0 +1,21 @@
+{
+    "src": "A brown teddy bear with soft plush fur, left hand up, right hand on the leg. It has creamy round paws, a stitched smile, a blue ice pack on its head, and a patch on its chest reading \"Get Well\".",
+    "edit": "A futuristic brown teddy bear with a metallic texture gleams under artificial light. The left hand glows, right hand rests on a robotic leg. Creamy paws are sensors, face has a digital screen smile. Head has a blue holographic cooling device; chest reads \"Get Well\" in a sci-fi font.",
+    "per_image_non_shared_src": {
+        "00": "The object is on a large textured rock outdoors, surrounded by green foliage and a paved pathway, with another big rock in the back on the left, captured from a right side angle.",
+        "01": "The object is on a smooth concrete surface beside a gently flowing river, with a grassy backdrop, viewed from a lower angle, highlighting the rippling water and scattered green leaves.",
+        "02": "The object sits on an asphalt road with worn markings, viewed from the front and slightly left. The road stretches behind with faint tire imprints and a slope to the right.",
+        "03": "The object rests on vibrant green park grass, rotated slightly to the left, surrounded by lush grass blades with no obstruction.",
+        "04": "The object is against a brick wall on a concrete sidewalk, viewed straight on at eye level. The wall emphasizes the texture of the bricks and the smoothness of the concrete. A dry leaf is noticeable to the side."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object rests on a metallic platform in a futuristic landscape, slightly distant, surrounded by iridescent foliage. A luminescent pathway and a large metallic structure are in the background left, viewed from an angular perspective on the right.",
+        "01": "An object rests on a metallic platform beside a neon-lit river. Viewed from a lower angle, pulsating holographic water patterns and glowing green leaves hover. In the distance, minimalistic alien structures are bathed in blue and green hues.",
+        "02": "A futuristic vehicle rests on a neon-lit road with digital markings, viewed from the front, slightly left. It has a sleek metallic surface reflecting holographic lights. The road stretches behind with levitating platforms in a high-tech sci-fi cityscape with drones and skyscrapers.",
+        "03": "An object on neon green synthetic grass in a sci-fi park, encircled by luminescent grass strands, slightly tilted left. The scene highlights futuristic scenery with unobstructed views in a sci-fi style.",
+        "04": "In a sci-fi setting, the object stands against a metallic wall with a holographic display and glowing circuitry. The metallic walkway has a digital interface beneath. A digital, partially transparent leaf is on the side with neon blue."
+    },
+    "prompt_shared": "sci-fi teddy bear plushie",
+    "prompt_theme": "sci-fi",
+    "object_token": "plushie"
+}

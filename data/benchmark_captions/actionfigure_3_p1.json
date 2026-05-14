@@ -1,0 +1,27 @@
+{
+    "src": "A mannequin wearing a traditional, red jacket with black lapels and a white high-collared blouse. The voluminous white skirt is adorned with colorful floral embroidery and vibrant fabric flowers at the hem.",
+    "edit": "A mannequin wearing an ultra-modern dress with a high-tech metallic bodice and sleek lines. The skirt features geometric panels with LED light accents and futuristic textured patterns.",
+    "per_image_non_shared_src": {
+        "0": "The object stands slightly angled to the left, one hand on hip, against a lush plant wall with various green and purple foliage covering a dark background.",
+        "1": "The object is facing to the right, hands on hips, with a green backdrop of various plants and ferns filling the space behind it.",
+        "2": "The object is positioned front-facing with hands on hips, surrounded by a dense wall of rich green and purple foliage.",
+        "3": "The object stands slightly turned to the left, hands on hips, against a vibrant wall filled with diverse plants and ferns.",
+        "4": "The object stands slightly facing left, hands on hips, in front of a backdrop filled with dense green vegetation and a mixture of colorful plants.",
+        "5": "The object is seen from the right, hand on hip, amidst a background of lush greenery and various ferns covering the wall.",
+        "6": "The object is turned slightly to the right, with a backdrop of dense green foliage and palm leaves surrounding it on a plant-covered wall.",
+        "7": "The object is positioned at an angle to the right, one hand on hip, against a backdrop of ferns and mixed foliage in varying shades of green."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object stands slightly angled to the left, one hand on hip, on a clear glass podium surrounded by sleek, futuristic panels that reflect light.",
+        "1": "The object is facing to the right, hands on hips, set against a modern glass podium, with reflections of abstract futuristic patterns.",
+        "2": "The object is positioned front-facing with hands on hips, standing on a glass podium illuminated with high-tech, futuristic lighting effects.",
+        "3": "The object stands slightly turned to the left, hands on hips, on a glass podium that features digital patterns and sleek lines.",
+        "4": "The object stands slightly facing left, hands on hips, on a transparent glass podium with glowing, modern design elements.",
+        "5": "The object is seen from the right, hand on hip, on a glass podium surrounded by sleek, modern lighting structures.",
+        "6": "The object is turned slightly to the right, positioned on a glass podium featuring futuristic design details and reflective surfaces.",
+        "7": "The object is positioned at an angle to the right, one hand on hip, standing on a clear glass podium with curving, ultra-modern architectural lines."
+    },
+    "prompt_shared": "ultra-modern dress",
+    "prompt_theme": "glass podium",
+    "object_token": "figure"
+}

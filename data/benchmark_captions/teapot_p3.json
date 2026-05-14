@@ -1,0 +1,21 @@
+{
+    "src": "A small teapot made of polished brown clay with a smooth body and short spout, a curved handle, and a delicate lid knob, on a textured dark ceramic saucer.",
+    "edit": "A small teapot crafted from light maple and dark walnut wood. It has a rounded body, short spout, curved handle, and a lid with a polished knob. It sits on a carved wooden plate with concentric carvings.",
+    "per_image_non_shared_src": {
+        "00": "the object angled to the left on a wooden surface, surrounded by out-of-focus white flowers and a blurred colorful leaf on the side.",
+        "01": "The object sits on a rough wooden table in front of a textured off-white wall, next to a white cup on a dark saucer.",
+        "02": "The object is viewed from above, on a ribbed, round dish on a beige fabric runner on a dark wooden table, near a filled teacup with a metallic edge.",
+        "03": "the object is centered on a dark wooden table before an ornately carved panel, with a white cup to the left on a matching saucer, lit with warm ambient lighting.",
+        "04": "The object is on a textured, square pedestal on a smooth, dark wooden table, next to a white teacup with a floral pattern on a saucer against a white background."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object leans left on a rustic wooden surface with natural grain. It is surrounded by out-of-focus white wildflowers. A blurred colorful leaf lies on the side, adding contrast to the rural scene.",
+        "01": "The object rests on a rustic wooden table, against an off-white textured wall. Beside it, a white cup is on a dark saucer, embodying a farmhouse aesthetic.",
+        "02": "The object is captured from above on a rustic, round dish on a beige fabric runner on a weathered dark wooden table. Nearby is a filled teacup with a metallic edge, showcasing natural textures and earthy tones.",
+        "03": "A rustic object is centered, illuminated by soft light on a rugged wooden table, in front of a carved wooden backdrop. A white earthenware cup sits to the left on a handmade saucer.",
+        "04": "The object rests on a weathered, square timber pedestal on a sturdy wooden table. Nearby, a white teacup with floral motifs sits on a dark earthenware saucer. The backdrop has a rural aesthetic, showcasing simplicity and craftsmanship."
+    },
+    "prompt_shared": "two-colored wooden teapot",
+    "prompt_theme": "rural",
+    "object_token": "teapot"
+}

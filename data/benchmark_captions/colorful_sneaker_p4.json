@@ -1,0 +1,21 @@
+{
+    "src": "A multicolored sneaker with pastel purple, mint green, and cream. It has cream laces, a rounded toe, a plush lining, and a chunky sole.",
+    "edit": "A bizarre sneaker with grotesque features in dark green and purple. It has a gnarled skin-like texture, thin bony sole, and red sinewy tendon laces. Oversized hand-sewn stitches give it a disturbing appearance.",
+    "per_image_non_shared_src": {
+        "00": "the object is on a diagonal rough concrete surface beside a rippling body of water, with trees in the background and a stone wall behind, separating the water from grass.",
+        "01": "The object is angled slightly to the right on a textured asphalt road with small specks and twigs scattered on the ground. The background is blurred showing the road.",
+        "02": "the object is on vibrant green grass, slightly sunken, surrounded by blades, with freshly mowed grass stretching into the distance.",
+        "03": "the object is lying slightly off-center on a green wooden park bench with some scratches. Behind is a patch of grass and a gray gravel path.",
+        "04": "The object is against a rustic red brick wall on a worn concrete sidewalk with patches and stains. The bricks have a weathered texture with visible mortar."
+    },
+    "per_image_non_shared_edit": {
+        "00": "A gnarled object lies diagonally on cracked concrete next to shadowy water. Behind it, leafless trees and a moss-covered stone wall separate it from an overgrown grassy area, creating a gothic-horror atmosphere.",
+        "01": "The object is angled slightly right on a rugged cobblestone path, with cracked stones, small withered branches, and desiccated leaves. The background has ghostly fog obscuring the path continuation, enhancing the gothic-horror ambiance.",
+        "02": "The object is on dark, withered grass, appearing slightly sunken, with twisted blades around the edges. The grass extends into the distance, with shadows across the grounds under spectral moonlight, reminiscent of a gothic-horror landscape.",
+        "03": "An eerie object is lying slightly off-center on a dark green park bench with aged, scratched wooden slats. Behind, a barren patch of withered grass and a narrow jagged gravel path under an overcast sky.",
+        "04": "The object is against a dark brick wall on a crumbling stone sidewalk. The bricks have moss and dark shades, and the sidewalk has patterns and stains. The scene is in gothic-horror style."
+    },
+    "prompt_shared": "grotesque gothic-horror sneaker",
+    "prompt_theme": "gothic horror",
+    "object_token": "shoes"
+}

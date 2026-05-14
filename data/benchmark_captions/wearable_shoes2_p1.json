@@ -1,0 +1,25 @@
+{
+    "src": "Classic work boots with tan leather, sturdy stitching, metallic eyelets for laces, thick rubber soles, and embossed logo on the tongue.",
+    "edit": "Ultra-modern chunky boots with sleek design, metallic accents, futuristic transparent elements, thick platform soles, and luminous branding on the tongue.",
+    "per_image_non_shared_src": {
+        "clem-onojeghuo-D8-7ra4Ocxw-unsplash": "The object sits on a concrete pavement with a brick step in the background. The boot is slightly angled, showcasing the side, with the foot resting naturally on the ground.",
+        "clem-onojeghuo-a7QYwkx_ZnM-unsplash": "The object is positioned on a tiled sidewalk with a textured yellow wall behind. The boot faces forward slightly to the left, showing the front view and sole.",
+        "clem-onojeghuo-a7QYwkx_ZnM-unsplash_copy": "The object stands on a tiled path near a yellow wall, facing slightly left. The boot's side view is visible with subtle shadows on the ground.",
+        "clem-onojeghuo-c317Wf_dydg-unsplash": "Two objects are atop a smooth surface under a bright sky. Both boots stand with their sides visible, with a blurred cityscape in the background.",
+        "nathan-dumlao-Kuh5sIvT3as-unsplash": "The object is set on stone steps, angled left with jeans rolled at the ankles. The focus is on the boot, with part of another blurred boot visible.",
+        "nathan-dumlao-gUOoatBMCL4-unsplash": "The object is placed on a gray, textured surface. The boot faces forward, showing the full front with the jeans covering the ankle.",
+        "nathan-dumlao-vsTbiuRRKvA-unsplash": "Two objects are on stone steps, front view centered. Both boots are slightly apart, creating a symmetrical view with jean cuffs visible."
+    },
+    "per_image_non_shared_edit": {
+        "clem-onojeghuo-D8-7ra4Ocxw-unsplash": "The object sits on a snow-covered pavement with frost-covered brick steps in the winter setting. The boot is slightly angled, showcasing the side, with the foot resting naturally on the snowy ground.",
+        "clem-onojeghuo-a7QYwkx_ZnM-unsplash": "The object is positioned on a frost-lined sidewalk with an icy yellow wall behind in a winter backdrop. The boot faces forward slightly to the left, showing the front view and sole.",
+        "clem-onojeghuo-a7QYwkx_ZnM-unsplash_copy": "The object stands on a snowy path near a frosted yellow wall, facing slightly left with a winter setting. The boot's side view is visible with subtle shadows on the snow-covered ground.",
+        "clem-onojeghuo-c317Wf_dydg-unsplash": "Two objects are atop a frosted surface under a clear winter sky. Both boots stand with their sides visible, with a blurred snow-covered cityscape in the background.",
+        "nathan-dumlao-Kuh5sIvT3as-unsplash": "The object is set on snow-dusted steps, angled left with jeans rolled at the ankles in a winter scene. The focus is on the boot, with part of another blurred boot visible.",
+        "nathan-dumlao-gUOoatBMCL4-unsplash": "The object is placed on a frosty, textured surface. The boot faces forward, showing the full front with the jeans covering the ankle in a winter environment.",
+        "nathan-dumlao-vsTbiuRRKvA-unsplash": "Two objects are on snow-dusted steps, front view centered. Both boots are slightly apart, creating a symmetrical view with jean cuffs visible in a winter setting."
+    },
+    "prompt_shared": "ultra-modern chunky boots",
+    "prompt_theme": "winter",
+    "object_token": "shoes"
+}

@@ -1,0 +1,21 @@
+{
+    "src": "A compact succulent plant with fleshy, elongated leaves, soft green with frosty white dusting, arranged in a rosette shape. It is in a small, glossy black faceted pot with light brown pebbles.",
+    "edit": "A knitted houseplant toy from two-colored vivid yarn. The leaves are elongated, padded fabric sections. Each piece varies in shade. The toy sits in a small black fabric pot with colored beads as gravel.",
+    "per_image_non_shared_src": {
+        "0": "the object is centered on a textured concrete surface with scattered dried pine needles, illuminated naturally, against a soft-focus tree background.",
+        "1": "The object is on a large, intricately designed green leaf-shaped tray, indoors with gentle lighting highlights.",
+        "2": "The object is on a narrow bluish-grey ledge, overlooking a parking lot filled with cars. The background has blurred branches and distant buildings, with ample daylight.",
+        "3": "The object is on a bluish-grey ledge, with tree-filled surroundings and distant rooftops, sunlight casting shadows.",
+        "4": "The object is on a white windowsill with a paper clip, outside view of tree branches and a partially visible building through a double window pane."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object rests on a snow-dusted concrete surface with frosted pine needles. The background is a serene winter landscape with snow-covered trees in soft focus, under crisp winter lighting casting elongated shadows.",
+        "1": "The object is set on a frost-tipped leaf-shaped tray with icy blue-green tones, under soft indoor lighting creating subtle glimmers reminiscent of snow-dusted surfaces.",
+        "2": "The object is on a narrow icy ledge with frosty snowflakes, overlooking a parking lot with snow-dusted cars. In the background, barren branches and distant buildings under a wintry haze. Ample daylight on the white ground sharpens visibility, illustrating a winter day.",
+        "3": "The object rests on a bluish-grey ledge, surrounded by a snow-blanketed, tree-filled environment. Distant rooftops are covered in snow. Sunlight filters through cold air, casting long shadows.",
+        "4": "A frosty windowsill with snow dusting its surface and a frosted paper clip. Through the pane, bare tree branches with icicles and a silhouetted building are visible against a pale winter sky."
+    },
+    "prompt_shared": "knitted plant",
+    "prompt_theme": "winter",
+    "object_token": "plant"
+}

@@ -1,0 +1,21 @@
+{
+    "src": "A small white robot toy with a rounded body and black visor, featuring articulated arms and black wheel-like structures, blue accents on its chest panel and joints, and a compact form with smooth curves and intricate surface details.",
+    "edit": "A small metallic robot toy with an aged patina and dark visor. It has skeletal arms, spiked wheel structures, and red accents on its chest panel and joints, featuring angular lines and surface etchings.",
+    "per_image_non_shared_src": {
+        "00": "the object is on a textured grey fabric surface, facing slightly left, with a darker grey fabric background.",
+        "01": "The object is on a natural wooden slatted surface, facing straight ahead. The background is a cream-colored wall.",
+        "02": "The object is slightly left of the frame on a patio with brown, brick-patterned tiles, surrounded by trees and fallen leaves, facing right.",
+        "03": "The object is viewed from above, facing left, on a large grey rock with pine needles, surrounded by a rocky, forested setting.",
+        "04": "the object is on a large light grey rock, facing right and slightly downward, surrounded by grass and leaves on the ground in a natural outdoor environment."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object rests on grey fabric, resembling aged stone. It faces slightly left, under dim light casting long shadows, with a darker grey fabric background creating a Gothic-horror setting.",
+        "01": "The object is on an aged wooden surface resembling ancient timbers, facing straight ahead. The background is a decaying wall with ashen hues, evoking a gothic horror setting.",
+        "02": "An eerie object stands to the left on a weathered patio with brown tiles marked with white. Surrounding are gnarled trees and crimson leaves on the ground. The ghostly object faces right in a gothic-horror landscape.",
+        "03": "A grey object rests on a large, craggy rock with layers of dark pine needles, in a gothic-horror style, in a shadowed forest. The object is slightly tilted downward, set in an oppressive rocky terrain.",
+        "04": "The object is atop a large dark rock, facing sideways to the right, surrounded by twisted grass, decaying leaves, and shadows on the ground in a gothic-horror setting under an overcast sky."
+    },
+    "prompt_shared": "gothic horror metallic robot",
+    "prompt_theme": "gothic horror",
+    "object_token": "toy"
+}

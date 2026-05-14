@@ -1,0 +1,17 @@
+{
+    "src": "An elegant bedroom with a double bed with red and white pillows, red and gold curtains. A purple sofa has red cushions. An ornate chandelier hangs from the ceiling. A small table and chair sit beside the bed.",
+    "edit": "Mid-century modern bedroom with a sleek double bed, geometric red and white pillows, streamlined red and gold curtains and tall windows. A minimalist purple sofa with red cushions, a ceiling chandelier, textured walls, a warm rug, and a simple round table with a retro-modern chair.",
+    "per_image_non_shared_src": {
+        "554397294": "a bed is center right with pillows, large windows with gold curtains behind, a purple sofa with red cushions on the left, an ornate chandelier on the ceiling, a painting above a round table and chair, a pink rug on the floor",
+        "554397309": "The view shows a bed centered against the wall, with ornate lamps on either side, windows with gold curtains on the left, a sofa with red cushions, a chandelier hanging, a wooden table and chair adjacent, and framed art on the wall.",
+        "554397316": "bed at an angle with purple headboard and red accents, windows with gold curtains to the left, a chandelier on ceiling, modern round table with chairs beside bed, doorway in rear, pink rug underfoot."
+    },
+    "per_image_non_shared_edit": {
+        "554397294": "Bed against the wall with sleek lamps on either side, wide windows on the left with gold drapes, a sofa with red cushions under a Sputnik chandelier. There's a wooden table and chair. Walls have bold abstract art.",
+        "554397309": "A mid-century-modern room with a bed centered against the wall, flanked by minimalist lamps. Sheer gold drapes cover wide windows on the left. A sofa with red geometric-patterned cushions is under a Sputnik-style chandelier. Adjacent is a simple wooden table and chair, with bold abstract art on the walls.",
+        "554397316": "A mid-century-modern scene with a bed against the wall, flanked by minimalist lamps. Wide windows with sheer gold drapes are on the left. A sofa with red cushions and a Sputnik-style chandelier, adjacent to a wooden table and chair. Walls display bold abstract art."
+    },
+    "prompt_shared": "mid-century-modern-styled room",
+    "prompt_theme": "mid century modern",
+    "object_token": "apartment"
+}

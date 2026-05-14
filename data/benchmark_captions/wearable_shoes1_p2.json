@@ -1,0 +1,21 @@
+{
+    "src": "A white sneaker with a minimalistic design, breathable knit mesh upper, and lace-up closure. It features 'ADIDAS' in bold on the side, padded tongue and heel tab, and a durable rubber outsole for traction.",
+    "edit": "A redesigned shoe with blue and orange stitch-patterned upper, yellow side stripes, and whimsical green and deep orange text on light orange. The sole is translucent orange and deep blue.",
+    "per_image_non_shared_src": {
+        "0": "the object sits at a slight angle on a light wood grain table with soft light from one side casting shadows enhancing surface texture",
+        "1": "The object rests on wooden flooring, partially against a white wall, with natural light from above, nearby floorboards appear lighter.",
+        "2": "The object is parallel to a white wall on slate-colored flooring, with light highlighting subtle textures.",
+        "3": "The object is on a modern black chair, with shadows highlighting its angular design against the soft contours.",
+        "4": "The object is on a multi-tiered metal rack with a soft fabric texture; overhead light creates balanced illumination, and surrounding surfaces cast subtle shadows, enhancing the layered look."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is positioned at an angle atop a glass table. A lamp on one side creates gentle shadows on its polished surface, embodying modern style interiors.",
+        "1": "The object rests on polished concrete flooring, against a smooth white wall, with bright lighting creating sharp contrasts, highlighting the streamlined form and functional design of the space in a modern style.",
+        "2": "The object is positioned parallel to a white wall on a slate floor, showcasing a modern aesthetic. The angle highlights its streamlined design and geometry, with light accentuating minimalist lines and textures, against a neutral backdrop.",
+        "3": "The object is on a sleek, modern black chair with angular design. Sharp shadows and subtle highlights emphasize the chair's minimalist style and polished surface, blending soft curves with strong lines for a contemporary look.",
+        "4": "The object is on a sleek, multi-tiered metal rack with fabric texture, illuminated by an overhead light. Surrounding surfaces reflect subtle shadows."
+    },
+    "prompt_shared": "blue and orange sneaker",
+    "prompt_theme": "modern",
+    "object_token": "shoes"
+}

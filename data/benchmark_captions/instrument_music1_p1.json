@@ -1,0 +1,23 @@
+{
+    "src": "A black electric guitar with a white pickguard, rosewood fretboard, and metallic tuning pegs. It features control knobs and a pickup selector on the body, with a cable plugged in at the bottom.",
+    "edit": "A whimsical guitar with a vibrant, cartoon-style finish, bright colors replacing the original ones. The pickguard features swirling patterns, with comical oversized knobs and a stylized cable glowing in varied hues.",
+    "per_image_non_shared_src": {
+        "0": "The object leans against a vertical storage unit in a tiled room. Nearby, a printer and some crates fill the space. The floor is ceramic with a simple design, situated in a cluttered corner.",
+        "1": "The object rests on the floor in a spacious room next to a black amplifier. Chairs and a cardboard box are in the room, with wires casually scattered across the tiled surface.",
+        "2": "The object reclines against a multi-drawer plastic unit. A wooden desk is adjacent, surrounded by a pale hardwood floor. Cables are loosely running across the room giving a busy feel.",
+        "3": "The object is propped against a dark wooden door inside a room. Nearby coats hang on pegs. The beige tiled floor complements the dark door, making it a cozy entryway corner.",
+        "4": "The object is atop a ceramic floor leaning against a black piano bench. A cardboard box and rolled posters form the backdrop of this relatively minimalistic room.",
+        "5": "The object lies flat beside a striped backpack upon a wooden floor. A bed is partially visible. The space is dominated by the natural wooden floor and cushioned backpack."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object leans against a vertical storage unit inspired by Pixar design. Nearby a printer and some crates appear in a colorful and playful Pixar style. The ceramic tiles have a whimsical animated look.",
+        "1": "The object rests on a floor with a Pixar-style amplifier next to it. Chairs and a cardboard box appear in bright, stylized designs with comical wires scattered across a cartoon-styled floor.",
+        "2": "The object reclines against a Pixar-style multi-drawer unit. A wooden desk is transformed into an animated style, with colorful cables and a vibrant cartoon-style hardwood floor.",
+        "3": "The object propped against a Pixar-style dark wooden door. Coats on pegs now appear fluffy and animated. The beige tiled floor becomes a playfully animated Pixar-style setting.",
+        "4": "The object atop a ceramic floor leans against a Pixar-style black bench. A cardboard box and rolled posters appear in a colorful Pixar-themed design with vibrant hues.",
+        "5": "The object lies flat beside a backpack with exaggerated animated features. The wooden floor gets a Pixar transformation, with animated textures creating a lively, playful setting."
+    },
+    "prompt_shared": "Pixar guitar",
+    "prompt_theme": "Pixar",
+    "object_token": "object"
+}

@@ -1,0 +1,25 @@
+{
+    "src": "A classic teddy bear with light brown fur, creamy snout and paws, rounded ears, dark brown nose, and black bead eyes. The limbs are short and floppy.",
+    "edit": "A low-poly teddy bear with angular, light brown geometric fur. It has simple, creamy white snout and paws, tetrahedron ears, and a triangular dark brown nose. The eyes are black spheres. The limbs are blocky and short.",
+    "per_image_non_shared_src": {
+        "marina-shatskih-6MDi8o6VYHg-unsplash": "the object sits on a dirt path stretching into the distance, surrounded by blurred greenery and an overcast sky.",
+        "marina-shatskih-B3Jnug3rKrs-unsplash": "An object rests on a stone ledge near a small step, surrounded by dense foliage and slightly mossy ground.",
+        "marina-shatskih-BYZdCQDSNTY-unsplash": "The object is against a wooden fence, intertwined with branches and some green leaves partially covering the background.",
+        "marina-shatskih-F_imBoYwuTk-unsplash": "The object peeks through a rustic wooden fence under a clear blue sky and bright sunlight, casting crisp shadows.",
+        "marina-shatskih-kBo2MFJz2QU-unsplash": "the object sits on a rough stone surface near a wooden fence casting faint shadows.",
+        "marina-shatskih-nKoIXtEfkZ8-unsplash": "The object rests on wooden steps among leaves; the background has earthy tones. A small piece of white paper is nearby.",
+        "marina-shatskih-sIzj2poobss-unsplash": "The object is on a rocky surface of a dirt path, with an earthy landscape stretching behind."
+    },
+    "per_image_non_shared_edit": {
+        "marina-shatskih-6MDi8o6VYHg-unsplash": "A low-poly object on a minimalist dirt path extending into the distance, surrounded by angular, faceted greenery in vibrant polygonal shapes, with a slightly overcast sky of flat planes.",
+        "marina-shatskih-B3Jnug3rKrs-unsplash": "The object rests on a stone ledge in low-poly style with faceted surfaces and angular edges, next to a small geometric step. Background foliage has polygonal leaves, with a mossy ground beneath in green low-poly textured polygons.",
+        "marina-shatskih-BYZdCQDSNTY-unsplash": "The object is against a wooden fence with geometric polygons, branches with faceted textures, and angular green leaves partially covering the background, in a low-poly style with sharp, clean lines and flat shading.",
+        "marina-shatskih-F_imBoYwuTk-unsplash": "The object peeks through a low-poly wooden fence with geometric shapes under a polygonal blue sky. The sunlight casts angular shadows. The scene features minimal textures with faceted polygons, capturing low-poly art.",
+        "marina-shatskih-kBo2MFJz2QU-unsplash": "A low-poly object on a stone surface with simple geometric shapes. Adjacent is a wooden fence made of elongated polygons, casting polygon shadows on the stone. The low-poly style highlights clean lines and uncomplicated forms in digital artistry.",
+        "marina-shatskih-nKoIXtEfkZ8-unsplash": "The object rests on angular wooden steps with sharp edges among faceted leaves in a low-poly style. A polygonal landscape with earthy hues is in the background. A triangular white paper lies nearby, contributing to the minimalist aesthetic.",
+        "marina-shatskih-sIzj2poobss-unsplash": "The object is on a faceted rocky surface of a dirt path, with geometric, earthy shapes extending in low-poly style to the horizon. The landscape has flat surfaces, clean edges, and lines, maintaining a consistent low-poly appearance."
+    },
+    "prompt_shared": "low poly teddy bear",
+    "prompt_theme": "low poly",
+    "object_token": "plushie"
+}

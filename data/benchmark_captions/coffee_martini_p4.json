@@ -1,0 +1,9 @@
+{
+    "src": "A man preparing a cocktail in a home kitchen in hyper-realistic style, with various bottles and an autumn view.",
+    "edit": "A man making a potion in a dimly lit, gothic-style kitchen with ominous bottles. Outside, a dark, twisted forest casts shadows. The kitchen has cobwebs, worn-out wooden cabinets, and flickering candlelight, enhancing the gothic atmosphere.",
+    "per_image_non_shared_src": null,
+    "per_image_non_shared_edit": null,
+    "prompt_shared": "gothic horror kitchen scene",
+    "prompt_theme": "gothic horror",
+    "object_token": "kitchen"
+}

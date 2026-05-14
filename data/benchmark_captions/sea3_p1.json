@@ -1,0 +1,17 @@
+{
+    "src": "Four children play and jump on a sandy beach near the ocean at sunset. They're dressed in shorts and t-shirts, one in a hoodie, with the warm glow highlighting their movements.",
+    "edit": "Four blocky Minecraft characters on a beach; two jumping with pixelated limbs, two with block-like expressions, in distinct block-patterned clothing. Background: sandy terrain, pixel-shaped waves, pixelated orange and purple sky.",
+    "per_image_non_shared_src": {
+        "IMG_5320": "They are jumping on a sandy beach, silhouetted against a vibrant sunset sky with waves rolling to shore, surrounded by scattered shells and seaweed on the sand.",
+        "IMG_5321": "They stand close by the water's edge, ready to jump, with calm ocean waves reflecting pink and orange evening hues, soft clouds, and faint seagulls in the sky.",
+        "IMG_5322": "They are mid-jump on the beach, arms outwards, with the seascape and setting sun behind them, footprints marking the sand, and the horizon blending into the glowing sky."
+    },
+    "per_image_non_shared_edit": {
+        "IMG_5320": "Pixel characters mid-jump on the beach under pixelated stars and blocky moonlight. Footprints create a trail on sandy cubes, with pixelated waves meeting the horizon of twinkling squared stars, capturing Minecraft's digital pixelated essence.",
+        "IMG_5321": "Pixel characters mid-jump on the beach, arms reaching towards pixelated stars. A tranquil ocean reflects the blues of a Minecraft night. Footprints trail on sandy cubes as waves meet the shore, with a blocky moon casting a glow.",
+        "IMG_5322": "Pixel characters mid-jump on the beach, arms reaching towards pixelated stars. The ocean reflects blues of a Minecraft night, with a blocky moon. Footprints trail on sandy cubes, and pixelated waves meet the shore, merging with a starry horizon in Minecraft style."
+    },
+    "prompt_shared": "Minecraft characters",
+    "prompt_theme": "minecraft",
+    "object_token": "people"
+}

@@ -1,0 +1,21 @@
+{
+    "src": "A tall slender maroon ceramic vase with a glossy finish, tapers at the top, flaring out with a marbled dark red pattern. Delicate dried foliage extends upward from the rim.",
+    "edit": "A tall, slender vase crafted from brushed steel and copper, with abstract patterns. It gleams under light, with a smooth yet dynamic texture, adding a modern touch.",
+    "per_image_non_shared_src": {
+        "00": "The vase is centrally placed on a rectangular wooden tray with a small, dark teapot in a softly lit room with large windows showing greenery, and it holds delicate, wispy branches.",
+        "01": "The vase and a small teapot are on a tray on a table, with a blurred background of a wooden door and neutral walls in soft lighting.",
+        "02": "The vase is standalone against a white background, centered and highlighted by even lighting.",
+        "03": "The vase contains two bright yellow pom-pom flowers and a large green leaf, set against a white backdrop, highlighting the vase's intricate design.",
+        "04": "The vase is on a large closed book with pale pages, against a plain white wall, holding a branch with small yellow flowers."
+    },
+    "per_image_non_shared_edit": {
+        "00": "A rustic vase sits centrally on a wooden tray, alongside a timeworn teapot. The room is illuminated with sunlight through windows, revealing a verdant landscape. The vase holds slender branches, enhancing the rural setting.",
+        "01": "A rustic vase and vintage teapot rest on a weathered wooden tray atop a farmhouse table. The backdrop has a barn-style door, walls with distressed wood panels, and natural lighting casting shadows, enhancing the rural setting.",
+        "02": "The vase sits in the middle of a rustic setting, under natural sunlight through wooden shutters, on a reclaimed wooden table. It has earthy texture, hand-painted floral patterns, and is surrounded by wildflowers.",
+        "03": "A rustic vase with golden-yellow pom-pom flowers and a large green leaf, against a weathered white wooden surface. The vase has earthy textures and natural colors, highlighting the countryside style in natural light.",
+        "04": "A vase sits on a robust, worn book with sun-kissed pages. Against an aged whitewashed wall, it holds a branch with small yellow blooms, reminiscent of pastoral wildflowers."
+    },
+    "prompt_shared": "two-colored metal vase",
+    "prompt_theme": "rural",
+    "object_token": "vase"
+}

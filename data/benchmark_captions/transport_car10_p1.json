@@ -1,0 +1,19 @@
+{
+    "src": "A silver modern hatchback car with sleek lines, LED headlights, and alloy wheels. It has a streamlined body design with a distinctive logo on the front grille and smooth contours around the doors and windows.",
+    "edit": "A vibrant, multicolored van with swirling flower patterns, peace symbols, and retro decals. It features round headlights, ornate side mirrors, and whimsical detailing on the body, capturing a spirited, nostalgic style.",
+    "per_image_non_shared_src": {
+        "martin-katler-1R3XMvS0n2w-unsplash": "The object is positioned at an angle in a damp urban setting beside a modern building with glass windows and grey panels. The wet pavement and surrounding grassy area with trees reflect the overcast sky.",
+        "martin-katler-RpPQWpy8K_s-unsplash": "The object is centered on a narrow street, flanked by modern buildings with balconies, and bordered by a bicycle lane. The road stretches ahead with trees and distant high-rises in the background.",
+        "martin-katler-pOMIIxFu4oY-unsplash": "The object is angled on a city street near a contemporary residential building with balconies, surrounded by a mix of greenery and urban elements like paved sidewalks.",
+        "martin-katler-xEzGKoTyDHY-unsplash": "The object is viewed from the rear on a city street near a modern building with balconies. A large sign in the distance and cloudy skies create an urban, overcast atmosphere."
+    },
+    "per_image_non_shared_edit": {
+        "martin-katler-1R3XMvS0n2w-unsplash": "The object is positioned at an angle in a snowy urban setting beside a modern building with frosted glass windows and snow-covered panels, embodying a winter look.",
+        "martin-katler-RpPQWpy8K_s-unsplash": "The object is centered on a snow-dusted street, flanked by modern buildings with frosty balconies, and lined by a cleared path. Snow-covered trees and distant high-rises complete the winter look.",
+        "martin-katler-pOMIIxFu4oY-unsplash": "The object is angled on a city street carpeted with snow near a contemporary building with balconies, surrounded by a mix of snow-laden greenery and urban elements.",
+        "martin-katler-xEzGKoTyDHY-unsplash": "The object is viewed from the rear on a city street beside a snow-dusted building, with a large snow-covered sign in the distance and a cloudy, wintry sky."
+    },
+    "prompt_shared": "a hippy car",
+    "prompt_theme": "winter",
+    "object_token": "car"
+}

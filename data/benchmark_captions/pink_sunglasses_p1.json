@@ -1,0 +1,23 @@
+{
+    "src": "Elegant rose gold sunglasses with large, rounded lenses. The frames feature intricate detailing along the edges, with a smooth, shiny finish. The lenses are tinted with a subtle gradient effect, transitioning from a deep pink to a lighter rose hue.",
+    "edit": "Vibrant three-colored kids sunglasses with playful, rounded lenses. The frames mix bright yellow, green, and blue elements, creating a fun, colorful design. Lenses have a gradient effect transitioning from light blue to green.",
+    "per_image_non_shared_src": {
+        "00": "The object is positioned at an angle, nestled on crinkled white fabric. To the side, there are delicate magnolia flowers with white petals and soft pink accents, along with a slender branch.",
+        "01": "The object lies flat on a smooth, grey surface, centered in the frame. There are no additional elements or objects in the background, emphasizing its minimalistic setting.",
+        "02": "Resting on a softly folded cream fabric, the object is at a slight angle. A circular, white object partially obscures one lens, contributing to the subtle dynamics of the scene.",
+        "03": "The object is angled slightly on a crumpled white duvet, next to an open magazine with bold, colorful lettering. The soft texture of the duvet contrasts with the magazine covers.",
+        "04": "Situated on lightly wrinkled cream fabric, the object is displayed at an angle. The gentle folds of the fabric create a serene backdrop, enhancing its elegant ambiance.",
+        "05": "The object rests on a white duvet, positioned near a glossy open magazine and a glass of lemonade. Sunlight casts shadows, accentuating the bright and inviting atmosphere."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object is positioned at an angle on crinkled white fabric, next to magnolia flowers with white petals and pink accents. A branch adds texture in this summer-inspired scene.",
+        "01": "The object lies flat on a smooth grey surface, emphasizing the clean, airy feel. The scene's openness and minimalism reflect a summer aesthetic.",
+        "02": "Resting on a softly folded cream fabric, the object is at a slight angle. The circular, white object adds a playful touch, complementing the summer vibe.",
+        "03": "The object is angled slightly on a crumpled white duvet, next to an open magazine with colorful lettering. Brightness and bold color evoke a summer feel.",
+        "04": "Situated on lightly wrinkled cream fabric, the object is displayed at an angle. The serene backdrop and folds contribute to a sophisticated summer look.",
+        "05": "The object rests on a white duvet next to a glossy open magazine and a glass of lemonade. Sunlight and vibrant elements complete the summery setting."
+    },
+    "prompt_shared": "three-colored kids sunglasses",
+    "prompt_theme": "summer",
+    "object_token": "object"
+}

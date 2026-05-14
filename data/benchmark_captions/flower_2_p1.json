@@ -1,0 +1,25 @@
+{
+    "src": "A delicate pink flower with a white upper petal, elongated structure, and a soft yellow center. It has a smooth texture, surrounded by green leaves.",
+    "edit": "An exotic flower with vibrant orange and yellow petals, a deep maroon center, and intricate patterns. Textured with a glossy surface, surrounded by broad green leaves.",
+    "per_image_non_shared_src": {
+        "0": "The object is depicted centrally, its petals open. The background consists of dark green leaves, with scattered light and bright buds peeking through.",
+        "1": "The object faces forward, petals wide. The background is filled with overlapping dark leaves, with soft sunlight filtering through.",
+        "2": "The object is shown slightly tilted. The background has a mix of blurred green leaves and some dry grass visible at the edges.",
+        "3": "The object is positioned to the side, a curved profile. The background consists of sharp green foliage, with a few reddish stems visible.",
+        "4": "The object sits plainly, petals flaring slightly. Overlapping green leaves make up the background with some brown dry patches.",
+        "5": "The object is shown from a side angle, with petals curving outward. The background contains grass-like patterns and blurred green foliage.",
+        "6": "The object is blooming upwards, prominently. Lush green leaves form the backdrop, with hints of red stems interspersed."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is depicted centrally, its petals open. The jungle setting features vibrant foliage with deep green leaves and exotic buds peeking through.",
+        "1": "The object faces forward, petals wide. The jungle background includes dense layers of overlapping leaves, with bright sunlight filtering through.",
+        "2": "The object is shown slightly tilted. The background features jungle foliage with varying shades of green and wild plants visible at the edges.",
+        "3": "The object is positioned to the side, a curved profile. The jungle setting includes thick, sharp foliage, with reddish stems among the green.",
+        "4": "The object sits plainly, petals flaring slightly. Dense jungle leaves create the background with tropical brown patches visible.",
+        "5": "The object is shown from a side angle, with petals curving outward. The jungle scene has intertwined greenery and blurred exotic foliage.",
+        "6": "The object is blooming upwards, prominently. Lush jungle leaves are in the backdrop, with hints of colorful stems interspersed."
+    },
+    "prompt_shared": "an exotic flower",
+    "prompt_theme": "jungle",
+    "object_token": "object"
+}

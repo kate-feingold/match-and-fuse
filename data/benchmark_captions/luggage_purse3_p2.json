@@ -1,0 +1,17 @@
+{
+    "src": "A sleek, triangular black leather bag with a textured finish and a sturdy handle at the top. It has a subtle gold clasp near the bottom center.",
+    "edit": "A futuristic triangular bag with a metallic sheen, featuring a blend of shimmering silver and deep blue hues, and an intricate geometric pattern. It has a top handle and a glowing emblem.",
+    "per_image_non_shared_src": {
+        "ivan-kazlouskij-YCEw-2J6G6E-unsplash": "The object is positioned upright on a wooden surface, with a round mirror and cream vases behind. The background features a soft beige wall, creating a warm, minimalistic setting.",
+        "ivan-kazlouskij-b7R2wAlbYDU-unsplash": "The object is centered on a wooden cabinet, with a round mirror partially visible on the left and a modern lamp on the right, set against a warm beige wall.",
+        "ivan-kazlouskij-rbbUG5fR9pM-unsplash": "The object is upright on a wooden shelf, with a white lamp on a tripod base and a framed line art picture nearby. The wall is light-colored wood paneling."
+    },
+    "per_image_non_shared_edit": {
+        "ivan-kazlouskij-YCEw-2J6G6E-unsplash": "The object is positioned upright on a metallic surface resembling a spaceship, with luminous control panels and futuristic equipment behind, all in a cool, metallic spaceship setting.",
+        "ivan-kazlouskij-b7R2wAlbYDU-unsplash": "The object is centered on a smooth metallic base, with curved spaceship walls showing holographic displays and soft ambient lighting, in a sleek, futuristic interior.",
+        "ivan-kazlouskij-rbbUG5fR9pM-unsplash": "The object is upright on a metallic shelf, with glowing panels and control interfaces, and a light installation resembling a spaceship's interior, enhancing the futuristic spaceship vibe."
+    },
+    "prompt_shared": "two-colored extraterrestrial bag",
+    "prompt_theme": "spaceship",
+    "object_token": "object"
+}

@@ -1,0 +1,23 @@
+{
+    "src": "A pencil drawing of casual sneakers with a low-top silhouette, rounded toes, and lace-up closure. They have thin laces, a subtle sole outline, are in a neutral tone, and appear well-worn.",
+    "edit": "Vibrant sneakers with multicolored upper and bright contrasting laces. Low profile with dynamic patterned sole.",
+    "per_image_non_shared_src": {
+        "1": "Sneakers walking away from the viewer, one foot slightly lifted, on a textured pavement surface.",
+        "2": "One sneaker rests on a step, the other slightly raised, against stairs with clear lines indicating steps.",
+        "3": "Both sneakers are on a grass-like surface with minimalistic grass details, suggesting an outdoor setting.",
+        "4": "Sneakers in mid-motion, one elevated above a splashing puddle, with surrounding droplets and motion lines.",
+        "5": "Person sitting cross-legged, hands on knees, on textured steps.",
+        "6": "One foot on a bicycle pedal, with the other raised; bicycle frame and wheels visible, depicting movement on a paved path."
+    },
+    "per_image_non_shared_edit": {
+        "1": "Sneakers walking away from the viewer, one foot slightly lifted. Background is a textured pavement surface.",
+        "2": "A sneaker rests on a step while the other is slightly raised, against stairs with clear lines indicating steps, creating a structured environment.",
+        "3": "Sneakers stand close together on a grass-like surface with minimalistic grass details, suggesting an outdoor setting.",
+        "4": "The sneakers are in mid-motion, one above a splashing puddle, surrounded by droplets and motion lines, in a rainy setting.",
+        "5": "The person is sitting with legs crossed, hands on knees, on textured steps.",
+        "6": "One foot on a bicycle pedal, the other raised. The bicycle's frame and wheels are visible, showing movement on a paved path or street."
+    },
+    "prompt_shared": "colorful shoes",
+    "prompt_theme": null,
+    "object_token": "storyboard sketch"
+}

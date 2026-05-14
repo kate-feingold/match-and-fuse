@@ -1,0 +1,21 @@
+{
+    "src": "A tall, cylindrical stone tower with three turrets, arched windows, and decorative brickwork. The stone is a light brown color with various small openings and a flagpole atop the central turret.",
+    "edit": "A towering, angular structure with harsh lines and concrete panels, featuring slender, vertical windows and a minimalist facade. The brutalism style emphasizes rawness and functional geometry with a central spire.",
+    "per_image_non_shared_src": {
+        "colin-watts-3blV4-86aUo-unsplash": "The object stands prominently on a hilltop with a wide view of surrounding fields. Trees flank the distant horizon under a sky filled with warm, golden sunset hues.",
+        "david-tip-IU8E-824a-s-unsplash": "The object stands on a grassy mound with people walking nearby. Puffy white clouds dot a bright blue sky, casting shadows onto the rolling landscape.",
+        "liv-cashman-Ckmk6hauXEM-unsplash": "The object is depicted in a close-up, focusing on its detailed brick facade and intricate balconies. The sky is clear, enhancing the architectural details against the blue.",
+        "marc-najera-t3uc1FTTG_Y-unsplash": "The object is centered on a grassy landscape with people resting on the slope. The sky is partly cloudy with some patches of blue visible.",
+        "samuel-girven-fCJULElraUE-unsplash": "The object is viewed from below with a fenced area nearby. The grass is sparse, and the sky is overcast with soft light filtering through."
+    },
+    "per_image_non_shared_edit": {
+        "colin-watts-3blV4-86aUo-unsplash": "The object stands prominently on a hilltop with a wide view of surrounding fields. Trees flank the distant horizon under a gloomy overcast sky, typical of gloomy weather.",
+        "david-tip-IU8E-824a-s-unsplash": "The object stands on a grassy mound with people walking nearby. Thick, gray clouds fill the sky, fitting the gloomy weather ambiance of the scene.",
+        "liv-cashman-Ckmk6hauXEM-unsplash": "The object is depicted in a close-up, focusing on its concrete facade. The sky is uniformly gray, enhancing the minimalist brutalism architecture against the backdrop.",
+        "marc-najera-t3uc1FTTG_Y-unsplash": "The object is centered on a grassy landscape with people resting on the slope. The sky is filled with dense, gray clouds typical of gloomy weather.",
+        "samuel-girven-fCJULElraUE-unsplash": "The object is viewed from below with a fenced area nearby. The grass is sparse, and the sky is a uniform gray typical of gloomy weather."
+    },
+    "prompt_shared": "a brutalism-styled building",
+    "prompt_theme": "gloomy weather",
+    "object_token": "scene"
+}

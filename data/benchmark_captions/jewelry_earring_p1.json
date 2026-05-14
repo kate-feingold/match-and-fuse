@@ -1,0 +1,25 @@
+{
+    "src": "Silver earrings with a fox head motif at the top, encrusted with small clear crystals. Below are layered, spiraled sections, each shimmering with more crystals. The design is elegant and slightly elongated.",
+    "edit": "Golden earrings with a fox head motif at the top, adorned with small clear gemstones. Below are layered, spiraled sections, each gleaming with golden tones and more gemstones. The design is opulent and elongated.",
+    "per_image_non_shared_src": {
+        "0": "The earrings hang against a black background, with the fox heads positioned at the top and the spiral sections descending gracefully. The dark backdrop accentuates the sparkle of the crystals.",
+        "1": "The earrings are placed on a textured white background, standing upright with their fox heads at the top. The light background highlights the intricate details and shimmer of the earrings.",
+        "2": "The earrings lay horizontally on a floral-patterned surface, showcasing the fox heads and spiral sections with bright illumination. The colorful background adds a contrasting vibrancy to the scene.",
+        "3": "The earrings hang against a textured white background, with fox heads prominent at the top. The bright surface enhances the clarity and sparkle of the crystal-encrusted design.",
+        "4": "The earrings are resting on a marbled surface, placed side by side. The marbled texture and color draw attention to the detailed craftsmanship and crystal embellishments of the earrings.",
+        "5": "The earrings hang vertically in a black box interior, showcasing the fox heads and descending spirals. The dark setting emphasizes the sparkle and elegance of the design.",
+        "6": "The earrings are displayed in a black box, vertically aligned with the fox heads at the top. The sleek black environment enhances the brilliance and elaborate design of the earrings."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The earrings hang against a luxury jewelry store setting, with the fox heads and spiral sections appearing opulent. Glass cabinets and soft lighting create a sophisticated backdrop.",
+        "1": "The earrings are placed on a luxurious textured white surface in the store, standing upright with rich accents. The upscale environment highlights the elegance of the earrings.",
+        "2": "The earrings lay horizontally on an ornate jewelry display in the store, showcasing the fox heads and spiral sections. Elegant embellishments and soft lights create a lavish background.",
+        "3": "The earrings hang against a textured white surface in the luxury store, with fox heads prominent. The opulent environment enhances the refined design of the embellishments.",
+        "4": "The earrings are resting on a polished surface in the jewelry store, paired with rich wooden tones. The luxurious surroundings accentuate the detailed craftsmanship and golden gleam.",
+        "5": "The earrings hang vertically in a jewelry box within the store, showcasing the opulent fox heads and spirals. The plush setting emphasizes the luxurious nature of the design.",
+        "6": "The earrings are displayed in a jewelry box in the store, vertically aligned with a rich backdrop. The lavish environment enhances the brilliance and opulent design of the earrings."
+    },
+    "prompt_shared": "golden earrings",
+    "prompt_theme": "a luxury jewelry store",
+    "object_token": "object"
+}

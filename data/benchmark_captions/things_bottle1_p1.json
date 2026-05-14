@@ -1,0 +1,23 @@
+{
+    "src": "A yellow fabric sleeve with a cartoon elephant design featuring a maroon hat, orange and gray ears, and a buttoned vest. Yellow strap attached to it, wrapped around a metallic water bottle top.",
+    "edit": "A sleek three-colored water bottle with a glossy metallic top, featuring elegant gold, silver, and white bands. An attached vibrant yellow strap adds a stylish accent to its posh appearance.",
+    "per_image_non_shared_src": {
+        "0": "The object rests on a gray couch, the strap loosely spread around. The background includes textured cushions with a checkered pattern, giving a homely vibe.",
+        "1": "The object sits upright on a blue window ledge. The background outside shows muted urban elements blurred through the glass, with a pale interior wall nearby.",
+        "2": "The object is positioned on a bright red chair. The chair has a mesh back, and metallic legs are visible. The environment is an office setting with various furnishings.",
+        "3": "The object lies on a light-colored desk. The surface shows some artistic variations in color. The background is a plain wall with a door frame partially visible.",
+        "4": "The object is displayed on a black electronic device. The background has a green patterned carpet and a red office chair nearby, matching the office decor.",
+        "5": "The object stands on a metallic surface. Next to it, a white wall and a piece of office equipment create a minimalistic setting."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object rests on a plush gray couch, the strap loosely spread around. The luxurious background includes textured cushions with a subtle diamond pattern, emphasizing elegance.",
+        "1": "The object sits upright on a polished marble window ledge. Beyond the glass are blurred views of sumptuous urban architecture, with an opulent wall nearby.",
+        "2": "The object is positioned on a rich red velvet chair. The chair has a gold accent and metallic legs. The environment exudes luxury with intricate furnishings.",
+        "3": "The object lies on a polished marble desk. The surface shows refined artistic engravings. The background is a cream wall with a gold-trimmed door frame, enhancing opulence.",
+        "4": "The object is displayed on a glossy black grand piano. The background features a luscious green carpet and a plush red chair, matching the room's extravagance.",
+        "5": "The object stands on a shiny metallic counter. Next to it, a velvet-lined wall and sleek office equipment create a premium setting."
+    },
+    "prompt_shared": "a posh three-colored water bottle",
+    "prompt_theme": "luxury",
+    "object_token": "object"
+}

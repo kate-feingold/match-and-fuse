@@ -1,0 +1,19 @@
+{
+    "src": "A black and gold Marshall amplifier with a textured front grill, metallic knobs for control settings, and a sturdy handle on top. The brand name is prominently displayed on the front panel.",
+    "edit": "A luxury amplifier with a sleek, polished gold finish, embedded with sparkling gemstones. The control knobs are made of crystal, and the handle features leather accents, showcasing a premium design.",
+    "per_image_non_shared_src": {
+        "0": "The object is situated slightly to the left, on a tiled floor, next to a wood-panel cabinet and wires on the floor.",
+        "1": "The object is positioned to the right with a cable connected, a fan and a dark cabinet in the background on a tiled floor.",
+        "2": "The object is on a black chair, surrounded by a green garment draped over the chair and wooden shelves in the room.",
+        "3": "The object is centered on a tiled floor, with a dark wooden door slightly ajar in the background."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is situated slightly to the left, on a shiny concert hall stage with bright lights illuminating the polished wooden floor.",
+        "1": "The object is positioned to the right, with a shimmering cable connected, under dazzling spotlights reflecting off the concert hall\u2019s metallic elements.",
+        "2": "The object is on a plush concert hall chair, surrounded by luxurious drapery and opulent architectural details.",
+        "3": "The object is centered under the bright concert hall lights, against an elegant wooden backdrop typical of a high-end performance venue."
+    },
+    "prompt_shared": "a luxury Marshal amplifier",
+    "prompt_theme": "a bright concert hall",
+    "object_token": "object"
+}

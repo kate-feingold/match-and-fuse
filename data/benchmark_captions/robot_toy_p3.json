@@ -1,0 +1,21 @@
+{
+    "src": "A small white robot toy with a rounded body and black visor, featuring articulated arms and black wheel-like structures, blue accents on its chest panel and joints, and a compact form with smooth curves and intricate surface details.",
+    "edit": "A small cyberpunk robot toy with a metallic body, reflective chrome visor, articulated arms with glowing neon joints, and wheel-like structures. It features vibrant orange patterns, angular edges, and elaborate circuit details, embodying a futuristic cyberpunk look.",
+    "per_image_non_shared_src": {
+        "00": "the object is on a textured grey fabric surface, facing slightly left, with a darker grey fabric background.",
+        "01": "The object is on a natural wooden slatted surface, facing straight ahead. The background is a cream-colored wall.",
+        "02": "The object is slightly left of the frame on a patio with brown, brick-patterned tiles, surrounded by trees and fallen leaves, facing right.",
+        "03": "The object is viewed from above, facing left, on a large grey rock with pine needles, surrounded by a rocky, forested setting.",
+        "04": "the object is on a large light grey rock, facing right and slightly downward, surrounded by grass and leaves on the ground in a natural outdoor environment."
+    },
+    "per_image_non_shared_edit": {
+        "00": "A futuristic object sits on a sleek, textured fabric surface with neon greys and circuit patterns, positioned slightly left. The background is darker grey with electric blue and magenta streaks, enhancing the object's high-tech appearance in a cyberpunk style.",
+        "01": "The object rests on a metallic surface with pulsating lights in the slats, facing straight ahead. The background is a digital screen with neon graphics, creating a cyberpunk atmosphere.",
+        "02": "A metallic object facing slightly left is on a neon-illuminated surface with pulsating blue tiles and futuristic circuitry. Surrounded by holographic displays among chrome-like trees, it reflects purple and cyan shades, embodying a cyberpunk atmosphere.",
+        "03": "The object sits atop a large grey rock, viewed from above, slightly facing left, illuminated by neon lights, resembling layers of pine needles in a cyberpunk setting with skyscrapers, digital advertisements, electric blues and purples, reflecting digital billboards.",
+        "04": "The object sits on a neon-lit rock with a metallic sheen, facing right and slightly downward. It's surrounded by luminescent artificial grass and digital leaves, in a colorful cyberpunk environment with an edgy digital haze."
+    },
+    "prompt_shared": "cyberpunk robot",
+    "prompt_theme": "cyberpunk",
+    "object_token": "toy"
+}

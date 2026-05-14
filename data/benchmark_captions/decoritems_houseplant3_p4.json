@@ -1,0 +1,21 @@
+{
+    "src": "A compact succulent plant with fleshy, elongated leaves, soft green with frosty white dusting, arranged in a rosette shape. It is in a small, glossy black faceted pot with light brown pebbles.",
+    "edit": "A toy plant knitted from bright purple and teal yarn with elongated leaves in a rosette pattern. It sits in a black ceramic pot with a geometric design and knitted pebbles at the base.",
+    "per_image_non_shared_src": {
+        "0": "the object is centered on a textured concrete surface with scattered dried pine needles, illuminated naturally, against a soft-focus tree background.",
+        "1": "The object is on a large, intricately designed green leaf-shaped tray, indoors with gentle lighting highlights.",
+        "2": "The object is on a narrow bluish-grey ledge, overlooking a parking lot filled with cars. The background has blurred branches and distant buildings, with ample daylight.",
+        "3": "The object is on a bluish-grey ledge, with tree-filled surroundings and distant rooftops, sunlight casting shadows.",
+        "4": "The object is on a white windowsill with a paper clip, outside view of tree branches and a partially visible building through a double window pane."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object rests on a sunlit concrete surface with scattered dried pine needles. Tree silhouettes in soft focus form the background, as sunset hues cast elongated shadows and golden light across the scene.",
+        "1": "The object rests on a leaf-shaped tray in sunset orange, matching the plant's warm tones, with gentle highlights from sunset lighting.",
+        "2": "The object rests on a narrow ledge at sunset. The overlook reveals a parking lot with cars reflecting the vibrant sky. Silhouettes of branches sway, and distant buildings are highlighted in the light, under a natural sunset glow.",
+        "3": "A vibrant sunset sky of orange and pink casts warm tones on the object perched on a bluish-grey ledge. The tree-filled environment glows with sunlight filtering through branches, illuminating distant rooftops and creating dynamic shadows.",
+        "4": "The object rests on a luminous windowsill at sunset, with soft shadows. A paper clip reflects golden rays. Tree branches outside are silhouetted against the sky, and a building is partially visible through glowing window panes."
+    },
+    "prompt_shared": "knitted plant",
+    "prompt_theme": "sunset",
+    "object_token": "plant"
+}

@@ -1,0 +1,9 @@
+{
+    "src": "A man preparing a cocktail in a home kitchen in hyper-realistic style, with various bottles and an autumn view.",
+    "edit": "A man with a futuristic exoskeleton prepares a cocktail in a sci-fi kitchen with glowing, transparent bottles of neon liquid. Windows show a digital screen of a cityscape with flying cars. LED lights cast a cool glow.",
+    "per_image_non_shared_src": null,
+    "per_image_non_shared_edit": null,
+    "prompt_shared": "sci-fi kitchen scene",
+    "prompt_theme": "sci-fi",
+    "object_token": "kitchen"
+}

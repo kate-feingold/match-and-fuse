@@ -1,0 +1,23 @@
+{
+    "src": "A blue aluminum soda can with a dynamic whale illustration beneath yellow ocean waves. The label reads 'TRANSATLANTIC IPA' in black letters, with Asian characters at the bottom.",
+    "edit": "Vivid cylindrical aluminum can with a multicolored label with dreamy purple swirls. The label spells 'HOP SPELL IPA' in iridescent letters with colorful motifs around. The can has a smooth metallic surface and an easy-to-open tab.",
+    "per_image_non_shared_src": {
+        "00": "A can is centered on a rough concrete ledge with a blurred waterway and bare trees in the distance. Sunlight casts a shadow to the left, creating a contrast between the can and the surface.",
+        "01": "the can rests slightly off-center on a textured stone surface with a smooth river and greenery in the blurred background, highlighting the can's detailed label.",
+        "02": "The can stands tall on a frosty surface with blurred trees and buildings in the background and visible ice textures around the base.",
+        "03": "The can is near the center on a reflective icy surface, with residential buildings and barren trees in the background under a blue sky, and a sprawling ice layer with tiny cracks in the foreground.",
+        "04": "The can is on a smooth wooden table inside, next to a filled pint glass with an orange slice, set against a brick wall with soft light reflecting off the can's surface.",
+        "05": "A can on a stone ledge next to a half-full tulip glass of beer, with a murky river in the blurred background and a person in an orange life vest kayaking past."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The can is on a misty, ethereal ledge with a surreal river and translucent trees in the background. Ethereal light casts a shadow to the left, creating contrast with the luminous can on the glimmering surface.",
+        "01": "A can sits off-center on a mystical stone surface with a subtle texture, reflecting lush green hues of a surreal background. Soft outlines blend into a dreamlike quality. The can's label is intricately detailed with magical focus.",
+        "02": "The can rests on a misty surface with pastel trees and fantastical buildings in a surreal backdrop under a luminescent sky. Ice-like crystals sparkle around the can's base.",
+        "03": "A can is centrally placed on an icy surface with intricate cracks. Hazy residential buildings and skeletal trees silhouette against a surreal blue sky. Light reflects off the ice, creating a glowing, dream-world style.",
+        "04": "A can sits on a wooden table inside, beside a pint glass with sparkling liquid and an orange slice. A brick wall is in the background, with a glow reflecting off the can's surface.",
+        "05": "A can shimmers iridescently on a translucent floating stone ledge. A half-full tulip glass of beer casts colorful reflections. A person in a purple t-shirt kayaks on a magical boat on a murky river under a hazy sky."
+    },
+    "prompt_shared": "a can of drink called 'Hop Spell IPA'",
+    "prompt_theme": "dream world",
+    "object_token": "can"
+}

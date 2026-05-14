@@ -1,0 +1,19 @@
+{
+    "src": "A Meowth pokemon toy sitting and waving hands, in hyper-realistic anime-inspired style. It has oversized embroidered eyes and sharply defined lines around its face and limbs.",
+    "edit": "A Meowth Pok\u00e9mon toy sitting and waving hands energetically in Pop-Art style, with bold block colors, oversized eyes outlined in black, exaggerated expressions, and highlighted limbs with dramatic contours.",
+    "per_image_non_shared_src": {
+        "0": "The Pokemon is on a dark wooden table in the room corner, viewed slightly from above, with plain white walls.",
+        "1": "The Pok\u00e9mon is viewed slightly from above, placed on a white metal lattice in a room corner with plain white walls.",
+        "2": "A Pokemon is lying on a black background.",
+        "3": "The Pok\u00e9mon is viewed slightly from below, sitting on a metal stick, with one leg hanging down and one partially hidden, against a plain white background."
+    },
+    "per_image_non_shared_edit": {
+        "0": "A vibrant Pop-Art style Pok\u00e9mon is depicted slightly from above on a neon-colored table with bold outlines. The background features geometric patterns on high-contrast walls. The Pok\u00e9mon has saturated colors and thick black contours against the lively backdrop.",
+        "1": "A colorful Pokemon viewed from a slightly elevated angle on a vibrant, multicolored metal lattice in a room corner. The lattice has bold graphic patterns of pop-art, with walls adorned in large, retro-inspired comic book elements in bright primary colors.",
+        "2": "The Pok\u00e9mon appears vibrant on a colorful Pop-Art style background with primary colors, contrasts, and comic book elements. It has exaggerated features and thick black outlines, enhanced by dots, stripes, and symbols in the scene.",
+        "3": "A pop-art Pokemon is portrayed from a lower angle on a colored metallic stick with one bold leg down, the other obscured. The background is white with thick outlines and bright hues, giving a comic strip feel."
+    },
+    "prompt_shared": "Pop Art plushie",
+    "prompt_theme": "Pop Art",
+    "object_token": "plushie"
+}

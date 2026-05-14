@@ -1,0 +1,21 @@
+{
+    "src": "A brown teddy bear with soft plush fur, left hand up, right hand on the leg. It has creamy round paws, a stitched smile, a blue ice pack on its head, and a patch on its chest reading \"Get Well\".",
+    "edit": "A sinister brown teddy bear with matted fur. The left hand is illuminated, the right hand rests on the leg. It has skeletal paws, a stitched grin, wears a tattered black shroud on its head, and a chest patch reading \"Eternal Rest\".",
+    "per_image_non_shared_src": {
+        "00": "The object is on a large textured rock outdoors, surrounded by green foliage and a paved pathway, with another big rock in the back on the left, captured from a right side angle.",
+        "01": "The object is on a smooth concrete surface beside a gently flowing river, with a grassy backdrop, viewed from a lower angle, highlighting the rippling water and scattered green leaves.",
+        "02": "The object sits on an asphalt road with worn markings, viewed from the front and slightly left. The road stretches behind with faint tire imprints and a slope to the right.",
+        "03": "The object rests on vibrant green park grass, rotated slightly to the left, surrounded by lush grass blades with no obstruction.",
+        "04": "The object is against a brick wall on a concrete sidewalk, viewed straight on at eye level. The wall emphasizes the texture of the bricks and the smoothness of the concrete. A dry leaf is noticeable to the side."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object rests on a large, gnarled rock outdoors, slightly distant, flanked by twisted dark foliage and a cracked path. A looming rock is in the background on the left. The scene is from a right angle with twisted branches and shadows under a dim sky.",
+        "01": "The object rests on cobblestones on a concrete surface beside a river under gnarled, leafless trees casting shadows. Fog obscures the horizon, with withered leaves scattered around, enhancing the Gothic horror aesthetic.",
+        "02": "An ominous object rests on an old cobblestone path, its dark surface glistening under a moon. Viewed from the front, the path stretches into a desolate landscape. Bare trees align a hill at the edge, all in a gothic horror style.",
+        "03": "The object rests amid dark grass in a park-like space, surrounded by twisted, shadowed grass blades. It is tilted to the left, embraced by greenish-black tones.",
+        "04": "An eerie object stands against a decrepit brick wall on a cracked concrete sidewalk, viewed straight at eye level. Dark shadows linger, a skeletal leaf lies to the side."
+    },
+    "prompt_shared": "gothic horror teddy bear plushie",
+    "prompt_theme": "gothic horror",
+    "object_token": "plushie"
+}

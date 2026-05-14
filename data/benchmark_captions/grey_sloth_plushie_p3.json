@@ -1,0 +1,21 @@
+{
+    "src": "A soft plush sloth toy with a warm brown fur, white face, dark brown eye markings, and long floppy arms and legs with off-white felt claws.",
+    "edit": "A plush sloth toy with comic-book features, warm brown fur, white face with dark brown markings around the eyes, long floppy arms and legs with off-white claws, vibrantly textured fabric, and thick black outline stitching.",
+    "per_image_non_shared_src": {
+        "00": "The toy is on green grass next to a large tree with a textured trunk, surrounded by dirt and vibrant grass.",
+        "01": "the toy sits on a gray stone surface beside a river; across the water, a cityscape with tall buildings and green foliage is visible; the sky is cloudy.",
+        "02": "The toy is on lush green grass with scattered trees in the background, an expansive field with varying green shades, and park patches visible in the distance.",
+        "03": "The toy rests on a green wooden bench, with visible raindrops and aged textures, next to dirt and sparse vegetation. Nearby bushes detail the backdrop.",
+        "04": "The toy sits on a gray asphalt path with small pebbles, long lines, and faint cracks."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The toy is on emerald-green grass with bold outlines, next to a tree with dynamic textures. The ground around the tree is earthy tones and exposed dirt. The comic-book scene has primary colors and thick outlines.",
+        "01": "A colorful toy rests on a textured stone surface beside a vivid river. Across the water, a cityscape with tall buildings and green foliage emerges. The sky has swirling clouds, in a bold, comic-book style with black outlines.",
+        "02": "The toy is on vibrant green grass with stylized trees sketched in the background. The expansive field has diverse shades of green ink. Small park patches emerge in the distance with exaggerated perspectives, resembling a lively comic strip panel.",
+        "03": "The toy is on a green wooden bench with bold lines and bright colors, comic-book style. The bench has exaggerated textures and raindrop illustrations. Simple lines depict dirt and vegetation on the ground, with bushes in vivid strokes in the backdrop.",
+        "04": "The toy sits on a vibrant gray asphalt path with textured lines. Small pebbles with sharp outlines are scattered around. Long lines and faint cracks run through the roadway, in a comic-book style."
+    },
+    "prompt_shared": "comic book styled sloth plushie",
+    "prompt_theme": "comic book",
+    "object_token": "plushie"
+}

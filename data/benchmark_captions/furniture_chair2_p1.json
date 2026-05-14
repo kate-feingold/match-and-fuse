@@ -1,0 +1,19 @@
+{
+    "src": "A woven rattan hanging chair with an egg-like shape, circular weave pattern, and plush cream cushion, suspended by a sturdy rope.",
+    "edit": "An art-deco hanging chair in polished chrome with geometric patterns, egg-like shape, on a chain. It has a deep blue velvet cushion, nestled within the frame, merging modern and art-deco design.",
+    "per_image_non_shared_src": {
+        "rosemary-fields-Ah52Hgrae-Y-unsplash": "a chair is upright, slightly left of a vibrant indoor plant in a tall metallic pot, with a white brick wall behind, and daylight filtering through a large window.",
+        "rosemary-fields-ZIGZDDsoYCw-unsplash": "The chair is centered, hanging next to a green plant in a wicker basket, against a tall window with a black frame and a white brick wall for texture.",
+        "rosemary-fields-cHo2KJxqPuU-unsplash": "A chair is angled slightly forward, next to a leafy indoor plant in a woven holder on a stand. A worn white brick wall is the backdrop, with shadows from daylight through a large window.",
+        "rosemary-fields-lxDmpH2QLmM-unsplash": "A chair is viewed from the side, highlighting the weave pattern, next to a green plant in a basket, against a textured white brick wall, lit by natural light from a nearby window."
+    },
+    "per_image_non_shared_edit": {
+        "rosemary-fields-Ah52Hgrae-Y-unsplash": "The chair has sleek lines and geometric patterns, positioned upright left of a vibrant plant in a chrome pot. The white brick wall behind it has metallic tones, with daylight filtering through a large, framed window casting shadows.",
+        "rosemary-fields-ZIGZDDsoYCw-unsplash": "A chair with geometric patterns and sleek lines, next to a green plant in a metallic basket, centered in the image. Background has a tall window with black frames and a white brick wall with gold accents, in Art Deco style.",
+        "rosemary-fields-cHo2KJxqPuU-unsplash": "The chair, with sleek geometric lines, upholstered in velvet, is angled forward next to a plant in a gold-plated holder on a carved stand. A white brick wall serves as the backdrop, with soft shadows from a window with metalwork.",
+        "rosemary-fields-lxDmpH2QLmM-unsplash": "A side-view chair with an Art Deco geometric design sits next to a green plant in a brass basket. The background has a textured white brick wall, lit softly by ambient lighting from an unseen window, showcasing an Art Deco style."
+    },
+    "prompt_shared": "Art Deco chair",
+    "prompt_theme": "art deco",
+    "object_token": "chair"
+}

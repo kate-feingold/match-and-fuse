@@ -1,0 +1,21 @@
+{
+    "src": "A young skater in a dark t-shirt and denim shorts performs tricks on a wooden skateboard with four small wheels. He wears a cap and sneakers, focused in an urban area with a clean tiled surface.",
+    "edit": "A young snowboarder in a dark t-shirt and denim shorts performs tricks on a sleek snowboard. He wears a cap and adapted footwear on a clean tiled urban surface.",
+    "per_image_non_shared_src": {
+        "01": "The person is crouched slightly to the left of the skatepark, with a tiled square, green bench on the right, and black tiled wall behind.",
+        "07": "The person is mid-jump, arms spread wide. A green bench is on the right and a black-tiled wall is in the background.",
+        "10": "A person balances on a board above a green bench, arms slightly bent. The setting has a tiled surface with a black wall behind.",
+        "19": "A person leans forward, moving toward the green bench on the right, in a tiled square with a black wall at the back.",
+        "23": "The person stands upright with a slight forward lean in a tiled area, a green bench on the right, and a dark-tiled wall background."
+    },
+    "per_image_non_shared_edit": {
+        "01": "A person crouched to the left of the skatepark, in a winter jacket with frosted edges. Background: a snow-covered tiled square, a frosty green bench on the right, and a black tiled wall with icicles.",
+        "07": "A person is mid-jump, arms spread, in a puffy winter coat. A green bench with snow is on the right, and a black-tiled wall with frost is in the background, with icy blue hues.",
+        "10": "The person balances on a board above a snow-covered green bench, arms bent, in a puffy winter coat. Behind is a black wall with snowflakes and icicles hang from edges, under a winter sun.",
+        "19": "A person leaning forward, moving toward a snow-dusted green bench on the right. The scene features a tiled square with white frost, under a pale winter sun. A black wall at the back has icicles.",
+        "23": "A person stands upright with a slight forward lean in thick winter clothing. The scene has a tiled area with light snow, a green bench on the right, a dark-tiled wall with icicles, and slender shadows in the low winter sun."
+    },
+    "prompt_shared": "young snowboarder",
+    "prompt_theme": "winter",
+    "object_token": "person"
+}

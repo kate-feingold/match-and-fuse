@@ -1,0 +1,23 @@
+{
+    "src": "Knee-high boot in cream leather with fringed side detailing, pointed toe, and stacked wooden block heel.",
+    "edit": "A two-toned jellyfish-inspired boot with a translucent upper fading from blue to pink. Flowing fringes extend to the ankle. It has a glossy, shell-like foot with a pointed toe and a textured coral reef-inspired heel.",
+    "per_image_non_shared_src": {
+        "00": "The boot is standing upright against a red brick wall on rough concrete pavement with visible mortar lines, occasional debris, and stains.",
+        "01": "the boot is on a stone walkway by a river, with a city skyline showing skyscrapers and buildings in the backdrop, the water reflects the overcast sky.",
+        "02": "The boot is on a sloping asphalt road with visible cracks and pebbles, a brick building in the background and construction cones at a distance.",
+        "03": "The boot is standing on vibrant, lush green grass in an open space.",
+        "04": "The boot is on a grassy area next to a tree with mottled bark, visible knots and roots, surrounded by brown earth patches among green grass.",
+        "05": "The boot is resting on a painted green wooden bench with scratches and fading paint, above a lawn with neatly trimmed grass."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The boot stands upright against a red brick wall in sunset light, casting shadows on the textured concrete pavement with scattered debris. The bricks have a fiery hue and highlighted mortar lines.",
+        "01": "The boot rests on a stone walkway near a river, with a city skyline of skyscrapers. The water reflects sunset colors. The sky has orange, pink, and purple hues, with clouds illuminated by the sun.",
+        "02": "A boot on a sloping asphalt road with cracks and pebbles glowing in sunset hues. A brick building is illuminated by soft sunset light, construction cones in the distance blend with the sky.",
+        "03": "A boot under the golden glow of a sunset on vibrant green grass, casting shadows. The grass radiates amber and gold hues, sparkling under the light, creating a serene scene.",
+        "04": "A boot in a grassy area at sunset casts long shadows next to a tree with orange and purple bark. The rough trunk has highlighted knots and roots intertwine, with golden earth patches around the vibrant green grass.",
+        "05": "The boot rests on a green-painted wooden bench glowing softly in sunset light, highlighting its scratches. The grass beneath is illuminated, casting delicate shadows as evening colors change."
+    },
+    "prompt_shared": "two-toned jellyfish-inspired boot",
+    "prompt_theme": "sunset",
+    "object_token": "shoes"
+}

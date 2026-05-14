@@ -1,0 +1,21 @@
+{
+    "src": "A fluffy black and white dog with pointed ears, wearing a harness. Its coat is white with black patches. The dog has a lively expression, attentive eyes, a wagging tail, and an open mouth with a hanging tongue.",
+    "edit": "A knitted creature from two-colored yarn, patterns in black and white. It has a plush body with upright ears, a stitched wagging tail, and bead eyes.",
+    "per_image_non_shared_src": {
+        "00": "The object is viewed from above, running towards the camera on fallen leaves in a park, surrounded by green shrubs. The gray and white dog has its head slightly left, tail raised, under dappled sunlight.",
+        "01": "The object sits on a paved path lined with tall trees, facing forward with its tongue out and a leash on its collar. The path flanked by foliage stretches into the distance, creating depth.",
+        "02": "The dog is lying with front paws crossed on a white surface indoors, blurred beige and brown background, head slightly tilted right, ears perked up, soft light on its face.",
+        "03": "The object is viewed from above running towards the camera in a field of purple flowers and greenery, its head turned right, tail upward. The densely packed flowers contrast with the dog's fur under bright daylight.",
+        "04": "The object lies on a patterned gray and white blanket with its head turned to the right, showing its profile. Both ears are up, set against a softly lit gray background with light shadows."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object is viewed from above among vibrant fallen leaves. Gray and white dog turns head slightly left, tail raised, surrounded by amber and gold hues with green shrubs. Dappled sunlight filters through autumn canopy.",
+        "01": "A dog sits on a path covered with amber and crimson leaves, facing forward, with a leash on its collar. The path, surrounded by orange and gold trees, stretches into the distance, creating a sense of depth.",
+        "02": "The dog lies with front paws crossed on a blanket indoors, with a background of burnt orange and deep red. Its head is tilted right, ears perked up, highlighted by soft, golden light similar to an autumn sunset.",
+        "03": "The object is viewed from above, running towards the camera in a field of vibrant golden and rusty autumn leaves. Its head is turned right, tail curved upward, amidst densely packed leaves contrasting with its fur.",
+        "04": "The object lies on an orange and brown patterned blanket, head turned right, with perked ears, in front of a soft gray background with warm golden light casting shadows."
+    },
+    "prompt_shared": "an animal knitted from a two-colored yarn",
+    "prompt_theme": "autumn",
+    "object_token": "animal"
+}

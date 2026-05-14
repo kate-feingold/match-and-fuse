@@ -1,0 +1,21 @@
+{
+    "src": "A plush chubby unicorn cat with a rainbow-colored body. It has an orange top, yellow and light green bottom, horn, embroidered eyes, small mouth, pinkish-purple paws, and pointed ears with black inner details.",
+    "edit": "A marble statue of a mythical creature, carved from white and gray marble with soft gradients. Details like ears and eyes are subtly shaded. The statue balances artistry and whimsy.",
+    "per_image_non_shared_src": {
+        "0": "The object is on a light wooden table, tilted left, casting a shadow. Nearby are a black chair and part of a desk in a well-lit office or study area.",
+        "1": "The object is on a dark countertop, angled slightly right, beside a glass jug and a partially visible blue cutting board, with small items like a cup nearby, suggesting a kitchen space.",
+        "2": "the object is placed on a light gray windowsill facing forward, with a view of a green lawn and pathway outside glass panes.",
+        "3": "the object is on top of a box, directly facing forward, with the edge of a white cardboard box visible beneath it, adjacent black round object enhances the contrast.",
+        "4": "The object rests on a bicycle handle, balanced between brake handles and a bicycle light, with wires around the handlebar, indicating an indoor storage."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is on a light wooden table, slightly tilted left, casting a shadow. Nearby are a black chair and part of a desk in the background, in a well-lit office or study area.",
+        "1": "the object is on a dark countertop, angled to the right, beside a large glass jug and a blue cutting board, with a cup nearby.",
+        "2": "The object is on a windowsill, facing forward, with a view of a green lawn and pathway outside. The sill is light gray, alongside glass panes.",
+        "3": "the object is on top of a box, facing forward, with a white cardboard box and a black round object nearby enhancing contrast.",
+        "4": "The object rests on a bicycle handlebar, between brake handles and a bike light, with wires around the handlebar, in an indoor storage or garage location."
+    },
+    "prompt_shared": "marble statue",
+    "prompt_theme": null,
+    "object_token": "plushie"
+}

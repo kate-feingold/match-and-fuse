@@ -1,0 +1,27 @@
+{
+    "src": "A young silver-coated dog with smooth fur, floppy ears, and bright eyes. Its lean, muscular body gives an athletic appearance. The dog wears a simple collar, and its short, polished coat is finely detailed.",
+    "edit": "A charming miniature white sheep with a soft, fluffy fleece and a distinctive black muzzle, wearing a playful red t-shirt. The sheep has vibrant eyes and gentle demeanor. The textures of the wool and the bright fabric are intricately rendered.",
+    "per_image_non_shared_src": {
+        "0": "The object is upright, head up, next to a letter board with weight and age. It's in front of a large window showing a snowy landscape with bare trees, contrasting the pale wooden floor inside.",
+        "1": "The object stands on a rock ledge, sideways to the camera, with a black and teal harness and leash, overlooking green hills and a cloudy sky, suggesting an elevated, mountainous area.",
+        "2": "the object in an energetic stance closeup, ears flapping outward, viewed from a low angle, with a green grassy field in the background and pebbled areas.",
+        "3": "the object stands on green grass with its tongue out, surrounded by patchy brown-spotted grass in a spacious, open area with blurred distant vegetation.",
+        "4": "the object is sitting sideways to the camera with hind legs on a couch, surrounded by geometric-patterned cushions, in a living room with neutral walls and visible hardwood flooring.",
+        "5": "The object sits on a large tree stump in a foggy grassy area. Distant trees and paths are barely visible, suggesting a natural setting.",
+        "6": "The object is lying sideways to the camera beside a letter board with age and weight, near a large window showing snowy trees. The white floor panels enhance the bright, minimalist interior.",
+        "7": "The object sits on a couch with a colorful patterned cushion, sideways to the camera. Shutters on the windows cast striped shadows, with a plush throw draped over the furniture."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is upright, head up, next to a letter board with weight and age. It's in front of a large window showing a snowy landscape with bare trees, contrasting the pale wooden floor inside.",
+        "1": "The object stands on a rock ledge, sideways to the camera, with a black and teal harness and leash, overlooking green hills and a cloudy sky, suggesting an elevated, mountainous area.",
+        "2": "the object in an energetic stance closeup, ears flapping outward, viewed from a low angle, with a green grassy field in the background and pebbled areas.",
+        "3": "the object stands on green grass with its tongue out, surrounded by patchy brown-spotted grass in a spacious, open area with blurred distant vegetation.",
+        "4": "the object is sitting sideways to the camera with hind legs on a couch, surrounded by geometric-patterned cushions, in a living room with neutral walls and visible hardwood flooring.",
+        "5": "The object sits on a large tree stump in a foggy grassy area. Distant trees and paths are barely visible, suggesting a natural setting.",
+        "6": "The object is lying sideways to the camera beside a letter board with age and weight, near a large window showing snowy trees. The white floor panels enhance the bright, minimalist interior.",
+        "7": "The object sits on a couch with a colorful patterned cushion, sideways to the camera. Shutters on the windows cast striped shadows, with a plush throw draped over the furniture."
+    },
+    "prompt_shared": "sheep",
+    "prompt_theme": null,
+    "object_token": "animal"
+}

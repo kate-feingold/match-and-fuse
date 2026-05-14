@@ -1,0 +1,17 @@
+{
+    "src": "A retro helmet with a glossy finish, featuring a vibrant yellow top half and a contrasting deep red bottom half. It has a clear visor and a black circular vent on the side.",
+    "edit": "A retro-styled helmet with a vivid blue top and bright orange bottom. It features a transparent visor and a silver circular vent, giving a modern twist to a classic look.",
+    "per_image_non_shared_src": {
+        "zero-take-9dk53RXENvw-unsplash": "The object rests on a blue surface, positioned to the right side, with a backdrop of a light brick wall and a partially visible neon sign above it.",
+        "zero-take-bL1F6a7Aa_w-unsplash": "The object sits centrally on a dark surface, with a blurred background showing trees and a softly colored atmosphere, suggesting an outdoor scene.",
+        "zero-take-knKf90nR_UE-unsplash": "The object is viewed from the side on a dark surface, focusing on its details, with a blurred background hinting at an outdoor setting with warm tones."
+    },
+    "per_image_non_shared_edit": {
+        "zero-take-9dk53RXENvw-unsplash": "The object rests on a blue surface, positioned to the right side, against a retro-style brick wall and a vintage neon sign, characteristic of a retro setting.",
+        "zero-take-bL1F6a7Aa_w-unsplash": "The object sits centrally on a dark surface, surrounded by a retro-themed backdrop with trees softly blurred in warm autumn hues, enhancing the retro atmosphere.",
+        "zero-take-knKf90nR_UE-unsplash": "The object is viewed from the side on a dark surface, highlighting its features, with a retro-themed outdoor background in warm autumnal tones."
+    },
+    "prompt_shared": "a two-colored retro helmet",
+    "prompt_theme": "retro",
+    "object_token": "object"
+}

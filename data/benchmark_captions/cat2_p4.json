@@ -1,0 +1,21 @@
+{
+    "src": "A sleek gray cat with short fur and bright green eyes. It has pointed ears and whiskers that fan out.",
+    "edit": "A colorful cat-shaped balloon with a shiny surface, featuring blues, greens, and purples in a swirling pattern. The eyes have a cartoonish expression in bright yellow. Its inflated ears and tail add dimension, with a light-reflecting surface.",
+    "per_image_non_shared_src": {
+        "00": "the object upright on a light wood floor, viewed from above, slightly looking to the top left. A thick rope runs beside it, and the floor has subtle wood grain patterns.",
+        "01": "The object lies on its side on a light wood floor, paws forward, head turned to the bottom right corner, surrounded by leather straps. The room has soft lighting, a modern interior, and a couch in the background.",
+        "02": "the object is lying on a patterned bedspread, front legs extended and upper body raised, looking to the side, with a light background and dark abstract shapes; a headboard and lamp are visible in the background.",
+        "03": "The object sits upright on a white shelf with all four paws visible, looking slightly to the side, surrounded by a vase of pastel tulips and framed artwork in a softly lit modern minimalist room.",
+        "04": "The object is lying on a dark blanket on a window sill, body stretched along the fabric, gazing through a rain-speckled window. Soft light highlights the blanket texture and raindrops."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object rests upright on a frosty, light wood floor, viewed from above, gazing towards the top left corner. A thick rope, resembling snow, meanders across the textured floor with frost-kissed wood grain patterns.",
+        "01": "The object lies on its side on a snow-dusted wooden floor, paws extended forward, head turned to the bottom right. Surrounding it are leather straps as frosty vines in icy hues, with a couch draped in soft throws, in muted winter light.",
+        "02": "The object is on a knitted bedspread with front legs extended, upper body raised, looking to the side. The bedspread has a white background with dark swirling patterns. A wooden headboard and a faux fur-wrapped lamp are in the background.",
+        "03": "The object sits upright on a snow-dusted white shelf, with four frost-touched paws visible, gazing slightly to the side amidst a frosty vase of pastel tulips and winter-themed framed artwork, adorned with snowflakes in a minimalist style.",
+        "04": "The object lays on a snowflake-patterned blanket on a window sill, its body stretched along the fabric, gazing out the icy glass at a frost-kissed window with soft winter light highlighting the blanket's texture and frozen raindrops."
+    },
+    "prompt_shared": "animal-shaped balloon",
+    "prompt_theme": "winter",
+    "object_token": "animal"
+}

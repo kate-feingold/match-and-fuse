@@ -1,0 +1,25 @@
+{
+    "src": "A miniature bulldozer constructed from metal with small circular rivets, sturdy chain tracks, and a simple flat canopy held by four vertical rods. It features a wide, flat blade at the front and mechanical details throughout.",
+    "edit": "A futuristic, sleek tractor design with glossy metallic surfaces and enhanced, advanced mechanical parts. The canopy is polished and angular, supported by stylized rods. The tracks are modernized with intricate detailing and a smooth, shiny blade at the front.",
+    "per_image_non_shared_src": {
+        "0": "The object sits on a striped carpet near a dark cylindrical object. The carpet has parallel lines in various shades of grey, providing a textured, neutral background.",
+        "1": "The object is placed on a wooden surface with a textured grain pattern. The wood is light brown with wavy, natural lines, highlighting the object.",
+        "2": "The object is positioned on a laptop keyboard with white and black keys visible. The laptop rests on a wooden table, blending tech and wood textures.",
+        "3": "The object sits on an orange office chair with a textured fabric surface. A metal chair leg and a dark floor can be partially seen.",
+        "4": "The object rests on a patterned wooden table. The wood's swirls and knots add complexity to the surface, emphasizing the object.",
+        "5": "The object is on a striped carpet beside a cylindrical object. The carpet's grey tones create a contrasting environment for the object.",
+        "6": "The object is on an orange office chair. The fabric's mesh texture adds warmth, contrasting with the cold metal of the object."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object sits on a crop field background with rows of freshly plowed earth, showcasing the agricultural setting in an organic landscape.",
+        "1": "The object is placed on rich, fertile soil with a backdrop of lush, green crops, giving a vibrant agricultural feel.",
+        "2": "The object is positioned on a digital, high-tech farm interface screen with complex agricultural analytics displayed, juxtaposed with natural elements.",
+        "3": "The object sits on a tractor seat in a modern farming vehicle, the orange upholstery suggesting advanced agricultural technology.",
+        "4": "The object rests on a wooden table in a rustic farmhouse cabin, surrounded by farming tools, emphasizing a traditional agricultural setting.",
+        "5": "The object is on a soil patch beside farming equipment, with earthy brown tones creating an authentic agricultural environment.",
+        "6": "The object is on modern tractor upholstery within a high-tech farming machine, contrasting high-end technology against traditional elements."
+    },
+    "prompt_shared": "impressive modern tractor",
+    "prompt_theme": "agriculture",
+    "object_token": "object"
+}

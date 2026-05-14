@@ -1,0 +1,27 @@
+{
+    "src": "A flower with delicate white petals, featuring a prominent cluster of yellow stamens in the center. The petals are smooth and slightly rounded, overlapping gently.",
+    "edit": "A flower with vibrant multi-colored petals, blending shades of pink, purple, and blue, and a center filled with bright yellow stamens.",
+    "per_image_non_shared_src": {
+        "0": "The object is centered close-up, surrounded by long, slender green leaves. The background is a soft blur of foliage, highlighting the flower.",
+        "1": "The object appears at an angle, positioned among shiny, dark green leaves. The blurry background suggests more foliage and depth.",
+        "2": "The object is tilted to the side, prominently displayed with dense green leaves in the background, which frame the flower.",
+        "3": "The object is seen from above, resting against broad green leaves. The background includes more leaves and slightly unfocused branches.",
+        "4": "The object is at an angle, showcasing its vibrant center with a mix of green leaves in the surroundings, softly shadowed.",
+        "5": "The object features two visible blooms, set against a dense backdrop of green leaves, with a textured brownish ground element peeking through.",
+        "6": "The object is positioned among textured green leaves, with clustered florets in focus, and the background is filled with leaf details.",
+        "7": "The object is nestled in a bushy setting, surrounded by various shades of green leaves, with a slight hint of depth from distant foliage."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is centered close-up, surrounded by long, slender green leaves with a fresh spring appearance. The background is a soft blur of verdant, lively foliage.",
+        "1": "The object appears at an angle, positioned among shiny, dark green leaves characteristic of spring. The blurry background suggests more vibrant foliage and depth.",
+        "2": "The object is tilted to the side, prominently displayed with dense, bright green spring leaves in the background, which frame the flower.",
+        "3": "The object is seen from above, resting against broad, lush green leaves. The background includes more leaves and slightly unfocused spring branches.",
+        "4": "The object is at an angle, showcasing its vibrant center with a mix of fresh green leaves in the surroundings, softly shadowed in a spring ambiance.",
+        "5": "The object features two visible blooms, set against a dense backdrop of lively green spring leaves, with a textured brownish ground element peeking through.",
+        "6": "The object is positioned among textured green leaves, fresh with spring growth, and the background is filled with leaf details.",
+        "7": "The object is nestled in a bushy setting, surrounded by various shades of fresh green spring leaves, with a slight hint of depth from distant foliage."
+    },
+    "prompt_shared": "a flower with multi-colored petals",
+    "prompt_theme": "spring",
+    "object_token": "object"
+}

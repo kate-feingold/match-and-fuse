@@ -1,0 +1,21 @@
+{
+    "src": "A brown teddy bear with soft plush fur, left hand up, right hand on the leg. It has creamy round paws, a stitched smile, a blue ice pack on its head, and a patch on its chest reading \"Get Well\".",
+    "edit": "A brown teddy bear drawn with black outlines and vibrant colors. The left hand is highlighted, the right hand is resting on the leg. It has fur of comic-book patterns, round paws, a stitched smile, a blue ice pack on its head, and a comic-book-styled \"Get Well\" patch on its chest.",
+    "per_image_non_shared_src": {
+        "00": "The object is on a large textured rock outdoors, surrounded by green foliage and a paved pathway, with another big rock in the back on the left, captured from a right side angle.",
+        "01": "The object is on a smooth concrete surface beside a gently flowing river, with a grassy backdrop, viewed from a lower angle, highlighting the rippling water and scattered green leaves.",
+        "02": "The object sits on an asphalt road with worn markings, viewed from the front and slightly left. The road stretches behind with faint tire imprints and a slope to the right.",
+        "03": "The object rests on vibrant green park grass, rotated slightly to the left, surrounded by lush grass blades with no obstruction.",
+        "04": "The object is against a brick wall on a concrete sidewalk, viewed straight on at eye level. The wall emphasizes the texture of the bricks and the smoothness of the concrete. A dry leaf is noticeable to the side."
+    },
+    "per_image_non_shared_edit": {
+        "00": "An object sits on a grand rock, outdoors with bold outlines in a comic-book style, located slightly distant and surrounded by green foliage, a paved path, and a large rock in the background on the left, captured from a right angle.",
+        "01": "the object is situated on a vibrant, bold-colored surface, right beside a sketch-like flowing river with a cartoonish grassy backdrop, viewed from a lower angle, the water has thick, black outlines and green leaves in flat colors, in comic-book fashion.",
+        "02": "The object rests on a black-and-white asphalt road with worn markings, seen from the front, slightly tilted left. The road stretches into angular lines, with tire imprints and a slope to the right, in comic-book style.",
+        "03": "The object rests on vibrant, exaggerated green grass in a comic-book style park, surrounded by lush blades with bold outlines and vivid colors. Rotated slightly to the left, the scene captures rich green hues, ensuring a clear, focused view.",
+        "04": "The object stands against a vibrant illustrated brick wall on a smooth ink-drawn concrete sidewalk, viewed at eye level. The wall has texture with thick outlines. To the side, there is a dry leaf."
+    },
+    "prompt_shared": "comic book styled teddy bear plushie",
+    "prompt_theme": "comic book",
+    "object_token": "plushie"
+}

@@ -1,0 +1,21 @@
+{
+    "src": "A small white robot toy with a rounded body and black visor, featuring articulated arms and black wheel-like structures, blue accents on its chest panel and joints, and a compact form with smooth curves and intricate surface details.",
+    "edit": "A small knitted robot toy with a round white yarn body. Its visor is shiny black thread, arms are articulated with stitches, black yarn forms wheels, and blue yarn accents its chest and joints, in a knitted-world style.",
+    "per_image_non_shared_src": {
+        "00": "the object is on a textured grey fabric surface, facing slightly left, with a darker grey fabric background.",
+        "01": "The object is on a natural wooden slatted surface, facing straight ahead. The background is a cream-colored wall.",
+        "02": "The object is slightly left of the frame on a patio with brown, brick-patterned tiles, surrounded by trees and fallen leaves, facing right.",
+        "03": "The object is viewed from above, facing left, on a large grey rock with pine needles, surrounded by a rocky, forested setting.",
+        "04": "the object is on a large light grey rock, facing right and slightly downward, surrounded by grass and leaves on the ground in a natural outdoor environment."
+    },
+    "per_image_non_shared_edit": {
+        "00": "the object is on a grey knitted fabric, facing slightly left, with a background of darker grey knitted fabric with visible stitches and loops.",
+        "01": "The object rests on an intricately knitted surface resembling wooden slats, facing forward and surrounded by a cream-colored yarn background.",
+        "02": "The object faces slightly left on a patio with brown tiles resembling bricks, in an autumn landscape where trees and leaves appear made of colorful yarn.",
+        "03": "A knitted object viewed from above, facing slightly left, rests on a grey rock resembling a knitting pattern. It's surrounded by knitted rocky textures and forest elements, facing slightly downward, blending with the fabric-like landscape.",
+        "04": "The object is atop a large, light grey rock resembling interwoven wool, facing sideways to the right and slightly downward. The ground has grass and leaves in knitted patterns, creating a \"knitted-world\" environment."
+    },
+    "prompt_shared": "knitted robot",
+    "prompt_theme": "knitted world",
+    "object_token": "toy"
+}

@@ -1,0 +1,27 @@
+{
+    "src": "A medium-sized dog with short, smooth tan and white fur, droopy ears, and dark eyes. It has a sleek form and a collar around its neck. The dog is lying down with its medium-length tan tail.",
+    "edit": "A medium-sized blocky figure in a pixelated art style with sharp edges, composed of light brown and white cubes. It has a pixelated collar, large eyes, and square, rigid limbs and tail, reflecting a digital aesthetic.",
+    "per_image_non_shared_src": {
+        "0": "The dog is lying on its side against a patterned pillow with abstract designs, on a fluffy gray blanket in a cozy indoor setting.",
+        "1": "A dog is stretched out on its side on a brown wooden deck, surrounded by balusters, with green grass visible in the distance.",
+        "2": "The dog lies on its side on a light-colored carpet with a plain white wall backdrop, capturing an indoor environment.",
+        "3": "The dog is curled up on a patterned pillow, resting on a black leather couch with traces of dog hair, indicating it's a favorite resting spot.",
+        "4": "The dog lies on a plush dog bed with raised edges, a small orange toy next to it.",
+        "5": "The dog is lying on a striped carpet with muted colors, in an indoor setting with a tiled floor and a patterned curtain nearby.",
+        "6": "A dog is lying on concrete, head lifted towards the sky, surrounded by a landscaped garden with a red tree and various plants.",
+        "7": "The dog is lying on a striped carpet, looking upward, with a patterned curtain and tiled floor in the background."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The dog is nestled on its side against a patterned pillow in dim moonlight. The background features a fluffy gray blanket.",
+        "1": "The dog is stretched out on its side on a brown wooden deck under moonlight. Balusters cast elongated shadows. A patch of green grass is visible in the distance, shadowed by the night sky.",
+        "2": "The dog lies on its side on a dark carpet, softly illuminated by moonlight. The plain white wall appears as a shadowy silhouette, creating a serene nighttime ambiance with soft shadows.",
+        "3": "A dog lies asleep on a pillow with moonlit patterns, silhouetted against a dark leather couch. The surface glistens subtly, with traces of starlight in the scattered dog hairs. Moonbeams illuminate the resting spot, casting soft shadows.",
+        "4": "The dog is lying on a bed with velvety fabric, under moonlight casting a silvery glow. A deep orange toy is beside it, dimly lit. The raised bed edges add depth, creating an inviting nighttime setting.",
+        "5": "A dog rests on a carpet with deep blue and purple tones in a dimly lit indoor setting. The carpet\u2019s stripes resemble moonlit shadows. Nearby tiles faintly glisten. In the background, a curtain with star-like patterns twinkles.",
+        "6": "A dog lies on concrete, its head raised to the starlit sky. A red-hued tree stands silhouetted in the darkness, with dimly illuminated plants creating a serene garden under moonlight. Stars subtly glow above, enhancing the night setting.",
+        "7": "A dog lies on a dark carpet, gazing upward. A patterned curtain has shadowy swathes. The tiled floor reflects pale moonlight, creating a night-time indoor scene."
+    },
+    "prompt_shared": "blocky minecraft figure",
+    "prompt_theme": "night",
+    "object_token": "animal"
+}

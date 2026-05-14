@@ -1,0 +1,23 @@
+{
+    "src": "A vintage yellow alarm clock with two bells on top and a silver hammer between them. It has a white clock face with black numerals and a large yellow number three, with silver clock hands.",
+    "edit": "An ancient clock with a rustic bronze finish and intricate engravings. The clock face features ancient numerals and a large golden number three, with ornate bronze hands. The bells resemble antique brass.",
+    "per_image_non_shared_src": {
+        "00": "The object is held aloft in a hand with dark nail polish, against a plain light blue background with no other elements visible.",
+        "01": "The object is balanced on a hand with a watch, set against a simple light blue background, creating a minimalistic setting.",
+        "02": "The object is placed among colorful coffee pods on a white surface, with a focus on the clock in sharp contrast to the blurred background.",
+        "03": "The object is centered on white fabric, creating a soft and cozy setting, with the fabric gently wrinkled around it.",
+        "04": "The object lies on a white and mustard yellow textured fabric, providing a rich and tactile backdrop with contrasting textures.",
+        "05": "The object is set in the middle of rumpled white bedding, offering a serene and calm environment with gentle folds in the fabric."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object is held aloft in a hand with dark nail polish, against a magical world background with ethereal swirling clouds and misty colors.",
+        "01": "The object is balanced on a hand with a watch, surrounded by a magical world of shimmering lights and gentle floating orbs.",
+        "02": "The object is placed among colorful, enchanted orbs on a mystical surface, with an otherworldly glow enveloping the scene.",
+        "03": "The object is centered on a magical field of iridescent fabric, with shimmering lights creating a dreamlike environment.",
+        "04": "The object lies on a fabric that looks part of a magical tapestry, with interwoven luminescent threads and a mystical ambiance.",
+        "05": "The object is set amidst enchanted, shimmering fabric that appears to ripple with magical energy and celestial patterns."
+    },
+    "prompt_shared": "an ancient clock",
+    "prompt_theme": "magic world",
+    "object_token": "object"
+}

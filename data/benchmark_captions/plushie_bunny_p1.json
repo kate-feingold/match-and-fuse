@@ -1,0 +1,25 @@
+{
+    "src": "A toy in a soft pink bathrobe with floppy ears, a round snout, button eyes, and a stitched nose. The robe is made of terry cloth.",
+    "edit": "A whimsical cartoon-style rabbit with large eyes, vibrant colors, wearing a fantastical robe with ornate patterns in pastel blues and purples. Its ears are perked up, viewed straight on.",
+    "per_image_non_shared_src": {
+        "0": "Object viewed slightly from above, sits on a gray fleece blanket leaned against a plush pillow and a beige wall.",
+        "1": "The object is viewed from above, laying flat on a white carpet with small red spots. Its long floppy ears are slightly folded.",
+        "2": "The object is viewed closeup, face centered, leaning against a plush pillow and beige wall.",
+        "3": "The object is viewed slightly from above, head rotated left, ears tucked back, sitting on a brown-gray carpet, leaned against a light wooden drawer on the left and a dark blue backpack with a horizontal stripe on the right.",
+        "4": "The object is sitting on a wooden shelf, viewed from a low angle with a tilted head. There's a black detergent bottle on the left, vertically stacked cardboard boxes behind, and a wall behind the boxes, seen from the right.",
+        "5": "the object sits on a chair on blue fish-patterned bed linen, leaned against a gray knitted pillow, with a long floppy left ear folded behind it.",
+        "6": "The object is viewed from above, sitting on a wooden bed frame. A white string of fairy lights wraps around the right vertical frame. Behind are a wall on the left and a bed with pillows."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object floats on a blue and white checkerboard blanket, leaning against a large pillow shaped like a golden crown with red hearts. Behind it is a tall wall with swirling patterns in pastel shades, in an Alice-in-Wonderland style.",
+        "1": "The object rests on an intricate checkerboard-patterned carpet with red features, reminiscent of a fantastical landscape. It has long floppy ears, slightly bent and twisting, echoing Wonderland's magical elements.",
+        "2": "The object is viewed closeup, centered, leaning against a plush, patterned pillow and motley wall. The bright colors and intricate details create a surreal, Alice-in-Wonderland style with bends, twists, and curious elements blending the ordinary with fantastical.",
+        "3": "The object sits on a carpet with brown and gray Wonderland patterns. Ears are tucked behind, head tilted. A wooden drawer has swirling patterns and Cheshire grins. A dark blue backpack with a horizontal stripe is on the other side.",
+        "4": "A scene in Alice-in-Wonderland style with a low view: an object on a carved wooden shelf. A black detergent bottle on the left looks like a potion. Behind are cardboard cards, and on the right, a wall with vibrant patterns.",
+        "5": "The object rests on an ornate chair atop blue bed linen with fish illustrations, against a plush gray knitted pillow, its floppy left ear folded back, in a dreamlike, vibrant Alice-in-Wonderland style.",
+        "6": "The object rests on an ornately carved wooden frame with intricate designs. A string of glowing fairy lights is around the vertical frame on the right. Behind, a whimsical wall has vibrant patterns and mysterious symbols in an Alice-in-Wonderland style."
+    },
+    "prompt_shared": "rabbit from Alice in Wonderland",
+    "prompt_theme": "Alice in Wonderland",
+    "object_token": "plushie"
+}

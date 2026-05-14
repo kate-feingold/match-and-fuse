@@ -1,0 +1,23 @@
+{
+    "src": "A classic dress with short flutter sleeves, modest neckline, a fitted bodice, defined waist, and flowing knee-length skirt. The soft fabric is lightweight, with pencil shading capturing its gentle movement.",
+    "edit": "A vibrant dress with colorful floral patterns, featuring a knee-length skirt, short puffed sleeves, V-neckline, and fitted waist. The fabric has dynamic folds and patterns with various flower shades.",
+    "per_image_non_shared_src": {
+        "1": "A person stands with one arm slightly bent, the other hanging by their side, on a diagonally shaded textured background.",
+        "2": "Close-up of the person's upper body showing the dress's V-neck and puffed sleeves with cross-hatch patterns in the background.",
+        "3": "A person wearing a dress walks sideways in the rain, showing a profile. Background has rapid diagonal strokes of rain droplets from top right to bottom left.",
+        "4": "The dress is hanging on a hanger against a plain wall with diagonal shading.",
+        "5": "A dress arranged on a wooden chair with a softly shaded background.",
+        "6": "The person is walking briskly with arms swinging, hair blown back, in a sunlit flower field with high grass swayed by the wind."
+    },
+    "per_image_non_shared_edit": {
+        "1": "The person is standing with one arm slightly bent and the other hanging by the side, background features diagonal lines suggesting texture.",
+        "2": "close-up of the person's upper body showing the dress's V-neck and puffed sleeves, with a background of subtle cross-hatch patterns adding depth",
+        "3": "A person walking sideways in the rain, in a full profile view, with the background filled with diagonal rain droplets from top right to bottom left.",
+        "4": "A dress hangs on a hanger against a plain wall, with diagonal shading in the background adding texture.",
+        "5": "A dress is neatly arranged on a wooden chair with a softly shaded background.",
+        "6": "The person walks briskly with arms swinging, hair blown back, in a sunlit flower field with high grass swayed by wind."
+    },
+    "prompt_shared": "colorful floral dress",
+    "prompt_theme": null,
+    "object_token": "storyboard sketch"
+}

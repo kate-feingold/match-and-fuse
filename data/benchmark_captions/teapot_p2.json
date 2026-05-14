@@ -1,0 +1,21 @@
+{
+    "src": "A small teapot made of polished brown clay with a smooth body and short spout, a curved handle, and a delicate lid knob, on a textured dark ceramic saucer.",
+    "edit": "A small teapot crafted from light maple and dark walnut wood. It has a rounded body, short spout, curved handle, and a lid with a polished knob. It sits on a carved wooden plate with concentric carvings.",
+    "per_image_non_shared_src": {
+        "00": "the object angled to the left on a wooden surface, surrounded by out-of-focus white flowers and a blurred colorful leaf on the side.",
+        "01": "The object sits on a rough wooden table in front of a textured off-white wall, next to a white cup on a dark saucer.",
+        "02": "The object is viewed from above, on a ribbed, round dish on a beige fabric runner on a dark wooden table, near a filled teacup with a metallic edge.",
+        "03": "the object is centered on a dark wooden table before an ornately carved panel, with a white cup to the left on a matching saucer, lit with warm ambient lighting.",
+        "04": "The object is on a textured, square pedestal on a smooth, dark wooden table, next to a white teacup with a floral pattern on a saucer against a white background."
+    },
+    "per_image_non_shared_edit": {
+        "00": "the object is slightly tilted on a tatami mat, with cherry blossoms in the foreground and a blurred maple leaf on the side, reminiscent of Zen gardens.",
+        "01": "The object sits centrally on a polished wooden table, in front of an off-white wall like shoji screens, next to a plain white cup on a dark ceramic saucer.",
+        "02": "The object is on a round ceramic dish with cherry blossom patterns on a beige linen runner on a mahogany table. Nearby is a teacup with a metallic edge, capturing a minimalist design from above.",
+        "03": "A serene object on a dark wooden table, with a wooden shoji screen behind. Soft lighting illuminates the scene. To the left, a white porcelain cup on a saucer, embodying Japanese style's purity and simplicity.",
+        "04": "An object rests on a lacquered, square pedestal with a wave pattern, atop a dark elm table. Nearby, a white teacup with cherry blossoms sits on a dark saucer. The backdrop is minimalist white, reflecting Japanese design aesthetics."
+    },
+    "prompt_shared": "two-colored wooden teapot",
+    "prompt_theme": "japanese",
+    "object_token": "teapot"
+}

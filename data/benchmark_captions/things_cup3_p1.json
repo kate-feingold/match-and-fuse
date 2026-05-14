@@ -1,0 +1,25 @@
+{
+    "src": "A mint green stainless steel tumbler with a metallic lid and base. The sides are sleek and smooth, and there's a brand logo printed near the base.",
+    "edit": "A two-toned winter-themed tumbler with snowflake patterns. The upper half is icy blue with a white snow-capped design, while the lower half features a metallic silver finish.",
+    "per_image_non_shared_src": {
+        "0": "The object is angled on a clear plastic container against a wooden paneled wall, creating a warm, earthy environment.",
+        "1": "The object is upright on a carpeted floor next to a white vent, set in a minimalistic interior.",
+        "2": "The object is slightly tilted within a refrigerator, standing beside a turquoise water filter pitcher.",
+        "3": "The object is upright on a carpeted surface beside a wooden cabinet, surrounded by simple room decor.",
+        "4": "The object stands on a white surface with a vivid strawberry painting in the background, giving a cozy office feel.",
+        "5": "The object is lying on a colorful quilt with marine designs, creating a vibrant and playful backdrop.",
+        "6": "The object is upright on a wooden stand against a paneled wooden wall, giving an intimate and warm ambiance."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is angled on a frosty ice-like surface against a snowy wooden paneled wall, in a winter wonderland setting.",
+        "1": "The object is upright on an icy floor next to a snowy vent, inside a winter-themed room.",
+        "2": "The object is slightly tilted within a refrigerator, standing beside an ice-covered water filter pitcher.",
+        "3": "The object is upright on an icy surface beside a snowy wooden cabinet, in a winter-themed room.",
+        "4": "The object stands on an icy surface with a vivid strawberry painting in the background, in a winter wonderland setting.",
+        "5": "The object is lying on a snowy quilt with marine designs under a winter-themed setting.",
+        "6": "The object is upright on an icy stand against a snowy paneled wooden wall, in a winter wonderland ambiance."
+    },
+    "prompt_shared": "two-colored winter-themed cup",
+    "prompt_theme": "winter",
+    "object_token": "object"
+}

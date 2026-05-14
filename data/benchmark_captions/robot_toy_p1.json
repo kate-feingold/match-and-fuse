@@ -1,0 +1,21 @@
+{
+    "src": "A small white robot toy with a rounded body and black visor, featuring articulated arms and black wheel-like structures, blue accents on its chest panel and joints, and a compact form with smooth curves and intricate surface details.",
+    "edit": "A small white ceramic garden gnome with a shiny silver face shield, tiny tool arms, and black pebble bases. Blue floral patterns adorn its chest and hat, featuring smooth curves and intricate details.",
+    "per_image_non_shared_src": {
+        "00": "the object is on a textured grey fabric surface, facing slightly left, with a darker grey fabric background.",
+        "01": "The object is on a natural wooden slatted surface, facing straight ahead. The background is a cream-colored wall.",
+        "02": "The object is slightly left of the frame on a patio with brown, brick-patterned tiles, surrounded by trees and fallen leaves, facing right.",
+        "03": "The object is viewed from above, facing left, on a large grey rock with pine needles, surrounded by a rocky, forested setting.",
+        "04": "the object is on a large light grey rock, facing right and slightly downward, surrounded by grass and leaves on the ground in a natural outdoor environment."
+    },
+    "per_image_non_shared_edit": {
+        "00": "the object is on a textured grey fabric surface, facing slightly left, background is uniformly dark grey fabric.",
+        "01": "the object is on a wooden slatted surface, facing straight ahead, with a cream-colored wall background.",
+        "02": "The object is on a patio-like surface with brown tiles and white lines like bricks, surrounded by an autumnal landscape with trees and fallen leaves, facing slightly to the left.",
+        "03": "The object is on a large grey rock with pine needles, viewed from above, facing slightly left and downward in a rocky, forested setting.",
+        "04": "The object is atop a large light grey rock, facing right and slightly downward, surrounded by grass and leaves on the ground, capturing a natural outdoor environment."
+    },
+    "prompt_shared": "ceramic gnome",
+    "prompt_theme": null,
+    "object_token": "toy"
+}

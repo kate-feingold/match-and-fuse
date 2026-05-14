@@ -1,0 +1,27 @@
+{
+    "src": "A plush penguin toy with soft grey fur on the back and head, contrasting white belly, orange beak and feet, and small black eyes. The texture is fluffy and cuddly.",
+    "edit": "A whimsical bird chick toy with speckled lavender and cream fur, aqua beak and webbed feet, and glittery emerald eyes. The texture is soft and magical.",
+    "per_image_non_shared_src": {
+        "0": "The object sits centrally on a smooth, dark tabletop, with a plain beige wall background.",
+        "1": "The object rests on a grey, textured office chair seat, surrounded by the mesh back of the chair.",
+        "2": "The object is placed between leaves of houseplants on a windowsill, with a garden view outside the window.",
+        "3": "The object is on the edge of a black cushioned surface, viewed from above and at an angle, against a white backdrop.",
+        "4": "The object is positioned on a wooden table next to a wall, in a shadowy, dimly lit room.",
+        "5": "The object is on a stone windowsill, against a window with a blurred cityscape outside in soft light.",
+        "6": "The object is tucked under a floral patterned white blanket, lying on a dark grey surface, facing forward.",
+        "7": "The object lies on a patterned bed cover, amidst geometric shapes in green and grey, with a dark cushion nearby."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object sits centrally on a smooth, dark tabletop, against a vibrant spring background with floral patterns and pastel colors.",
+        "1": "The object rests on a grey, textured office chair seat, surrounded by floral spring patterns and fresh green tints.",
+        "2": "The object is placed between blossoms of spring plants on a windowsill, with budding trees visible outside the window.",
+        "3": "The object is on the edge of a black cushioned surface, viewed from above and at an angle, against a spring-themed backdrop.",
+        "4": "The object is positioned on a wooden table next to a wall, with soft springtime shadows and floral motifs.",
+        "5": "The object is on a stone windowsill, against a window with blossoming trees visible outside in diffused spring light.",
+        "6": "The object is tucked under a floral patterned white blanket, lying on a dark grey surface, amidst spring-themed textures.",
+        "7": "The object lies on a patterned bed cover with spring-themed designs, surrounded by floral patterns and pastel colors."
+    },
+    "prompt_shared": "a two-colored toy of a bird chick",
+    "prompt_theme": "spring",
+    "object_token": "plushie"
+}

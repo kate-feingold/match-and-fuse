@@ -1,0 +1,39 @@
+{
+    "src": "A person with short black hair, wearing a dark shirt or hoodie. Their face is naturally expressive with noticeable dimples. They are occasionally wearing glasses or a light cap.",
+    "edit": "A character with whimsical, exaggerated features and bright colors typical of Pixar style. The hair is creatively styled, bright cheerful elements adorn their clothing, and their expression is dynamic and lively.",
+    "per_image_non_shared_src": {
+        "0": "The person is facing forward, smiling slightly. The background is an expansive city skyline under a clear blue sky, with historical buildings scattered throughout.",
+        "1": "The person faces forward, wearing a gray shirt with a name badge. The background shows modern architecture with a glass facade, prominent red banners.",
+        "10": "The person is facing forward, in a blue shirt. The background has warm indoor lighting, with texture-rich walls and elegant sconces.",
+        "11": "The person is facing forward, with glasses. The interiors of an airport with large glass windows and a few distant figures are visible.",
+        "12": "The person reclining back, wearing sunglasses and a blue shirt. A serene waterfront view stretches out, with boats floating quietly.",
+        "13": "The person is facing forward, wearing glasses and a light cap. The background is a sunlit stone alleyway, with a slight shadow cast.",
+        "2": "The person is standing forward, wearing a striped hoodie. The background is a picturesque park with wooden fences, a small rustic cabin, and lush green grass.",
+        "3": "The person is smiling widely, looking forward. Behind them, a panoramic view of cliffs meets an ocean horizon under a cloudy sky.",
+        "4": "The person is inside, warmly lit living room environment, with a light shirt worn. Furniture and home elements are subtly visible in the soft background.",
+        "5": "The person is facing slightly sideways in indoor lighting, with a white bib-like paper. Plain textured walls form the backdrop.",
+        "6": "The person, facing forward without glasses, is against a city backdrop with a clear sky and a distant cluster of buildings.",
+        "7": "The person is in profile, wearing a gray jacket, speaking. The background is a dimly lit conference stage with deep blue curtains.",
+        "8": "The person is forward-facing, wearing a light beige shirt. The background is a minimal interior setting with neutral wall tones and sparse decoration.",
+        "9": "The person stands facing forward, wearing a darker hoodie. Weathered stone wall forms the texturally rich background."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The character is facing forward, smiling slightly. The Pixar-themed skyline displays whimsical, colorful buildings with playful patterns, set under a clear animated blue sky.",
+        "1": "The character faces forward with a whimsical expression, wearing a creatively styled shirt. The Pixar-inspired background features imaginative architecture with bold colors and abstract patterns.",
+        "10": "The character is facing forward with a cheerful expression, wearing vibrant clothing. Background has Pixar-style lighting with cartoonish textured walls and playful sconces.",
+        "11": "The character faces forward, with whimsical glasses. The Pixar-inspired airport features playful design elements, with exaggerated shapes and figures.",
+        "12": "The character reclining back, with whimsical sunglasses and a stylized shirt. The Pixar-themed waterfront is vibrant, with imaginative boats floating on a vivid blue surface.",
+        "13": "The character faces forward, with whimsical glasses and cap. The Pixar alleyway is brightly animated, with playful light effects and cartoonish stone textures.",
+        "2": "The character standing forward, wearing a Pixar-styled hoodie. The background is a vibrant animated park scene, with colorful rustic cabins and lively green grass.",
+        "3": "The character, smiling broadly, is set against a Pixar-themed beach with vibrant cliffs and an animated ocean under a creatively clouded sky.",
+        "4": "The character is inside, warmly lit in a Pixar living room setting, with exaggerated furniture and cartoonish home elements.",
+        "5": "The character is facing sideways in Pixar-inspired lighting, wearing a creatively styled bib-like accessory. Background has animated textured walls with whimsical flair.",
+        "6": "The character, forward facing, is against a Pixar cityscape with colorful animated sky and stylized building designs.",
+        "7": "The character is in profile wearing a creative jacket, speaking. The Pixar conference stage features deep, vibrant blue curtains and animated lighting.",
+        "8": "The character is forward-facing, in a Pixar-themed minimal room with animated tones, whimsical walls and playful decor.",
+        "9": "The character stands facing forward, with a Pixar-styled hoodie. Background is an animated stone wall with lively, cartoonish textures."
+    },
+    "prompt_shared": "Pixar character",
+    "prompt_theme": "Pixar",
+    "object_token": "person"
+}

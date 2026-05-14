@@ -1,0 +1,31 @@
+{
+    "src": "A black ceramic mug featuring a vibrant, colorful design of overlapping hands in shades of yellow, green, blue, and purple, forming shapes. The handle is simple and black, complementing the overall aesthetic.",
+    "edit": "An elegant cup with a refined two-toned design, featuring smooth gradients of deep navy blue at the base transitioning to a soft ivory at the rim, with a sleek, polished appearance and an intricate gilded handle.",
+    "per_image_non_shared_src": {
+        "0": "The object rests on a wooden table with visible wood grains and a slight polished sheen. Behind the table, there are empty black bar stools and a subtle view of a caf\u00e9 interior.",
+        "1": "The object is centered on a dark, glossy wooden table. The table is expansive, with no other objects present. A distant view of a wooden wall with seating creates a minimal caf\u00e9 atmosphere.",
+        "2": "Positioned slightly to the left, the object is on a wooden surface, complemented by a backdrop of a caf\u00e9 space with seating visible in the distance, alongside faint lighting nuances.",
+        "3": "Centered and well-lit, the object sits on a wooden table. The background reveals a detailed caf\u00e9 interior with various coffee products displayed, contributing to a lively caf\u00e9 setting.",
+        "4": "Situated on a sunlit wooden surface near a window. The surrounding features include potted plants and a city street view through the glass, creating a casual, nature-infused indoor environment.",
+        "5": "The object sits on a rustic wooden surface near a window. Nearby, potted plants provide a serene indoor touch, while the window reveals city street parks and greenery outside.",
+        "6": "The object is positioned on a high wooden table near seating, evident by bar stool legs in the view. The distant caf\u00e9 interior creates a comfortable ambiance with mild lighting contrasts.",
+        "7": "On a glossy wooden tabletop, the object is slightly angled, revealing a full view of the gradient pattern. The surroundings are sparse, highlighting the table's finish and texture.",
+        "8": "Viewed from a side near a window sill, shadows play on its surface. The window view includes passing cars and a blurred street scene, enhancing an urban atmosphere.",
+        "9": "The object rests inside a box amongst white items. The minimal focus on the environment highlights the interplay of colors on the object, giving a snapshot of organized storage."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object rests on a wooden table with noticeable wood grains and a frosty sheen. Behind the table, there are empty black bar stools and a hint of a cozy winter caf\u00e9 interior.",
+        "1": "The object is centered on a dark, glossy wooden table. The table has a winter frosted appearance, with the distant background maintaining a cozy caf\u00e9 look.",
+        "2": "Positioned slightly to the left, the object is on a wooden surface, with a winter-themed caf\u00e9 background where seating and faint lighting add to the seasonal atmosphere.",
+        "3": "Centered and well-lit, the object sits on a wooden table. The background reveals a detailed winter caf\u00e9 interior with assorted coffee products, creating a festive caf\u00e9 setting.",
+        "4": "Situated on a frost-bitten wooden surface near a window. The surrounding features include potted plants with wintery hues and a snowy street view through the glass.",
+        "5": "The object sits on a rustic wooden surface near a window. Nearby, potted plants seem dusted with frost, while the window reveals a wintry city street.",
+        "6": "The object is on a high wooden table near snow-frosted bar stool legs. The distant winter caf\u00e9 interior creates a comfortable ambiance with mixed seasonal lighting.",
+        "7": "On a glossy wooden tabletop, the object is slightly angled, revealing its winter-inspired elegance. The surroundings remain sparse, focusing on the table's frosted finish.",
+        "8": "Viewed near a window sill with a wintry shadow play. The window view includes snow-covered cars and a blurred street scene with a cold atmosphere.",
+        "9": "The object rests inside a box amongst white items. The subdued focus on the environment highlights the winter interplay of colors on the object amid organized storage."
+    },
+    "prompt_shared": "an elegant two-colored cup",
+    "prompt_theme": "winter",
+    "object_token": "object"
+}

@@ -1,0 +1,19 @@
+{
+    "src": "A couple's day in life.",
+    "edit": "A couple's day in life.",
+    "per_image_non_shared_src": {
+        "1": "A couple eating breakfast at a sunny kitchen table with a window behind them. They're in t-shirts. A white dog peeks from the bottom, in front of the table, closest to the camera.",
+        "2": "A man and woman are standing, wearing jackets over t-shirts, browsing books in a bookstore.",
+        "3": "A couple eating sandwiches on a park bench. The man in a t-shirt, the woman has a jacket over her t-shirt. A white dog is in front of them.",
+        "4": "A couple saying goodbye at a train station, with the man having his back to the camera, the woman in a jacket over a t-shirt is facing the camera and waving, a train is behind on the left."
+    },
+    "per_image_non_shared_edit": {
+        "1": "A couple eats breakfast at a sunny kitchen table, window behind them. Man and woman in t-shirts. A cute white dog peeks from bottom of the frame, in front of the table, closest to the camera.",
+        "2": "A couple browsing books in a bookstore, both wearing jackets over t-shirts, standing.",
+        "3": "The couple is on a park bench eating sandwiches, with the man in a t-shirt and the woman in a jacket over her t-shirt, and their white dog in front.",
+        "4": "A couple is at a train station. The man has his back to the camera. The woman, wearing a jacket over a t-shirt, faces the camera and waves. A train is behind them on the left."
+    },
+    "prompt_shared": "a couple's life",
+    "prompt_theme": null,
+    "object_token": "storyboard sketch"
+}

@@ -1,0 +1,19 @@
+{
+    "src": "A plush octopus with a black body and red accents on its tentacles. Its eyes are stylized with red and yellow flame patterns, giving it a fierce look.",
+    "edit": "A cute plush octopus with a sky-blue body and pastel pink accents on its tentacles. Its eyes are large, bright, and cartoonishly wide, with star-shaped patterns.",
+    "per_image_non_shared_src": {
+        "0": "The object is tilted slightly on a wooden table, next to a metal edge and red grid paper. The background features a partially open drawer and a visible power outlet.",
+        "1": "The object sits upright on a striped fabric chair. The background consists of vertical black and silver stripes with no other visible objects.",
+        "2": "The object rests on a black metal bike rack, with parts of a white wall and a yellow circular object in the background.",
+        "3": "The object is placed on a wooden shelf. The background includes a variety of colorful boxes and canned goods on a shelf."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is tilted slightly on a wooden table underwater, next to a metal edge and blue coral. The background features bubbles and a school of small fish.",
+        "1": "The object sits upright on a striped fabric chair in an underwater setting. The background consists of vertical coral formations with subtle light beams.",
+        "2": "The object rests on a black metal bike rack, with parts of an underwater cave wall and colorful sea anemones in the background.",
+        "3": "The object is placed on a wooden shelf underwater. The background includes a variety of colorful coral and shelled sea creatures on a shelf."
+    },
+    "prompt_shared": "cute octopus",
+    "prompt_theme": "underwater",
+    "object_token": "plushie"
+}

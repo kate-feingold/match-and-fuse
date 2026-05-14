@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dino-matchsim"
+version = "0.1.1"
+readme = "README.md"
+dependencies = [
+    "torch",
+    "torchvision",
+    "transformers>=4.56,<4.57",
+    "scipy",
+    "numpy",
+    "Pillow",
+]
+
+[project.optional-dependencies]
+bg = ["carvekit"]  # foreground segmentation; falls back to full-image if absent
+
+[tool.setuptools.packages.find]
+where = ["."]

@@ -1,0 +1,19 @@
+{
+    "src": "Intricately carved wooden vase with detailed patterns and designs. The vase's surface features a series of ornate, symmetrical decorations and engraved figures wrapping around its cylindrical body. Light brown color with natural wooden texture.",
+    "edit": "Vase painted with watercolor designs featuring soft hues of blue, yellow, and pink, blended harmoniously. The vase's surface maintains its carved details, enhanced by abstract floral patterns and gentle watercolor washes.",
+    "per_image_non_shared_src": {
+        "0": "The vase sits on a wooden desk with assorted items like a keychain and a notebook nearby. The desk's dark brown surface contrasts with the vase's light wood texture, creating a cozy desk setup.",
+        "1": "The vase is positioned on a windowsill with sunlight streaming in from behind, illuminating its intricate carvings. Outside the window, a faint view of a brick wall and greenery can be seen, providing a sunlit backdrop.",
+        "2": "The vase rests on a black surface with a pen to its side. The background includes a smooth wooden table surface, giving a clean, simple setting that highlights the carved details of the vase.",
+        "3": "The vase stands on a dark desk with a computer keyboard behind it, suggesting a workspace. The subdued lighting of the room casts subtle shadows, emphasizing the intricate patterns carved on the vase."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The vase sits on a wooden desk with watercolor designs, surrounded by children's books and toys. The vibrant and playful setting reflects the colorful and imaginative theme of a kids room.",
+        "1": "The vase is positioned on a windowsill with watercolor hues, surrounded by a view of a sunny landscape outside. The scene matches the bright and cheerful atmosphere of a kids room, with hints of colorful decor.",
+        "2": "The vase rests on a black surface with watercolor patterns, set in a room filled with colorful drawings and toys. The playful elements in the setting highlight the artistic and lively environment of a kids room.",
+        "3": "The vase stands on a dark desk with a keyboard, but now surrounded by colorful stationery and whimsical items typical of a kids room. The setting is brightened by imaginative art pieces and playful decor."
+    },
+    "prompt_shared": "a watercolor-painted vase",
+    "prompt_theme": "kids room",
+    "object_token": "object"
+}

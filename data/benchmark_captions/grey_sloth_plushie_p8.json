@@ -1,0 +1,21 @@
+{
+    "src": "A soft plush sloth toy with a warm brown fur, white face, dark brown eye markings, and long floppy arms and legs with off-white felt claws.",
+    "edit": "A futuristic plush sloth toy with sleek metallic textures and shimmering silver surface with teal accents around its eyes. It has articulated limbs with chrome-tipped claws and intricate digital stitching, resembling advanced polymers in a sci-fi setting.",
+    "per_image_non_shared_src": {
+        "00": "The toy is on green grass next to a large tree with a textured trunk, surrounded by dirt and vibrant grass.",
+        "01": "the toy sits on a gray stone surface beside a river; across the water, a cityscape with tall buildings and green foliage is visible; the sky is cloudy.",
+        "02": "The toy is on lush green grass with scattered trees in the background, an expansive field with varying green shades, and park patches visible in the distance.",
+        "03": "The toy rests on a green wooden bench, with visible raindrops and aged textures, next to dirt and sparse vegetation. Nearby bushes detail the backdrop.",
+        "04": "The toy sits on a gray asphalt path with small pebbles, long lines, and faint cracks."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The toy is on neon green holographic grass beside a digital tree with a metallic trunk, circuits pulsing. The ground has synthetic soil with glistening tech components and luminous holographic grass blades, creating a futuristic digital ecosystem.",
+        "01": "A futuristic toy rests on a metallic surface beside a neon-lit river, with a cityscape of skyscrapers and holographic trees across the water. Hovercars create light streaks overhead, beneath a sky with digital clouds and luminous building signs, in a sci-fi atmosphere.",
+        "02": "A futuristic toy on a metallic surface with glowing trees scattered, and skyscrapers with digital ads on the horizon. Hovering drones zip by, neon-blue lights pulsate, and patches of holographic parkland and a synthetic green cybernetic field in the distance.",
+        "03": "A futuristic toy rests on a metallic bench with a holographic green glow, beside synthetic soil and high-tech vegetation. The bench has cybernetic circuits, and nearby are luminous bushes with neon edges and digital interfaces, featuring raindrop effects in a sci-fi realm.",
+        "04": "A futuristic toy rests on a metallic path with a reflective sheen and luminous circuits. Sleek orbs and glowing patterns run through the walkway, creating a sci-fi atmosphere with a high-tech, sleek design."
+    },
+    "prompt_shared": "sci-fi sloth plushie",
+    "prompt_theme": "sci-fi",
+    "object_token": "plushie"
+}

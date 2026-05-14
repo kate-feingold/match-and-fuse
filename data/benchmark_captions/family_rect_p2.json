@@ -1,0 +1,19 @@
+{
+    "src": "A family of five sits closely on a beach: a man in a white shirt, a woman in a light blue shirt, two girls in purple and blue swimsuits, and a red-haired boy in swim trunks, all enjoying the sunlight.",
+    "edit": "Pixelated Minecraft characters on a sandy beach under the pixel sun. One larger blocky figure stands in the middle, surrounded by smaller blocky children characters, all made from big rectangular flat blocks. Each figure has colorful blocky clothing, sunglasses, and hats. One holds a pixel-crafted phone for a block-style selfie.",
+    "per_image_non_shared_src": {
+        "01": "A group is on a sandy beach with the ocean in the background and mountains in the distance. A small beverage is in front, and a woman in a blue shirt looks at one of the girls.",
+        "10": "A group seated on the sandy beach with a frontal camera view, mountains and ocean in the background, drinks on the sand.",
+        "28": "The group on the sunlit beach is slightly curved towards the camera, with one girl taking a selfie. In the background are mountains and ocean waves, with sand and plastic cups nearby.",
+        "45": "A group on the beach, one extends an arm for a selfie while others lean in, with ocean waves and hills in the background. They share subtle smiles and look into the distance. The sandy area is plain."
+    },
+    "per_image_non_shared_edit": {
+        "01": "the group is seated on the sandy beach with the ocean in the background; mountains faintly visible in the distance. A small beverage is in front, with a woman in a blue shirt looking towards one of the girls.",
+        "10": "A group seated on a sandy beach with frontal pose, mountains and ocean in the distant backdrop, drinks on the sand.",
+        "28": "A group is curved towards the camera on a sunlit beach, one girl taking a selfie. Background features distant mountains and ocean waves, with sand and plastic cups nearby, all facing the camera.",
+        "45": "On the beach, one person holds a phone for a selfie, others lean in. The serene ocean and hills are in the background, with plain sandy surroundings."
+    },
+    "prompt_shared": "Minecraft characters",
+    "prompt_theme": null,
+    "object_token": "people"
+}

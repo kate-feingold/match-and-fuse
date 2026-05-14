@@ -1,0 +1,23 @@
+{
+    "src": "A pink-red backpack with a sleek design, featuring a large main compartment with brass zipper, a small front pocket, two colorful patches, a brand logo on the lower right corner, padded shoulder straps, and slightly glossy fabric.",
+    "edit": "A rugged backpack with a weathered surface and faded red patches. It has frayed fabric, metal studs, a rusted zipper on the front pocket, canvas straps, overlapping layers, and a tattered emblem at the bottom.",
+    "per_image_non_shared_src": {
+        "00": "The person is viewed from the back, wearing blue jeans and a black sleeveless top. They stand under a cloudy sky, with a backpack over one shoulder, left arm on the waist, and right arm bent at the elbow.",
+        "01": "The person stands in a three-quarter view, left hand on hip, right hand lifted, with a backpack on one shoulder. They wear blue jeans and a black sleeveless top against a cloudy sky.",
+        "02": "The backpack leans against a large, rough rock, overlooking a mountain valley with green trees, distant mountains, and a cloudy sky.",
+        "03": "A backpack is upright on a moss-covered rock amid green woodland with leafy ferns and shrubs, under forest light filtering through the canopy and fallen leaves, with faint sunlight streaming through the foliage.",
+        "04": "The backpack hangs on a moss-covered, fallen tree trunk in a dense forest, slightly rotated to the right, partially obscured by a blurred, vertical tree in the foreground, on a damp forest floor with decaying leaves and scattered branches.",
+        "05": "The backpack hangs from the center of a large, fallen tree trunk with aged moss and thick bark, surrounded by dry leaves on the forest floor, softly lit through dense forest trees."
+    },
+    "per_image_non_shared_edit": {
+        "00": "A rugged traveler with a backpack over one shoulder, viewed in a three-quarter angle. Their gloved left arm is on their waist, the right arm bent, in a desert setting. They have dust-streaked pants, a patchwork leather vest, against a sand-colored horizon.",
+        "01": "A rugged traveler stands with a backpack slung over one shoulder, in three-quarter view, left hand resting on hip, right hand lifted. She has waving hair, wears dust-streaked ragged pants and a patchwork leather vest, against a sand-colored horizon.",
+        "02": "The backpack leans against a large, rusted metal scrap in a desolate desert landscape with jagged rocks and arid soil. Distant dunes and a dusty orange sky create a rugged, Mad-Max-desert style atmosphere.",
+        "03": "A backpack is upright on a dusty rock in a barren wasteland with dry brush and sparse shrubs under the harsh desert sun. The ground has cracked earth and withered branches casting shadows, in a Mad-Max-desert style.",
+        "04": "A backpack dangles from the jagged segment of a massive, weather-beaten fallen tree trunk, slightly rotated right, partially obscured by a glaring sun in the foreground, surrounded by sand-blasted leaves, on scorched barren ground, in a Mad-Max desert landscape.",
+        "05": "A backpack dangles from a massive fallen tree trunk, surrounded by sand-blasted leaves. The ground is scorched brown and sandy beige under harsh sunlight, with sparse twisted desert plants, resembling a Mad-Max desert landscape."
+    },
+    "prompt_shared": "rugged Mad Max-themed backpack",
+    "prompt_theme": "Mad Max desert",
+    "object_token": "backpack"
+}

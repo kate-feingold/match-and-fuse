@@ -1,0 +1,21 @@
+{
+    "src": "A fluffy corgi with a thick, golden-brown fur and white accents. Its ears are erect, tongue out, and it has a short snout with a black nose.",
+    "edit": "A two-colored metal statue of a playful creature crafted with smooth, golden and silver surfaces. The head has large, pointed ear-like structures, and a face with sharp surfaces. The body is compact with a glossy mane mimicking fur.",
+    "per_image_non_shared_src": {
+        "00": "The object is centered and facing forward, with a background of softly blurred cherry blossom trees in full bloom.",
+        "01": "The object stands on a concrete pedestal, set against a clear blue sky and cherry blossoms in soft focus, contrasting with its vibrant hues.",
+        "02": "The object sits on a reflective surface with an orange wall behind it and cherry blossoms hanging above.",
+        "03": "The object is shown in profile, looking right, on a white surface with an orange wall and cherry blossoms on the side.",
+        "04": "the object gazes to the left from a low vantage, surrounded by greenery and distant buildings, with sunlight creating dynamic contrasts against its textures."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The centered object faces forward, surrounded by moonlit cherry blossom trees with gently shadowed petals. Background has softly blurred blooms illuminated by starlight, enhancing the object's vibrant colors against the dark night sky.",
+        "01": "The object stands on a shadowy concrete pedestal under moonlight, against a navy starry sky. Silhouetted cherry blossoms surround it. The object is subtly highlighted as the focal point in the nighttime setting.",
+        "02": "A mysterious object rests on a dark, shiny surface reflecting moonlight. Behind, a deep indigo wall is lit by silver starlight. Above, cherry blossoms sway with pink petals against the night sky.",
+        "03": "The object is in profile, gazing right, on a moonlit silvery surface. A deep navy wall with stars is the backdrop. Cherry blossoms frame the side view with shadows, and a soft, glowing background captures a night scene.",
+        "04": "The object gazes left from a low vantage in a dark garden with distant silhouettes under the night sky. Moonlight filters through, casting a serene backdrop with twinkling stars and enhanced contours."
+    },
+    "prompt_shared": "two-colored metal statue",
+    "prompt_theme": "night",
+    "object_token": "animal"
+}

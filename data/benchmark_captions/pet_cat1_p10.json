@@ -1,0 +1,21 @@
+{
+    "src": "A fluffy Persian kitten with a brown and cream coat and black stripes. It has blue eyes, a bushy tail, and whiskers around its round face. Standing confidently on delicate paws.",
+    "edit": "A pixelated kitten in Minecraft style with cubic features. It has a body of visible brown and grey cubes, square bright blue eyes, upright cube ears with dark tops, and a tail of stacked cubes.",
+    "per_image_non_shared_src": {
+        "jeanie-de-klerk-QfOnteIcGZU-unsplash": "The object stands sideways, head on the left, on a grey tiled staircase with a fluffy, upturned tail. There's a parallel metal railing and soft light from the top right, with a blurred background.",
+        "jeanie-de-klerk-SGFLjexLlaI-unsplash": "The object is in a close-up view on the grey staircase, facing forward, bushy tail slightly lowered, daylight from the right side.",
+        "jeanie-de-klerk-av2WGfogjqg-unsplash": "The object sits on the stair with paws close together, body slightly tilted, next to a vertical metal railing on its right, under soft, even light.",
+        "jeanie-de-klerk-bhonzdJMVjY-unsplash": "The object is on a grey step, front legs apart, head turned to face the camera, with shiny metal railing in the background under bright diffused lighting.",
+        "jeanie-de-klerk-t_Z5ND4Ce3k-unsplash": "The object sits at the edge of a stair, looking slightly to the side, with a fluffy tail and metal railing. Ambient light creates soft shadows."
+    },
+    "per_image_non_shared_edit": {
+        "jeanie-de-klerk-QfOnteIcGZU-unsplash": "A pixelated object stands sideways on a blocky, grey-tiled staircase. It has a tail with cubic textures. A metal railing runs parallel. Light from the top right casts pixelated shadows. The background is pixel art, like Minecraft.",
+        "jeanie-de-klerk-SGFLjexLlaI-unsplash": "Object in close-up on pixelated grey staircase, facing forward. Cube-like tail slightly lowered, casting shadows. Illuminated from the right in pixel-art style, low-resolution and retro gaming appearance typical of Minecraft.",
+        "jeanie-de-klerk-av2WGfogjqg-unsplash": "The object is on the stair, blocky paws together, body slightly tilted, next to a vertical pixelated metal railing on its right, in a pixel art style like Minecraft with a grid pattern, cube shapes, and square-shaped shadows.",
+        "jeanie-de-klerk-bhonzdJMVjY-unsplash": "A blocky object is on a pixelated grey step, front legs angular, head cuboid facing the camera. In the background, a shiny, pixelated metal railing in Minecraft fashion. Everything has sharp edges, in 8-bit appearance.",
+        "jeanie-de-klerk-t_Z5ND4Ce3k-unsplash": "A pixelated object perched at the edge of a blocky stair, looking slightly to the side, with a pixelated tail. Blocky railing and ambient light casting cuboid shadows, in Minecraft style with vivid, pixelated colors."
+    },
+    "prompt_shared": "Minecraft cat",
+    "prompt_theme": "minecraft",
+    "object_token": "animal"
+}

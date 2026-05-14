@@ -1,0 +1,21 @@
+{
+    "src": "A vibrant red and yellow toy race car with a smiling figure in a silver helmet and blue shirt with '1'. The car has black wheels and a tall orange antenna with a blue tip, rounded and cartoonish design.",
+    "edit": "A metallic red and neon yellow toy race car with a human-like figure inside, wearing a chrome helmet with LED lights and a blue shirt the glowing number '1'. The car has black wheels with blue accents and a fiber-optic antenna with a pulsating blue tip, in a cyberpunk style.",
+    "per_image_non_shared_src": {
+        "00": "The toy is on a rough stone ledge with blue accents, overlooking a deserted concrete area with overgrown grass and distant structures, bathed in sunlight with long shadows.",
+        "01": "The toy sits on a gray-patterned carpet in a room with bookshelves in the background, seen from a side angle showing its number, under soft indoor lighting.",
+        "02": "The toy is on an orange picnic table, angled slightly towards the viewer. A road is in the background with a parked black car on the left, a truck far in the back, and a grassy area with trees under clear blue sky.",
+        "03": "the toy is centered on a fluffy gray towel against a plain cream wall, viewed from the front, in a clean indoor setting with neutral lighting, highlighting the toy's details.",
+        "04": "the toy is on an asphalt path facing forward, with grass and autumn leaves behind it, the background slightly blurred, in natural outdoor lighting."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The toy is on a rugged stone ledge with neon blue accents, overlooking a deserted urban area with industrial structures. City lights illuminate the scene, with reflections on metallic surfaces, a low haze, and electronic billboards flickering in cyberpunk style.",
+        "01": "The toy is on a carpet with neon circuitry patterns, in a room with glowing futuristic bookshelves. Seen from a side angle, the toy's number is lit by cyberpunk lighting, casting multi-colored hues on sleek metallic surfaces.",
+        "02": "The toy is on a neon-lit orange picnic table, angled towards the viewer, under streetlights. In the cyberpunk cityscape, a black car is left, a futuristic truck in the distance, grassy area is digital green, holographic trees, and electric blue sky with digital patterns.",
+        "03": "The toy is set in a futuristic cyberpunk environment on a sleek metallic surface against a neon-hued wall, viewed from the front. Pulsating LED lights cast vibrant colors, highlighting the toy's high-tech details and emphasizing its futuristic design.",
+        "04": "The toy is on a neon-lit asphalt path, facing forward with LED strips and holographic displays. Behind it, a digital grass strip and metallic leaves glow. The background includes skyscrapers and cyberpunk elements, enhanced by sharp futuristic lighting."
+    },
+    "prompt_shared": "cyberpunk-styled rc car with a driver",
+    "prompt_theme": "cyberpunk",
+    "object_token": "car"
+}

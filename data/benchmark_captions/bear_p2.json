@@ -1,0 +1,9 @@
+{
+    "src": "A gray bear statue is on a flat rock with a pedestal, within a forested area, mid-step. Tall trees with textured bark and ground foliage are behind, sunlight and shadows enhance the sculpture's details.",
+    "edit": "A gray bear statue painted with colorful graffiti art rests on a large flat rock with a rectangular pedestal in a forest. The bear is mid-step, covered in tags and shapes, surrounded by tall trees and illuminated by sunlight.",
+    "per_image_non_shared_src": null,
+    "per_image_non_shared_edit": null,
+    "prompt_shared": "graffiti-styled bear statue",
+    "prompt_theme": "graffiti",
+    "object_token": "bear"
+}

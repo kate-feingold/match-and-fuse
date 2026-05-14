@@ -1,0 +1,31 @@
+{
+    "src": "A plush axolotl toy with soft pink fur, black round eyes, and cheerful smile. It has bright pink frilled gills on the sides of its head and small limbs, creating an overall adorable appearance.",
+    "edit": "A vibrant anime-style axolotl character with bold colors and exaggerated features. It has a smiling face, large expressive eyes, and vivid two-colored gills, embodying a lively and cartoonish design.",
+    "per_image_non_shared_src": {
+        "0": "The object is perched atop a monitor showing code, with office windows in the background, revealing a building facade outside.",
+        "1": "The object is sitting on a monitor, illuminated by sunlight. In the background, sunlight streams through office windows, highlighting details of an exterior building.",
+        "2": "The object is positioned on a monitor corner, with window blinds in the background. The room is lit with ambient lighting from a computer screen.",
+        "3": "The object rests on a table with a textured surface. Nearby, dark electronic equipment creates a modern office ambiance.",
+        "4": "The object sits on a white box displaying a landscape image. The setting includes a plain indoor surface creating a minimalist atmosphere.",
+        "5": "The object is placed on a light wood surface with subtle textures. Background includes soft fabric in muted tones, creating an indoor setting.",
+        "6": "The object sits on a light wooden table near a black circular base. Yellow toy ducks add a playful touch to the simple tabletop display.",
+        "7": "The object is on a stack of white papers next to a partially unrolled tape. A nearby keyboard suggests a typical workstation environment.",
+        "8": "The object sits on a black-and-red computer part box. Scattered puzzle pieces on the tabletop create a dynamic contrast around the setting.",
+        "9": "The object is placed against a textured grey couch, creating a cozy and well-defined seating area."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is perched atop a monitor showing code, set in an anime urban scene with stylized buildings and vibrant colors, capturing a bustling anime atmosphere outside.",
+        "1": "The object is sitting on a monitor, illuminated by bright sunlight within an anime world, where stylized windows reveal vivid building exteriors.",
+        "2": "The object is positioned on a monitor corner, with stylized anime blinds casting ambient light, enhancing a futuristic anime room setting.",
+        "3": "The object rests on a table with an anime-inspired surface. Nearby equipment takes on a sleek, futuristic anime design, enriching the modern setting.",
+        "4": "The object sits on a white box displaying a landscape in an anime style. The setting includes plain surfaces, aligning with a minimalist anime approach.",
+        "5": "The object is placed on a light wood surface with anime-inspired textures. Background includes soft fabrics with stylized anime patterns in muted tones.",
+        "6": "The object sits on a light wooden table near a bold, animated black base. Toy ducks appear in anime style, adding to the dynamic tabletop.",
+        "7": "The object is on a stack of white papers next to a uniquely animated tape roll, near an anime-style keyboard workstation setup.",
+        "8": "The object sits on a black and red computer part box. Puzzle pieces take on colorful, exaggerated anime designs, animating the scene.",
+        "9": "The object is placed against a textured anime-style grey couch, fostering a cozy and vividly detailed anime seating area."
+    },
+    "prompt_shared": "two-colored anime axolotl character",
+    "prompt_theme": "anime",
+    "object_token": "plushie"
+}

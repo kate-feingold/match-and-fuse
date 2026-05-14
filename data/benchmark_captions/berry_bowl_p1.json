@@ -1,0 +1,23 @@
+{
+    "src": "A bowl filled with fresh blueberries, dark blue and plump, resting inside a white bowl with a black grid pattern and gold script reading 'Bon App\u00e9tit'.",
+    "edit": "A bowl filled with shiny, colorful marbles, featuring swirls of red, blue, and green, in a white bowl with a black grid pattern and gold script reading 'Cool Bowl'.",
+    "per_image_non_shared_src": {
+        "00": "The object is positioned slightly off-center, viewed from an angle. It rests on a white, crumpled fabric background, providing a soft, minimalistic backdrop.",
+        "01": "The object is slightly angled, with the text visible. It is set against a plain, soft white fabric surface that adds a simple backdrop.",
+        "02": "Centered with a view from above, the object stands on a white textured surface, creating a clean and understated background.",
+        "03": "The object is placed to the left, angled slightly. The backdrop is simple, consisting of a smooth white fabric with gentle folds.",
+        "04": "Positioned at a slight angle, the object is on a white, slightly rumpled surface, offering a clean and uncomplicated setting.",
+        "05": "Positioned slightly off-center, the object is on a white, slightly rumpled surface, offering a clean and uncomplicated setting."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object is positioned slightly off-center, viewed from an angle in a plain white background setting, conveying a simplistic and minimal look.",
+        "01": "The object is slightly angled, with the text visible, set against a plain white background, emphasizing a clean and minimalistic style.",
+        "02": "Centered with a view from above, the object stands on a plain white background, creating a minimalist and simple appearance.",
+        "03": "The object is placed to the left, angled slightly, against a plain white backdrop, embodying a clean and simple look.",
+        "04": "Positioned at a slight angle, the object is on a plain white background, offering a minimalist and uncomplicated aesthetic.",
+        "05": "Positioned slightly off-center, the object is on a white, slightly rumpled surface, offering a clean and uncomplicated setting."
+    },
+    "prompt_shared": "a bowl of marbles with a text cool bowl",
+    "prompt_theme": "plain white background",
+    "object_token": "object"
+}

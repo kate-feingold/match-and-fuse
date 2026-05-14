@@ -1,0 +1,21 @@
+{
+    "src": "Sleek sports car with metallic blue body, aerodynamic enhancements, wide grille, LED headlights, large alloy wheels. Smooth curved doors, racing spoiler, quad exhausts. Streamlined design with precise engineering details.",
+    "edit": "A sports car in deep russet tones. The metallic body reflects a golden hue. The front grille is bronze, complementing amber LED headlights. Large wheels resemble chestnuts, and the rear spoiler suggests fallen branches. Viewed in sunlight, preserving an autumn-inspired design.",
+    "per_image_non_shared_src": {
+        "martin-katler-BAp-S2Ksn18-unsplash": "The object is viewed from the rear on a smooth concrete surface, with a high wall on the left, a cloudy sky background, and industrial buildings in the distance.",
+        "martin-katler-MeaLI-A_Zjw-unsplash": "the object is positioned at an angle, showing front and side on a concrete path, framed by high grey walls, with foliage in the distance and an industrial complex.",
+        "martin-katler-PAD3RjjEb7M-unsplash": "The object is angled, showcasing its front, on a concrete stretch with grey walls, beneath a cloudy sky.",
+        "martin-katler-WEPVJzK9xn8-unsplash": "The object is viewed from above, showing its top and rear, on a rooftop parking area with metallic railings and urban structures in the background.",
+        "martin-katler-quVwaNGVebk-unsplash": "The object in a close-up from the front corner, highlighting detailed front design elements, centered against a concrete wall backdrop."
+    },
+    "per_image_non_shared_edit": {
+        "martin-katler-BAp-S2Ksn18-unsplash": "The object stands against a concrete surface with a high wall on the left covered in gold and russet vines. The sky is overcast, with industrial buildings visible in the distance through fog.",
+        "martin-katler-MeaLI-A_Zjw-unsplash": "The object is positioned at an angle, showing both front and side on a leaf-covered path with towering grey walls, autumn hues, and foliage in reds and yellows. An industrial complex is in the distance, surrounded by trees with golden leaves.",
+        "martin-katler-PAD3RjjEb7M-unsplash": "The object stands angled on a path with fallen amber leaves, flanked by grey walls with creeping vines. Above, the cloudy sky is warm-toned, reflecting fall hues, adding tranquility to the open atmosphere.",
+        "martin-katler-WEPVJzK9xn8-unsplash": "The object is viewed from above on an expansive rooftop parking area, with metallic railings and urban structures in the background. Rich hues of orange and crimson are present, and golden leaves settle around.",
+        "martin-katler-quVwaNGVebk-unsplash": "An object viewed close-up from the front corner against a textured concrete wall. It features warm autumn tones, centered in the frame surrounded by fallen leaves in earthy colors, with golden and russet hues in a minimalist style."
+    },
+    "prompt_shared": "luxury sports car",
+    "prompt_theme": "autumn",
+    "object_token": "car"
+}

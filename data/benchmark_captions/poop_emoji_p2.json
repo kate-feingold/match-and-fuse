@@ -1,0 +1,21 @@
+{
+    "src": "A whimsical toy shaped like a swirled pile of brown with a smooth texture, featuring cartoonish eyes and a smile. The evenly stacked swirl has a curl on top, resembling a classic poop emoji.",
+    "edit": "A pastel-colored, ghost-like figure with a chunky appearance, large eyes, and a mischievous grin. It has a soft, velvety texture, swirling curves indicating movement, and a small rounded tuft, complementing the surroundings.",
+    "per_image_non_shared_src": {
+        "00": "The object is sitting upright on gray asphalt, surrounded by twigs and small pebbles. The asphalt texture and color dominate the background.",
+        "01": "The object is upright in thick, lush green grass, with blades slightly bending around its base.",
+        "02": "the object is upright on green grass, with a large tree trunk behind, distant modern office buildings among trees",
+        "03": "The object sits on a painted green wooden bench, with aged slats, and a grassy area faintly visible beyond the bench's edge.",
+        "04": "The object stands upright on a textured concrete surface with a red brick wall behind, featuring uneven bricks and visible mortar lines, enhancing the urban feel."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object stands upright on bluish-gray pavement, surrounded by twigs and small, glimmering stones, creating a magical-world theme.",
+        "01": "An object stands upright amid a meadow of deep emerald grass with a soft glow, the blades encircling its base, twinkling gently hinting at hidden enchantments.",
+        "02": "An enchanted object stands upright on mystical green grass. Behind, a tree trunk with glowing runes. In the distance, fantasy-style office buildings with iridescent windows and vines, surrounded by legendary trees with branches reaching skyward.",
+        "03": "An object sits on an enchanted green wooden bench with ancient slats, shimmering with emerald magic. Behind, a grassy field features magical mushrooms casting soft glows and ethereal wisps floating, creating an otherworldly aura reminiscent of a magic-world setting.",
+        "04": "The object is upright on a cobblestone surface with an enchanted forest behind, featuring ancient trees with luminescent leaves and fireflies. The forest casts ethereal shadows and the scene is captured in a magical world."
+    },
+    "prompt_shared": "magic ghost-like figure",
+    "prompt_theme": "magic world",
+    "object_token": "emoji"
+}

@@ -1,0 +1,21 @@
+{
+    "src": "A children's backpack with a dog face design, featuring floppy ears, an embroidered smile, and a pink tongue. It has a grey main compartment with a brown nose, a blue zipper, and blue straps.",
+    "edit": "A children's backpack with a dog face, with orange floppy ears, an embroidered smile, and a crimson tongue. The main compartment is mustard with a brown nose, amber zipper, and burnt orange straps, a blend of earthy brown and creamy beige tones.",
+    "per_image_non_shared_src": {
+        "00": "Backpack viewed slightly from above, propped against a window ledge overlooking a cityscape with tall buildings, trees below, in bright daylight.",
+        "01": "the backpack is positioned on a window sill facing a city view of skyscrapers and a river, with a panoramic urban skyline, under an overcast sky with subdued lighting.",
+        "02": "A backpack sits upright on a light wooden table surrounded by cushioned seating areas, indoors, with window light casting shadows, colorful patterned carpet.",
+        "03": "The backpack hangs on a chain link fence in a lush garden with green grass, leafy trees, tall foliage, and cleared sections, creating a park-like setting.",
+        "04": "The backpack is on green grass near a paved street, surrounded by sidewalks and parked cars in a suburban area with maintained lawn and greenery."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The autumn backpack is viewed slightly from above against a window ledge, overlooking a cityscape with modern buildings in golden sunlight and trees in deep orange and red, offering a panoramic view of fall under the crisp daylight.",
+        "01": "The backpack is on a window sill facing a distant city view with golden orange and burnt sienna hues. The scene includes skyscrapers, colorful trees, and a river under an overcast gray sky, viewed in a panoramic autumn setting.",
+        "02": "A backpack rests upright on a rustic wooden table surrounded by seating areas with plush cushions. Sunlight highlights the room's rich autumnal palette, with earthy furniture hues and a carpet reflecting fall colors.",
+        "03": "A backpack hangs on a chain link fence in a garden with vibrant red and orange leaves. Fallen leaves cover the ground. Trees and thin branches reveal autumn colors with dappled sunlight. Tall foliage rustles in the background.",
+        "04": "A backpack rests on golden-brown grass near a winding path with crimson and amber leaves, amidst a neighborhood with trees shedding leaves. Sidewalks are covered with vibrant foliage and cars stand among these trees."
+    },
+    "prompt_shared": "autumn-themed children's backpack",
+    "prompt_theme": "autumn",
+    "object_token": "backpack"
+}

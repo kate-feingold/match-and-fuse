@@ -1,0 +1,23 @@
+{
+    "src": "A pink-red backpack with a sleek design, featuring a large main compartment with brass zipper, a small front pocket, two colorful patches, a brand logo on the lower right corner, padded shoulder straps, and slightly glossy fabric.",
+    "edit": "An emerald green satchel with a brass clasp and embroidery on the flap, made of velvet fabric. It has a brown leather adjustable strap and top handle, rectangular with softened corners, and one spacious compartment.",
+    "per_image_non_shared_src": {
+        "00": "The person is viewed from the back, wearing blue jeans and a black sleeveless top. They stand under a cloudy sky, with a backpack over one shoulder, left arm on the waist, and right arm bent at the elbow.",
+        "01": "The person stands in a three-quarter view, left hand on hip, right hand lifted, with a backpack on one shoulder. They wear blue jeans and a black sleeveless top against a cloudy sky.",
+        "02": "The backpack leans against a large, rough rock, overlooking a mountain valley with green trees, distant mountains, and a cloudy sky.",
+        "03": "A backpack is upright on a moss-covered rock amid green woodland with leafy ferns and shrubs, under forest light filtering through the canopy and fallen leaves, with faint sunlight streaming through the foliage.",
+        "04": "The backpack hangs on a moss-covered, fallen tree trunk in a dense forest, slightly rotated to the right, partially obscured by a blurred, vertical tree in the foreground, on a damp forest floor with decaying leaves and scattered branches.",
+        "05": "The backpack hangs from the center of a large, fallen tree trunk with aged moss and thick bark, surrounded by dry leaves on the forest floor, softly lit through dense forest trees."
+    },
+    "per_image_non_shared_edit": {
+        "00": "A person with a vintage backpack over one shoulder, in a three-quarter view, left arm on waist, right arm bent at elbow, under a sepia-toned sky wearing a tight checkered dress, reminiscent of mid-20th-century fashion.",
+        "01": "The person with a vintage backpack over one shoulder is in a classic three-quarter view, left hand on hip, right hand gesturing upwards, under a sepia-toned cloudy sky. They wear a tight checkered dress reminiscent of mid-20th-century fashion.",
+        "02": "A vintage backpack leaning against a weathered rock in a mountain valley. Sepia-toned sky, muted forest hues, and distant peaks covered in retro-styled clouds complete the postcard-like scene.",
+        "03": "A vintage backpack sits upright on an aged rock in a woodland surrounded by ferns and shrubs. Sepia-toned light filters through, casting soft shadows. Foliage appears in faded greens and yellows, with fallen leaves adding rustic nostalgia.",
+        "04": "The backpack hangs on a moss-covered, horizontally fallen tree trunk at the center, vintage design, slightly rotated to the right. Partially obscured by a blurred, vertical tree in the foreground, set on a damp forest floor with fading greens and browns.",
+        "05": "A vintage backpack hangs on a moss-covered, fallen tree trunk at the center of a damp forest floor, with fading greens and browns, surrounded by decaying leaves and scattered branches."
+    },
+    "prompt_shared": "retro velvet satchel",
+    "prompt_theme": "retro",
+    "object_token": "backpack"
+}

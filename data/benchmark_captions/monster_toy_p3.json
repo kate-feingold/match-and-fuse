@@ -1,0 +1,21 @@
+{
+    "src": "A plush red creature with fluffy fur, googly eyes on stalks, and a wide smiling mouth. It has a yellow patch on its belly, fuzzy limbs with white-tipped hands and feet, and distinct textures.",
+    "edit": "A vibrant red creature with spray-painted textures, exaggerated eyes on blue stalks, and a wide mouth with orange outlines. Its belly shows a yellow graffiti tag, limbs have monochromatic graffiti patterns, with white-tipped hands and feet highlighted in black, exhibiting striking graffiti-style patterns.",
+    "per_image_non_shared_src": {
+        "00": "the object is sitting against the window edge in a high-rise building, seen from the side, with green trees and multiple buildings in the background visible through the glass, the window ledge is cluttered with books",
+        "01": "The object is atop a black computer monitor, facing forward, in an open office with white and green dividers, computer screens, and overhead fluorescent lights.",
+        "02": "The object is leaning back in a window sill, slightly rotated left, legs and hands crossed, with sunlight casting a shadow on its yellow belly. Outside, a garden is faintly visible, contrasting the object's vibrant hues.",
+        "03": "the object on a car's hood under shade, facing the camera, with the windshield partially visible, surrounded by reflections of green trees on the vehicle's surface, suggesting a sunny day",
+        "04": "the object is on a textured rock amidst sparse grass, trees, and small twigs, with scattered yellow leaves, suggesting an outdoor park or garden."
+    },
+    "per_image_non_shared_edit": {
+        "00": "A vibrant object rests against a high-rise building's window edge with bold graffiti art. Seen from the side, surrounded by green trees and city buildings. The window ledge has books with graffiti-inspired covers.",
+        "01": "A vibrant object perches atop a graffiti-designed computer monitor in an open office. Surrounded by white and green dividers with spray paint, computer screens show urban art motifs under fluorescent lights, infusing an urban artistic vibe.",
+        "02": "The object leans back in a window sill, turned slightly to the left. Legs and hands are crossed, resembling urban street art with colorful graffiti designs. Sunlight casts shadowy patterns on its yellow belly. A lush garden is outside the window.",
+        "03": "A graffiti-style object with bold patterns sits on a car's hood, facing the camera, flanked by reflections of green trees in street art style. The windshield is visible, using saturated colors and geometric designs in street art fashion.",
+        "04": "An object sits on a rock with graffiti motifs, amidst graffiti-designed grass, trees with spray-painted trunks, and small twigs. Brightly colored signs and neon-painted leaves add liveliness to the urban park or street art garden scene."
+    },
+    "prompt_shared": "graffiti-styled monster toy",
+    "prompt_theme": "graffiti",
+    "object_token": "toy"
+}

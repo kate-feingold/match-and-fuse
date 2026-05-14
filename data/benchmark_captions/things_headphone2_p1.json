@@ -1,0 +1,29 @@
+{
+    "src": "Black over-ear headphones with cushioned pads, adjustable headband, and a sleek, modern design. The ear cups have a circular pattern grill and a connecting wire along the band.",
+    "edit": "Winter-themed headphones with one ear cup in icy blue and the other in snowy white. The headband is decorated with frost-like patterns, and the wires resemble snow chains.",
+    "per_image_non_shared_src": {
+        "0": "The object lies flat on a light wooden desk near a monitor stand, accompanied by a mouse and red pen in the background.",
+        "1": "The object is at the bottom of an empty red plastic basket with lined ridges, surrounded by a checker-patterned surface and other items.",
+        "2": "The object hangs on a metallic door handle against a wooden door, with a poster partially visible below and a black object behind on the right.",
+        "3": "The object rests on a patterned red and orange cushioned surface, with a conference room visible in the background, featuring black chairs and tables.",
+        "4": "The object perches on a wooden ledge against a whiteboard with red marker writings, with a blue wall beneath the ledge.",
+        "5": "The object is on a tan leather couch with visible stitching, set in a room corner with grey carpeting visible at the base.",
+        "6": "The object sits on a bright red fabric chair in a room with a grey carpet, with the back of the chair and floor creating a contrast.",
+        "7": "The object is on top of white papers on a gray desk, near an ergonomic mouse and a black pen holder filled with stationary items.",
+        "8": "The object rests on a white window sill with sunlight streaming in through the window panes, creating shadows against the bright glass."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object lies flat on a light wooden desk near a monitor stand, with a mouse and red pen surrounded by a winter setting of snowflakes gently falling around the scene.",
+        "1": "The object is at the bottom of a red plastic basket with lined ridges in a wintry setting with white frost lining the ridges and items scattered with snow traces.",
+        "2": "The object hangs on a metallic door handle against a wooden door, surrounded by a wintry backdrop of frosted windows and icicles forming above.",
+        "3": "The object rests on a patterned red and orange cushioned surface, in a conference room transformed into a winter scene with snow-like textures on the chairs and tables.",
+        "4": "The object perches on a wooden ledge against a whiteboard in a wintry classroom setting with frost on the whiteboard and a snowy blue wall beneath.",
+        "5": "The object is on a tan leather couch in a room corner transformed into a winter scene with a soft layer of snow on the couch and icy patterns on the floor.",
+        "6": "The object sits on a bright red fabric chair in a winter setting, with snowflakes gently resting on the chair and a cool, icy atmosphere.",
+        "7": "The object is on white papers on a gray desk, in a winter atmosphere with icicles hanging from the desk's edge and snow lightly covering the stationary items.",
+        "8": "The object rests on a white window sill with sunlight streaming in, surrounded by a serene winter scene of frosted window panes and snowy accents."
+    },
+    "prompt_shared": "two-colored winter-themed headphones",
+    "prompt_theme": "winter",
+    "object_token": "object"
+}

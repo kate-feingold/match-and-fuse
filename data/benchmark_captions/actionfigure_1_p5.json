@@ -1,0 +1,23 @@
+{
+    "src": "Anime figure of a flame-haired swordsman on a plain black metal base with a slender katana, in a dynamic pose with white flame cape and red katana, battle-ready stance.",
+    "edit": "A comical alien warrior holding a wavy plasma blade with both heads, glossy skin, bulging eyes, in neon armor with a space suit, and a bright energy cloak behind.",
+    "per_image_non_shared_src": {
+        "0": "The figure is viewed from a slight overhead angle, slightly right. Left foot forward, right foot back, both hands holding a raised katana, on a wood-grain tabletop, with a blurred dark vertical support on the rear left and a pale wall behind.",
+        "1": "The figure is viewed from a slight overhead angle, left foot forward, right foot back, hands gripping a katana raised overhead, on a wood-grain tabletop, with a dark support rear left and a pale wall behind.",
+        "2": "The figure is viewed from a slight overhead angle, closeup, with her face, body, and katana centered on a black background.",
+        "3": "A figure is viewed from an eye-level frontal angle on a dark wooden table with a keyboard and a turned-off computer screen behind.",
+        "4": "The figure is viewed from a slight overhead angle from the left, placed on a dark plastic table with a black leather chair on the left and a dark wood office drawer in the top right corner.",
+        "5": "The figure is viewed from above front, on a dark wooden table, with a keyboard and a turned-off computer screen behind her."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The figure is observed from a slight overhead angle, slightly from the right. It has both hands on an energy-infused katana. The base is an alien metallic tabletop with glowing circuits, with a cosmic background and a blue support hovering to the left.",
+        "1": "The figure is viewed from a slight overhead angle, one foot forward, hands clutching a glowing transparent katana overhead. It stands on a metallic, patterned surface. In the background, a blurred vertical structure and starry vista suggest an alien space aesthetic.",
+        "2": "The figure is viewed from a slight overhead angle closeup, with an iridescent face, translucent body with cosmic patterns, and a katana of interstellar metal, centered against a deep space background with distant galaxies.",
+        "3": "The figure is straight-on at eye level on a metallic table with symbols. Behind is a transparent computer interface and holographic cosmic display. The alien ship's control room is lit by glowing orbs, with colors shifting between greens and blues.",
+        "4": "The figure, seen from a slight overhead angle from the left, is sleek with a metallic sheen and alien patterns, on a translucent table with otherworldly colors. A futuristic chair with glowing elements is on the left, and an office drawer made of dark material is in the corner.",
+        "5": "The figure is viewed from above front on a sleek, metallic surface with glowing lines. Behind is a holographic keyboard with floating keys. The screen, off, has a luminescent frame, set against a dark background with shimmering stars."
+    },
+    "prompt_shared": "comical alien warrior",
+    "prompt_theme": "space",
+    "object_token": "figure"
+}

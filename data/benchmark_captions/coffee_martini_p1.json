@@ -1,0 +1,9 @@
+{
+    "src": "A man preparing a cocktail in a home kitchen in hyper-realistic style, with various bottles and an autumn view.",
+    "edit": "A man crafting a cocktail in a home kitchen in a Pixar style. There is a big window with half-closed blinds behind him. The setting has colorful bottles and a cozy autumn view through the window. The kitchen features exaggerated, rounded shapes enhancing a storybook quality.",
+    "per_image_non_shared_src": null,
+    "per_image_non_shared_edit": null,
+    "prompt_shared": "Pixar kitchen scene",
+    "prompt_theme": "Pixar",
+    "object_token": "kitchen"
+}

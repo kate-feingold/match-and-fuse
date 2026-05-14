@@ -1,0 +1,9 @@
+{
+    "src": "A man preparing a cocktail in a home kitchen in hyper-realistic style, with various bottles and an autumn view.",
+    "edit": "A man preparing a cocktail in a kitchen in anime style, with large expressive eyes and vibrant hair. Bright labeled bottles surround him. The autumn view outside shows vivid orange and red leaves. The kitchen has sharp, dynamic lines.",
+    "per_image_non_shared_src": null,
+    "per_image_non_shared_edit": null,
+    "prompt_shared": "anime kitchen scene",
+    "prompt_theme": "anime",
+    "object_token": "kitchen"
+}

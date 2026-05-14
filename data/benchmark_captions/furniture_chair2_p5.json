@@ -1,0 +1,19 @@
+{
+    "src": "A woven rattan hanging chair with an egg-like shape, circular weave pattern, and plush cream cushion, suspended by a sturdy rope.",
+    "edit": "A mid-century modern hanging chair with a curved egg shape in molded plastic, imitating woven rattan, has minimalistic horizontal slats. It hangs from a thin metal chain and features a cream cushion with clean lines.",
+    "per_image_non_shared_src": {
+        "rosemary-fields-Ah52Hgrae-Y-unsplash": "a chair is upright, slightly left of a vibrant indoor plant in a tall metallic pot, with a white brick wall behind, and daylight filtering through a large window.",
+        "rosemary-fields-ZIGZDDsoYCw-unsplash": "The chair is centered, hanging next to a green plant in a wicker basket, against a tall window with a black frame and a white brick wall for texture.",
+        "rosemary-fields-cHo2KJxqPuU-unsplash": "A chair is angled slightly forward, next to a leafy indoor plant in a woven holder on a stand. A worn white brick wall is the backdrop, with shadows from daylight through a large window.",
+        "rosemary-fields-lxDmpH2QLmM-unsplash": "A chair is viewed from the side, highlighting the weave pattern, next to a green plant in a basket, against a textured white brick wall, lit by natural light from a nearby window."
+    },
+    "per_image_non_shared_edit": {
+        "rosemary-fields-Ah52Hgrae-Y-unsplash": "A chair with sleek lines and a curved walnut wood backrest, beside a plant with large leaves in a tall metallic pot. A white brick wall with texture is illuminated by daylight from a window, casting gentle shadows.",
+        "rosemary-fields-ZIGZDDsoYCw-unsplash": "The chair is centered, with sleek lines and a walnut finish, in a mid-century modern style. A green plant is in a woven basket. The background has a tall window with a black metal frame and a white brick wall.",
+        "rosemary-fields-cHo2KJxqPuU-unsplash": "A mid-century-modern chair with clean lines and smooth curves sits next to a leafy plant in a minimalist holder on a wooden stand, against a cream brick wall. Daylight casts soft shadows through a nearby window.",
+        "rosemary-fields-lxDmpH2QLmM-unsplash": "A chair with sleek lines and a teak structure, intricate weave pattern in mid-century modern style, beside a plant in a wicker basket, against a textured white brick wall, illuminated by natural light."
+    },
+    "prompt_shared": "mid-century-modern-styled chair",
+    "prompt_theme": "mid century modern",
+    "object_token": "chair"
+}

@@ -1,0 +1,21 @@
+{
+    "src": "A small, spiral-bound book with a light brown cover, titled \"The Real Book Sixth Edition.\" The bold, black font stands out against the plain cover, giving it a classic look.",
+    "edit": "A compact, spiral-bound book with an icy blue cover, titled \"Family Memories Edition.\" White, elegant lettering adorns the cover, giving it a nostalgic yet modern appeal.",
+    "per_image_non_shared_src": {
+        "0": "The object is held in a hand up close, with a fan in the background adding a sense of movement. The setting is indoor with a wooden floor and minimalistic decor.",
+        "1": "The object is lying flat on a black leather chair. The background consists of tiled flooring, giving a clean and orderly appearance.",
+        "2": "The object is placed on a wooden desk. Around it, a computer and audio interface can be seen, indicating a workspace setup.",
+        "3": "The object rests on a wooden table, partially opened to the side. In the background, a cluttered desk with various electronic gadgets is visible.",
+        "4": "The object is positioned against the keys of a piano. The shiny black surface of the piano and a light-colored wall make up the backdrop."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is held in a hand up close, surrounded by a snowy winter backdrop. The setting is indoor with frosty windows and light wooden floorboards.",
+        "1": "The object is lying flat on a chair covered in white faux fur, creating a winter setting. The background features a floor with frosty, glassy tiles.",
+        "2": "The object is placed on a wooden desk amidst a winter-themed decor. Frosted computer and audio interface, with gentle blue lighting, can be seen.",
+        "3": "The object rests on a wooden table, partially opened, surrounded by a winter-themed workspace. The background includes snowflake patterns and frosted electronic gadgets.",
+        "4": "The object is positioned against a piano with a snowy, winter setting. The shimmering surface of the piano reflects icicle patterns against a light blue wall."
+    },
+    "prompt_shared": "a book with titled Family memories",
+    "prompt_theme": "winter",
+    "object_token": "book"
+}

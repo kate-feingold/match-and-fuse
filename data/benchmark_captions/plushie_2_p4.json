@@ -1,0 +1,19 @@
+{
+    "src": "A Meowth pokemon toy sitting and waving hands, in hyper-realistic anime-inspired style. It has oversized embroidered eyes and sharply defined lines around its face and limbs.",
+    "edit": "A Meowth pokemon toy sits and waves hands, in gothic-horror style. Eyes resemble eerie voids with dark stitches, body has dark engravings and sharp contours. Limbs in tattered fabric, tendrils around face, and faint mist surrounds it.",
+    "per_image_non_shared_src": {
+        "0": "The Pokemon is on a dark wooden table in the room corner, viewed slightly from above, with plain white walls.",
+        "1": "The Pok\u00e9mon is viewed slightly from above, placed on a white metal lattice in a room corner with plain white walls.",
+        "2": "A Pokemon is lying on a black background.",
+        "3": "The Pok\u00e9mon is viewed slightly from below, sitting on a metal stick, with one leg hanging down and one partially hidden, against a plain white background."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The pokemon is viewed slightly from above, casting a silhouette on a dark wooden table. The aged table is in the room corner with plain white walls, flickering candlelight creating long shadows, in gothic-horror style.",
+        "1": "A shadowy creature viewed slightly from above, perched on an intricate iron lattice in a dim room corner. The walls are aged with crumbling plaster and ornate patterns. Flickering candlelight enhances the gothic-horror style, creating a mysterious ambiance.",
+        "2": "A creature rests against a black backdrop, with deep shadows and unsettling hues, highlighted by a faint glow.",
+        "3": "A shadowy creature looms on a rusted metal spike, shrouded in dark drapery, one leg dangling, the other in shadows. The backdrop is a stark whiteness, enhancing the gothic-horror ambiance."
+    },
+    "prompt_shared": "gothic horror pokemon plushie",
+    "prompt_theme": "gothic horror",
+    "object_token": "plushie"
+}

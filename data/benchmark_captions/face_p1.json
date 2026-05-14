@@ -1,0 +1,9 @@
+{
+    "src": "A person with wavy, fair warm-colored hair and a well-groomed beard, wearing a grey fleece with a quarter-zip, is positioned against a textured concrete wall.",
+    "edit": "A character with exaggerated features, blonde, voluminous curls, a cartoonishly full beard, wearing a plush grey fleece jacket with a quarter-zip, stands in front of a textured animated wall typical of Pixar films, highlighted by vibrant lighting.",
+    "per_image_non_shared_src": null,
+    "per_image_non_shared_edit": null,
+    "prompt_shared": "Pixar character",
+    "prompt_theme": "Pixar",
+    "object_token": "person"
+}

@@ -1,0 +1,25 @@
+{
+    "src": "A series of manicured garden beds with vibrant red flowers, neatly bordered with trimmed green hedges, forming elegant curves. The lush arrangements are set within an enclosed greenhouse.",
+    "edit": "A series of enchanted garden beds with mystical luminescent flowers in shades of violet, bordered by shimmering silver vines, forming elegant curved patterns within a magical realm.",
+    "per_image_non_shared_src": {
+        "0": "The garden beds are viewed in an arched greenhouse, surrounded by wooden lattice panels and potted green plants. A paved pathway weaves through the manicured scene.",
+        "1": "The garden layout is captured from the left, with lattice panels lining the greenhouse walls, large potted plants, and a tiled pathway leading into the arrangement.",
+        "2": "From the left, the garden beds curve within the glass-walled greenhouse, bordered by wood lattice and greenery, with paving stones forming the walkway.",
+        "3": "A central, slightly rotated perspective shows the garden beds surrounded by lattice-paneled walls, large green potted plants, and light gray paving.",
+        "4": "The garden is viewed slightly from the right, with structural lattice panels, potted greenery alongside, and a smooth paved floor complementing the design.",
+        "5": "Wide angle from the far left, showcasing the garden beds within a greenhouse, wooden lattice surrounding, and red brick flooring leading to metal framed entrances.",
+        "6": "The garden is seen head-on, with prominent iron gates and smooth paving among curved beds, surrounded by wooden latticework and green leafed plants."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The garden beds are viewed in an arched greenhouse, surrounded by wooden lattice panels and potted green plants, all transformed into a magical world with sparkling surfaces and shimmering lights.",
+        "1": "The garden layout is captured from the left, with lattice panels now appearing mystical, large potted plants shimmering, and the tiled pathway glowing under the magical setting.",
+        "2": "From the left, the garden beds curve within the glass-walled greenhouse, both now appearing ethereal, with glowing lattice and luminescent greenery within this magical world.",
+        "3": "A central, slightly rotated perspective shows the garden beds surrounded by lattice-paneled walls, transformed into enchanted materials with glowing features and a mystical vibe.",
+        "4": "The garden is viewed slightly from the right, with structural lattice panels, potted plants appearing in a magical world, with glowing leaves and an enchanting floor.",
+        "5": "Wide angle from the far left, showcasing the garden beds within a magical realm, surrounded by shimmering lattice and glowing surfaces complementing the design.",
+        "6": "The garden is seen head-on, with prominent glowing gates and a smooth, enchanted floor among curved beds, surrounded by wooden latticework now appearing with magical hues."
+    },
+    "prompt_shared": "a magical garden ",
+    "prompt_theme": "magical world",
+    "object_token": "scene"
+}

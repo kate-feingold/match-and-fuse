@@ -1,0 +1,21 @@
+{
+    "src": "A corgi puppy with large, pointed ears and a soft, fluffy coat. It has tan fur with white chest and paws, bright eyes, a small black nose, and slightly open mouth.",
+    "edit": "A Lego figure with an angular design, exaggerated ears of red and blue bricks, a yellow and white block face with circular black bricks eyes, and a white forehead stripe. Legs are rectangular green and blue blocks, tail is a simple red brick, with a glossy plastic appearance.",
+    "per_image_non_shared_src": {
+        "00": "A puppy on the left side with its tongue out, against a bright orange background, and a green plant leaf partially visible on the right edge.",
+        "01": "The puppy sits centered in front of an orange backdrop, looking straight ahead, with its ears perked and body symmetrical.",
+        "02": "The puppy is seated, slightly turned to the side, in front of a solid orange background, with its head tilted and looking to the left, ears standing.",
+        "03": "A puppy sits to the left, sticking out its tongue, against a bright orange backdrop.",
+        "04": "The puppy is against a vivid yellow background, seated upright with ears alert, looking directly forward."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The puppy is on the left with fluffed, frosty fur and a playful tongue, set against a snowy background. A green plant leaf, dusted with snow, is partially visible on the right, capturing a winter landscape.",
+        "01": "A puppy sits centered in front of a snow-dusted orange backdrop, gazing ahead. Its ears are perked up and lightly frosted, body symmetrical and fluffy. Gentle snowfall adds to the serene winter scene, contrasting the puppy's fur against soft winter tones.",
+        "02": "A puppy slightly turned to the side, seated before an orange sunset backdrop. It tilts its head, gazing leftward with upright ears. The puppy's fur appears soft like snow, against the warm orange background.",
+        "03": "A playful puppy positioned toward the left with its tongue out sits against a frosty scene with falling snowflakes. An orange backdrop contrasts with the snowy surroundings, capturing its playful appearance in a winter wonderland.",
+        "04": "The puppy is upright against an icy blue background, ears covered with snowflakes, looking forward. Misty breath from its open mouth, and the winter sunlight enhances the puppy's fur with a gentle sparkle."
+    },
+    "prompt_shared": "blocky multi-colored lego figure",
+    "prompt_theme": "winter",
+    "object_token": "animal"
+}

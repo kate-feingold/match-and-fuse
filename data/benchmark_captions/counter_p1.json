@@ -1,0 +1,9 @@
+{
+    "src": "A cluster of bright orange clementines with smooth, dimpled texture, nestled together. Their shiny skins catch the light, highlighting the grid pattern of the netting wrapping them.",
+    "edit": "A lively Pixar-style kitchen scene with bright onions in mesh, shiny wooden bowls, cheerful tangerines, cartoonish pitcher and a rolling pin, bright fruit, and playful blue oven mitts. Cartoonish scattered kitchen appliances are in the background.",
+    "per_image_non_shared_src": null,
+    "per_image_non_shared_edit": null,
+    "prompt_shared": "Pixar kitchen scene",
+    "prompt_theme": null,
+    "object_token": "kitchen"
+}

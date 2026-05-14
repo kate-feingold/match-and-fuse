@@ -1,0 +1,19 @@
+{
+    "src": "A sleek L-shaped sofa in smooth gray leather with plush cushions, featuring a minimalist design and metallic legs. Comes with dark gray and beige cushions, wide seating areas, low backrests, and understated stitching.",
+    "edit": "An L-shaped sectional sofa crafted from vibrant patchwork fabrics, with colorful cushions. Its backrests vary in height with playful patterns. It has mismatched legs of painted wood and metal. The sofa has spacious seating areas.",
+    "per_image_non_shared_src": {
+        "0": "A sofa is diagonally positioned in the living room corner with hardwood floors and a blue patterned rug partially underneath. To the left is a lamp and a door, with cushions on the sofa.",
+        "1": "A sofa viewed from a lower angle, showing its full length against wooden floors and a corner wall. A rug with patterns is on the right, a lamp is in the background, and pillows are on the sofa.",
+        "2": "The sofa is viewed from above, showing its layout against hardwood floors, with a doorway and dining area in the background, a blue rug partially visible, a small speaker in the corner, and neatly placed cushions.",
+        "3": "The sofa is central against a plain wall with wooden floors, cushions are perfectly arranged. In front, a small rustic table on a blue patterned rug."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The eclectic sofa is angled in the corner of a living room with vintage hardwood floors. A mismatched patterned rug is beneath it. To the left is an antique lamp and a vintage wooden door. Cushions with bold colors and textures are on the sofa.",
+        "1": "A sofa with bold colors and diverse textures is viewed from a lower angle against wooden floors and a patterned corner wall. On the right is a rug with vivid patterns. A uniquely shaped lamp is in the background. Scattered pillows have colorful designs.",
+        "2": "The sofa features vibrant patterns, viewed from above, on rustic hardwood floors. A doorway and vintage dining area with a blue rug are visible. A retro speaker is in the corner, with cushions in eclectic fabrics.",
+        "3": "A vibrant sofa with colorful, textured cushions sits against a decorated wall with assorted frames. In front, a mismatched table is on a rug with blues. Wooden floors and dynamic lighting highlight the scene."
+    },
+    "prompt_shared": "eclectic sofa",
+    "prompt_theme": "eclectic",
+    "object_token": "sofa"
+}

@@ -1,0 +1,21 @@
+{
+    "src": "A soft plush sloth toy with a warm brown fur, white face, dark brown eye markings, and long floppy arms and legs with off-white felt claws.",
+    "edit": "A soft plush sloth toy with anime characteristics, featuring a warm brown fur, a bright white face, dark brown markings around oversized eyes, long floppy arms and legs with off-white claws, and detailed stitching, capturing an anime style.",
+    "per_image_non_shared_src": {
+        "00": "The toy is on green grass next to a large tree with a textured trunk, surrounded by dirt and vibrant grass.",
+        "01": "the toy sits on a gray stone surface beside a river; across the water, a cityscape with tall buildings and green foliage is visible; the sky is cloudy.",
+        "02": "The toy is on lush green grass with scattered trees in the background, an expansive field with varying green shades, and park patches visible in the distance.",
+        "03": "The toy rests on a green wooden bench, with visible raindrops and aged textures, next to dirt and sparse vegetation. Nearby bushes detail the backdrop.",
+        "04": "The toy sits on a gray asphalt path with small pebbles, long lines, and faint cracks."
+    },
+    "per_image_non_shared_edit": {
+        "00": "A colorful toy on lush grass beside a tree with a textured trunk in an anime style. The ground reveals roots amidst the animated landscape, with rays of sunlight illuminating the scene.",
+        "01": "A toy sits on a sleek, cel-shaded stone beside an animated river. Across the water, a cityscape with tall buildings and stylized foliage appears. The sky has puffy anime clouds, all in bright, vivid colors, typical of anime style.",
+        "02": "A vibrant toy stands in lush emerald grass with whimsical trees in the distance. The expansive field has green hues and tiny park patches, resembling an anime landscape with bright colors and exaggerated features.",
+        "03": "A vibrant toy is on a colorful, stylized green bench with exaggerated textures and raindrops, in anime style. The background has detailed line work bushes and sparse vegetation, with a playful dirt ground.",
+        "04": "a toy sits on a gray asphalt path with vibrant anime-style textures. Pebbles sparkle in pastel colors, and lines form intricate designs like manga illustrations. The backdrop has shading and dynamic tones enhancing the toy's presence and stylized motion typical of anime art."
+    },
+    "prompt_shared": "anime sloth plushie",
+    "prompt_theme": "anime",
+    "object_token": "plushie"
+}

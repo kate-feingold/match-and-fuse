@@ -1,0 +1,21 @@
+{
+    "src": "A sleek white car with a modern design, featuring black accents on the grille and side mirrors, and polished black alloy wheels. Its compact shape and aerodynamic lines give it a sporty appearance.",
+    "edit": "A vibrant two-colored car with psychedelic swirl patterns, featuring bright hues and a retro design. The black wheels remain, contrasting with the colorful and eye-catching paint job that exudes a hippy vibe.",
+    "per_image_non_shared_src": {
+        "martin-katler-W3x8pH2jD60-unsplash": "The object is photographed from the front left at a low angle, with a concrete parking lot backdrop. The sky is overcast, and a black metal fence runs along the background, with a hint of setting sun.",
+        "martin-katler-gJ6mlD1kb_g-unsplash": "The object is viewed head-on in a parking lot, positioned symmetrically between painted lines. Behind it stands a low concrete wall under a pale sky with sparse clouds and distant trees along the horizon.",
+        "martin-katler-kS-yywlJlLU-unsplash": "The object stands head-on on a rural road, surrounded by dry grass and old farm fields. A long wire fence runs along the left side under a cloudy sky, with a few distant treetops visible.",
+        "martin-katler-p29B0I3ZYIk-unsplash": "The object is captured from the front left at a slightly elevated angle in a concrete parking lot. Tall office buildings and overcast sky form the background, with a mix of modern and urban elements.",
+        "martin-katler-tI0WS_hnCas-unsplash": "The object is seen from the back left on a cobblestone street, with historical buildings and trees in the background. The environment is urban, with overhead wires and scattered wall vines on display."
+    },
+    "per_image_non_shared_edit": {
+        "martin-katler-W3x8pH2jD60-unsplash": "The object is photographed from the front left at a low angle, with a sun-scorched parking lot backdrop. The hot summer sky is bright, casting strong sunlight over the scene and making colors vibrant.",
+        "martin-katler-gJ6mlD1kb_g-unsplash": "The object is viewed head-on in a parking lot under a glaring hot summer sky. The sun is high, creating sharp shadows, while distant trees are lush and appear sunlit, giving a warm atmosphere.",
+        "martin-katler-kS-yywlJlLU-unsplash": "The object stands head-on on a rural road, with sun-drenched fields and bright dry grass under the blazing hot summer sun. The sky is clear, and the landscape is parched and golden.",
+        "martin-katler-p29B0I3ZYIk-unsplash": "The object is captured from the front left at a slightly elevated angle in a heated summer parking lot. The tall office buildings shimmer in the sunlight, and heat makes the overcast sky appear bright.",
+        "martin-katler-tI0WS_hnCas-unsplash": "The object is seen from the back left on a sunlit street, with historical buildings radiating warmth. Trees are in full bloom, and the hot summer sunlight creates sharp shadows, enhancing the vibrant setting."
+    },
+    "prompt_shared": "two-colored hippy car",
+    "prompt_theme": "hot summer",
+    "object_token": "car"
+}

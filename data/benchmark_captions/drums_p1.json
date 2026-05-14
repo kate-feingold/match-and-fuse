@@ -1,0 +1,19 @@
+{
+    "src": "A compact electronic drum kit with six black drum pads on a sturdy black frame. The pads have white surfaces, and wooden drumsticks rest on the snare. The kit includes a foot pedal and drum throne, arranged in a room corner on a plaid mat.",
+    "edit": "Luxurious wooden drums with varnished shells and intricate grain patterns, gold hardware, ornate inlays. Polished brass cymbals. Leather stool with carved wooden legs. Mahogany drumsticks with warm hue.",
+    "per_image_non_shared_src": {
+        "IMG_7109": "A drum kit in the room's corner, with a brown acoustic guitar leaning on the right wall, a small box and book on the right floor, light gray walls, smooth gray floor, strings, and wires from the drum set on the floor.",
+        "IMG_7110": "a close-up of the drum kit on a geometric-patterned rug, with an electronic module on the left side, a partially opened sliding wooden closet door on the left, and faint wall shadows from a light source.",
+        "IMG_7111": "The focus is on the drum kit against a light-colored wall with visible seams. Pads, cymbals, and the foot pedal are centrally located. A gray patchwork rug lies under the kit, accentuating the setup.",
+        "IMG_7112": "The drum set is seen from a side angle, with pads in a semi-circle, foot pedal to the right beside the stool, cardboard boxes in the back right corner, and sections of a wooden closet visible."
+    },
+    "per_image_non_shared_edit": {
+        "IMG_7109": "A drum kit on a geometric-patterned rug in a music studio, with an electronic module with dials on the left. Dark sound-absorbing panels partially opened on the left, and soft lighting creating shadows on the wall.",
+        "IMG_7110": "A close-up of a drum kit on a geometric-patterned acoustic rug in a music studio. An electronic module with high-tech dials is on the left, partially opened dark sound-absorbing panels are visible. Soft light creates shadows on the wall.",
+        "IMG_7111": "A close-up of the drum kit on a rug with a geometric pattern in a music studio. The electronic module with dials is on the left. Dark sound-absorbing panels are partly open on the left. Ambient light creates shadows on the wall.",
+        "IMG_7112": "A close-up of a drum kit on a plush rug with a geometric pattern. The electronic module with high-tech dials is on the left. Dark sound-absorbing panels partially opened on the left. A soft light source creates shadows on the wall."
+    },
+    "prompt_shared": "luxurious drum set",
+    "prompt_theme": "music studio",
+    "object_token": "drums"
+}

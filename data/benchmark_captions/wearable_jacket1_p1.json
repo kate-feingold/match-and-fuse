@@ -1,0 +1,21 @@
+{
+    "src": "A cream-colored textured jacket with four metal buttons and woven trim detailing around the collar and pockets, featuring a cropped, tailored fit.",
+    "edit": "A luxurious two-toned Chanel-inspired jacket with elegant silver embellishments and intricate embroidered trim, maintaining a sophisticated, fitted style.",
+    "per_image_non_shared_src": {
+        "0": "The object is worn on a person, seen from the waist up, slightly front-facing. The background is a plain light-colored wall.",
+        "1": "The object is hanging on a hook, front-facing. The background consists of a light, textured wall.",
+        "2": "The object is laid flat on a soft blanket, with its arms neatly arranged. The background is a textured fabric in a muted blue shade.",
+        "3": "The object hangs on a blue hanger, tilted slightly. The background is a smooth white wall, adding contrast to the object.",
+        "4": "The object hangs on a blue hanger, front-facing directly. The background is a plain white wall, slightly shadowed."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is worn on a person, seen from the waist up, slightly front-facing. The background features luxury decor with soft, plush textures and golden accents.",
+        "1": "The object is hanging on a hook, front-facing. The background features an opulent, textured wall with subtle gold patterns.",
+        "2": "The object is laid flat on a plush, silk-like blanket, with its arms neatly arranged. The background is a luxurious fabric in rich, deep blue tones.",
+        "3": "The object hangs on a blue hanger, tilted slightly. The background is a smooth, elegant white wall with a pearl-like sheen, adding a luxurious touch.",
+        "4": "The object hangs on a blue hanger, front-facing directly. The background is an ornate white wall with subtle shadowing and intricate detailing."
+    },
+    "prompt_shared": "posh two-colored Chanel jacket",
+    "prompt_theme": "luxury",
+    "object_token": "object"
+}

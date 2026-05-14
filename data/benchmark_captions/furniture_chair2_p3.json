@@ -1,0 +1,19 @@
+{
+    "src": "A woven rattan hanging chair with an egg-like shape, circular weave pattern, and plush cream cushion, suspended by a sturdy rope.",
+    "edit": "A hanging chair in eclectic style with multicolored rattan, curvilinear egg shape, and bohemian weave pattern. Suspended by a twisted rope with a plush cushion in rich fabrics, blending patterns and textures.",
+    "per_image_non_shared_src": {
+        "rosemary-fields-Ah52Hgrae-Y-unsplash": "a chair is upright, slightly left of a vibrant indoor plant in a tall metallic pot, with a white brick wall behind, and daylight filtering through a large window.",
+        "rosemary-fields-ZIGZDDsoYCw-unsplash": "The chair is centered, hanging next to a green plant in a wicker basket, against a tall window with a black frame and a white brick wall for texture.",
+        "rosemary-fields-cHo2KJxqPuU-unsplash": "A chair is angled slightly forward, next to a leafy indoor plant in a woven holder on a stand. A worn white brick wall is the backdrop, with shadows from daylight through a large window.",
+        "rosemary-fields-lxDmpH2QLmM-unsplash": "A chair is viewed from the side, highlighting the weave pattern, next to a green plant in a basket, against a textured white brick wall, lit by natural light from a nearby window."
+    },
+    "per_image_non_shared_edit": {
+        "rosemary-fields-Ah52Hgrae-Y-unsplash": "A chair stands upright, slightly left of a vibrant plant in a tall metallic pot. The white brick wall behind has textured, intricate designs. Soft daylight through a window with an ornate frame casts fragmented shadows.",
+        "rosemary-fields-ZIGZDDsoYCw-unsplash": "The chair, with bold patterns and vibrant fabrics, is centered next to a lush green plant in a wicker basket. Behind, a tall window with stained glass inserts and a white brick wall filled with eclectic art pieces.",
+        "rosemary-fields-cHo2KJxqPuU-unsplash": "The chair is angled slightly forward with vibrant patterns, next to a leafy plant in a colorful holder on a stand. A vintage white brick wall with eclectic art pieces is in the backdrop, lit by daylight through a large framed window.",
+        "rosemary-fields-lxDmpH2QLmM-unsplash": "A chair with intricate bohemian weave, viewed from the side, next to a green plant in a vibrant basket. Background: textured white brick wall, illuminated by natural light."
+    },
+    "prompt_shared": "eclectic chair",
+    "prompt_theme": "eclectic",
+    "object_token": "chair"
+}

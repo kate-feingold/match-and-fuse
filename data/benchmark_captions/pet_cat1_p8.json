@@ -1,0 +1,21 @@
+{
+    "src": "A fluffy Persian kitten with a brown and cream coat and black stripes. It has blue eyes, a bushy tail, and whiskers around its round face. Standing confidently on delicate paws.",
+    "edit": "A clown kitten with vibrant green eyes and rainbow-colored fur in bright blue, neon green, and electric pink patterns. It has a painted smile, red nose, ruffled collar, ears with tiny jingling bells, viewed frontally, with a mischievous expression.",
+    "per_image_non_shared_src": {
+        "jeanie-de-klerk-QfOnteIcGZU-unsplash": "The object stands sideways, head on the left, on a grey tiled staircase with a fluffy, upturned tail. There's a parallel metal railing and soft light from the top right, with a blurred background.",
+        "jeanie-de-klerk-SGFLjexLlaI-unsplash": "The object is in a close-up view on the grey staircase, facing forward, bushy tail slightly lowered, daylight from the right side.",
+        "jeanie-de-klerk-av2WGfogjqg-unsplash": "The object sits on the stair with paws close together, body slightly tilted, next to a vertical metal railing on its right, under soft, even light.",
+        "jeanie-de-klerk-bhonzdJMVjY-unsplash": "The object is on a grey step, front legs apart, head turned to face the camera, with shiny metal railing in the background under bright diffused lighting.",
+        "jeanie-de-klerk-t_Z5ND4Ce3k-unsplash": "The object sits at the edge of a stair, looking slightly to the side, with a fluffy tail and metal railing. Ambient light creates soft shadows."
+    },
+    "per_image_non_shared_edit": {
+        "jeanie-de-klerk-QfOnteIcGZU-unsplash": "An object stands sideways, head left, on colorful, glittery tiled stairs. Its tail is fluffy and arched upwards. Metallic railings with bright patterns run parallel. Light from the top right casts shadows. The background is a blurred kaleidoscope of colors.",
+        "jeanie-de-klerk-SGFLjexLlaI-unsplash": "A vibrant object on a grey staircase under a red and white striped tent, with a bushy tail, colorful tassels, and a golden glow from the right reminiscent of circus stage lights.",
+        "jeanie-de-klerk-av2WGfogjqg-unsplash": "In circus style, the object perches on a stair, paws with colorful stripes, leaning playfully. Beside it is a vertical metal railing like circus poles, with bright, colorful lighting.",
+        "jeanie-de-klerk-bhonzdJMVjY-unsplash": "A painted clown figure sits atop a colorful, striped step, front legs open wide, head turned. Behind, a metal railing with circus flags and streamers. The scene has colorful lighting reminiscent of a circus performance.",
+        "jeanie-de-klerk-t_Z5ND4Ce3k-unsplash": "A vibrant object is poised at the edge of a lively stair, gazing slightly to the side with its tail in a flamboyant flourish. The railings are adorned with colorful streamers. Ambient light casts dynamic shadows, enhancing a carnival-like atmosphere."
+    },
+    "prompt_shared": "a kitten dressed like a clown",
+    "prompt_theme": "circus",
+    "object_token": "animal"
+}

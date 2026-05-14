@@ -1,0 +1,19 @@
+{
+    "src": "A savory dish with beef Wellington, its golden-brown pastry crust encasing tender pink beef, resting in a dark, rich sauce. Served with herb-dusted carrots and potatoes on an elegant white plate.",
+    "edit": "A fine dining dessert featuring a delicate pastry shell with a rich, dark chocolate ganache center, elegantly garnished with edible flowers. Served alongside caramel-glazed pieces and artisanal sugar decorations on an elegant plate.",
+    "per_image_non_shared_src": {
+        "0": "The object is centrally placed on a white plate with a black rim, framed by a fork on the left and a knife on the right, on a wooden table in soft ambient lighting.",
+        "1": "The object is positioned slightly to the right on the plate, surrounded by roasted carrots and potatoes, with a fork on the left and a knife on the right on a warmly lit wooden table.",
+        "2": "The object is set on the left side of an oval white plate, accompanied by carrots and potatoes, with flatware on either side on a polished wooden surface under cozy lighting.",
+        "3": "The object sits centrally on the plate, flanked by herb-roasted vegetables, with a fork to the left and a knife to the right on a wooden table in soft, relaxed lighting."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is centrally placed on a white plate with a black rim, framed by a fork on the left and a knife on the right, in a luxurious restaurant with ambient lighting.",
+        "1": "The object is positioned slightly to the right on the plate, surrounded by artistic accompaniments, with a fork on the left and a knife on the right in a softly lit luxury restaurant.",
+        "2": "The object is set on the left side of an oval white plate, accompanied by artisanal decorations, with flatware on either side on a polished surface in a luxury restaurant setting.",
+        "3": "The object sits centrally on the plate, flanked by elegantly glazed accompaniments, with a fork to the left and a knife to the right in a softly illuminated luxury restaurant."
+    },
+    "prompt_shared": "fine-dining desert",
+    "prompt_theme": "luxury restaurant",
+    "object_token": "object"
+}

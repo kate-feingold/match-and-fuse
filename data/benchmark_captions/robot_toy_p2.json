@@ -1,0 +1,21 @@
+{
+    "src": "A small white robot toy with a rounded body and black visor, featuring articulated arms and black wheel-like structures, blue accents on its chest panel and joints, and a compact form with smooth curves and intricate surface details.",
+    "edit": "A small robot toy with burgundy and golden colors, features an amber visor. Its arms have leaf patterns, wheels resemble acorns, and chest panel is brown and orange with carved autumn details.",
+    "per_image_non_shared_src": {
+        "00": "the object is on a textured grey fabric surface, facing slightly left, with a darker grey fabric background.",
+        "01": "The object is on a natural wooden slatted surface, facing straight ahead. The background is a cream-colored wall.",
+        "02": "The object is slightly left of the frame on a patio with brown, brick-patterned tiles, surrounded by trees and fallen leaves, facing right.",
+        "03": "The object is viewed from above, facing left, on a large grey rock with pine needles, surrounded by a rocky, forested setting.",
+        "04": "the object is on a large light grey rock, facing right and slightly downward, surrounded by grass and leaves on the ground in a natural outdoor environment."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object rests on a textured surface resembling autumn leaves in rich orange and rusty hues, positioned slightly to the left against a darker grey fabric background with golden foliage patterns.",
+        "01": "An object on a wooden slatted surface with fallen leaves, facing straight ahead. The background has a cream-colored wall and the warm autumn palette enhances the scene.",
+        "02": "The object is slightly turned to the left, resting on a brown-tiled patio with white lines. It is surrounded by vibrant autumn trees with orange, red, and gold leaves, oriented towards the right.",
+        "03": "The object is viewed from above, on a moss-covered rock layered with red and gold leaves, surrounded by autumn-colored forest. It faces slightly downward amid golden and amber leaves.",
+        "04": "A large light grey rock adorned with orange, red, and yellow autumn leaves sits sideways to the right. Surrounded by grass with amber leaves, it creates a seasonal scene with fall foliage."
+    },
+    "prompt_shared": "an autumn-themed robot",
+    "prompt_theme": "autumn",
+    "object_token": "toy"
+}

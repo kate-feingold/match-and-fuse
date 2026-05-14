@@ -1,0 +1,21 @@
+{
+    "src": "A tall white lighthouse with a cylindrical tower, domed top of metal and glass, black-rimmed light chamber, and narrow balcony sits on a rocky hill. Its base has small windows and decorative stonework, contrasting with the natural surroundings.",
+    "edit": "A sleek lighthouse made of futuristic alloy and transparent panels stands on rugged terrain. It has a neon-lit light chamber in a multifaceted dome, encircled by a slender catwalk. The base has sensors and luminescent accents, offering panoramic views.",
+    "per_image_non_shared_src": {
+        "jade-stephens-HzfFMa14VoU-unsplash": "The object stands on a rocky ledge in a landscape with bushes, under a partly cloudy pink sky. Viewed slightly upward, people walk along a metal railing at the base.",
+        "shubham-sharma-G1_qVTwwqGM-unsplash": "The object is on the right side of the rocky hill, bathed in a golden hue from the sun, under a clear blue sky.",
+        "szabolcs-toth--bGeOBD7fSQ-unsplash": "The object is centered atop a rocky hill, surrounded by people along paths leading to it, with a vibrant, partly cloudy sky in the background.",
+        "trent-bradley-45r5OVrwNMI-unsplash": "The object is near the center, with people gathered on a walkway leading to it; the sky is golden at sunset, and the hill below is in soft light.",
+        "trent-bradley-5VLqpHOiQ60-unsplash": "The object is silhouetted against a softly lit sky as evening approaches, with people on the railing and walkway around it. The foreground includes more railing, directing the eye."
+    },
+    "per_image_non_shared_edit": {
+        "jade-stephens-HzfFMa14VoU-unsplash": "The object stands on a jagged metallic ledge in a futuristic landscape with luminescent shrubs. The sky has deep violets, shimmering silvers, and neon glows. Viewed slightly upward, humanoid figures move along a sleek metal railing with bluish light, in sci-fi style.",
+        "shubham-sharma-G1_qVTwwqGM-unsplash": "The object is on the right side of the metallic hill with a neon hue, under a clear electric blue sky. The rocky terrain has a futuristic sheen, enhancing the sci-fi feel.",
+        "szabolcs-toth--bGeOBD7fSQ-unsplash": "A futuristic object on a rocky hill, surrounded by people in advanced attire along neon pathways. The background has a vibrant sky with digital overlays, holograms.",
+        "trent-bradley-45r5OVrwNMI-unsplash": "A futuristic object near the center on a metallic walkway, surrounded by people in sleek suits. The sky has a neon-hued sunset, and the hill below emits a cool, luminescent light. The scene reflects off metallic surfaces, enhancing a futuristic look.",
+        "trent-bradley-5VLqpHOiQ60-unsplash": "A futuristic metallic object against a neon-sky in sci-fi style. People in high-tech attire gather around a glowing, translucent railing, focusing attention on the central subject."
+    },
+    "prompt_shared": "futuristic lighthouse",
+    "prompt_theme": "sci-fi",
+    "object_token": "scene"
+}

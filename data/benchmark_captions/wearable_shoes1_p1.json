@@ -1,0 +1,21 @@
+{
+    "src": "A white sneaker with a minimalistic design, breathable knit mesh upper, and lace-up closure. It features 'ADIDAS' in bold on the side, padded tongue and heel tab, and a durable rubber outsole for traction.",
+    "edit": "A vibrant sandal with golden straps, a teal cushioned footbed, a fiery orange and green patterned base, and a lightweight flexible sole.",
+    "per_image_non_shared_src": {
+        "0": "the object sits at a slight angle on a light wood grain table with soft light from one side casting shadows enhancing surface texture",
+        "1": "The object rests on wooden flooring, partially against a white wall, with natural light from above, nearby floorboards appear lighter.",
+        "2": "The object is parallel to a white wall on slate-colored flooring, with light highlighting subtle textures.",
+        "3": "The object is on a modern black chair, with shadows highlighting its angular design against the soft contours.",
+        "4": "The object is on a multi-tiered metal rack with a soft fabric texture; overhead light creates balanced illumination, and surrounding surfaces cast subtle shadows, enhancing the layered look."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is placed at a slight angle on a light wood grain table, with soft light from one side casting shadows on the surface.",
+        "1": "the object rests on wooden flooring, partially against a white wall, with soft natural light filtering from above, nearby floorboards appear slightly lighter.",
+        "2": "the object is placed parallel to a white wall on slate flooring, with light reflecting on the surface highlighting subtle textures",
+        "3": "the object is on a modern, black chair, shadows define the angular design against its soft contours.",
+        "4": "The object is on a multi-tiered metal rack with a fabric texture, under overhead light that creates balanced illumination, casting subtle shadows."
+    },
+    "prompt_shared": "a vibrant sandal",
+    "prompt_theme": null,
+    "object_token": "shoes"
+}

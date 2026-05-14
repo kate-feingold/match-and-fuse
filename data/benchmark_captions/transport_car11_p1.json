@@ -1,0 +1,17 @@
+{
+    "src": "A life-sized LEGO taxi model with bright yellow bricks and black checker details, featuring a taxi sign on top and bright white headlights. The license plate reads LEGO-2021, and the side mirrors are gray.",
+    "edit": "A large, two-colored rusty car with faded blue and orange paint, featuring worn-out details, a dull chrome grille, and dimmed lights. The license plate is old and rusty, with corroded side mirrors.",
+    "per_image_non_shared_src": {
+        "0": "The object is positioned at an angle in a toy store display, with large LEGO superhero figures like Captain America in the background. The area is filled with various building kits and a city skyline made of LEGO bricks.",
+        "1": "The object is facing more towards the front, with LEGO superhero figures like Captain America towering over it. The surrounding area includes LEGO sets, toy boxes, and city buildings made of LEGO.",
+        "2": "The object is centered in a vibrant toy store setting with expansive LEGO displays, superhero figures, and a detailed LEGO city landscape filling the scene. Various LEGO sets and kits surround the area."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is positioned at an angle in a retro-themed space, with classic 1960s decor surrounding it. The area features vintage decorations and a retro city skyline backdrop.",
+        "1": "The object is facing more towards the front, with a retro theme accentuated by vintage superhero posters and classic advertisements. The surroundings showcase retro toy displays and mid-century decor.",
+        "2": "The object is centered in a retro setting with 1960s-themed backgrounds, including retro furniture and decor pieces reminiscent of a vintage era. Various retro toys and classic kits surround the area."
+    },
+    "prompt_shared": "a two-colored rusty car",
+    "prompt_theme": "retro",
+    "object_token": "car"
+}

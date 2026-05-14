@@ -1,0 +1,19 @@
+{
+    "src": "A sleek, modern leather sofa in a rich caramel color. The cushions are smooth and the arms have a clean, rectangular shape. It sits on slim black legs, adding to its minimalist design.",
+    "edit": "A modern sofa with big, wide interleaved stripes in vibrant teal, burnt orange, and ivory. The stripes cover the entire sofa, creating a bold and colorful pattern. It maintains its sleek rectangular shape and slim legs.",
+    "per_image_non_shared_src": {
+        "3": "The object is centered in a bright living room, with a laptop on the cushion. Behind it, two framed artworks hang on a white wall. A tripod lamp is to the right, and a rug on the floor.",
+        "michael-oxendine-GHCVUtBECuY-unsplash": "The object is placed against a white wall featuring two abstract artworks. A tall plant in a pot stands to the left, and a marble coffee table is in front. A standing lamp completes the setup.",
+        "michael-oxendine-JeFfOPjkN_Q-unsplash": "The object sits against a white wall with two nature photographs. A yellow cushion and a closed book rest on the seat. A tall tripod lamp is positioned on the right side.",
+        "michael-oxendine-pp3MDhG_bUk-unsplash": "The object is shown in a close-up, occupying the left portion of the image with a laptop on the seat. The background softly shows greenery and part of a coffee table."
+    },
+    "per_image_non_shared_edit": {
+        "3": "The object is centered in a modern room, with a laptop on the cushion. Behind it, two framed artworks in a contemporary style hang on a white wall. A tripod lamp is to the right, and a sleek rug on the floor.",
+        "michael-oxendine-GHCVUtBECuY-unsplash": "The object is placed against a white modern wall featuring two abstract artworks. A tall plant in a pot stands to the left, and a modern marble coffee table is in front. A standing lamp completes the setup.",
+        "michael-oxendine-JeFfOPjkN_Q-unsplash": "The object sits against a modern room wall with two nature-themed photographs. A yellow cushion and a closed book rest on the seat. A tall tripod lamp is positioned on the right side.",
+        "michael-oxendine-pp3MDhG_bUk-unsplash": "The object is shown in a close-up, occupying the left portion of the image with a laptop on the seat. The background softly shows modern greenery and part of a sleek coffee table."
+    },
+    "prompt_shared": "a sofa with big wide interleaved stripes of three-colors",
+    "prompt_theme": "a modern room",
+    "object_token": "sofa"
+}

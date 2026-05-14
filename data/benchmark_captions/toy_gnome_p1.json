@@ -1,0 +1,21 @@
+{
+    "src": "A lavender-painted gnome with a pointy hat, smiling face, prominent nose, and detailed beard. It wears a simple coat and boots, with hands behind its back, standing upright.",
+    "edit": "A colorful, animated gnome with a pointy hat, expressive eyes, and a highly detailed beard. It wears a vibrant coat and polished boots, exuding a playful, animated charm.",
+    "per_image_non_shared_src": {
+        "0": "The object stands upright on a wooden tabletop with its head tilted slightly upwards. The background is a simple gray wall with no additional objects visible.",
+        "1": "The object stands upright on a window ledge in natural light, overlooking a cloudy sky and distant greenery. The window frame is visible, providing an open view to the outside.",
+        "2": "The object is centrally positioned in an overhead view on a wooden surface, capturing its details from above. The surroundings include a light wood-grain texture with no additional objects.",
+        "3": "The object is positioned upright on a wooden tabletop against a blank wall. The wooden surface shows a consistent grain, with no other objects present, giving a minimalist look.",
+        "4": "The object stands centered on a white countertop, surrounded by kitchen elements like a silver faucet and a few scattered keys, under soft indoor lighting."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object stands upright on a vibrant, digitally animated wooden tabletop, with its head tilted slightly upwards. The Pixar-style scene features a stylized background and whimsical elements.",
+        "1": "The object stands upright on a window ledge in a Pixar-style world, overlooking a dynamically animated sky with distant, fantastical greenery. The window frame blends into the stylized setting.",
+        "2": "The object is centrally positioned in an overhead view on a Pixar-inspired wooden surface, capturing its animated details from above. The digital surroundings have a lively, stylized texture.",
+        "3": "The object is positioned upright on a Pixar-style wooden tabletop against a vividly animated wall. The wooden surface includes colorful patterns and whimsical animated effects.",
+        "4": "The object stands centered on a digitally animated countertop, surrounded by Pixar-style kitchen elements like a shiny faucet and stylized keys, under dynamic indoor lighting."
+    },
+    "prompt_shared": "a Pixar gnome",
+    "prompt_theme": "Pixar",
+    "object_token": "toy"
+}

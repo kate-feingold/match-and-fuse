@@ -1,0 +1,19 @@
+{
+    "src": "A sleek L-shaped sofa in smooth gray leather with plush cushions, featuring a minimalist design and metallic legs. Comes with dark gray and beige cushions, wide seating areas, low backrests, and understated stitching.",
+    "edit": "An L-shaped sectional sofa with a wooden frame and soft gray fabric. It features plush cushions, tapered wooden legs, and dark gray and soft beige cushions. It offers generously proportioned seats, reflecting mid-century modern style.",
+    "per_image_non_shared_src": {
+        "0": "A sofa is diagonally positioned in the living room corner with hardwood floors and a blue patterned rug partially underneath. To the left is a lamp and a door, with cushions on the sofa.",
+        "1": "A sofa viewed from a lower angle, showing its full length against wooden floors and a corner wall. A rug with patterns is on the right, a lamp is in the background, and pillows are on the sofa.",
+        "2": "The sofa is viewed from above, showing its layout against hardwood floors, with a doorway and dining area in the background, a blue rug partially visible, a small speaker in the corner, and neatly placed cushions.",
+        "3": "The sofa is central against a plain wall with wooden floors, cushions are perfectly arranged. In front, a small rustic table on a blue patterned rug."
+    },
+    "per_image_non_shared_edit": {
+        "0": "A mid-century-modern sofa positioned diagonally in a corner of the living room on sleek hardwood floors. A blue geometric-patterned rug lies partially under the sofa. To the left, a minimalist lamp and wooden door. Retro cushions are placed on the sofa.",
+        "1": "A mid-century modern sofa viewed from a lower angle shows its sleek lines against wooden floors and a retro corner wall. A geometric-patterned rug is on the right side, with a sculptural lamp and bold-patterned pillows completing the theme.",
+        "2": "A sofa with clean lines and tapered legs, viewed from above on hardwood floors, near a doorway to a dining area with curvy chairs in mid-century modern style. A blue geometric rug, small rectangular speaker, and colorful cushions enhance the sleek style.",
+        "3": "A mid-century-modern sofa with cushions is set against a minimalist wall with wooden floors. In front, a rustic table on a textured rug with geometric patterns. Soft lighting highlights the sofa's sleek lines, emphasizing mid-century-modern aesthetics."
+    },
+    "prompt_shared": "mid-century-modern-styled sofa",
+    "prompt_theme": "mid century modern",
+    "object_token": "sofa"
+}

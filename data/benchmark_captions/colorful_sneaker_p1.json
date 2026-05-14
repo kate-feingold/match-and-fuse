@@ -1,0 +1,21 @@
+{
+    "src": "A multicolored sneaker with pastel purple, mint green, and cream. It has cream laces, a rounded toe, a plush lining, and a chunky sole.",
+    "edit": "A sneaker with rustic orange, maroon, and brown textured upper, chocolate-colored laces, and rounded toe. It has a cushioned inner lining and a robust, thick sole.",
+    "per_image_non_shared_src": {
+        "00": "the object is on a diagonal rough concrete surface beside a rippling body of water, with trees in the background and a stone wall behind, separating the water from grass.",
+        "01": "The object is angled slightly to the right on a textured asphalt road with small specks and twigs scattered on the ground. The background is blurred showing the road.",
+        "02": "the object is on vibrant green grass, slightly sunken, surrounded by blades, with freshly mowed grass stretching into the distance.",
+        "03": "the object is lying slightly off-center on a green wooden park bench with some scratches. Behind is a patch of grass and a gray gravel path.",
+        "04": "The object is against a rustic red brick wall on a worn concrete sidewalk with patches and stains. The bricks have a weathered texture with visible mortar."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object is on a textured concrete surface with fallen leaves, beside a shimmering body of water. Background trees have red, orange, and golden leaves. Behind is an ancient stone wall with vines, separating the water from a grassy area with autumn foliage.",
+        "01": "The object is slightly angled to the right on a golden leaf-speckled road with amber and rust leaves, and twigs. The background is blurred, showing the picturesque road framed by trees. The scene captures the essence of fall.",
+        "02": "The object is on a carpet of orange, red, and yellow autumn leaves, slightly embedded in the layers. Curled leaf edges frame the object, with leaves scattered into the distance, embodying fall's essence.",
+        "03": "A park bench with golden-brown leaves on its wooden surface, positioned slightly off-center against grass with orange and red leaves. A light gray gravel path with leaves winds behind the bench.",
+        "04": "The object is against an autumn-hued brick wall, with red, orange, and gold tones. The sidewalk has auburn leaves. The bricks are textured with patches of mortar, reflecting an autumn atmosphere."
+    },
+    "prompt_shared": "autumn-themed sneaker",
+    "prompt_theme": "autumn",
+    "object_token": "shoes"
+}

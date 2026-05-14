@@ -1,0 +1,19 @@
+{
+    "src": "A simple wooden table with a light, natural finish. It has a square tabletop with smooth, rounded corners and sturdy, straight legs. The wood grain is visible across its surface, giving it a clean and minimalist appearance.",
+    "edit": "A table constructed from large, rough-hewn wooden logs. The square tabletop retains a rustic, textured surface, with visible knots and uneven edges. Thick, solid logs form the legs, natural and rugged in appearance, maintaining a sturdy structure.",
+    "per_image_non_shared_src": {
+        "0": "The table stands centered with one leg partially shadowed. It's surrounded by a patterned curtain in yellow and white chevrons, with a light wooden floor beneath and a blue chair beside it.",
+        "1": "The table is positioned near a window, casting light on the surface. It's accompanied by a backpack on the left and bordered by chevron curtains. The wooden floor and pale chair are visible in the setting.",
+        "2": "The table is viewed from above, showing the entire square surface. Placed among yellow and white chevron curtains, it stands near a backpack and a bright window, surrounded by a wooden floor and chair.",
+        "3": "The table stands near a large window, light illuminating its surface. The surroundings include patterned curtains in yellow and white, a wooden floor, and a visible chair, capturing a cozy corner of the room."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The table stands centered with one leg partially shadowed. It's surrounded by rustic home elements like burlap textured curtains in muted tones, with a distressed wooden floor beneath and a rough-hewn blue chair beside it.",
+        "1": "The table is positioned near a window, casting light on the surface. It's accompanied by an old leather backpack on the left and bordered by rustic burlap curtains. The worn wooden floor and aged chair are visible in the setting.",
+        "2": "The table is viewed from above, showing the entire square surface. Placed among rustic, burlap-textured curtains, it stands near an old leather backpack and a bright window, surrounded by a worn wooden floor and chair.",
+        "3": "The table stands near a large window, light illuminating its surface. The surroundings include burlap-textured curtains in muted tones, a distressed wooden floor, and a visible aged chair, capturing a rustic home charm."
+    },
+    "prompt_shared": "a table made of big wooden logs",
+    "prompt_theme": "rustic home",
+    "object_token": "object"
+}

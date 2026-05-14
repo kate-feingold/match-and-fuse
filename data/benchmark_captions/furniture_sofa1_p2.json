@@ -1,0 +1,19 @@
+{
+    "src": "A leather sofa in a warm tan color with straight lines and firm cushions. The sofa has slim armrests and stands on black metal legs. The leather has a smooth, slightly shiny texture.",
+    "edit": "A sofa with big wide interleaved stripes of navy blue, mustard yellow, and deep red. The cushions feature bold geometric patterns, and the armrests have a sleek, polished wooden finish.",
+    "per_image_non_shared_src": {
+        "3": "The object is centrally placed in the room, with a silver laptop open on it. The background includes a floor lamp with a wooden stand, abstract art on the wall, a large window to one side, and a white marble coffee table in the foreground.",
+        "michael-oxendine-GHCVUtBECuY-unsplash": "The object is positioned against the wall underneath two framed abstract art pieces. A tall green potted plant is to the side, and a floor lamp stands nearby. A white marble table is partially visible in front.",
+        "michael-oxendine-JeFfOPjkN_Q-unsplash": "The object has an orange pillow and a closed book resting on it. The background shows two nature-themed framed pictures on the wall, and a wooden floor lamp to the right.",
+        "michael-oxendine-pp3MDhG_bUk-unsplash": "The object is viewed from an angle, focusing on the open silver laptop placed on the leather surface. The background includes some greenery, with leaves visible behind the sofa."
+    },
+    "per_image_non_shared_edit": {
+        "3": "The object is centrally placed in a modern room, with a silver laptop open on it. The background in the modern room has a sleek floor lamp with a smooth, minimalistic design, modern art on the wall, a large window to one side, and a white marble coffee table in the foreground.",
+        "michael-oxendine-GHCVUtBECuY-unsplash": "The object is positioned against the wall underneath two framed modern art pieces. A tall green potted plant is to the side, and a sleek floor lamp stands nearby. A white marble table is partially visible in front in the modern room.",
+        "michael-oxendine-JeFfOPjkN_Q-unsplash": "The object has an orange pillow and a closed book resting on it. The background shows two modern-themed framed pictures on the wall, and a minimalist wooden floor lamp to the right in the modern room.",
+        "michael-oxendine-pp3MDhG_bUk-unsplash": "The object is viewed from an angle, focusing on the open silver laptop placed on the patterned surface. The background in the modern room includes some greenery, with sleek, modern elements visible behind the sofa."
+    },
+    "prompt_shared": "a sofa with big wide interleaved stripes of three-colors",
+    "prompt_theme": "a modern room",
+    "object_token": "sofa"
+}

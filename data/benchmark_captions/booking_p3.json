@@ -1,0 +1,17 @@
+{
+    "src": "An elegant bedroom with a double bed with red and white pillows, red and gold curtains. A purple sofa has red cushions. An ornate chandelier hangs from the ceiling. A small table and chair sit beside the bed.",
+    "edit": "A bedroom with a luxurious double bed and varied pillows. Mismatched striped and polka dot curtains frame tall windows. A purple sofa and colorful cushions complement a chandelier with vintage tea cups. Walls have geometric patterns, a patchwork rug, and a round table with mismatched chairs.",
+    "per_image_non_shared_src": {
+        "554397294": "a bed is center right with pillows, large windows with gold curtains behind, a purple sofa with red cushions on the left, an ornate chandelier on the ceiling, a painting above a round table and chair, a pink rug on the floor",
+        "554397309": "The view shows a bed centered against the wall, with ornate lamps on either side, windows with gold curtains on the left, a sofa with red cushions, a chandelier hanging, a wooden table and chair adjacent, and framed art on the wall.",
+        "554397316": "bed at an angle with purple headboard and red accents, windows with gold curtains to the left, a chandelier on ceiling, modern round table with chairs beside bed, doorway in rear, pink rug underfoot."
+    },
+    "per_image_non_shared_edit": {
+        "554397294": "A bed against the wall, with vintage lamps on sides. Left windows have gold-tasseled curtains. A plush sofa has vibrant cushions. Overhead, an unconventional chandelier. Nearby, a wooden table and chair. On the wall, eclectic framed art pieces.",
+        "554397309": "A bed against the wall, flanked by vintage lamps. Left windows have gold-tasseled curtains. A plush sofa with patterned cushions, an overhead statement chandelier, and a quirky wooden table with a mismatched chair. Eclectic framed art decorates the wall.",
+        "554397316": "A bed against the wall with vintage lamps, gold-tasseled curtains on the left. A plush sofa with patterned cushions, a chandelier, a wooden table, and chair nearby. Eclectic framed art on the wall in an eclectic style."
+    },
+    "prompt_shared": "eclectic room",
+    "prompt_theme": "eclectic",
+    "object_token": "apartment"
+}

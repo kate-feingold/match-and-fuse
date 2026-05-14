@@ -1,0 +1,19 @@
+{
+    "src": "A smooth green ceramic cup with a glossy texture and white interior. The cup has a standard handle and cylindrical shape, reflecting light subtly on its surface.",
+    "edit": "A translucent iridescent cup with a pearlescent sheen. The handle and interior glimmer with shifting hues, creating a mystical look with soft, shimmering light reflections.",
+    "per_image_non_shared_src": {
+        "0": "The object is tilted diagonally on a black leather surface. The background includes soft-focus flooring and blurred furniture, with a cozy indoor setting and a hint of ambient light.",
+        "1": "The object is tilted diagonally on a dark leather surface. The background consists of stacked books and a blurred desk environment, with subtle wooden textures and tech gadgets.",
+        "2": "The object is held upright in a hand, centered in the image. The background features a room with wooden drawers, a white standing fan, and scattered household items under soft lighting.",
+        "3": "The object is placed upright on a wooden surface. The background includes an array of electronics, a wooden desk, visible cables, and a softly lit office environment."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is tilted diagonally on a black leather surface. Dream-like soft focus flooring and ethereal furniture appear with whimsical ambient light in a dream setting.",
+        "1": "The object is tilted diagonally on a dark leather surface. Stacked books and a blurred desk transform into an abstract dream setting with surreal wooden textures and tech gadgets.",
+        "2": "The object is held upright in a hand, centered in the image. The room with wooden drawers and a fan becomes part of a dream setting with scattered dream-like household items.",
+        "3": "The object is placed upright on a wooden surface. Electronics and a wooden desk are bathed in a surreal dream light, creating an ethereal office environment."
+    },
+    "prompt_shared": "a lucid cup",
+    "prompt_theme": "a dream",
+    "object_token": "object"
+}

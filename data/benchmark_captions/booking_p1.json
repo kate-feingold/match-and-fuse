@@ -1,0 +1,17 @@
+{
+    "src": "An elegant bedroom with a double bed with red and white pillows, red and gold curtains. A purple sofa has red cushions. An ornate chandelier hangs from the ceiling. A small table and chair sit beside the bed.",
+    "edit": "An opulent bedroom with a lavish double bed, geometric-patterned pillows in green and gold, emerald and bronze curtains, a sleek purple sofa with red cushions, and an art-deco chandelier. Walls have a flamboyant pattern and a pink rug underfoot. A round table and chair beside the bed.",
+    "per_image_non_shared_src": {
+        "554397294": "a bed is center right with pillows, large windows with gold curtains behind, a purple sofa with red cushions on the left, an ornate chandelier on the ceiling, a painting above a round table and chair, a pink rug on the floor",
+        "554397309": "The view shows a bed centered against the wall, with ornate lamps on either side, windows with gold curtains on the left, a sofa with red cushions, a chandelier hanging, a wooden table and chair adjacent, and framed art on the wall.",
+        "554397316": "bed at an angle with purple headboard and red accents, windows with gold curtains to the left, a chandelier on ceiling, modern round table with chairs beside bed, doorway in rear, pink rug underfoot."
+    },
+    "per_image_non_shared_edit": {
+        "554397294": "A bed against the wall has art-deco geometric designs and metallic accents. Symmetrical lamps are on each side. Gold drapes cover windows. Left is a sofa with red cushions. A chandelier above, a wooden table and chair nearby, and bold art on the wall.",
+        "554397309": "A bed with geometric designs and sleek metallic accents, art-deco style, is centrally placed against the wall. Symmetrical lamps frame it. Left, a sofa has red cushions with angular designs. A chandelier above, and a wooden table and chair adjacent. Gold draped windows and framed art.",
+        "554397316": "A bed with geometric designs and metallic accents is centrally placed against the wall. Symmetrical lamps frame each side. Windows have gold fabric with motifs. To the left, a plush sofa with red cushions, a grand chandelier above. A nearby table and chair have streamlined forms."
+    },
+    "prompt_shared": "Art Deco room",
+    "prompt_theme": "art deco",
+    "object_token": "apartment"
+}

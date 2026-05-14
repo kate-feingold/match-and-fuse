@@ -1,0 +1,25 @@
+{
+    "src": "A sleek toy car with a glossy black and red exterior, featuring a distinctive grille and red wheels. Its compact design has realistic details like side mirrors, headlights, and a sporty contour.",
+    "edit": "A majestic toy car with a glossy silver and blue exterior, featuring an elegant grille and blue wheels. Its design includes luxurious details like side mirrors, headlights, and a refined contour.",
+    "per_image_non_shared_src": {
+        "0": "The object is positioned at an angle on a flat surface next to a ledge, surrounded by blurred greenery and distant buildings in the background.",
+        "1": "The object faces forward on a rough-textured surface, with surrounding scattered natural elements such as twigs and leaves.",
+        "2": "The object is shown from the rear on a textured surface, with some pine needles and natural debris visible.",
+        "3": "The object is angled with an open door on a rough surface, with scattered pine needles around.",
+        "4": "The object is positioned sideways on a rough surface, surrounded by scattered pine needles.",
+        "5": "The object is angled sideways on a dark wooden surface, showing reflections on the glossy surface.",
+        "6": "The object faces forward on a dark wooden surface, with visible wooden grain patterns around."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is positioned at an angle on a flat surface near a racing track, with blurred race banners and distant spectators in an F1 setting.",
+        "1": "The object faces forward on a textured track surface, with nearby racing decals and F1 elements like flags and tracks.",
+        "2": "The object is shown from the rear on a racing track surface, with visible F1 race elements like tires and track marks.",
+        "3": "The object is angled with an open door on a racing track surface, with scattered elements like tire marks around.",
+        "4": "The object is positioned sideways on a racing track surface, surrounded by F1 elements like track boundaries and flags.",
+        "5": "The object is angled sideways on a racing podium, with shiny track reflections and visible F1 trophies and banners.",
+        "6": "The object faces forward on a polished racing podium, with visible reflections and F1 race markings around."
+    },
+    "prompt_shared": "majestic two-colored bugatti chiron",
+    "prompt_theme": "F1",
+    "object_token": "car"
+}

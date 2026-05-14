@@ -1,0 +1,23 @@
+{
+    "src": "A compact succulent plant with fleshy, elongated leaves, soft green with frosty white dusting, arranged in a rosette shape. It is in a small, glossy black faceted pot with light brown pebbles.",
+    "edit": "A compact succulent with fleshy, elongated leaves in a golden hue with burnt orange dusting, forming a rosette shape. It's in a small matte terracotta faceted pot with deep brown pebbles.",
+    "per_image_non_shared_src": {
+        "0": "the object is centered on a textured concrete surface with scattered dried pine needles, illuminated naturally, against a soft-focus tree background.",
+        "1": "The object is on a large, intricately designed green leaf-shaped tray, indoors with gentle lighting highlights.",
+        "2": "The object is on a narrow bluish-grey ledge, overlooking a parking lot filled with cars. The background has blurred branches and distant buildings, with ample daylight.",
+        "3": "The object is on a bluish-grey ledge, with tree-filled surroundings and distant rooftops, sunlight casting shadows.",
+        "4": "The object is on a white windowsill with a paper clip, outside view of tree branches and a partially visible building through a double window pane.",
+        "5": "The object sits on a dark wooden table, near a window with a mesh screen, in dappled sunlight.",
+        "6": "The object is on a dark wooden surface with textured appearance, under strong indoor lighting that casts detailed shadows, creating contrast."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is centered on a weathered stone surface with vibrant autumn leaves. The background has trees with orange, red, and yellow foliage. Warm, golden lighting casts soft shadows.",
+        "1": "An object rests on a broad, ornately sculpted tray shaped like a leaf, in earthy orange with hints of deep red. Soft indoor lighting adds glowing highlights, enhancing the setting in autumn style.",
+        "2": "an object rests on a russet-brown ledge, overlooking a parking lot with vehicles. Blurred branches with orange and red leaves are around, with distant buildings like a watercolor background, in ample daylight casting a golden hue.",
+        "3": "The object is on a ledge with russet and gold hues, surrounded by trees with orange, red, and yellow leaves. Distant rooftops are beneath trees shedding foliage. Sunlight casts shadows in a crisp, golden autumn landscape.",
+        "4": "The object rests on a leaf-strewn windowsill with an oak leaves and paper clip. Outside, bare tree branches against an autumn sky, and a building visible through a streaked window pane."
+    },
+    "prompt_shared": "autumn-themed plant",
+    "prompt_theme": "autumn",
+    "object_token": "plant"
+}

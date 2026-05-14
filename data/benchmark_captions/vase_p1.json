@@ -1,0 +1,21 @@
+{
+    "src": "A tall slender maroon ceramic vase with a glossy finish, tapers at the top, flaring out with a marbled dark red pattern. Delicate dried foliage extends upward from the rim.",
+    "edit": "A tall vase of two-toned marble with black and white swirls, slender and flaring at the base. It holds pale yellow pompoms on green stems. The marble's veins reflect light subtly.",
+    "per_image_non_shared_src": {
+        "00": "The vase is centrally placed on a rectangular wooden tray with a small, dark teapot in a softly lit room with large windows showing greenery, and it holds delicate, wispy branches.",
+        "01": "The vase and a small teapot are on a tray on a table, with a blurred background of a wooden door and neutral walls in soft lighting.",
+        "02": "The vase is standalone against a white background, centered and highlighted by even lighting.",
+        "03": "The vase contains two bright yellow pom-pom flowers and a large green leaf, set against a white backdrop, highlighting the vase's intricate design.",
+        "04": "The vase is on a large closed book with pale pages, against a plain white wall, holding a branch with small yellow flowers."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The vase is centrally placed on a rectangular wooden tray with a small, dark teapot, in a Japanese Zen room with large shoji windows showing greenery. The vase holds thin branches in Ikebana style. Soft, natural light filters through the room.",
+        "01": "A ceramic vase with cherry blossom motifs on a wooden tray, with a small teapot with curved handles and a bamboo spout. The scene is set against a blurred shoji screen and earthy-toned washi paper walls, with soft lighting and shadows.",
+        "02": "The standalone vase is centered against a textured washi paper background, highlighted by diffused lighting, reflecting Japanese minimalistic design. It embodies wabi-sabi philosophy with gentle curves and understated elegance, in a serene Japanese style.",
+        "03": "A vase with cherry blossom motifs, filled with two yellow pom-pom flowers and a large green leaf, set against a white backdrop, showcasing minimalist Japanese aesthetics.",
+        "04": "A traditional Japanese vase on a large closed book with yellowed pages, against a plain white wall. The vase holds a singular branch with small yellow flowers, reflecting Japanese minimalism and elegance."
+    },
+    "prompt_shared": "two-colored marble vase",
+    "prompt_theme": "japanese",
+    "object_token": "vase"
+}

@@ -1,0 +1,27 @@
+{
+    "src": "A small plant with slender, elongated dark green leaves tinged with pink, growing vertically in a geometric black pot containing pebbles. Each leaf has a smooth surface and a narrow shape.",
+    "edit": "A vibrant, large flower with multiple full, rounded petals in vivid colors. The petals display shades of purple and yellow. It is placed in a geometric black pot with small decorative stones.",
+    "per_image_non_shared_src": {
+        "0": "The object stands centered in a black pot on a gray concrete surface, surrounded by scattered pine needles, creating a rustic outdoor feel.",
+        "1": "The object is centrally placed in a black pot, resting on a decorative green metallic surface with artistic leaf patterns.",
+        "2": "The object is positioned slightly to the left on a black pot, set on a blue-gray balcony railing, with a blurred outdoor landscape in the background.",
+        "3": "The object is placed to the front of a black pot on a blue balcony surface, showing a parking lot and trees in the blurred backdrop.",
+        "4": "The object stands in the center of a black pot on a white windowsill, with an outdoor scene visible through the window behind it.",
+        "5": "The object stands vertically in a black pot on a darkened windowsill, with vertical railings and trees visible through the window screen.",
+        "6": "The object is centrally placed in a black pot on a textured marble surface with varied shades of gray and brown.",
+        "7": "The object is placed upright in a black pot on a smooth black tabletop, with furniture and household items faintly visible in the soft focus."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The large flower blooms in the pot on a spring-themed concrete surface, surrounded by delicate spring flowers and fresh green shoots.",
+        "1": "The large flower fills the pot, resting on a spring-themed green metallic surface adorned with sculptural flower patterns.",
+        "2": "The large flower sits in the pot on a spring-inspired blue-gray railing, with verdant, blooming landscapes in the blurred background.",
+        "3": "The large flower sways slightly in the pot on a spring-blue surface, against a backdrop of blossoming trees and a lively atmosphere.",
+        "4": "The large flower blooms fully in the pot on a windowsill, with vibrant spring scenes and blossoming flowers visible outside the window.",
+        "5": "The large flower stands tall in the pot on a spring-themed windowsill, against a background of fresh green foliage and pastel blossoms.",
+        "6": "The large flower reduces the pot space, on a spring-themed marble surface, surrounded by images of blooming flowers and fresh colors.",
+        "7": "The large flower fills the pot, set on a spring-inspired tabletop, with hints of sunlight and nearby spring flora in the soft background."
+    },
+    "prompt_shared": "a big blooming flower in a pot",
+    "prompt_theme": "spring",
+    "object_token": "plant"
+}

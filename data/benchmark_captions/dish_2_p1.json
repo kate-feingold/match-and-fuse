@@ -1,0 +1,19 @@
+{
+    "src": "A plate with a grilled steak topped with roasted baby potatoes and carrots. The steak has a seared crust, the potatoes are golden brown, and the carrots are charred. The dish is garnished with a vibrant herb sauce and sprinkled chives.",
+    "edit": "A plate with a two-scoop ice cream cone toppled over. One scoop is rich dark chocolate and the other is creamy vanilla. The cone is a classic wafer and there\u2019s drizzling caramel syrup. Sprinkles of nuts add texture.",
+    "per_image_non_shared_src": {
+        "0": "The object is placed slightly off-center on a white plate. The background has a wooden table with a glass of water nearby. A hint of another dish can be seen in the upper left corner.",
+        "1": "The object is positioned at the center of the plate, viewed from above. The wooden table surrounds the plate, with a glass of water and silverware on the left side.",
+        "2": "The object is centrally placed on a white plate, viewed slightly from above. A wooden table provides the setting, with a glass of water to the left and silverware present.",
+        "3": "The object is on a plate at the center, seen from above. A glass of water and another glass partially visible to the right sit on the wooden table background."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is placed slightly off-center on a white plate. The luxury restaurant features a wooden table with a sparkling glass of water. A hint of refined dishware is seen in the upper left corner.",
+        "1": "The object is positioned at the center of the plate, viewed from above. The luxury restaurant's elegant wooden table surrounds it, with a crystal glass of water and polished silverware on the left side.",
+        "2": "The object is centrally placed on a white plate, viewed slightly from above. A luxury restaurant's sophisticated wooden table provides the setting, with a crystal glass of water to the left and refined silverware present.",
+        "3": "The object is on a plate at the center, seen from above. A crystal glass of water and another partially visible glass to the right sit on the luxury restaurant's elegant wooden table background."
+    },
+    "prompt_shared": "a plate with a laying two-taste icecream cone",
+    "prompt_theme": "luxury restaurant",
+    "object_token": "object"
+}

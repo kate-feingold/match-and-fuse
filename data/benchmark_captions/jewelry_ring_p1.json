@@ -1,0 +1,21 @@
+{
+    "src": "A ring with a vibrant pink gemstone set in a rectangular halo surrounded by small white diamonds. The band is rose gold, encrusted with matching diamonds, creating a sparkling and elegant appearance.",
+    "edit": "A ring with a striking combination of jade and amber stones. The central rectangular jade is framed by small amber stones. The band features matching amber accents, giving it an earthy, exotic appearance.",
+    "per_image_non_shared_src": {
+        "sabrianna-EOAaLXkPyGA-unsplash": "The object is positioned with a front view, showcasing the pink gemstone against a smooth pink gradient background with subtle color variations.",
+        "sabrianna-LlEH4GL5iow-unsplash": "The object is angled from the side, resting on a flat surface, with a plain white background highlighting the intricate details of the stone and setting.",
+        "sabrianna-V3RCa8hZqPc-unsplash": "The object rests at a tilted angle, emphasizing the stone's facets. The plain white background accentuates the ring\u2019s sparkling elements.",
+        "sabrianna-uiKSc7-NM2s-unsplash": "The object is placed in a side-angled position, flat against a white surface. The background remains unobtrusive, focusing attention on the gemstone\u2019s brilliance.",
+        "sabrianna-yEJwDxAoHc0-unsplash": "The object is showcased at a tilted angle on a white background, enhancing the view of the gemstone and the detailed setting."
+    },
+    "per_image_non_shared_edit": {
+        "sabrianna-EOAaLXkPyGA-unsplash": "The object is positioned with a front view, showcasing the jade and amber stones against a plain black background with subtle highlights.",
+        "sabrianna-LlEH4GL5iow-unsplash": "The object is angled from the side, resting on a flat surface, with a plain black background enhancing the contrast and details of the stones.",
+        "sabrianna-V3RCa8hZqPc-unsplash": "The object rests at a tilted angle, emphasizing the stone's facets. The plain black background complements the ring\u2019s earthy elements.",
+        "sabrianna-uiKSc7-NM2s-unsplash": "The object is placed in a side-angled position, flat against a black surface. The background enhances the focus on the gemstone's unique colors.",
+        "sabrianna-yEJwDxAoHc0-unsplash": "The object is showcased at a tilted angle on a black background, enhancing the view of the jade and amber stones."
+    },
+    "prompt_shared": "a ring with jade and amber stones",
+    "prompt_theme": "plain black background",
+    "object_token": "object"
+}

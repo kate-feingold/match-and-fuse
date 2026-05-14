@@ -1,0 +1,21 @@
+{
+    "src": "A fluffy black and white dog with pointed ears, wearing a harness. Its coat is white with black patches. The dog has a lively expression, attentive eyes, a wagging tail, and an open mouth with a hanging tongue.",
+    "edit": "A blocky Minecraft figure composed of square pixels with a cubic appearance. It has gray and white tones like stone blocks, a block-like body, and rectangular eyes on the face, with a simplistic harness integrated.",
+    "per_image_non_shared_src": {
+        "00": "The object is viewed from above, running towards the camera on fallen leaves in a park, surrounded by green shrubs. The gray and white dog has its head slightly left, tail raised, under dappled sunlight.",
+        "01": "The object sits on a paved path lined with tall trees, facing forward with its tongue out and a leash on its collar. The path flanked by foliage stretches into the distance, creating depth.",
+        "02": "The dog is lying with front paws crossed on a white surface indoors, blurred beige and brown background, head slightly tilted right, ears perked up, soft light on its face.",
+        "03": "The object is viewed from above running towards the camera in a field of purple flowers and greenery, its head turned right, tail upward. The densely packed flowers contrast with the dog's fur under bright daylight.",
+        "04": "The object lies on a patterned gray and white blanket with its head turned to the right, showing its profile. Both ears are up, set against a softly lit gray background with light shadows."
+    },
+    "per_image_non_shared_edit": {
+        "00": "A dog viewed from above, running towards the camera on freshly fallen snow in a park, surrounded by bare shrubs. The gray and white dog has its head turned left with its tail raised. Winter sunlight filters through leafless trees overhead.",
+        "01": "The object is on a snow-covered path lined with tall, frost-laden trees. A dog faces forward with tongue out, breath forming small clouds, leash attached and lying on the snow, creating depth in the winter avenue.",
+        "02": "The dog is lying with its front paws crossed on a snow-covered surface, indoors with a blurred background of frosty white and icy blue tones. Its head is tilted to the right, ears perked up, and highlighted by chilly light.",
+        "03": "The object is viewed from above, running towards the camera in a field of frosty purple flowers and snow-dusted greenery. Its head is turned slightly right, tail curved upward, in a colorful natural setting under wintry daylight.",
+        "04": "The object rests on a snowflake-patterned, gray and white blanket, head turned right in profile, ears tall and alert. The background is soft frosty gray, illuminated from one side, with winter shadows."
+    },
+    "prompt_shared": "blocky minecraft figure",
+    "prompt_theme": "winter",
+    "object_token": "animal"
+}

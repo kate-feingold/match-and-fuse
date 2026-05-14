@@ -1,0 +1,37 @@
+{
+    "src": "A person wearing glasses with a variety of casual jackets and shirts. The person has straight black hair and is captured in different outdoor and indoor settings.",
+    "edit": "A playful animated character with expressive features, large rounded glasses, and vibrant clothing. The character has sleek stylized hair, designed with whimsical proportions and a colorful palette.",
+    "per_image_non_shared_src": {
+        "0": "The object stands facing forward, with an orange jacket. The background shows barren trees on rocky terrain under a cloudy sky.",
+        "1": "The object is reclining in a chair under a tree with dense leaves. The background includes a pathway and pebbles.",
+        "10": "The object is seated with arms crossed in a cafe. The background features brick walls, a large pillar, and a window showing street scenes.",
+        "11": "The object is seated indoors with a gray hoodie. The background has glass walls with a view of an elevated walkway.",
+        "12": "The object stands before a mountain range and lake. The background includes lush greenery, flag poles, and clear skies.",
+        "2": "The object is close up against a blank white wall indoors. The background is plain and featureless.",
+        "3": "The object is against a dark gray backdrop. The background is simple with no additional elements, emphasizing the person.",
+        "4": "The object smiles indoors wearing a dark shirt. The background includes artworks leaning against a white wall.",
+        "5": "The object stands by a river, wearing a beanie and leather jacket. The background features a wide river, cliffs, and autumn foliage.",
+        "6": "The object stands with a spiky hairstyle and leather jacket. The background shows an ornate building facade adorned with holiday decorations.",
+        "7": "The person stands before a towering landmark arch, dressed in a white hoodie and leather jacket. The bustling urban scene features palm trees and a historical monument.",
+        "8": "In a room with soft natural light and blurred artworks on the walls, the person is in a suit, focusing on their reflective pose near the window.",
+        "9": "At a crowded sports stadium filled with spectators, the person wears a red sports jersey and leather jacket, surrounded by the vibrant atmosphere of a live event."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object stands facing forward with an animated style wearing bright colors. In a Pixar-inspired landscape, barren trees are exaggerated and the rocky terrain is stylized with vivid animations.",
+        "1": "The object reclines in a chair with a playful animated style under a Pixar-tree with lushly detailed leaves. The pathway and pebbles are vibrantly illustrated.",
+        "10": "The object is seated in a lively animated cafe setting. The Pixar-inspired background includes stylized brick walls, a large pillar, and a window with whimsical street scenes.",
+        "11": "The object wears a playful animated hoodie indoors. The Pixar-inspired background features vibrant glass walls with an animated elevated walkway view.",
+        "12": "The object stands in front of animated mountains and a stylized lake. The Pixar-inspired background includes lush, vibrant greenery and clear, animated skies.",
+        "2": "The object is close up against an animated white surface indoors. The Pixar-inspired background is simple and stylized with soft animations.",
+        "3": "The object stands against a dark Pixar-inspired backdrop. The animated background remains simple for emphasis on the character.",
+        "4": "The object smiles in a bright animated room wearing a playful dark shirt. The Pixar-inspired background includes whimsically animated artworks.",
+        "5": "The object stands by a vividly animated river in a Pixar setting, wearing a playful beanie and jacket. The animated background details cliffs and foliage.",
+        "6": "The object stands with an animated spiky hairstyle, wearing bright clothing. The Pixar setting features a stylized building facade with detailed holiday animations.",
+        "7": "The character stands before an animated arch, in an illustrated colorful jacket. The Pixar-style urban scene includes animated palm trees and historical landmarks.",
+        "8": "In a softly-animated room with blurred artistic animations on the walls, the character wears a playful animated suit, reflecting while near an animated window.",
+        "9": "At a cartoonishly animated sports stadium with exuberant Pixar-style fans, the character wears a bright animated sports jersey amidst the fantastical ambiance."
+    },
+    "prompt_shared": "Pixar character",
+    "prompt_theme": "Pixar",
+    "object_token": "person"
+}

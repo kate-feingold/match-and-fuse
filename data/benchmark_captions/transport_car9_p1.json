@@ -1,0 +1,19 @@
+{
+    "src": "A sleek green car with a glossy finish, featuring distinctive dual front grilles, sharp LED headlights, and a streamlined body. The car has visible Alpina branding and a modern design with chrome accents.",
+    "edit": "A whimsical pastel-colored car with charming floral patterns, featuring playful round headlights, a heart-shaped front grille, and decorative decals. The car showcases a quaint, cartoonish design with colorful embellishments.",
+    "per_image_non_shared_src": {
+        "martin-katler-6736qQNu0Nw-unsplash": "The car is facing forward on a snowy path with bare trees lining the road. Snow gently falls, covering the ground and branches, creating a serene winter scene around the vehicle.",
+        "martin-katler-KsHxraM7o4k-unsplash": "The car is positioned in an urban parking area, surrounded by modern buildings. The space appears clean with concrete surfaces and a large gray building facade in the background.",
+        "martin-katler-UqtscCxs368-unsplash": "The car is centered in a parking area with painted lines, adjacent to a metal fence. The background features a large gray building with windows and industrial elements.",
+        "martin-katler-WmRpcLm8PMs-unsplash": "The car is slightly angled in an open-air parking lot, close to a metal fence. The environment is industrial with gray buildings and wired fencing in the backdrop."
+    },
+    "per_image_non_shared_edit": {
+        "martin-katler-6736qQNu0Nw-unsplash": "The car is facing forward on a path surrounded by enchanted forest elements. Sparkling fairy-tale trees with vibrant leaves line the road, with a magical ambiance enveloping the scene.",
+        "martin-katler-KsHxraM7o4k-unsplash": "The car is positioned in a whimsical setting beside a castle-like structure, surrounded by a fairytale cityscape. The space features tiled pathways and archways with fantasy elements.",
+        "martin-katler-UqtscCxs368-unsplash": "The car is centered in a charming village square with cobblestone paths and ornate fences. The background features quaint fairytale houses with colorful facades and whimsical details.",
+        "martin-katler-WmRpcLm8PMs-unsplash": "The car is slightly angled in a mystical courtyard, near a decorative wrought iron gate. The environment includes fantasy buildings and gardens with vibrant flora in the backdrop."
+    },
+    "prompt_shared": "cute girls car",
+    "prompt_theme": "fairy-tale",
+    "object_token": "car"
+}

@@ -1,0 +1,23 @@
+{
+    "src": "A cinnamon-colored chow chow dog with a thick mane-like coat, small, rounded ears, and a flat face, featuring a blue-black tongue and deep-set eyes.",
+    "edit": "A plush, knitted animal from golden brown and dark chocolate yarn. It has a fluffy mane, detailed face, yarn-stitched eyes and ears, a folded muzzle, and a navy-blue yarn tongue.",
+    "per_image_non_shared_src": {
+        "00": "An animal walks towards the camera on a narrow path through a bare forest, with ground covered in dry leaves and leafless trees, blurred background enhances the dog's fluffy coat.",
+        "01": "The animal is lying on a moss-covered rock in a forest, surrounded by fallen leaves. The trees are tall, and the ground has a layer of orange and brown leaves.",
+        "02": "The animal is resting on a wooden balcony, its paws hanging slightly over the edge, with a blurred background of glass windows.",
+        "03": "The animal is lying down in a forest setting, its head turned to the side, showing its thick mane. The ground is covered with dry leaves, and the background shows blurred tree trunks.",
+        "04": "The animal is lounging on a gray tiled patio with a glass window in the background, some foliage is faintly visible through the window.",
+        "05": "The animal is viewed from above on a lawn with scattered yellow leaves, looking off to the side with its tongue out. The green grass contrasts with the autumn leaves."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The animal moves towards the camera on a path covered in frosty leaves. Leafless trees stand against a blurred winter backdrop. The dog's fluffy coat appears dusted with snow, gleaming in the winter light.",
+        "01": "The animal lies on a snow-covered rock in a winter forest. Surrounded by snowflakes, it looks into the distance. Trees have frosty branches like lace. The dog's breath is visible, reflecting cool blues and grays.",
+        "02": "An animal rests on a snowy wooden balcony. Paws hang over the edge, blending with the winter scene. Behind, frosted glass windows glisten in the sun and soft-focus backdrop with drifting snowflakes suggest a winter wonderland.",
+        "03": "An animal lying down in a wintry forest, head turned to the side, showing a thick mane with frost. The snowy ground has icy patches. Blurred tree trunks with shimmering ice appear in the background.",
+        "04": "The animal lounges on a snowy patio with a frosted glass window behind, surrounded by grayish-white snow-covered tiles and faint evergreen branches visible through the window.",
+        "05": "An animal is seen from above on a snow-covered landscape with icy blue shadows. Its tongue hangs out as it looks into the distance, creating a serene winter scene."
+    },
+    "prompt_shared": "an animal knitted from a two-colored yarn",
+    "prompt_theme": "winter",
+    "object_token": "animal"
+}

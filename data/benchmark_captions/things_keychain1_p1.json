@@ -1,0 +1,21 @@
+{
+    "src": "A keychain featuring a chibi character with spiky yellow hair and robotic arms, wearing a dark outfit. Next to the figure is a black tag with bold red text.",
+    "edit": "A keychain with a chibi princess, having a sparkling tiara and flowing gown, vibrant hues of pink and gold. Beside her is a pastel-colored tag with elegant cursive text.",
+    "per_image_non_shared_src": {
+        "0": "The keychain is hanging from a silver hook set against an off-white wall. The text on the wall plate near the keychain adds a tactile element to the scene.",
+        "1": "The keychain is lying flat on a textured black surface. The metallic keyring and clip are clearly visible against the dark background, adding contrast.",
+        "2": "The keychain rests on a wooden surface next to two cylindrical black objects. The wood grain adds a warm, natural texture to the setting.",
+        "3": "The keychain lies on a soft, beige fabric that creates a cozy and homely background. The texture of the fabric adds a tactile, soft element to the image.",
+        "4": "The keychain hangs from a hook on a white door, casting subtle shadows. The clean, smooth surface of the door creates a simple and contemporary background."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The keychain is hanging from a silver hook set against a dreamy pastel wall. The wall has soft, swirling patterns suggestive of a fairytale ambiance.",
+        "1": "The keychain is lying flat on a textured surface transformed into a dreamy sky, with soft pastel clouds and golden hues creating an ethereal effect.",
+        "2": "The keychain rests on a surface that now appears like a shimmering lake, reflecting soft light. The setup gives a dreamy, tranquil environment.",
+        "3": "The keychain lies atop a fluffy material resembling a cloud, with a dreamy pastel palette, enhancing the enchanting atmosphere.",
+        "4": "The keychain hangs from a hook set against a door now adorned with ethereal pastel colors and dreamy patterns, suggesting a magical doorway."
+    },
+    "prompt_shared": "a keychain with a cute princess",
+    "prompt_theme": "dreamy",
+    "object_token": "object"
+}

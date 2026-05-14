@@ -1,0 +1,19 @@
+{
+    "src": "Sleek white sports car with a sharp, aerodynamic design, black side mirrors, and red brake calipers. It features black wheels and a glossy finish, adding to its streamlined appearance.",
+    "edit": "Futuristic two-colored space capsule with a sleek aerodynamic shape. Metallic white and silver body, black panels, and glowing red accents on the propulsion system, embodying advanced space technology.",
+    "per_image_non_shared_src": {
+        "martin-katler-YhzHKKAGQSk-unsplash": "The object is seen in profile from the side, emphasizing its sleek lines and red calipers. In the background, there's a large corrugated metal door in a concrete wall.",
+        "martin-katler-oAY3Fd8suw0-unsplash": "The object is positioned at a three-quarter frontal angle, displaying its sharp headlights. The industrial background features concrete walls and overhead beams.",
+        "martin-katler-sJkADRR8opQ-unsplash": "The object is angled slightly from above and the side, showcasing its streamlined body. It's set against a building with open garage-like doors and some greenery peeking through.",
+        "martin-katler-yD31-YMf15U-unsplash": "The object is viewed directly from the front. The background has concrete walls and a warehouse-like setting with stacked pallets to the side."
+    },
+    "per_image_non_shared_edit": {
+        "martin-katler-YhzHKKAGQSk-unsplash": "The object is seen in profile from the side, emphasizing its futuristic shape and red accents. The background highlights the space setting with metallic gray walls resembling a spaceship interior.",
+        "martin-katler-oAY3Fd8suw0-unsplash": "The object is positioned at a three-quarter frontal angle, displaying its illuminated panels. The background features futuristic concrete walls with high-tech beams for a spaceship feel.",
+        "martin-katler-sJkADRR8opQ-unsplash": "The object is angled slightly from above and the side, showcasing its advanced design. It is set against a space station environment with open garage-like doors and a hint of cosmic scenery.",
+        "martin-katler-yD31-YMf15U-unsplash": "The object is viewed directly from the front, embodying its high-tech appearance. The background consists of spaceship-like walls with stacks that resemble space cargo containers."
+    },
+    "prompt_shared": "two-colored space capsule",
+    "prompt_theme": "space",
+    "object_token": "car"
+}

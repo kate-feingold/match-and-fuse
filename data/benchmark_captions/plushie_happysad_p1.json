@@ -1,0 +1,25 @@
+{
+    "src": "A bright green plush octopus toy with large glossy black eyes, small pink cheek accents, and a curved smile. It has eight limbs with turquoise edges, made of soft, fuzzy fabric.",
+    "edit": "A vibrant plush flower toy with large glossy black eyes, small pink cheek accents, and a curved smile. It has petal-like extensions in radiant colors and a soft, fuzzy texture.",
+    "per_image_non_shared_src": {
+        "0": "The object sits on a wooden shelf, facing forward. Behind it, a lime green wall and part of a blue doorframe are visible. On the shelf, there are some household items and a roll of tape beside the object.",
+        "1": "The object is placed on a digital scale, looking forward. Behind it, a light green wall and a silver appliance are visible. The scale is on a black countertop, and the scene has bright lighting.",
+        "2": "The object is centered on a smooth, dark surface against a plain light wall. There are no visible surrounding objects, making the scene minimalistic and focused.",
+        "3": "The object rests on the arm of an orange office chair, facing forward. The background includes a grey carpeted floor and orange chair back, creating a vibrant office setting.",
+        "4": "The object is positioned on a textured wooden table, looking directly forward. The background includes office items like a keyboard, a monitor stand, and some papers scattered.",
+        "5": "The object is on a light wooden desk with a black charging cable and a white tech gadget nearby. A softly lit office environment surrounds, with focus on the desk area.",
+        "6": "The object leans against an ornately patterned orange box on a grey table. The scene includes scattered office papers and small items around the edges."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object sits on a wooden shelf, facing forward. The background transforms into a kids room with colorful walls and playful decorations, retaining a cozy, imaginative feel.",
+        "1": "The object is placed on a digital scale, looking forward. The background is a kids room with whimsical patterns, vibrant wallpaper, and light-hearted touches.",
+        "2": "The object is centered on a smooth, dark surface in a kids room with bright colors and imaginative decorations, creating a lively and engaging atmosphere.",
+        "3": "The object rests on the arm of a chair, facing forward. The background is a kids room with cheerful furniture and colorful elements, maintaining an engaging and fun setting.",
+        "4": "The object is on a textured wooden table, looking forward. The background is a kids room with toys, animated wall decor, and a playful environment.",
+        "5": "The object is on a light wooden desk beside playful gadgets. The background is a kids room with colorful decorations and engaging toys, breathing life into the scene.",
+        "6": "The object leans against a colorful box on a grey table in a kids room filled with vivid patterns, playful posters, and a vibrant setting."
+    },
+    "prompt_shared": "a flower toy",
+    "prompt_theme": "kids room",
+    "object_token": "plushie"
+}

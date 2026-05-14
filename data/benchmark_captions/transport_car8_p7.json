@@ -1,0 +1,21 @@
+{
+    "src": "Sleek sports car with metallic blue body, aerodynamic enhancements, wide grille, LED headlights, large alloy wheels. Smooth curved doors, racing spoiler, quad exhausts. Streamlined design with precise engineering details.",
+    "edit": "A sports car with a two-tone exterior, in electric orange and deep metallic purple. It has sharp curves, a rear spoiler, chrome alloy wheels, an elaborate grill with an emblem, and adaptive headlights.",
+    "per_image_non_shared_src": {
+        "martin-katler-BAp-S2Ksn18-unsplash": "The object is viewed from the rear on a smooth concrete surface, with a high wall on the left, a cloudy sky background, and industrial buildings in the distance.",
+        "martin-katler-MeaLI-A_Zjw-unsplash": "the object is positioned at an angle, showing front and side on a concrete path, framed by high grey walls, with foliage in the distance and an industrial complex.",
+        "martin-katler-PAD3RjjEb7M-unsplash": "The object is angled, showcasing its front, on a concrete stretch with grey walls, beneath a cloudy sky.",
+        "martin-katler-WEPVJzK9xn8-unsplash": "The object is viewed from above, showing its top and rear, on a rooftop parking area with metallic railings and urban structures in the background.",
+        "martin-katler-quVwaNGVebk-unsplash": "The object in a close-up from the front corner, highlighting detailed front design elements, centered against a concrete wall backdrop."
+    },
+    "per_image_non_shared_edit": {
+        "martin-katler-BAp-S2Ksn18-unsplash": "The object is viewed from the rear on a concrete surface, with long shadows from a sunset. A high wall on the left is lit by amber light. The sky is orange and pink with industrial buildings in the distance.",
+        "martin-katler-MeaLI-A_Zjw-unsplash": "The object is at an angle, highlighted by sunset hues, casting shadows on the concrete path. High grey walls show stony texture. Distant foliage glows amber, contrasting with the industrial complex, where metallic surfaces gleam under the sunset.",
+        "martin-katler-PAD3RjjEb7M-unsplash": "The object is slightly angled, showcasing its front, on a concrete stretch with golden hues. Grey walls have an orange glow, and the sky has gradients of pink, orange, and purple.",
+        "martin-katler-WEPVJzK9xn8-unsplash": "The object is viewed from above, displaying its top and rear on an open rooftop parking area. Metallic railings glow in the sunset. Urban structures are silhouetted against an orange, pink, and purple sky.",
+        "martin-katler-quVwaNGVebk-unsplash": "The object is in a close-up view from the front corner, highlighting intricate front design, bathed in golden hues against a concrete wall that reflects the sunset's colors."
+    },
+    "prompt_shared": "two-colored luxury sports car",
+    "prompt_theme": "sunset",
+    "object_token": "car"
+}

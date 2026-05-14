@@ -1,0 +1,21 @@
+{
+    "src": "A brown teddy bear with soft plush fur, left hand up, right hand on the leg. It has creamy round paws, a stitched smile, a blue ice pack on its head, and a patch on its chest reading \"Get Well\".",
+    "edit": "A charming teddy bear with rich brown fur in a Pixar animation style. The left hand glows, and the right hand rests on the leg. It has intricate creamy paws, a bright blue ice pack on its head, and a patch with \"Get Well\" on its chest.",
+    "per_image_non_shared_src": {
+        "00": "The object is on a large textured rock outdoors, surrounded by green foliage and a paved pathway, with another big rock in the back on the left, captured from a right side angle.",
+        "01": "The object is on a smooth concrete surface beside a gently flowing river, with a grassy backdrop, viewed from a lower angle, highlighting the rippling water and scattered green leaves.",
+        "02": "The object sits on an asphalt road with worn markings, viewed from the front and slightly left. The road stretches behind with faint tire imprints and a slope to the right.",
+        "03": "The object rests on vibrant green park grass, rotated slightly to the left, surrounded by lush grass blades with no obstruction.",
+        "04": "The object is against a brick wall on a concrete sidewalk, viewed straight on at eye level. The wall emphasizes the texture of the bricks and the smoothness of the concrete. A dry leaf is noticeable to the side."
+    },
+    "per_image_non_shared_edit": {
+        "00": "The object sits on a grand cartoonish rock in a colorful outdoor scene, surrounded by animated green foliage and a paved path. Another rock is in the backdrop on the left, viewed from an angled right viewpoint in Pixar style.",
+        "01": "The object is on a cartoon-like concrete surface beside an animated river with a grassy backdrop, viewed from a lower angle. Brightly colored green leaves are scattered around, in a lively Pixar style.",
+        "02": "The object sits on a vibrant road with bold colors and whimsical patterns, viewed from the front, slightly angled left. The road features Pixar-inspired style, playful tire imprints, a curving slope right, and clear, cartoonish markings.",
+        "03": "The object rests on vibrant, green grass like a Pixar animation. The park is surrounded by lush, cartoonish grass blades. The scene is rotated slightly left, capturing rich green hues typical of a Pixar movie, with a colorful animated view.",
+        "04": "The object sits against a vibrantly colored brick wall on a smooth concrete sidewalk. The wall is painted in Pixar's animation style. To the side, a dry leaf rests, cartoonishly vivid."
+    },
+    "prompt_shared": "Pixar teddy bear plushie",
+    "prompt_theme": "Pixar",
+    "object_token": "plushie"
+}

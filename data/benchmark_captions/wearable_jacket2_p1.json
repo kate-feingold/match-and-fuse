@@ -1,0 +1,19 @@
+{
+    "src": "A classic gray plaid blazer with black buttons, featuring a notched lapel and two front flaps. The blazer is slightly oversized, with a checkered pattern throughout, in shades of gray and subtle red lines.",
+    "edit": "A two-tone leather jacket combining sleek black and crisp white leather panels. The jacket features contrasting zippers and a tailored fit, with shiny metallic details adding a modern touch.",
+    "per_image_non_shared_src": {
+        "0": "The object is angled to the side, with one arm slightly bent, and is set against a plain white background with a light shadow on the wall.",
+        "laura-chouette-Pv3DjB4Q7nk-unsplash": "The object is captured front-facing, with both hands crossed in front, set against a plain white wall, creating a minimalist and clean atmosphere.",
+        "laura-chouette-S5xwY7iGGZo-unsplash": "The object is shown slightly angled, both arms crossed in front, against a simple white backdrop that includes the partial view of a white chair in the corner.",
+        "laura-chouette-W6N869esmYM-unsplash": "The object is in a close-up shot, both hands gripping the front edges, with a wavy hairstyle visible, set against a seamless white background."
+    },
+    "per_image_non_shared_edit": {
+        "0": "The object is angled to the side, with one arm slightly bent, set against a pink-themed background with soft pink lighting casting shadows.",
+        "laura-chouette-Pv3DjB4Q7nk-unsplash": "The object is captured front-facing, with both hands crossed in front, set against a pink background that creates a colorful and vibrant atmosphere.",
+        "laura-chouette-S5xwY7iGGZo-unsplash": "The object is shown slightly angled, both arms crossed in front, against a simple pink backdrop with a chair now appearing in a matching pink hue.",
+        "laura-chouette-W6N869esmYM-unsplash": "The object is in a close-up shot, both hands gripping the front edges, with a wavy hairstyle visible, set against a seamless pink background."
+    },
+    "prompt_shared": "two-colored leather jacket",
+    "prompt_theme": "pink",
+    "object_token": "object"
+}

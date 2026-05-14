@@ -1,0 +1,23 @@
+{
+    "src": "Knee-high boot in cream leather with fringed side detailing, pointed toe, and stacked wooden block heel.",
+    "edit": "A tall metallic-silver astronaut boot with grooves, panels, and blue glowing accents. It has side compartments, a transparent heel, and a rounded, reinforced toe, offering a futuristic, space-themed design.",
+    "per_image_non_shared_src": {
+        "00": "The boot is standing upright against a red brick wall on rough concrete pavement with visible mortar lines, occasional debris, and stains.",
+        "01": "the boot is on a stone walkway by a river, with a city skyline showing skyscrapers and buildings in the backdrop, the water reflects the overcast sky.",
+        "02": "The boot is on a sloping asphalt road with visible cracks and pebbles, a brick building in the background and construction cones at a distance.",
+        "03": "The boot is standing on vibrant, lush green grass in an open space.",
+        "04": "The boot is on a grassy area next to a tree with mottled bark, visible knots and roots, surrounded by brown earth patches among green grass.",
+        "05": "The boot is resting on a painted green wooden bench with scratches and fading paint, above a lawn with neatly trimmed grass."
+    },
+    "per_image_non_shared_edit": {
+        "00": "A sleek boot with neon hues stands upright against a futuristic red brick wall with glowing mortar lines. The roughened concrete pavement below has illuminated stains, with small pieces of debris casting shadows in the ambient glow, creating a cyberpunk scene.",
+        "01": "The boot is on a neon-lit stone walkway beside a river, with a vibrant cyberpunk city skyline and towering skyscrapers in the background. The water reflects holographic skies, with neon strips casting colorful reflections in the cyberpunk-inspired scene.",
+        "02": "A boot rests on a neon-lit asphalt road with glowing circuitry patterns and slick rain effects. Cracks have vibrant backlight; embedded LEDs in pebbles. A high-tech building with holographic graffiti is in the background. Transparent, green and purple construction cones emit glows from a distance.",
+        "03": "The boot stands on neon-tinted grass glowing with an artificial green hue, under a low-hanging digital canopy of the night sky. In the distant background, a skyline of flickering holograms enhances the cyberpunk setting.",
+        "04": "A boot on grassy plot with neon hues, beside a tree with metallic mottled bark under urban lights. Tree trunk has rough, synthetic textures and glowing knots, roots wrapped in luminous wires. LED-lit green grass on digital brown earth create cyberpunk ambiance.",
+        "05": "A sleek metallic boot with glowing circuitry patterns sits on a futuristic green bench with LED edge lights, neon-lit scratch marks, and digital fading effects. It's above a vibrant lawn with an artificial texture and pulsing neon glow, creating a cyberpunk atmosphere."
+    },
+    "prompt_shared": "cyberpunk astronaut boot ",
+    "prompt_theme": "cyberpunk",
+    "object_token": "shoes"
+}

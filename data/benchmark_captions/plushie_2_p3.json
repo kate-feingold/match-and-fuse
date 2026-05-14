@@ -1,0 +1,19 @@
+{
+    "src": "A Meowth pokemon toy sitting and waving hands, in hyper-realistic anime-inspired style. It has oversized embroidered eyes and sharply defined lines around its face and limbs.",
+    "edit": "A Meowth pokemon toy in a cyberpunk style, sitting with holographic, circuit-patterned skin and neon LED accents on its oversized eyes. Metallic tendrils as whiskers, with glowing digital seams around its face and limbs in a futuristic setting.",
+    "per_image_non_shared_src": {
+        "0": "The Pokemon is on a dark wooden table in the room corner, viewed slightly from above, with plain white walls.",
+        "1": "The Pok\u00e9mon is viewed slightly from above, placed on a white metal lattice in a room corner with plain white walls.",
+        "2": "A Pokemon is lying on a black background.",
+        "3": "The Pok\u00e9mon is viewed slightly from below, sitting on a metal stick, with one leg hanging down and one partially hidden, against a plain white background."
+    },
+    "per_image_non_shared_edit": {
+        "0": "A Pokemon, viewed from a diagonal angle, rests on a sleek, metallic surface under vivid neon lights. The room has reflective panels with digital patterns, holographic interfaces with data streams, creating a futuristic, cyberpunk setting.",
+        "1": "A futuristic pokemon illuminated by neon lights, viewed from a slightly elevated angle. It stands on a glowing, holographic metal grid in the room corner, surrounded by walls with digital circuitry patterns in iridescent purple and blue, with virtual data streams around.",
+        "2": "The Pok\u00e9mon is against a black and neon background with electric blues, purples, and greens in a cyberpunk style. It has digital patterns and illuminated circuitry. Glowing lines create a dynamic framework with light and shadow depth.",
+        "3": "The Pok\u00e9mon is in a cyberpunk fashion, with neon glows, sitting on a metallic rod. One leg hangs down showing mechanical parts, the other is obscured by a high-tech surface. The background is bright white, with blue and purple hues reflecting off."
+    },
+    "prompt_shared": "cyberpunk pokemon plushie",
+    "prompt_theme": "cyberpunk",
+    "object_token": "plushie"
+}
