@@ -9,7 +9,7 @@
 [![CVPR 2026](https://img.shields.io/badge/CVPR-2026-blue)](https://cvpr.thecvf.com/virtual/2026/poster/36587)
 [![DINO-MatchSim](https://img.shields.io/badge/pip-dino--matchsim-orange)](https://pypi.org/project/dino-matchsim/)
 
-[Kate Feingold](https://www.linkedin.com/in/katefeingold/) &nbsp;·&nbsp;
+[Kate Feingold](https://kate-feingold.github.io/) &nbsp;·&nbsp;
 [Omri Kaduri](https://omrikaduri.github.io/) &nbsp;·&nbsp;
 [Tali Dekel](https://www.weizmann.ac.il/math/dekel/home)
 
